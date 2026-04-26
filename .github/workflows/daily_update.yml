@@ -1,0 +1,33 @@
+name: Daily Frequency Update
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Her gece Türkiye saatiyle 06:00'da (UTC 03:00) çalışır
+  workflow_dispatch: # İstediğin zaman manuel çalıştırmak için buton ekler
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run Scraper
+        run: python scripts/scraper.py
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --global user.name "Github Action Bot"
+          git config --global user.email "action@github.com"
+          git add data/kanallar.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Otomatik Güncelleme: $(date +'%d.%m.%Y')" && git push)
