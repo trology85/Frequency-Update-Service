@@ -40,7 +40,7 @@ def turksat_bot():
                 
                 if not table:
                     break
-1
+
                 rows = table.find('tbody').find_all('tr')
                 if not rows:
                     break
