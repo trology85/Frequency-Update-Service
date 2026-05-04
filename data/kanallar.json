@@ -1,7 +1,7 @@
 {
-    "guncelleme_tarihi": "04.05.2026 18:20:25",
+    "guncelleme_tarihi": "04.05.2026 18:35:19",
     "uydu_adi": "Türksat 42.0°E",
-    "toplam_kanal": 773,
+    "toplam_kanal": 769,
     "kanallar": [
         {
             "kanal_adi": "KANAL 7 AVRUPA HD",
@@ -836,19 +836,6 @@
             "tur": "TV"
         },
         {
-            "kanal_adi": "TİVİBU SPOR HD",
-            "frekans": 11853,
-            "polarizasyon": "H",
-            "kapsama": "Doğu",
-            "sembol_orani": 25000,
-            "fec": "3/4",
-            "video_pid": "3801",
-            "ses_pid": "3901",
-            "uydu": "T4A",
-            "kalite": "HD",
-            "tur": "TV"
-        },
-        {
             "kanal_adi": "TİVİBU TANITIM HD",
             "frekans": 11853,
             "polarizasyon": "H",
@@ -1577,19 +1564,6 @@
             "tur": "TV"
         },
         {
-            "kanal_adi": "beIN İZ",
-            "frekans": 12072,
-            "polarizasyon": "V",
-            "kapsama": "Batı",
-            "sembol_orani": 27500,
-            "fec": "3/4",
-            "video_pid": "4962",
-            "ses_pid": "5062",
-            "uydu": "T4A",
-            "kalite": "HD",
-            "tur": "TV"
-        },
-        {
             "kanal_adi": "WITNESS EYE",
             "frekans": 12083,
             "polarizasyon": "H",
@@ -1767,19 +1741,6 @@
             "fec": "5/6",
             "video_pid": "111",
             "ses_pid": "211",
-            "uydu": "T4A",
-            "kalite": "HD",
-            "tur": "TV"
-        },
-        {
-            "kanal_adi": "NATURE ESCAPE",
-            "frekans": 12187,
-            "polarizasyon": "V",
-            "kapsama": "Batı",
-            "sembol_orani": 27500,
-            "fec": "5/6",
-            "video_pid": "108",
-            "ses_pid": "208",
             "uydu": "T4A",
             "kalite": "HD",
             "tur": "TV"
@@ -2409,19 +2370,6 @@
             "tur": "TV"
         },
         {
-            "kanal_adi": "beIN SPORTS HABER.",
-            "frekans": 12378,
-            "polarizasyon": "H",
-            "kapsama": "TR",
-            "sembol_orani": 30000,
-            "fec": "3/4",
-            "video_pid": "6420",
-            "ses_pid": "6520",
-            "uydu": "T4A",
-            "kalite": "HD",
-            "tur": "TV"
-        },
-        {
             "kanal_adi": "TV8 HD",
             "frekans": 12356,
             "polarizasyon": "H",
@@ -2976,19 +2924,6 @@
             "fec": "5/6",
             "video_pid": "4467",
             "ses_pid": "4567",
-            "uydu": "T5B",
-            "kalite": "HD",
-            "tur": "TV"
-        },
-        {
-            "kanal_adi": "beIN H&E",
-            "frekans": 11345,
-            "polarizasyon": "V",
-            "kapsama": "Batı",
-            "sembol_orani": 29750,
-            "fec": "5/6",
-            "video_pid": "4462",
-            "ses_pid": "4562",
             "uydu": "T5B",
             "kalite": "HD",
             "tur": "TV"
@@ -4957,19 +4892,6 @@
             "tur": "TV"
         },
         {
-            "kanal_adi": "RUMELİ TV",
-            "frekans": 12034,
-            "polarizasyon": "V",
-            "kapsama": "Batı",
-            "sembol_orani": 27500,
-            "fec": "5/6",
-            "video_pid": "139",
-            "ses_pid": "239",
-            "uydu": "T4A",
-            "kalite": "SD",
-            "tur": "TV"
-        },
-        {
             "kanal_adi": "CNN TÜRK",
             "frekans": 12034,
             "polarizasyon": "V",
@@ -5017,19 +4939,6 @@
             "fec": "5/6",
             "video_pid": "143",
             "ses_pid": "243",
-            "uydu": "T4A",
-            "kalite": "SD",
-            "tur": "TV"
-        },
-        {
-            "kanal_adi": "ASFTV",
-            "frekans": 12034,
-            "polarizasyon": "V",
-            "kapsama": "Batı",
-            "sembol_orani": 27500,
-            "fec": "5/6",
-            "video_pid": "105",
-            "ses_pid": "205",
             "uydu": "T4A",
             "kalite": "SD",
             "tur": "TV"
@@ -8779,19 +8688,6 @@
             "tur": "RADYO"
         },
         {
-            "kanal_adi": "TÜRKÇE POP",
-            "frekans": 12187,
-            "polarizasyon": "V",
-            "kapsama": "Batı",
-            "sembol_orani": 27500,
-            "fec": "5/6",
-            "video_pid": "108",
-            "ses_pid": "234",
-            "uydu": "T4A",
-            "kalite": "SD",
-            "tur": "RADYO"
-        },
-        {
             "kanal_adi": "DEEP BLUES",
             "frekans": 12187,
             "polarizasyon": "V",
@@ -8917,19 +8813,6 @@
             "fec": "5/6",
             "video_pid": "108",
             "ses_pid": "259",
-            "uydu": "T4A",
-            "kalite": "SD",
-            "tur": "RADYO"
-        },
-        {
-            "kanal_adi": "TURKISH SILK",
-            "frekans": 12187,
-            "polarizasyon": "V",
-            "kapsama": "Batı",
-            "sembol_orani": 27500,
-            "fec": "5/6",
-            "video_pid": "108",
-            "ses_pid": "252",
             "uydu": "T4A",
             "kalite": "SD",
             "tur": "RADYO"
@@ -10051,6 +9934,71 @@
             "uydu": "T5B",
             "kalite": "SD",
             "tur": "RADYO"
+        },
+        {
+            "kanal_adi": "UNKNOWN RUSSIA",
+            "frekans": 11012,
+            "polarizasyon": "H",
+            "kapsama": "Doğu",
+            "sembol_orani": 30000,
+            "fec": "3/4",
+            "video_pid": "1268",
+            "ses_pid": "1368",
+            "uydu": "T3A",
+            "kalite": "SD",
+            "tur": "TV"
+        },
+        {
+            "kanal_adi": "AZOOMEE",
+            "frekans": 12187,
+            "polarizasyon": "V",
+            "kapsama": "Batı",
+            "sembol_orani": 27500,
+            "fec": "5/6",
+            "video_pid": "180",
+            "ses_pid": "280",
+            "uydu": "T4A",
+            "kalite": "SD",
+            "tur": "TV"
+        },
+        {
+            "kanal_adi": "DA VINCI",
+            "frekans": 12187,
+            "polarizasyon": "V",
+            "kapsama": "Batı",
+            "sembol_orani": 27500,
+            "fec": "5/6",
+            "video_pid": "119",
+            "ses_pid": "219",
+            "uydu": "T4A",
+            "kalite": "SD",
+            "tur": "TV"
+        },
+        {
+            "kanal_adi": "UNKNOWN RUSSIA",
+            "frekans": 11727,
+            "polarizasyon": "V",
+            "kapsama": "Batı",
+            "sembol_orani": 27500,
+            "fec": "3/4",
+            "video_pid": "1218",
+            "ses_pid": "1318",
+            "uydu": "T6A",
+            "kalite": "SD",
+            "tur": "TV"
+        },
+        {
+            "kanal_adi": "UNKNOWN RUSSIA",
+            "frekans": 11746,
+            "polarizasyon": "H",
+            "kapsama": "Doğu",
+            "sembol_orani": 27500,
+            "fec": "3/4",
+            "video_pid": "2668",
+            "ses_pid": "2768",
+            "uydu": "T6A",
+            "kalite": "SD",
+            "tur": "TV"
         }
     ]
 }
