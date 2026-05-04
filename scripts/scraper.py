@@ -10,22 +10,24 @@ def turksat_bot():
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
 
-    # Gezeceğimiz filtreler ve bunların bizim sistemdeki karşılıkları
+    # Filtreleri genişletiyoruz. Boş string ("") tüm kanalları getirir.
     filtreler = {
         "HD": {"yayin": "HD", "kalite": "HD", "tur": "TV"},
         "SD": {"yayin": "SD", "kalite": "SD", "tur": "TV"},
         "4K": {"yayin": "4K", "kalite": "4K", "tur": "TV"},
-        "RD": {"yayin": "RD", "kalite": "SD", "tur": "RADYO"}
+        "RD": {"yayin": "RD", "kalite": "SD", "tur": "RADYO"},
+        "Tümü": {"yayin": "", "kalite": "SD", "tur": "TV"} # Diğer her şeyi yakalamak için
     }
 
-    tum_kanallar = []
+    # Tekrar eden kanalları önlemek için bir sözlük kullanıyoruz
+    # Key: (kanal_adi, frekans, polarizasyon)
+    kanallar_dict = {}
 
     for key, ayar in filtreler.items():
         print(f"\n>>> {key} yayınlar taranıyor...")
         page = 0
         
         while True:
-            # Senin bulduğun URL yapısını kullanıyoruz
             url = f"{base_url}?kanal=&paket=&kapsama=&uydu=&polarizasyon=&yayin={ayar['yayin']}&sifreleme=&page={page}"
             
             try:
@@ -38,7 +40,7 @@ def turksat_bot():
                 
                 if not table:
                     break
-
+1
                 rows = table.find('tbody').find_all('tr')
                 if not rows:
                     break
@@ -46,28 +48,47 @@ def turksat_bot():
                 for row in rows:
                     cols = row.find_all('td')
                     if len(cols) >= 10:
-                        kanal_verisi = {
-                            "kanal_adi": cols[1].text.strip(),
-                            "frekans": int(cols[2].text.strip().replace('.', '')),
-                            "polarizasyon": cols[3].text.strip(),
-                            "kapsama": cols[4].text.strip(),
-                            "sembol_orani": int(cols[5].text.strip().replace('.', '')),
-                            "fec": cols[6].text.strip(),
-                            "video_pid": cols[7].text.strip(),
-                            "ses_pid": cols[8].text.strip(),
-                            "uydu": cols[9].text.strip(),
-                            "kalite": ayar['kalite'],
-                            "tur": ayar['tur']
-                        }
-                        tum_kanallar.append(kanal_verisi)
+                        name = cols[1].text.strip()
+                        freq = cols[2].text.strip().replace('.', '')
+                        pol = cols[3].text.strip()
+                        
+                        # Benzersiz bir anahtar oluşturuyoruz
+                        kanal_key = f"{name}_{freq}_{pol}"
+                        
+                        # Eğer bu kanal daha önce (örneğin HD filtresinde) eklenmediyse ekle
+                        if kanal_key not in kanallar_dict:
+                            # Kalite tahmini (Eğer isimde HD geçiyorsa HD yap)
+                            final_kalite = ayar['kalite']
+                            if "HD" in name.upper() and key == "Tümü":
+                                final_kalite = "HD"
+                            elif "4K" in name.upper() and key == "Tümü":
+                                final_kalite = "4K"
+
+                            kanal_verisi = {
+                                "kanal_adi": name,
+                                "frekans": int(freq),
+                                "polarizasyon": pol,
+                                "kapsama": cols[4].text.strip(),
+                                "sembol_orani": int(cols[5].text.strip().replace('.', '')),
+                                "fec": cols[6].text.strip(),
+                                "video_pid": cols[7].text.strip(),
+                                "ses_pid": cols[8].text.strip(),
+                                "uydu": cols[9].text.strip(),
+                                "kalite": final_kalite,
+                                "tur": ayar['tur']
+                            }
+                            kanallar_dict[kanal_key] = kanal_verisi
 
                 print(f"Sayfa {page + 1} tamamlandı...")
                 page += 1
-                time.sleep(1.5) # Siteyi yormadan seri ilerliyoruz
+                time.sleep(1)
 
             except Exception as e:
                 print(f"Hata: {e}")
                 break
+
+    # Sözlükteki değerleri listeye çeviriyoruz
+    tum_kanallar = list(kanallar_dict.values())
 
     # Veriyi hazırlıyoruz
     final_data = {
@@ -77,11 +98,10 @@ def turksat_bot():
         "kanallar": tum_kanallar
     }
 
-    # JSON olarak kaydetme (data klasörünün var olduğunu varsayıyoruz)
     with open('data/kanallar.json', 'w', encoding='utf-8') as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
 
-    print(f"\nİşlem Başarılı! {len(tum_kanallar)} kanal 'data/kanallar.json' dosyasına kaydedildi.")
+    print(f"\nİşlem Başarılı! {len(tum_kanallar)} benzersiz kanal kaydedildi.")
 
 if __name__ == "__main__":
     turksat_bot()
