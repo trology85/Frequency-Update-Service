@@ -1,7 +1,7 @@
 {
-    "guncelleme_tarihi": "09.05.2026 15:55:34",
+    "guncelleme_tarihi": "10.05.2026 06:14:41",
     "uydu_adi": "Türksat 42.0°E",
-    "toplam_kanal": 765,
+    "toplam_kanal": 767,
     "kanallar": [
         {
             "kanal_adi": "HALK TV HD",
@@ -9945,6 +9945,32 @@
             "video_pid": "1254",
             "ses_pid": "1354",
             "uydu": "T3A",
+            "kalite": "SD",
+            "tur": "TV"
+        },
+        {
+            "kanal_adi": "YILDIZ EN",
+            "frekans": 12422,
+            "polarizasyon": "V",
+            "kapsama": "Batı",
+            "sembol_orani": 27500,
+            "fec": "3/4",
+            "video_pid": "5112",
+            "ses_pid": "5212",
+            "uydu": "T4A",
+            "kalite": "SD",
+            "tur": "TV"
+        },
+        {
+            "kanal_adi": "HALK TV",
+            "frekans": 12422,
+            "polarizasyon": "V",
+            "kapsama": "Batı",
+            "sembol_orani": 27500,
+            "fec": "3/4",
+            "video_pid": "5100",
+            "ses_pid": "5200",
+            "uydu": "T4A",
             "kalite": "SD",
             "tur": "TV"
         }
