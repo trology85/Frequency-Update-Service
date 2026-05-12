@@ -2,8 +2,11 @@ name: Daily Frequency Update
 
 on:
   schedule:
-    - cron: '0 3,15 * * *' # Günde 2 kez: Türkiye saatiyle 06:00 ve 18:00'de çalışır
-  workflow_dispatch: # İstediğin zaman manuel çalıştırmak için buton ekler
+    - cron: '0 3,15 * * *' # Günde 2 kez: Türkiye saatiyle yaklaşık 06:00 ve 18:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -16,18 +19,38 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
 
       - name: Install Dependencies
         run: |
           pip install requests beautifulsoup4
 
-      - name: Run Scraper
+      - name: Run Scraper Candidate
         run: python scripts/scraper.py
 
-      - name: Commit and Push if Changed
+      - name: Validate Candidate Data
+        id: validate
+        run: |
+          python scripts/validator.py
+          cat data/update_result.env
+          source data/update_result.env
+          echo "should_publish=$SHOULD_PUBLISH" >> "$GITHUB_OUTPUT"
+          echo "status=$VALIDATION_STATUS" >> "$GITHUB_OUTPUT"
+
+      - name: Upload Validation Reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: frequency-validation-${{ steps.validate.outputs.status }}
+          path: |
+            data/kanallar_candidate.json
+            data/diff_report.json
+            data/validation_result.json
+          if-no-files-found: ignore
+
+      - name: Commit and Push Approved Data
+        if: steps.validate.outputs.should_publish == 'true'
         run: |
           git config --global user.name "Github Action Bot"
           git config --global user.email "action@github.com"
-          git add data/kanallar.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Otomatik Güncelleme: $(date +'%d.%m.%Y %H:%M')" && git push)
+          git add data/kanallar.json data/kanallar_previous.json data/diff_report.json data/validation_result.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Onaylı Frekans Güncellemesi: $(date +'%d.%m.%Y %H:%M')" && git push)
