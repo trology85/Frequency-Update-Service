@@ -1,8 +1,8 @@
 {
     "veri_surumu": 2,
-    "guncelleme_tarihi": "13.05.2026 17:17:02",
+    "guncelleme_tarihi": "14.05.2026 17:02:52",
     "uydu_adi": "Türksat 42.0°E",
-    "toplam_kanal": 761,
+    "toplam_kanal": 766,
     "toplam_tp": 58,
     "transponderler": [
         {
@@ -385,8 +385,8 @@
             "fec": "5/6",
             "uydu": "T4A",
             "kapsama": "Batı",
-            "kanal_sayisi": 65,
-            "tv_sayisi": 19,
+            "kanal_sayisi": 69,
+            "tv_sayisi": 23,
             "radyo_sayisi": 46
         },
         {
@@ -589,8 +589,8 @@
             "fec": "3/4",
             "uydu": "T4A",
             "kapsama": "Batı",
-            "kanal_sayisi": 8,
-            "tv_sayisi": 5,
+            "kanal_sayisi": 9,
+            "tv_sayisi": 6,
             "radyo_sayisi": 3
         },
         {
@@ -6472,6 +6472,20 @@
             "kapsama": "Batı"
         },
         {
+            "kanal_adi": "COOL JAZZ",
+            "frekans": 12187,
+            "polarizasyon": "V",
+            "sembol_orani": 27500,
+            "fec": "5/6",
+            "video_pid": "108",
+            "ses_pid": "230",
+            "uydu": "T4A",
+            "kalite": "SD",
+            "tur": "TV",
+            "tp_id": "12187_V_27500",
+            "kapsama": "Batı"
+        },
+        {
             "kanal_adi": "COSMOSPORTS",
             "frekans": 12187,
             "polarizasyon": "V",
@@ -6510,6 +6524,20 @@
             "uydu": "T4A",
             "kalite": "SD",
             "tur": "RADYO",
+            "tp_id": "12187_V_27500",
+            "kapsama": "Batı"
+        },
+        {
+            "kanal_adi": "DANCEFLOOR FILLERS",
+            "frekans": 12187,
+            "polarizasyon": "V",
+            "sembol_orani": 27500,
+            "fec": "5/6",
+            "video_pid": "126",
+            "ses_pid": "226",
+            "uydu": "T4A",
+            "kalite": "SD",
+            "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
         },
@@ -6962,6 +6990,20 @@
             "kapsama": "Batı"
         },
         {
+            "kanal_adi": "ROMANCE LATINO",
+            "frekans": 12187,
+            "polarizasyon": "V",
+            "sembol_orani": 27500,
+            "fec": "5/6",
+            "video_pid": "108",
+            "ses_pid": "255",
+            "uydu": "T4A",
+            "kalite": "SD",
+            "tur": "TV",
+            "tp_id": "12187_V_27500",
+            "kapsama": "Batı"
+        },
+        {
             "kanal_adi": "SILK (LOVE SONGS)",
             "frekans": 12187,
             "polarizasyon": "V",
@@ -7028,6 +7070,20 @@
             "uydu": "T4A",
             "kalite": "SD",
             "tur": "RADYO",
+            "tp_id": "12187_V_27500",
+            "kapsama": "Batı"
+        },
+        {
+            "kanal_adi": "THE CHILL LOUNGE",
+            "frekans": 12187,
+            "polarizasyon": "V",
+            "sembol_orani": 27500,
+            "fec": "5/6",
+            "video_pid": "108",
+            "ses_pid": "243",
+            "uydu": "T4A",
+            "kalite": "SD",
+            "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
         },
@@ -8904,6 +8960,20 @@
             "uydu": "T4A",
             "kalite": "SD",
             "tur": "RADYO",
+            "tp_id": "12422_V_27500",
+            "kapsama": "Batı"
+        },
+        {
+            "kanal_adi": "YILDIZ EN",
+            "frekans": 12422,
+            "polarizasyon": "V",
+            "sembol_orani": 27500,
+            "fec": "3/4",
+            "video_pid": "5112",
+            "ses_pid": "5212",
+            "uydu": "T4A",
+            "kalite": "SD",
+            "tur": "TV",
             "tp_id": "12422_V_27500",
             "kapsama": "Batı"
         },
