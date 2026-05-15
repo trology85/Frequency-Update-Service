@@ -1,6 +1,6 @@
 {
     "veri_surumu": 2,
-    "guncelleme_tarihi": "14.05.2026 17:02:52",
+    "guncelleme_tarihi": "15.05.2026 16:53:29",
     "uydu_adi": "Türksat 42.0°E",
     "toplam_kanal": 766,
     "toplam_tp": 58,
@@ -386,8 +386,8 @@
             "uydu": "T4A",
             "kapsama": "Batı",
             "kanal_sayisi": 69,
-            "tv_sayisi": 23,
-            "radyo_sayisi": 46
+            "tv_sayisi": 19,
+            "radyo_sayisi": 50
         },
         {
             "tp_id": "12196_H_10400",
@@ -6481,7 +6481,7 @@
             "ses_pid": "230",
             "uydu": "T4A",
             "kalite": "SD",
-            "tur": "TV",
+            "tur": "RADYO",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
         },
@@ -6537,7 +6537,7 @@
             "ses_pid": "226",
             "uydu": "T4A",
             "kalite": "SD",
-            "tur": "TV",
+            "tur": "RADYO",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
         },
@@ -6999,7 +6999,7 @@
             "ses_pid": "255",
             "uydu": "T4A",
             "kalite": "SD",
-            "tur": "TV",
+            "tur": "RADYO",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
         },
@@ -7083,7 +7083,7 @@
             "ses_pid": "243",
             "uydu": "T4A",
             "kalite": "SD",
-            "tur": "TV",
+            "tur": "RADYO",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
         },
