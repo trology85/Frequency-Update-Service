@@ -1,101 +1,37 @@
 {
-    "checked_at": "15.05.2026 16:53:29",
+    "checked_at": "21.05.2026 17:32:37",
     "status": "published",
     "safe": true,
     "errors": [],
     "warnings": [],
-    "old_signature": "70f863828531c58ed98a6c4daff836fca851ad0c3152de824c6282cc9f84c16b",
-    "new_signature": "d8900649d82fbefc10bb130edfae92a4857aa9cb6c6c91aa69d482fb05fa716f",
+    "old_signature": "d8900649d82fbefc10bb130edfae92a4857aa9cb6c6c91aa69d482fb05fa716f",
+    "new_signature": "da02046e08a2bcc04b702bd8c59674e9982983bae8e7f3e7ebd861a454785faa",
     "diff": {
-        "added_channels": [],
-        "removed_channels": [],
-        "technical_changes": [
+        "added_channels": [
             {
-                "kanal_adi": "COOL JAZZ",
-                "changes": {
-                    "tur": {
-                        "old": "TV",
-                        "new": "RADYO"
-                    }
-                }
-            },
-            {
-                "kanal_adi": "DANCEFLOOR FILLERS",
-                "changes": {
-                    "tur": {
-                        "old": "TV",
-                        "new": "RADYO"
-                    }
-                }
-            },
-            {
-                "kanal_adi": "ROMANCE LATINO",
-                "changes": {
-                    "tur": {
-                        "old": "TV",
-                        "new": "RADYO"
-                    }
-                }
-            },
-            {
-                "kanal_adi": "THE CHILL LOUNGE",
-                "changes": {
-                    "tur": {
-                        "old": "TV",
-                        "new": "RADYO"
-                    }
-                }
+                "kanal_adi": "SERCEM TV",
+                "frekans": 12344,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12344_V_30000"
             }
         ],
+        "removed_channels": [],
+        "technical_changes": [],
         "added_transponders": [],
         "removed_transponders": [],
-        "type_changes": [
-            {
-                "kanal_adi": "COOL JAZZ",
-                "changes": {
-                    "tur": {
-                        "old": "TV",
-                        "new": "RADYO"
-                    }
-                }
-            },
-            {
-                "kanal_adi": "DANCEFLOOR FILLERS",
-                "changes": {
-                    "tur": {
-                        "old": "TV",
-                        "new": "RADYO"
-                    }
-                }
-            },
-            {
-                "kanal_adi": "ROMANCE LATINO",
-                "changes": {
-                    "tur": {
-                        "old": "TV",
-                        "new": "RADYO"
-                    }
-                }
-            },
-            {
-                "kanal_adi": "THE CHILL LOUNGE",
-                "changes": {
-                    "tur": {
-                        "old": "TV",
-                        "new": "RADYO"
-                    }
-                }
-            }
-        ],
+        "type_changes": [],
         "summary": {
             "old_channel_count": 766,
-            "new_channel_count": 766,
+            "new_channel_count": 767,
             "old_tp_count": 58,
             "new_tp_count": 58,
-            "old_radio_count": 212,
+            "old_radio_count": 216,
             "new_radio_count": 216,
-            "old_tv_count": 554,
-            "new_tv_count": 550
+            "old_tv_count": 550,
+            "new_tv_count": 551
         }
     }
 }
