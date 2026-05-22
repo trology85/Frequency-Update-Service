@@ -1,36 +1,36 @@
 {
-    "checked_at": "21.05.2026 17:32:37",
+    "checked_at": "22.05.2026 17:11:00",
     "status": "published",
     "safe": true,
     "errors": [],
     "warnings": [],
-    "old_signature": "d8900649d82fbefc10bb130edfae92a4857aa9cb6c6c91aa69d482fb05fa716f",
-    "new_signature": "da02046e08a2bcc04b702bd8c59674e9982983bae8e7f3e7ebd861a454785faa",
+    "old_signature": "da02046e08a2bcc04b702bd8c59674e9982983bae8e7f3e7ebd861a454785faa",
+    "new_signature": "f3d782501bc0b5e68489eb70420a550a5b3db9229a9aba05b266cf46d95fecba",
     "diff": {
-        "added_channels": [
+        "added_channels": [],
+        "removed_channels": [],
+        "technical_changes": [
             {
-                "kanal_adi": "SERCEM TV",
-                "frekans": 12344,
-                "polarizasyon": "V",
-                "sembol_orani": 30000,
-                "tur": "TV",
-                "kalite": "HD",
-                "tp_id": "12344_V_30000"
+                "kanal_adi": "EGEMAX TV",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "HD"
+                    }
+                }
             }
         ],
-        "removed_channels": [],
-        "technical_changes": [],
         "added_transponders": [],
         "removed_transponders": [],
         "type_changes": [],
         "summary": {
-            "old_channel_count": 766,
+            "old_channel_count": 767,
             "new_channel_count": 767,
             "old_tp_count": 58,
             "new_tp_count": 58,
             "old_radio_count": 216,
             "new_radio_count": 216,
-            "old_tv_count": 550,
+            "old_tv_count": 551,
             "new_tv_count": 551
         }
     }
