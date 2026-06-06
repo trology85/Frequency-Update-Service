@@ -1,11 +1,11 @@
 {
-    "checked_at": "01.06.2026 19:56:39",
+    "checked_at": "06.06.2026 16:06:45",
     "status": "published",
     "safe": true,
     "errors": [],
     "warnings": [],
-    "old_signature": "ace1e6a55e885c02f9e5dec680238196ff6c7dd59c3c16ce9256feaf8a4754e9",
-    "new_signature": "f3d782501bc0b5e68489eb70420a550a5b3db9229a9aba05b266cf46d95fecba",
+    "old_signature": "f3d782501bc0b5e68489eb70420a550a5b3db9229a9aba05b266cf46d95fecba",
+    "new_signature": "a699738a73e34e8604c10d68b9c7a796d0a65a96eadadd395baf9c12a4363348",
     "diff": {
         "added_channels": [],
         "removed_channels": [],
@@ -14,8 +14,8 @@
                 "kanal_adi": "A HABER.",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -23,8 +23,8 @@
                 "kanal_adi": "BABY TV",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -32,8 +32,8 @@
                 "kanal_adi": "BABY TV",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -41,8 +41,8 @@
                 "kanal_adi": "DISNEY JUNIOR",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -50,8 +50,8 @@
                 "kanal_adi": "0 SIFIR TV",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -59,8 +59,8 @@
                 "kanal_adi": "9XM",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -68,8 +68,8 @@
                 "kanal_adi": "ABC",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -77,8 +77,8 @@
                 "kanal_adi": "AL JAZEERA CHANNEL",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -86,8 +86,8 @@
                 "kanal_adi": "AL JAZEERA.",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -95,8 +95,8 @@
                 "kanal_adi": "AL QURAN AL KAREEM TV.",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -104,8 +104,8 @@
                 "kanal_adi": "AL SUNNAH AL NABAWIYAH TV.",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -113,8 +113,8 @@
                 "kanal_adi": "ALİKHBARİA TV",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -122,8 +122,8 @@
                 "kanal_adi": "ARIRANG",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -131,8 +131,8 @@
                 "kanal_adi": "ASIA TV",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -140,8 +140,8 @@
                 "kanal_adi": "AS",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -149,8 +149,8 @@
                 "kanal_adi": "ATV AVRUPA",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -158,8 +158,8 @@
                 "kanal_adi": "AZOOMEE",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -167,8 +167,8 @@
                 "kanal_adi": "B4U MOVIES",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -176,8 +176,8 @@
                 "kanal_adi": "BBC WORLD NEWS",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -185,8 +185,8 @@
                 "kanal_adi": "beIN BOXOFFICE",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -194,8 +194,8 @@
                 "kanal_adi": "beIN GURME",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -203,8 +203,8 @@
                 "kanal_adi": "beIN H&E",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -212,8 +212,8 @@
                 "kanal_adi": "beIN İZ",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -221,8 +221,8 @@
                 "kanal_adi": "beIN MOVIES PREMIERE 2",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -230,8 +230,8 @@
                 "kanal_adi": "beIN MOVIES PREMIERE",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -239,8 +239,8 @@
                 "kanal_adi": "beIN MOVIES STARS",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -248,8 +248,8 @@
                 "kanal_adi": "beIN MOVIES TURK",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -257,8 +257,8 @@
                 "kanal_adi": "beIN SERIES 1",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -266,8 +266,8 @@
                 "kanal_adi": "bEIN SERIES 2",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -275,8 +275,8 @@
                 "kanal_adi": "beIN SPORTS 1",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -284,8 +284,8 @@
                 "kanal_adi": "beIN SPORTS 2",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -293,8 +293,8 @@
                 "kanal_adi": "beIN SPORTS 3",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -302,8 +302,8 @@
                 "kanal_adi": "beIN SPORTS 4",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -311,8 +311,8 @@
                 "kanal_adi": "beIN SPORTS 5",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -320,8 +320,8 @@
                 "kanal_adi": "beIN SPORTS HABER.",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -329,8 +329,8 @@
                 "kanal_adi": "beIN SPORTS INTERNATIONAL TICARI",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -338,8 +338,8 @@
                 "kanal_adi": "beIN SPORTS INTERNATIONAL",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -347,8 +347,8 @@
                 "kanal_adi": "beIN SPORTS MAX 1",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -356,8 +356,8 @@
                 "kanal_adi": "beIN SPORTS MAX2",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -365,8 +365,8 @@
                 "kanal_adi": "beIN",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -374,8 +374,8 @@
                 "kanal_adi": "Bİ KANAL",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -383,8 +383,8 @@
                 "kanal_adi": "BUDDHIST",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -392,8 +392,8 @@
                 "kanal_adi": "CARTOONITO",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -401,8 +401,8 @@
                 "kanal_adi": "CEM TV.",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -410,8 +410,8 @@
                 "kanal_adi": "CGTN",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -419,8 +419,8 @@
                 "kanal_adi": "CNBC-e",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -428,8 +428,8 @@
                 "kanal_adi": "CNN INTERNATIONAL",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -437,8 +437,8 @@
                 "kanal_adi": "COSMO EN",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -446,8 +446,8 @@
                 "kanal_adi": "COSMOSPORTS",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -455,8 +455,8 @@
                 "kanal_adi": "DA VINCI",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -464,8 +464,8 @@
                 "kanal_adi": "DASATHA",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -473,8 +473,8 @@
                 "kanal_adi": "DD SPORTS",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -482,8 +482,8 @@
                 "kanal_adi": "DERANA 24",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -491,8 +491,8 @@
                 "kanal_adi": "DERANA",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -500,8 +500,8 @@
                 "kanal_adi": "DİZİ PREMIUM",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -509,8 +509,8 @@
                 "kanal_adi": "DİZİ SMART MAX",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -518,8 +518,8 @@
                 "kanal_adi": "DOCUSCREEN",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -527,8 +527,8 @@
                 "kanal_adi": "DW",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -536,8 +536,8 @@
                 "kanal_adi": "EKOL SPORTS",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -545,8 +545,8 @@
                 "kanal_adi": "EPIC DRAMA",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -554,8 +554,8 @@
                 "kanal_adi": "EURO NEWS",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -563,8 +563,8 @@
                 "kanal_adi": "EUROSPORT 1",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -572,8 +572,8 @@
                 "kanal_adi": "FASHION TV",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -581,8 +581,8 @@
                 "kanal_adi": "FASHION TV",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -590,8 +590,8 @@
                 "kanal_adi": "FILMSCREEN",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -599,8 +599,8 @@
                 "kanal_adi": "FRANCE 24",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -608,8 +608,8 @@
                 "kanal_adi": "FREESAT 39",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -617,8 +617,8 @@
                 "kanal_adi": "FREESAT ONE",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -626,8 +626,17 @@
                 "kanal_adi": "GRT.",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "GZT",
+                "changes": {
+                    "kalite": {
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -635,8 +644,8 @@
                 "kanal_adi": "HIRU",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -644,8 +653,8 @@
                 "kanal_adi": "HITZ",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -653,8 +662,8 @@
                 "kanal_adi": "HT SPOR",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -662,8 +671,8 @@
                 "kanal_adi": "İLKE TV",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -671,8 +680,8 @@
                 "kanal_adi": "ITN",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -680,8 +689,8 @@
                 "kanal_adi": "ITV",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -689,8 +698,8 @@
                 "kanal_adi": "KANAL 1",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -698,8 +707,8 @@
                 "kanal_adi": "KBS KOREA",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -707,8 +716,8 @@
                 "kanal_adi": "KBS WORLD",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -716,8 +725,8 @@
                 "kanal_adi": "LOVE NATURE",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -725,8 +734,8 @@
                 "kanal_adi": "MEDITATION",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -734,8 +743,8 @@
                 "kanal_adi": "MOONBUG",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -743,8 +752,8 @@
                 "kanal_adi": "MOVIE CLASSIC",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -752,8 +761,8 @@
                 "kanal_adi": "MOVIE TÜRK",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -761,8 +770,8 @@
                 "kanal_adi": "NATURE ESCAPE",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -770,8 +779,8 @@
                 "kanal_adi": "NETHRA",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -779,8 +788,8 @@
                 "kanal_adi": "NHK",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -788,8 +797,8 @@
                 "kanal_adi": "NICK JR.",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -797,8 +806,8 @@
                 "kanal_adi": "NICKTOONS",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -806,8 +815,8 @@
                 "kanal_adi": "RANGIRI",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -815,8 +824,8 @@
                 "kanal_adi": "RT.",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -824,8 +833,8 @@
                 "kanal_adi": "RUPAVAHINI",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -833,8 +842,8 @@
                 "kanal_adi": "S SPORT",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -842,8 +851,8 @@
                 "kanal_adi": "SADDAMAVAHINI",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -851,8 +860,8 @@
                 "kanal_adi": "SERCEM TV",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -860,8 +869,8 @@
                 "kanal_adi": "SHAKTHI",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -869,8 +878,8 @@
                 "kanal_adi": "SHRADDA",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -878,8 +887,8 @@
                 "kanal_adi": "SIRASA",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -887,8 +896,8 @@
                 "kanal_adi": "SIYATHA",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -896,8 +905,8 @@
                 "kanal_adi": "SPOR SMART",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -905,8 +914,8 @@
                 "kanal_adi": "SPORSMART 2",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -914,8 +923,8 @@
                 "kanal_adi": "SPORTSTV",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -923,8 +932,8 @@
                 "kanal_adi": "STAR TAMIL",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -932,8 +941,8 @@
                 "kanal_adi": "SUPREME",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -941,17 +950,8 @@
                 "kanal_adi": "SWARNAVAHINI",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
-                    }
-                }
-            },
-            {
-                "kanal_adi": "SZC",
-                "changes": {
-                    "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -959,8 +959,8 @@
                 "kanal_adi": "T.A.Y. TV",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -968,8 +968,8 @@
                 "kanal_adi": "TALENT TV",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -977,8 +977,8 @@
                 "kanal_adi": "TARAFTAR 2",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -986,8 +986,8 @@
                 "kanal_adi": "TARAFTAR 3",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -995,8 +995,8 @@
                 "kanal_adi": "TARAFTAR",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1004,8 +1004,8 @@
                 "kanal_adi": "TELENEWS",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1013,8 +1013,8 @@
                 "kanal_adi": "THREEVISION",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1022,8 +1022,8 @@
                 "kanal_adi": "TİCARİ beIN SPORTS 1",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1031,8 +1031,8 @@
                 "kanal_adi": "TİCARİ beIN SPORTS 2",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1040,8 +1040,8 @@
                 "kanal_adi": "TİCARİ beIN SPORTS 3",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1049,8 +1049,8 @@
                 "kanal_adi": "TİCARİ beIN SPORTS 4",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1058,8 +1058,8 @@
                 "kanal_adi": "TİCARİ beIN SPORTS 5",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1067,8 +1067,8 @@
                 "kanal_adi": "TRT 3 SPOR",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1076,8 +1076,8 @@
                 "kanal_adi": "TRT SPOR YILDIZ",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1085,8 +1085,8 @@
                 "kanal_adi": "TV1",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1094,8 +1094,8 @@
                 "kanal_adi": "TV5 MONDE",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1103,8 +1103,8 @@
                 "kanal_adi": "TYT TÜRK",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1112,8 +1112,8 @@
                 "kanal_adi": "VASANTHAM",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1121,8 +1121,8 @@
                 "kanal_adi": "VAV TV",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1130,8 +1130,8 @@
                 "kanal_adi": "VERBUM",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1139,8 +1139,8 @@
                 "kanal_adi": "VIASAT HISTORY",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1148,8 +1148,8 @@
                 "kanal_adi": "WION",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1157,8 +1157,8 @@
                 "kanal_adi": "WITNESS EYE",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1166,8 +1166,8 @@
                 "kanal_adi": "WITNESS EYE",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             },
@@ -1175,8 +1175,8 @@
                 "kanal_adi": "ŞÖMİNE KEYFİ",
                 "changes": {
                     "kalite": {
-                        "old": "SD",
-                        "new": "HD"
+                        "old": "HD",
+                        "new": "SD"
                     }
                 }
             }
