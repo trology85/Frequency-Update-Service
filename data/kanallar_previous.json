@@ -1,6 +1,6 @@
 {
     "veri_surumu": 2,
-    "guncelleme_tarihi": "01.06.2026 19:56:39",
+    "guncelleme_tarihi": "06.06.2026 16:06:45",
     "uydu_adi": "Türksat 42.0°E",
     "toplam_kanal": 767,
     "toplam_tp": 58,
@@ -1678,7 +1678,7 @@
             "video_pid": "3630",
             "ses_pid": "3730",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11265_V_30000",
             "kapsama": "Batı"
@@ -1706,7 +1706,7 @@
             "video_pid": "3630",
             "ses_pid": "3730",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11265_V_30000",
             "kapsama": "Batı"
@@ -1720,7 +1720,7 @@
             "video_pid": "3633",
             "ses_pid": "3733",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11265_V_30000",
             "kapsama": "Batı"
@@ -1734,7 +1734,7 @@
             "video_pid": "3630",
             "ses_pid": "3730",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11265_V_30000",
             "kapsama": "Batı"
@@ -1748,7 +1748,7 @@
             "video_pid": "3633",
             "ses_pid": "3733",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11265_V_30000",
             "kapsama": "Batı"
@@ -1804,7 +1804,7 @@
             "video_pid": "2752",
             "ses_pid": "2852",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11305_V_30000",
             "kapsama": "Batı"
@@ -2336,7 +2336,7 @@
             "video_pid": "2705",
             "ses_pid": "2805",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11305_V_30000",
             "kapsama": "Batı"
@@ -2350,7 +2350,7 @@
             "video_pid": "2702",
             "ses_pid": "2802",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11305_V_30000",
             "kapsama": "Batı"
@@ -2364,7 +2364,7 @@
             "video_pid": "2702",
             "ses_pid": "2802",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11305_V_30000",
             "kapsama": "Batı"
@@ -2378,7 +2378,7 @@
             "video_pid": "2708",
             "ses_pid": "2808",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11305_V_30000",
             "kapsama": "Batı"
@@ -2420,7 +2420,7 @@
             "video_pid": "4465",
             "ses_pid": "4565",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11345_V_29750",
             "kapsama": "Batı"
@@ -2462,7 +2462,7 @@
             "video_pid": "4463",
             "ses_pid": "4563",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11345_V_29750",
             "kapsama": "Batı"
@@ -2476,7 +2476,7 @@
             "video_pid": "4462",
             "ses_pid": "4562",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11345_V_29750",
             "kapsama": "Batı"
@@ -2490,7 +2490,7 @@
             "video_pid": "4455",
             "ses_pid": "4555",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11345_V_29750",
             "kapsama": "Batı"
@@ -2504,7 +2504,7 @@
             "video_pid": "4463",
             "ses_pid": "4563",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11345_V_29750",
             "kapsama": "Batı"
@@ -2518,7 +2518,7 @@
             "video_pid": "4453",
             "ses_pid": "4553",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11345_V_29750",
             "kapsama": "Batı"
@@ -2532,7 +2532,7 @@
             "video_pid": "5557",
             "ses_pid": "5657",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11425_V_30000",
             "kapsama": "Batı"
@@ -2546,7 +2546,7 @@
             "video_pid": "5558",
             "ses_pid": "5658",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11425_V_30000",
             "kapsama": "Batı"
@@ -2560,7 +2560,7 @@
             "video_pid": "5556",
             "ses_pid": "5656",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11425_V_30000",
             "kapsama": "Batı"
@@ -2574,7 +2574,7 @@
             "video_pid": "5565",
             "ses_pid": "5665",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11425_V_30000",
             "kapsama": "Batı"
@@ -2588,7 +2588,7 @@
             "video_pid": "5564",
             "ses_pid": "5664",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11425_V_30000",
             "kapsama": "Batı"
@@ -2672,7 +2672,7 @@
             "video_pid": "5568",
             "ses_pid": "5668",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11425_V_30000",
             "kapsama": "Batı"
@@ -2686,7 +2686,7 @@
             "video_pid": "5563",
             "ses_pid": "5663",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11425_V_30000",
             "kapsama": "Batı"
@@ -2700,7 +2700,7 @@
             "video_pid": "5562",
             "ses_pid": "5662",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11425_V_30000",
             "kapsama": "Batı"
@@ -3722,7 +3722,7 @@
             "video_pid": "7521",
             "ses_pid": "7621",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11837_V_30000",
             "kapsama": "Batı"
@@ -3778,7 +3778,7 @@
             "video_pid": "7522",
             "ses_pid": "7622",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11837_V_30000",
             "kapsama": "Batı"
@@ -3806,7 +3806,7 @@
             "video_pid": "7520",
             "ses_pid": "7620",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11837_V_30000",
             "kapsama": "Batı"
@@ -3932,7 +3932,7 @@
             "video_pid": "3814",
             "ses_pid": "3914",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11853_H_25000",
             "kapsama": "Doğu"
@@ -3946,7 +3946,7 @@
             "video_pid": "3810",
             "ses_pid": "3910",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11853_H_25000",
             "kapsama": "Doğu"
@@ -4058,7 +4058,7 @@
             "video_pid": "4102",
             "ses_pid": "4202",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11880_H_20000",
             "kapsama": "Doğu"
@@ -4100,7 +4100,7 @@
             "video_pid": "4136",
             "ses_pid": "4236",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11880_H_20000",
             "kapsama": "Doğu"
@@ -4548,7 +4548,7 @@
             "video_pid": "1401",
             "ses_pid": "1501",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11883_V_5000",
             "kapsama": "Batı"
@@ -4562,7 +4562,7 @@
             "video_pid": "1400",
             "ses_pid": "1500",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11883_V_5000",
             "kapsama": "Batı"
@@ -4842,7 +4842,7 @@
             "video_pid": "1503",
             "ses_pid": "1603",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11957_V_27500",
             "kapsama": "TR"
@@ -4968,7 +4968,7 @@
             "video_pid": "1525",
             "ses_pid": "1625",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11957_V_27500",
             "kapsama": "TR"
@@ -5206,7 +5206,7 @@
             "video_pid": "4908",
             "ses_pid": "5008",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11998_V_11666",
             "kapsama": "Batı"
@@ -5864,7 +5864,7 @@
             "video_pid": "4942",
             "ses_pid": "5042",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12072_V_27500",
             "kapsama": "Batı"
@@ -5878,7 +5878,7 @@
             "video_pid": "4945",
             "ses_pid": "5045",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12072_V_27500",
             "kapsama": "Batı"
@@ -5892,7 +5892,7 @@
             "video_pid": "4942",
             "ses_pid": "5042",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12072_V_27500",
             "kapsama": "Batı"
@@ -5906,7 +5906,7 @@
             "video_pid": "4945",
             "ses_pid": "5045",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12072_V_27500",
             "kapsama": "Batı"
@@ -5920,7 +5920,7 @@
             "video_pid": "4958",
             "ses_pid": "5058",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12072_V_27500",
             "kapsama": "Batı"
@@ -5934,7 +5934,7 @@
             "video_pid": "4935",
             "ses_pid": "5035",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12072_V_27500",
             "kapsama": "Batı"
@@ -5948,7 +5948,7 @@
             "video_pid": "4963",
             "ses_pid": "5063",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12072_V_27500",
             "kapsama": "Batı"
@@ -5962,7 +5962,7 @@
             "video_pid": "4964",
             "ses_pid": "5064",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12072_V_27500",
             "kapsama": "Batı"
@@ -5976,7 +5976,7 @@
             "video_pid": "4959",
             "ses_pid": "5059",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12072_V_27500",
             "kapsama": "Batı"
@@ -5990,7 +5990,7 @@
             "video_pid": "4961",
             "ses_pid": "5061",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12072_V_27500",
             "kapsama": "Batı"
@@ -6004,7 +6004,7 @@
             "video_pid": "4957",
             "ses_pid": "5057",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12072_V_27500",
             "kapsama": "Batı"
@@ -6018,7 +6018,7 @@
             "video_pid": "4942",
             "ses_pid": "5042",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12072_V_27500",
             "kapsama": "Batı"
@@ -6032,7 +6032,7 @@
             "video_pid": "4945",
             "ses_pid": "5045",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12072_V_27500",
             "kapsama": "Batı"
@@ -6046,7 +6046,7 @@
             "video_pid": "4901",
             "ses_pid": "3401",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12072_V_27500",
             "kapsama": "Batı"
@@ -6060,7 +6060,7 @@
             "video_pid": "4962",
             "ses_pid": "5062",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12072_V_27500",
             "kapsama": "Batı"
@@ -6130,7 +6130,7 @@
             "video_pid": "7107",
             "ses_pid": "7207",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12083_H_13750",
             "kapsama": "Doğu"
@@ -6298,7 +6298,7 @@
             "video_pid": "180",
             "ses_pid": "280",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -6312,7 +6312,7 @@
             "video_pid": "112",
             "ses_pid": "212",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -6340,7 +6340,7 @@
             "video_pid": "106",
             "ses_pid": "206",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -6368,7 +6368,7 @@
             "video_pid": "116",
             "ses_pid": "216",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -6494,7 +6494,7 @@
             "video_pid": "118",
             "ses_pid": "218",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -6508,7 +6508,7 @@
             "video_pid": "119",
             "ses_pid": "219",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -6578,7 +6578,7 @@
             "video_pid": "115",
             "ses_pid": "215",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -6606,7 +6606,7 @@
             "video_pid": "109",
             "ses_pid": "209",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -6620,7 +6620,7 @@
             "video_pid": "114",
             "ses_pid": "214",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -6648,7 +6648,7 @@
             "video_pid": "107",
             "ses_pid": "207",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -6662,7 +6662,7 @@
             "video_pid": "105",
             "ses_pid": "205",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -6872,7 +6872,7 @@
             "video_pid": "110",
             "ses_pid": "210",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -6886,7 +6886,7 @@
             "video_pid": "111",
             "ses_pid": "211",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -6900,7 +6900,7 @@
             "video_pid": "108",
             "ses_pid": "208",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -7054,7 +7054,7 @@
             "video_pid": "103",
             "ses_pid": "203",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -7180,7 +7180,7 @@
             "video_pid": "104",
             "ses_pid": "204",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
@@ -7194,7 +7194,7 @@
             "video_pid": "2958",
             "ses_pid": "3058",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12196_H_10400",
             "kapsama": "Doğu"
@@ -7362,7 +7362,7 @@
             "video_pid": "2103",
             "ses_pid": "2203",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12219_H_6500",
             "kapsama": "Doğu"
@@ -7404,7 +7404,7 @@
             "video_pid": "111",
             "ses_pid": "211",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12245_H_27500",
             "kapsama": "TR"
@@ -7432,7 +7432,7 @@
             "video_pid": "108",
             "ses_pid": "208",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12245_H_27500",
             "kapsama": "TR"
@@ -7460,7 +7460,7 @@
             "video_pid": "104",
             "ses_pid": "204",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12245_H_27500",
             "kapsama": "TR"
@@ -7502,7 +7502,7 @@
             "video_pid": "112",
             "ses_pid": "212",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12245_H_27500",
             "kapsama": "TR"
@@ -7530,7 +7530,7 @@
             "video_pid": "114",
             "ses_pid": "214",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12245_H_27500",
             "kapsama": "TR"
@@ -7544,7 +7544,7 @@
             "video_pid": "117",
             "ses_pid": "217",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12245_H_27500",
             "kapsama": "TR"
@@ -7558,7 +7558,7 @@
             "video_pid": "110",
             "ses_pid": "210",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12245_H_27500",
             "kapsama": "TR"
@@ -7698,7 +7698,7 @@
             "video_pid": "3407",
             "ses_pid": "3507",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12264_V_27500",
             "kapsama": "Batı"
@@ -8342,7 +8342,7 @@
             "video_pid": "5708",
             "ses_pid": "5808",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12344_V_30000",
             "kapsama": "Batı"
@@ -8370,7 +8370,7 @@
             "video_pid": "5707",
             "ses_pid": "5807",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12344_V_30000",
             "kapsama": "Batı"
@@ -8440,7 +8440,7 @@
             "video_pid": "6425",
             "ses_pid": "6525",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12378_H_30000",
             "kapsama": "TR"
@@ -8454,7 +8454,7 @@
             "video_pid": "6422",
             "ses_pid": "6522",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12378_H_30000",
             "kapsama": "TR"
@@ -8482,7 +8482,7 @@
             "video_pid": "6424",
             "ses_pid": "6524",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12378_H_30000",
             "kapsama": "TR"
@@ -8496,7 +8496,7 @@
             "video_pid": "6420",
             "ses_pid": "6520",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12378_H_30000",
             "kapsama": "TR"
@@ -8888,7 +8888,7 @@
             "video_pid": "5111",
             "ses_pid": "5211",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12422_V_27500",
             "kapsama": "Batı"
@@ -9000,7 +9000,7 @@
             "video_pid": "1037",
             "ses_pid": "2037",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9014,7 +9014,7 @@
             "video_pid": "1034",
             "ses_pid": "2034",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9028,7 +9028,7 @@
             "video_pid": "1032",
             "ses_pid": "2032",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9042,7 +9042,7 @@
             "video_pid": "1036",
             "ses_pid": "2036",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9056,7 +9056,7 @@
             "video_pid": "1022",
             "ses_pid": "2022",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9084,7 +9084,7 @@
             "video_pid": "1038",
             "ses_pid": "2038",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9098,7 +9098,7 @@
             "video_pid": "1018",
             "ses_pid": "2018",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9112,7 +9112,7 @@
             "video_pid": "1045",
             "ses_pid": "2045",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9126,7 +9126,7 @@
             "video_pid": "1019",
             "ses_pid": "2019",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9140,7 +9140,7 @@
             "video_pid": "1040",
             "ses_pid": "2040",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9154,7 +9154,7 @@
             "video_pid": "1012",
             "ses_pid": "2012",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9168,7 +9168,7 @@
             "video_pid": "1013",
             "ses_pid": "2013",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9182,7 +9182,7 @@
             "video_pid": "1035",
             "ses_pid": "2035",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9196,7 +9196,7 @@
             "video_pid": "1043",
             "ses_pid": "2043",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9210,7 +9210,7 @@
             "video_pid": "1044",
             "ses_pid": "2044",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9224,7 +9224,7 @@
             "video_pid": "1041",
             "ses_pid": "2041",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9252,7 +9252,7 @@
             "video_pid": "1039",
             "ses_pid": "2039",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9280,7 +9280,7 @@
             "video_pid": "1001",
             "ses_pid": "2001",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9294,7 +9294,7 @@
             "video_pid": "1016",
             "ses_pid": "2016",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9308,7 +9308,7 @@
             "video_pid": "1050",
             "ses_pid": "2050",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9322,7 +9322,7 @@
             "video_pid": "1005",
             "ses_pid": "2005",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9336,7 +9336,7 @@
             "video_pid": "1025",
             "ses_pid": "2025",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9350,7 +9350,7 @@
             "video_pid": "1048",
             "ses_pid": "2048",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9364,7 +9364,7 @@
             "video_pid": "1047",
             "ses_pid": "2047",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9378,7 +9378,7 @@
             "video_pid": "1023",
             "ses_pid": "2023",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9392,7 +9392,7 @@
             "video_pid": "1004",
             "ses_pid": "2004",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9406,7 +9406,7 @@
             "video_pid": "1031",
             "ses_pid": "2031",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9420,7 +9420,7 @@
             "video_pid": "1020",
             "ses_pid": "2020",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9434,7 +9434,7 @@
             "video_pid": "1033",
             "ses_pid": "2033",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9448,7 +9448,7 @@
             "video_pid": "1003",
             "ses_pid": "2003",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9462,7 +9462,7 @@
             "video_pid": "1026",
             "ses_pid": "2026",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9476,7 +9476,7 @@
             "video_pid": "1009",
             "ses_pid": "2009",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9490,7 +9490,7 @@
             "video_pid": "1029",
             "ses_pid": "2029",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9504,7 +9504,7 @@
             "video_pid": "1008",
             "ses_pid": "2008",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9518,7 +9518,7 @@
             "video_pid": "1014",
             "ses_pid": "2014",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9546,7 +9546,7 @@
             "video_pid": "1015",
             "ses_pid": "2015",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9560,7 +9560,7 @@
             "video_pid": "1017",
             "ses_pid": "2017",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9574,7 +9574,7 @@
             "video_pid": "1011",
             "ses_pid": "2011",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9588,7 +9588,7 @@
             "video_pid": "1028",
             "ses_pid": "2028",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9602,7 +9602,7 @@
             "video_pid": "1030",
             "ses_pid": "2030",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9630,7 +9630,7 @@
             "video_pid": "1010",
             "ses_pid": "2010",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9644,7 +9644,7 @@
             "video_pid": "1042",
             "ses_pid": "2042",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9658,7 +9658,7 @@
             "video_pid": "1006",
             "ses_pid": "2006",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9672,7 +9672,7 @@
             "video_pid": "1021",
             "ses_pid": "2021",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9686,7 +9686,7 @@
             "video_pid": "1046",
             "ses_pid": "2046",
             "uydu": "T6A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
