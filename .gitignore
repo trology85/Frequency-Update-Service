@@ -1,0 +1,3 @@
+.venv/
+data/kanallar_candidate.json
+data/update_result.env
