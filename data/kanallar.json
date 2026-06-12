@@ -1,6 +1,6 @@
 {
     "veri_surumu": 2,
-    "guncelleme_tarihi": "10.06.2026 17:58:31",
+    "guncelleme_tarihi": "12.06.2026 07:24:53",
     "uydu_adi": "Türksat 42.0°E",
     "toplam_kanal": 767,
     "toplam_tp": 58,
@@ -3862,7 +3862,7 @@
             "video_pid": "7505",
             "ses_pid": "7605",
             "uydu": "T4A",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "11837_V_30000",
             "kapsama": "Batı"
