@@ -1,35 +1,89 @@
 {
-    "checked_at": "12.06.2026 07:24:53",
+    "checked_at": "15.06.2026 09:23:38",
     "status": "published",
     "safe": true,
     "errors": [],
     "warnings": [],
-    "old_signature": "5689905cfb7c6a5341a6a1b75e356cb65d7049536f5ec9d7f0131e4ccdeabe1b",
-    "new_signature": "f3d782501bc0b5e68489eb70420a550a5b3db9229a9aba05b266cf46d95fecba",
+    "old_signature": "f3d782501bc0b5e68489eb70420a550a5b3db9229a9aba05b266cf46d95fecba",
+    "new_signature": "5795fbedb30f0d069a2f4e35db14b07602fe94b9c680d894e86e18d317295bbb",
     "diff": {
         "added_channels": [],
-        "removed_channels": [],
-        "technical_changes": [
+        "removed_channels": [
             {
-                "kanal_adi": "SZC",
-                "changes": {
-                    "kalite": {
-                        "old": "SD",
-                        "new": "HD"
-                    }
-                }
+                "kanal_adi": "90'S HITS",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "EASY LISTENING",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "GREEK SONGS",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "HIP HOP R&B",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "IN LOVE",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "MELANCHOLIC",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "NU JAZZ",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
             }
         ],
+        "technical_changes": [],
         "added_transponders": [],
         "removed_transponders": [],
         "type_changes": [],
         "summary": {
             "old_channel_count": 767,
-            "new_channel_count": 767,
+            "new_channel_count": 760,
             "old_tp_count": 58,
             "new_tp_count": 58,
             "old_radio_count": 216,
-            "new_radio_count": 216,
+            "new_radio_count": 209,
             "old_tv_count": 551,
             "new_tv_count": 551
         }
