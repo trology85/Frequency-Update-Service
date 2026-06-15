@@ -1,14 +1,13 @@
 {
-    "checked_at": "15.06.2026 09:23:38",
+    "checked_at": "15.06.2026 17:51:45",
     "status": "published",
     "safe": true,
     "errors": [],
     "warnings": [],
-    "old_signature": "f3d782501bc0b5e68489eb70420a550a5b3db9229a9aba05b266cf46d95fecba",
-    "new_signature": "5795fbedb30f0d069a2f4e35db14b07602fe94b9c680d894e86e18d317295bbb",
+    "old_signature": "5795fbedb30f0d069a2f4e35db14b07602fe94b9c680d894e86e18d317295bbb",
+    "new_signature": "f3d782501bc0b5e68489eb70420a550a5b3db9229a9aba05b266cf46d95fecba",
     "diff": {
-        "added_channels": [],
-        "removed_channels": [
+        "added_channels": [
             {
                 "kanal_adi": "90'S HITS",
                 "frekans": 11305,
@@ -73,17 +72,18 @@
                 "tp_id": "11305_V_30000"
             }
         ],
+        "removed_channels": [],
         "technical_changes": [],
         "added_transponders": [],
         "removed_transponders": [],
         "type_changes": [],
         "summary": {
-            "old_channel_count": 767,
-            "new_channel_count": 760,
+            "old_channel_count": 760,
+            "new_channel_count": 767,
             "old_tp_count": 58,
             "new_tp_count": 58,
-            "old_radio_count": 216,
-            "new_radio_count": 209,
+            "old_radio_count": 209,
+            "new_radio_count": 216,
             "old_tv_count": 551,
             "new_tv_count": 551
         }

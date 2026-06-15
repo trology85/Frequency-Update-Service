@@ -1,8 +1,8 @@
 {
     "veri_surumu": 2,
-    "guncelleme_tarihi": "12.06.2026 07:24:53",
+    "guncelleme_tarihi": "15.06.2026 09:23:38",
     "uydu_adi": "Türksat 42.0°E",
-    "toplam_kanal": 767,
+    "toplam_kanal": 760,
     "toplam_tp": 58,
     "transponderler": [
         {
@@ -73,9 +73,9 @@
             "fec": "3/4",
             "uydu": "T5B",
             "kapsama": "Batı",
-            "kanal_sayisi": 45,
+            "kanal_sayisi": 38,
             "tv_sayisi": 12,
-            "radyo_sayisi": 33
+            "radyo_sayisi": 26
         },
         {
             "tp_id": "11345_V_29750",
@@ -1782,20 +1782,6 @@
             "kapsama": "Batı"
         },
         {
-            "kanal_adi": "90'S HITS",
-            "frekans": 11305,
-            "polarizasyon": "V",
-            "sembol_orani": 30000,
-            "fec": "3/4",
-            "video_pid": "",
-            "ses_pid": "2815",
-            "uydu": "T5B",
-            "kalite": "SD",
-            "tur": "RADYO",
-            "tp_id": "11305_V_30000",
-            "kapsama": "Batı"
-        },
-        {
             "kanal_adi": "AL JAZEERA CHANNEL",
             "frekans": 11305,
             "polarizasyon": "V",
@@ -1992,20 +1978,6 @@
             "kapsama": "Batı"
         },
         {
-            "kanal_adi": "EASY LISTENING",
-            "frekans": 11305,
-            "polarizasyon": "V",
-            "sembol_orani": 30000,
-            "fec": "3/4",
-            "video_pid": "",
-            "ses_pid": "2833",
-            "uydu": "T5B",
-            "kalite": "SD",
-            "tur": "RADYO",
-            "tp_id": "11305_V_30000",
-            "kapsama": "Batı"
-        },
-        {
             "kanal_adi": "ENERGETIC",
             "frekans": 11305,
             "polarizasyon": "V",
@@ -2034,20 +2006,6 @@
             "kapsama": "Batı"
         },
         {
-            "kanal_adi": "GREEK SONGS",
-            "frekans": 11305,
-            "polarizasyon": "V",
-            "sembol_orani": 30000,
-            "fec": "3/4",
-            "video_pid": "",
-            "ses_pid": "2842",
-            "uydu": "T5B",
-            "kalite": "SD",
-            "tur": "RADYO",
-            "tp_id": "11305_V_30000",
-            "kapsama": "Batı"
-        },
-        {
             "kanal_adi": "HAPPY",
             "frekans": 11305,
             "polarizasyon": "V",
@@ -2062,20 +2020,6 @@
             "kapsama": "Batı"
         },
         {
-            "kanal_adi": "HIP HOP R&B",
-            "frekans": 11305,
-            "polarizasyon": "V",
-            "sembol_orani": 30000,
-            "fec": "3/4",
-            "video_pid": "",
-            "ses_pid": "2832",
-            "uydu": "T5B",
-            "kalite": "SD",
-            "tur": "RADYO",
-            "tp_id": "11305_V_30000",
-            "kapsama": "Batı"
-        },
-        {
             "kanal_adi": "HOTTEST HITS",
             "frekans": 11305,
             "polarizasyon": "V",
@@ -2083,20 +2027,6 @@
             "fec": "3/4",
             "video_pid": "",
             "ses_pid": "2812",
-            "uydu": "T5B",
-            "kalite": "SD",
-            "tur": "RADYO",
-            "tp_id": "11305_V_30000",
-            "kapsama": "Batı"
-        },
-        {
-            "kanal_adi": "IN LOVE",
-            "frekans": 11305,
-            "polarizasyon": "V",
-            "sembol_orani": 30000,
-            "fec": "3/4",
-            "video_pid": "",
-            "ses_pid": "2814",
             "uydu": "T5B",
             "kalite": "SD",
             "tur": "RADYO",
@@ -2174,20 +2104,6 @@
             "kapsama": "Batı"
         },
         {
-            "kanal_adi": "MELANCHOLIC",
-            "frekans": 11305,
-            "polarizasyon": "V",
-            "sembol_orani": 30000,
-            "fec": "3/4",
-            "video_pid": "",
-            "ses_pid": "2837",
-            "uydu": "T5B",
-            "kalite": "SD",
-            "tur": "RADYO",
-            "tp_id": "11305_V_30000",
-            "kapsama": "Batı"
-        },
-        {
             "kanal_adi": "MORNING COFFEE",
             "frekans": 11305,
             "polarizasyon": "V",
@@ -2195,20 +2111,6 @@
             "fec": "3/4",
             "video_pid": "",
             "ses_pid": "2830",
-            "uydu": "T5B",
-            "kalite": "SD",
-            "tur": "RADYO",
-            "tp_id": "11305_V_30000",
-            "kapsama": "Batı"
-        },
-        {
-            "kanal_adi": "NU JAZZ",
-            "frekans": 11305,
-            "polarizasyon": "V",
-            "sembol_orani": 30000,
-            "fec": "3/4",
-            "video_pid": "",
-            "ses_pid": "2824",
             "uydu": "T5B",
             "kalite": "SD",
             "tur": "RADYO",
