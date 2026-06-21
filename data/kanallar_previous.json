@@ -1,6 +1,6 @@
 {
     "veri_surumu": 2,
-    "guncelleme_tarihi": "15.06.2026 17:51:45",
+    "guncelleme_tarihi": "20.06.2026 16:19:15",
     "uydu_adi": "Türksat 42.0°E",
     "toplam_kanal": 767,
     "toplam_tp": 58,
@@ -1720,7 +1720,7 @@
             "video_pid": "3633",
             "ses_pid": "3733",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11265_V_30000",
             "kapsama": "Batı"
@@ -1734,7 +1734,7 @@
             "video_pid": "3630",
             "ses_pid": "3730",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11265_V_30000",
             "kapsama": "Batı"
@@ -1748,7 +1748,7 @@
             "video_pid": "3633",
             "ses_pid": "3733",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11265_V_30000",
             "kapsama": "Batı"
