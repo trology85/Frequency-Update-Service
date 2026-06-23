@@ -1,146 +1,55 @@
 {
-    "checked_at": "23.06.2026 04:52:04",
+    "checked_at": "23.06.2026 06:51:51",
     "status": "published",
     "safe": true,
     "errors": [],
     "warnings": [],
-    "old_signature": "f3d782501bc0b5e68489eb70420a550a5b3db9229a9aba05b266cf46d95fecba",
-    "new_signature": "31a43ac81d789fa480060d258e8bc99a5edfa07fa1e260131b03fa694013a9ea",
+    "old_signature": "31a43ac81d789fa480060d258e8bc99a5edfa07fa1e260131b03fa694013a9ea",
+    "new_signature": "45dc1832a5c1e15e53cebff6c2edfcee3f7096fe532ecdbfe1a9637f3dd22f39",
     "diff": {
         "added_channels": [],
         "removed_channels": [
             {
-                "kanal_adi": "5 INTERNATIONAL",
-                "frekans": 11746,
+                "kanal_adi": "BLOOMBERG HT HD",
+                "frekans": 12209,
                 "polarizasyon": "H",
-                "sembol_orani": 27500,
-                "tur": "TV",
-                "kalite": "SD",
-                "tp_id": "11746_H_27500"
-            },
-            {
-                "kanal_adi": "NTV MIR",
-                "frekans": 11746,
-                "polarizasyon": "H",
-                "sembol_orani": 27500,
-                "tur": "TV",
-                "kalite": "SD",
-                "tp_id": "11746_H_27500"
-            },
-            {
-                "kanal_adi": "RTR PLANETA",
-                "frekans": 11746,
-                "polarizasyon": "H",
-                "sembol_orani": 27500,
-                "tur": "TV",
-                "kalite": "SD",
-                "tp_id": "11746_H_27500"
-            },
-            {
-                "kanal_adi": "TNT MUSIC",
-                "frekans": 11746,
-                "polarizasyon": "H",
-                "sembol_orani": 27500,
-                "tur": "TV",
-                "kalite": "SD",
-                "tp_id": "11746_H_27500"
-            },
-            {
-                "kanal_adi": "DW",
-                "frekans": 12521,
-                "polarizasyon": "H",
-                "sembol_orani": 30000,
+                "sembol_orani": 10000,
                 "tur": "TV",
                 "kalite": "HD",
-                "tp_id": "12521_H_30000"
+                "tp_id": "12209_H_10000"
             },
-            {
-                "kanal_adi": "EURO NEWS",
-                "frekans": 12521,
-                "polarizasyon": "H",
-                "sembol_orani": 30000,
-                "tur": "TV",
-                "kalite": "HD",
-                "tp_id": "12521_H_30000"
-            },
-            {
-                "kanal_adi": "HALK TV",
-                "frekans": 12422,
-                "polarizasyon": "V",
-                "sembol_orani": 27500,
-                "tur": "TV",
-                "kalite": "SD",
-                "tp_id": "12422_V_27500"
-            },
-            {
-                "kanal_adi": "KBS WORLD",
-                "frekans": 12521,
-                "polarizasyon": "H",
-                "sembol_orani": 30000,
-                "tur": "TV",
-                "kalite": "HD",
-                "tp_id": "12521_H_30000"
-            },
-            {
-                "kanal_adi": "SHAKTHI",
-                "frekans": 12521,
-                "polarizasyon": "H",
-                "sembol_orani": 30000,
-                "tur": "TV",
-                "kalite": "HD",
-                "tp_id": "12521_H_30000"
-            },
-            {
-                "kanal_adi": "THREEVISION",
-                "frekans": 12521,
-                "polarizasyon": "H",
-                "sembol_orani": 30000,
-                "tur": "TV",
-                "kalite": "HD",
-                "tp_id": "12521_H_30000"
-            },
-            {
-                "kanal_adi": "TV1",
-                "frekans": 12521,
-                "polarizasyon": "H",
-                "sembol_orani": 30000,
-                "tur": "TV",
-                "kalite": "HD",
-                "tp_id": "12521_H_30000"
-            }
-        ],
-        "technical_changes": [
             {
                 "kanal_adi": "KANAL 1",
-                "changes": {
-                    "kalite": {
-                        "old": "HD",
-                        "new": "SD"
-                    }
-                }
+                "frekans": 12219,
+                "polarizasyon": "H",
+                "sembol_orani": 6500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "12219_H_6500"
             },
             {
                 "kanal_adi": "SZC",
-                "changes": {
-                    "kalite": {
-                        "old": "HD",
-                        "new": "SD"
-                    }
-                }
+                "frekans": 11837,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "11837_V_30000"
             }
         ],
+        "technical_changes": [],
         "added_transponders": [],
         "removed_transponders": [],
         "type_changes": [],
         "summary": {
-            "old_channel_count": 767,
-            "new_channel_count": 756,
+            "old_channel_count": 756,
+            "new_channel_count": 753,
             "old_tp_count": 58,
             "new_tp_count": 58,
             "old_radio_count": 216,
             "new_radio_count": 216,
-            "old_tv_count": 551,
-            "new_tv_count": 540
+            "old_tv_count": 540,
+            "new_tv_count": 537
         }
     }
 }
