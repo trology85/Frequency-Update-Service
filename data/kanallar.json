@@ -1,6 +1,6 @@
 {
     "veri_surumu": 2,
-    "guncelleme_tarihi": "26.06.2026 06:57:10",
+    "guncelleme_tarihi": "26.06.2026 17:51:43",
     "uydu_adi": "Türksat 42.0°E",
     "toplam_kanal": 767,
     "toplam_tp": 58,
@@ -1706,7 +1706,7 @@
             "video_pid": "3630",
             "ses_pid": "3730",
             "uydu": "T5B",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "11265_V_30000",
             "kapsama": "Batı"
@@ -3862,7 +3862,7 @@
             "video_pid": "7505",
             "ses_pid": "7605",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11837_V_30000",
             "kapsama": "Batı"
@@ -9182,7 +9182,7 @@
             "video_pid": "1035",
             "ses_pid": "2035",
             "uydu": "T6A",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9196,7 +9196,7 @@
             "video_pid": "1043",
             "ses_pid": "2043",
             "uydu": "T6A",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9364,7 +9364,7 @@
             "video_pid": "1047",
             "ses_pid": "2047",
             "uydu": "T6A",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9476,7 +9476,7 @@
             "video_pid": "1009",
             "ses_pid": "2009",
             "uydu": "T6A",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9602,7 +9602,7 @@
             "video_pid": "1030",
             "ses_pid": "2030",
             "uydu": "T6A",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9630,7 +9630,7 @@
             "video_pid": "1010",
             "ses_pid": "2010",
             "uydu": "T6A",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
