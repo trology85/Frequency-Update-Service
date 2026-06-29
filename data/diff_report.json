@@ -1,37 +1,262 @@
 {
-    "checked_at": "29.06.2026 17:51:51",
+    "checked_at": "29.06.2026 17:37:50",
     "status": "published",
     "safe": true,
     "errors": [],
     "warnings": [],
-    "old_signature": "f3d782501bc0b5e68489eb70420a550a5b3db9229a9aba05b266cf46d95fecba",
-    "new_signature": "395962b877434cf38d8a3cfbe1a0a6ce55c8d97abd66f512ada35ab35906457f",
+    "old_signature": "395962b877434cf38d8a3cfbe1a0a6ce55c8d97abd66f512ada35ab35906457f",
+    "new_signature": "49bb1c342776c9a3c6a0d90b31023508a2beecf1979bd6d0cba3c52791e56ad0",
     "diff": {
         "added_channels": [],
-        "removed_channels": [],
-        "technical_changes": [
+        "removed_channels": [
             {
-                "kanal_adi": "KOZA TV",
-                "changes": {
-                    "kalite": {
-                        "old": "SD",
-                        "new": "HD"
-                    }
-                }
+                "kanal_adi": "AIT TV",
+                "frekans": 18633,
+                "polarizasyon": "LHCP",
+                "sembol_orani": 22500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "18633_LHCP_22500"
+            },
+            {
+                "kanal_adi": "AL JAZEERA",
+                "frekans": 18633,
+                "polarizasyon": "LHCP",
+                "sembol_orani": 22500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "18633_LHCP_22500"
+            },
+            {
+                "kanal_adi": "CASH TV",
+                "frekans": 18633,
+                "polarizasyon": "LHCP",
+                "sembol_orani": 22500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "18633_LHCP_22500"
+            },
+            {
+                "kanal_adi": "CRYSTAL MEGA WORLD",
+                "frekans": 18633,
+                "polarizasyon": "LHCP",
+                "sembol_orani": 22500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "18633_LHCP_22500"
+            },
+            {
+                "kanal_adi": "CRYSTAL TV PLUS",
+                "frekans": 18633,
+                "polarizasyon": "LHCP",
+                "sembol_orani": 22500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "18633_LHCP_22500"
+            },
+            {
+                "kanal_adi": "MAX TV",
+                "frekans": 18633,
+                "polarizasyon": "LHCP",
+                "sembol_orani": 22500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "18633_LHCP_22500"
+            },
+            {
+                "kanal_adi": "MX24 TV",
+                "frekans": 18633,
+                "polarizasyon": "LHCP",
+                "sembol_orani": 22500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "18633_LHCP_22500"
+            },
+            {
+                "kanal_adi": "NTV STYLE",
+                "frekans": 11746,
+                "polarizasyon": "H",
+                "sembol_orani": 27500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "11746_H_27500"
+            },
+            {
+                "kanal_adi": "PERETS INTERNATIONAL",
+                "frekans": 11746,
+                "polarizasyon": "H",
+                "sembol_orani": 27500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "11746_H_27500"
+            },
+            {
+                "kanal_adi": "REN INTERNATIONAL",
+                "frekans": 11746,
+                "polarizasyon": "H",
+                "sembol_orani": 27500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "11746_H_27500"
+            },
+            {
+                "kanal_adi": "START AIR",
+                "frekans": 11746,
+                "polarizasyon": "H",
+                "sembol_orani": 27500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "11746_H_27500"
+            },
+            {
+                "kanal_adi": "TODAYS TV",
+                "frekans": 18633,
+                "polarizasyon": "LHCP",
+                "sembol_orani": 22500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "18633_LHCP_22500"
+            },
+            {
+                "kanal_adi": "TRT WORLD",
+                "frekans": 18633,
+                "polarizasyon": "LHCP",
+                "sembol_orani": 22500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "18633_LHCP_22500"
+            },
+            {
+                "kanal_adi": "90'S HITS",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "AL HADATH NEWS CHANNEL",
+                "frekans": 12422,
+                "polarizasyon": "V",
+                "sembol_orani": 27500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "12422_V_27500"
+            },
+            {
+                "kanal_adi": "AMERICA'S CLASSICS",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "DD SPORTS",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
+            },
+            {
+                "kanal_adi": "DERANA",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
+            },
+            {
+                "kanal_adi": "EASY LISTENING",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "FRANCE 24",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
+            },
+            {
+                "kanal_adi": "GREEK SONGS",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "HIP HOP R&B",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "HITZ",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
+            },
+            {
+                "kanal_adi": "MELANCHOLIC",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "SIRASA",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
+            },
+            {
+                "kanal_adi": "TV5 MONDE",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
             }
         ],
+        "technical_changes": [],
         "added_transponders": [],
         "removed_transponders": [],
         "type_changes": [],
         "summary": {
             "old_channel_count": 767,
-            "new_channel_count": 767,
+            "new_channel_count": 741,
             "old_tp_count": 58,
             "new_tp_count": 58,
             "old_radio_count": 216,
-            "new_radio_count": 216,
+            "new_radio_count": 210,
             "old_tv_count": 551,
-            "new_tv_count": 551
+            "new_tv_count": 531
         }
     }
 }
