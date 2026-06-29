@@ -1,17 +1,17 @@
 {
-    "checked_at": "27.06.2026 06:31:11",
+    "checked_at": "29.06.2026 17:51:51",
     "status": "published",
     "safe": true,
     "errors": [],
     "warnings": [],
-    "old_signature": "5689905cfb7c6a5341a6a1b75e356cb65d7049536f5ec9d7f0131e4ccdeabe1b",
-    "new_signature": "f3d782501bc0b5e68489eb70420a550a5b3db9229a9aba05b266cf46d95fecba",
+    "old_signature": "f3d782501bc0b5e68489eb70420a550a5b3db9229a9aba05b266cf46d95fecba",
+    "new_signature": "395962b877434cf38d8a3cfbe1a0a6ce55c8d97abd66f512ada35ab35906457f",
     "diff": {
         "added_channels": [],
         "removed_channels": [],
         "technical_changes": [
             {
-                "kanal_adi": "SZC",
+                "kanal_adi": "KOZA TV",
                 "changes": {
                     "kalite": {
                         "old": "SD",
