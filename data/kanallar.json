@@ -1,8 +1,8 @@
 {
     "veri_surumu": 2,
-    "guncelleme_tarihi": "29.06.2026 17:37:50",
+    "guncelleme_tarihi": "30.06.2026 04:50:58",
     "uydu_adi": "Türksat 42.0°E",
-    "toplam_kanal": 741,
+    "toplam_kanal": 740,
     "toplam_tp": 58,
     "transponderler": [
         {
@@ -397,8 +397,8 @@
             "fec": "3/4",
             "uydu": "T4A",
             "kapsama": "Doğu",
-            "kanal_sayisi": 4,
-            "tv_sayisi": 4,
+            "kanal_sayisi": 3,
+            "tv_sayisi": 3,
             "radyo_sayisi": 0
         },
         {
@@ -7081,20 +7081,6 @@
             "fec": "3/4",
             "video_pid": "2956",
             "ses_pid": "3056",
-            "uydu": "T4A",
-            "kalite": "HD",
-            "tur": "TV",
-            "tp_id": "12196_H_10400",
-            "kapsama": "Doğu"
-        },
-        {
-            "kanal_adi": "WILD HD",
-            "frekans": 12196,
-            "polarizasyon": "H",
-            "sembol_orani": 10400,
-            "fec": "3/4",
-            "video_pid": "2955",
-            "ses_pid": "3055",
             "uydu": "T4A",
             "kalite": "HD",
             "tur": "TV",
