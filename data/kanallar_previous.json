@@ -1,8 +1,8 @@
 {
     "veri_surumu": 2,
-    "guncelleme_tarihi": "30.06.2026 06:57:19",
+    "guncelleme_tarihi": "02.07.2026 17:51:50",
     "uydu_adi": "Türksat 42.0°E",
-    "toplam_kanal": 767,
+    "toplam_kanal": 765,
     "toplam_tp": 58,
     "transponderler": [
         {
@@ -517,8 +517,8 @@
             "fec": "2/3",
             "uydu": "T4A",
             "kapsama": "Batı",
-            "kanal_sayisi": 9,
-            "tv_sayisi": 8,
+            "kanal_sayisi": 8,
+            "tv_sayisi": 7,
             "radyo_sayisi": 1
         },
         {
@@ -661,8 +661,8 @@
             "fec": "2/3",
             "uydu": "T3A",
             "kapsama": "Batı",
-            "kanal_sayisi": 24,
-            "tv_sayisi": 19,
+            "kanal_sayisi": 23,
+            "tv_sayisi": 18,
             "radyo_sayisi": 5
         },
         {
@@ -8306,20 +8306,6 @@
             "kapsama": "Batı"
         },
         {
-            "kanal_adi": "EGE TV",
-            "frekans": 12344,
-            "polarizasyon": "V",
-            "sembol_orani": 30000,
-            "fec": "2/3",
-            "video_pid": "5706",
-            "ses_pid": "5806",
-            "uydu": "T4A",
-            "kalite": "SD",
-            "tur": "TV",
-            "tp_id": "12344_V_30000",
-            "kapsama": "Batı"
-        },
-        {
             "kanal_adi": "KANAL T",
             "frekans": 12344,
             "polarizasyon": "V",
@@ -10553,20 +10539,6 @@
             "fec": "2/3",
             "video_pid": "5834",
             "ses_pid": "5934",
-            "uydu": "T3A",
-            "kalite": "SD",
-            "tur": "TV",
-            "tp_id": "12685_V_30000",
-            "kapsama": "Batı"
-        },
-        {
-            "kanal_adi": "KADIRGA TV",
-            "frekans": 12685,
-            "polarizasyon": "V",
-            "sembol_orani": 30000,
-            "fec": "2/3",
-            "video_pid": "5800",
-            "ses_pid": "5900",
             "uydu": "T3A",
             "kalite": "SD",
             "tur": "TV",
