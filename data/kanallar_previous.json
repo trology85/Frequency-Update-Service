@@ -1,8 +1,8 @@
 {
     "veri_surumu": 2,
-    "guncelleme_tarihi": "05.07.2026 17:51:08",
+    "guncelleme_tarihi": "13.07.2026 17:13:08",
     "uydu_adi": "Türksat 42.0°E",
-    "toplam_kanal": 764,
+    "toplam_kanal": 765,
     "toplam_tp": 58,
     "transponderler": [
         {
@@ -565,8 +565,8 @@
             "fec": "3/4",
             "uydu": "T4A",
             "kapsama": "Batı",
-            "kanal_sayisi": 18,
-            "tv_sayisi": 6,
+            "kanal_sayisi": 19,
+            "tv_sayisi": 7,
             "radyo_sayisi": 12
         },
         {
@@ -8486,6 +8486,20 @@
             "tur": "TV",
             "tp_id": "12378_H_30000",
             "kapsama": "TR"
+        },
+        {
+            "kanal_adi": "ANADOLUM",
+            "frekans": 12379,
+            "polarizasyon": "V",
+            "sembol_orani": 27500,
+            "fec": "3/4",
+            "video_pid": "6200",
+            "ses_pid": "6300",
+            "uydu": "T4A",
+            "kalite": "SD",
+            "tur": "TV",
+            "tp_id": "12379_V_27500",
+            "kapsama": "Batı"
         },
         {
             "kanal_adi": "BAYRAM FM",
