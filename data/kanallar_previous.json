@@ -1,6 +1,6 @@
 {
     "veri_surumu": 2,
-    "guncelleme_tarihi": "13.07.2026 17:13:08",
+    "guncelleme_tarihi": "14.07.2026 04:51:50",
     "uydu_adi": "Türksat 42.0°E",
     "toplam_kanal": 765,
     "toplam_tp": 58,
@@ -193,8 +193,8 @@
             "fec": "2/3",
             "uydu": "T4A",
             "kapsama": "Batı",
-            "kanal_sayisi": 15,
-            "tv_sayisi": 14,
+            "kanal_sayisi": 14,
+            "tv_sayisi": 13,
             "radyo_sayisi": 1
         },
         {
@@ -385,8 +385,8 @@
             "fec": "5/6",
             "uydu": "T4A",
             "kapsama": "Batı",
-            "kanal_sayisi": 69,
-            "tv_sayisi": 19,
+            "kanal_sayisi": 70,
+            "tv_sayisi": 20,
             "radyo_sayisi": 50
         },
         {
@@ -1706,7 +1706,7 @@
             "video_pid": "3630",
             "ses_pid": "3730",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11265_V_30000",
             "kapsama": "Batı"
@@ -1720,7 +1720,7 @@
             "video_pid": "3633",
             "ses_pid": "3733",
             "uydu": "T5B",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11265_V_30000",
             "kapsama": "Batı"
@@ -3779,20 +3779,6 @@
             "ses_pid": "7622",
             "uydu": "T4A",
             "kalite": "HD",
-            "tur": "TV",
-            "tp_id": "11837_V_30000",
-            "kapsama": "Batı"
-        },
-        {
-            "kanal_adi": "GÖZDE TV",
-            "frekans": 11837,
-            "polarizasyon": "V",
-            "sembol_orani": 30000,
-            "fec": "2/3",
-            "video_pid": "7507",
-            "ses_pid": "7607",
-            "uydu": "T4A",
-            "kalite": "SD",
             "tur": "TV",
             "tp_id": "11837_V_30000",
             "kapsama": "Batı"
@@ -7098,6 +7084,20 @@
             "uydu": "T4A",
             "kalite": "SD",
             "tur": "RADYO",
+            "tp_id": "12187_V_27500",
+            "kapsama": "Batı"
+        },
+        {
+            "kanal_adi": "TRT 1 HD",
+            "frekans": 12187,
+            "polarizasyon": "V",
+            "sembol_orani": 27500,
+            "fec": "5/6",
+            "video_pid": "109",
+            "ses_pid": "209",
+            "uydu": "T4A",
+            "kalite": "HD",
+            "tur": "TV",
             "tp_id": "12187_V_27500",
             "kapsama": "Batı"
         },

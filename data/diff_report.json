@@ -1,15 +1,16 @@
 {
-    "checked_at": "14.07.2026 04:51:50",
+    "checked_at": "14.07.2026 17:51:23",
     "status": "published",
     "safe": true,
     "errors": [],
     "warnings": [],
-    "old_signature": "c48d1dd2b862f129ed1040df9f014cfcf947b1435521e644df33651c36ab4266",
-    "new_signature": "1e86cdc292d505182ae5cfa473679d417dc05adcc7c290f5e5d71382eddfd034",
+    "old_signature": "1e86cdc292d505182ae5cfa473679d417dc05adcc7c290f5e5d71382eddfd034",
+    "new_signature": "d400b70971c3610713815699a793fac79b4186b6b0d037dc2f9633738ac9d53b",
     "diff": {
-        "added_channels": [
+        "added_channels": [],
+        "removed_channels": [
             {
-                "kanal_adi": "TRT 1 HD",
+                "kanal_adi": "DİZİ PREMIUM",
                 "frekans": 12187,
                 "polarizasyon": "V",
                 "sembol_orani": 27500,
@@ -18,24 +19,13 @@
                 "tp_id": "12187_V_27500"
             }
         ],
-        "removed_channels": [
-            {
-                "kanal_adi": "GÖZDE TV",
-                "frekans": 11837,
-                "polarizasyon": "V",
-                "sembol_orani": 30000,
-                "tur": "TV",
-                "kalite": "SD",
-                "tp_id": "11837_V_30000"
-            }
-        ],
         "technical_changes": [
             {
                 "kanal_adi": "TİCARİ beIN SPORTS 2",
                 "changes": {
                     "kalite": {
-                        "old": "HD",
-                        "new": "SD"
+                        "old": "SD",
+                        "new": "HD"
                     }
                 }
             },
@@ -43,8 +33,8 @@
                 "kanal_adi": "TİCARİ beIN SPORTS 4",
                 "changes": {
                     "kalite": {
-                        "old": "HD",
-                        "new": "SD"
+                        "old": "SD",
+                        "new": "HD"
                     }
                 }
             }
@@ -54,13 +44,13 @@
         "type_changes": [],
         "summary": {
             "old_channel_count": 765,
-            "new_channel_count": 765,
+            "new_channel_count": 764,
             "old_tp_count": 58,
             "new_tp_count": 58,
             "old_radio_count": 216,
             "new_radio_count": 216,
             "old_tv_count": 549,
-            "new_tv_count": 549
+            "new_tv_count": 548
         }
     }
 }
