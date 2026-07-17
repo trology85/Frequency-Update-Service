@@ -1,56 +1,37 @@
 {
-    "checked_at": "14.07.2026 17:51:23",
+    "checked_at": "17.07.2026 17:51:48",
     "status": "published",
     "safe": true,
     "errors": [],
     "warnings": [],
-    "old_signature": "1e86cdc292d505182ae5cfa473679d417dc05adcc7c290f5e5d71382eddfd034",
-    "new_signature": "d400b70971c3610713815699a793fac79b4186b6b0d037dc2f9633738ac9d53b",
+    "old_signature": "d400b70971c3610713815699a793fac79b4186b6b0d037dc2f9633738ac9d53b",
+    "new_signature": "cf82c6beebb64a7f0defba656834aec810dc495b4dca3e35a884432a5fb1e602",
     "diff": {
-        "added_channels": [],
-        "removed_channels": [
+        "added_channels": [
             {
-                "kanal_adi": "DİZİ PREMIUM",
-                "frekans": 12187,
+                "kanal_adi": "24KZ TV",
+                "frekans": 11425,
                 "polarizasyon": "V",
-                "sembol_orani": 27500,
+                "sembol_orani": 30000,
                 "tur": "TV",
-                "kalite": "HD",
-                "tp_id": "12187_V_27500"
+                "kalite": "4K",
+                "tp_id": "11425_V_30000"
             }
         ],
-        "technical_changes": [
-            {
-                "kanal_adi": "TİCARİ beIN SPORTS 2",
-                "changes": {
-                    "kalite": {
-                        "old": "SD",
-                        "new": "HD"
-                    }
-                }
-            },
-            {
-                "kanal_adi": "TİCARİ beIN SPORTS 4",
-                "changes": {
-                    "kalite": {
-                        "old": "SD",
-                        "new": "HD"
-                    }
-                }
-            }
-        ],
+        "removed_channels": [],
+        "technical_changes": [],
         "added_transponders": [],
         "removed_transponders": [],
         "type_changes": [],
         "summary": {
-            "old_channel_count": 765,
-            "new_channel_count": 764,
+            "old_channel_count": 764,
+            "new_channel_count": 765,
             "old_tp_count": 58,
             "new_tp_count": 58,
             "old_radio_count": 216,
             "new_radio_count": 216,
-            "old_tv_count": 549,
-            "new_tv_count": 548
+            "old_tv_count": 548,
+            "new_tv_count": 549
         }
     }
 }

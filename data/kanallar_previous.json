@@ -1,8 +1,8 @@
 {
     "veri_surumu": 2,
-    "guncelleme_tarihi": "14.07.2026 04:51:50",
+    "guncelleme_tarihi": "14.07.2026 17:51:23",
     "uydu_adi": "Türksat 42.0°E",
-    "toplam_kanal": 765,
+    "toplam_kanal": 764,
     "toplam_tp": 58,
     "transponderler": [
         {
@@ -385,8 +385,8 @@
             "fec": "5/6",
             "uydu": "T4A",
             "kapsama": "Batı",
-            "kanal_sayisi": 70,
-            "tv_sayisi": 20,
+            "kanal_sayisi": 69,
+            "tv_sayisi": 19,
             "radyo_sayisi": 50
         },
         {
@@ -1706,7 +1706,7 @@
             "video_pid": "3630",
             "ses_pid": "3730",
             "uydu": "T5B",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "11265_V_30000",
             "kapsama": "Batı"
@@ -1720,7 +1720,7 @@
             "video_pid": "3633",
             "ses_pid": "3733",
             "uydu": "T5B",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "11265_V_30000",
             "kapsama": "Batı"
@@ -6577,20 +6577,6 @@
             "fec": "5/6",
             "video_pid": "102",
             "ses_pid": "202",
-            "uydu": "T4A",
-            "kalite": "HD",
-            "tur": "TV",
-            "tp_id": "12187_V_27500",
-            "kapsama": "Batı"
-        },
-        {
-            "kanal_adi": "DİZİ PREMIUM",
-            "frekans": 12187,
-            "polarizasyon": "V",
-            "sembol_orani": 27500,
-            "fec": "5/6",
-            "video_pid": "109",
-            "ses_pid": "209",
             "uydu": "T4A",
             "kalite": "HD",
             "tur": "TV",
