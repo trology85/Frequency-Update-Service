@@ -1,8 +1,8 @@
 {
     "veri_surumu": 2,
-    "guncelleme_tarihi": "18.07.2026 04:51:38",
+    "guncelleme_tarihi": "18.07.2026 17:51:07",
     "uydu_adi": "Türksat 42.0°E",
-    "toplam_kanal": 757,
+    "toplam_kanal": 765,
     "toplam_tp": 58,
     "transponderler": [
         {
@@ -73,9 +73,9 @@
             "fec": "3/4",
             "uydu": "T5B",
             "kapsama": "Batı",
-            "kanal_sayisi": 42,
+            "kanal_sayisi": 45,
             "tv_sayisi": 12,
-            "radyo_sayisi": 30
+            "radyo_sayisi": 33
         },
         {
             "tp_id": "11345_V_29750",
@@ -217,9 +217,9 @@
             "fec": "3/4",
             "uydu": "T4A",
             "kapsama": "Doğu",
-            "kanal_sayisi": 34,
+            "kanal_sayisi": 35,
             "tv_sayisi": 13,
-            "radyo_sayisi": 21
+            "radyo_sayisi": 22
         },
         {
             "tp_id": "11883_V_5000",
@@ -385,9 +385,9 @@
             "fec": "5/6",
             "uydu": "T4A",
             "kapsama": "Batı",
-            "kanal_sayisi": 65,
+            "kanal_sayisi": 69,
             "tv_sayisi": 19,
-            "radyo_sayisi": 46
+            "radyo_sayisi": 50
         },
         {
             "tp_id": "12196_H_10400",
@@ -1734,7 +1734,7 @@
             "video_pid": "3630",
             "ses_pid": "3730",
             "uydu": "T5B",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "11265_V_30000",
             "kapsama": "Batı"
@@ -1748,7 +1748,7 @@
             "video_pid": "3633",
             "ses_pid": "3733",
             "uydu": "T5B",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "11265_V_30000",
             "kapsama": "Batı"
@@ -1845,6 +1845,20 @@
             "fec": "3/4",
             "video_pid": "",
             "ses_pid": "2819",
+            "uydu": "T5B",
+            "kalite": "SD",
+            "tur": "RADYO",
+            "tp_id": "11305_V_30000",
+            "kapsama": "Batı"
+        },
+        {
+            "kanal_adi": "BEST FM.",
+            "frekans": 11305,
+            "polarizasyon": "V",
+            "sembol_orani": 30000,
+            "fec": "3/4",
+            "video_pid": "",
+            "ses_pid": "2841",
             "uydu": "T5B",
             "kalite": "SD",
             "tur": "RADYO",
@@ -1992,6 +2006,20 @@
             "kapsama": "Batı"
         },
         {
+            "kanal_adi": "ENERGETIC",
+            "frekans": 11305,
+            "polarizasyon": "V",
+            "sembol_orani": 30000,
+            "fec": "3/4",
+            "video_pid": "",
+            "ses_pid": "2822",
+            "uydu": "T5B",
+            "kalite": "SD",
+            "tur": "RADYO",
+            "tp_id": "11305_V_30000",
+            "kapsama": "Batı"
+        },
+        {
             "kanal_adi": "FB TV HD",
             "frekans": 11305,
             "polarizasyon": "V",
@@ -2041,6 +2069,20 @@
             "fec": "3/4",
             "video_pid": "",
             "ses_pid": "2832",
+            "uydu": "T5B",
+            "kalite": "SD",
+            "tur": "RADYO",
+            "tp_id": "11305_V_30000",
+            "kapsama": "Batı"
+        },
+        {
+            "kanal_adi": "HOTTEST HITS",
+            "frekans": 11305,
+            "polarizasyon": "V",
+            "sembol_orani": 30000,
+            "fec": "3/4",
+            "video_pid": "",
+            "ses_pid": "2812",
             "uydu": "T5B",
             "kalite": "SD",
             "tur": "RADYO",
@@ -4302,6 +4344,20 @@
             "kapsama": "Doğu"
         },
         {
+            "kanal_adi": "RADYO TÜRKÇE SLOW",
+            "frekans": 11880,
+            "polarizasyon": "H",
+            "sembol_orani": 20000,
+            "fec": "3/4",
+            "video_pid": "",
+            "ses_pid": "4216",
+            "uydu": "T4A",
+            "kalite": "SD",
+            "tur": "RADYO",
+            "tp_id": "11880_H_20000",
+            "kapsama": "Doğu"
+        },
+        {
             "kanal_adi": "RADYO TİVİBU ÇOCUK",
             "frekans": 11880,
             "polarizasyon": "H",
@@ -6416,6 +6472,20 @@
             "kapsama": "Batı"
         },
         {
+            "kanal_adi": "COOL JAZZ",
+            "frekans": 12187,
+            "polarizasyon": "V",
+            "sembol_orani": 27500,
+            "fec": "5/6",
+            "video_pid": "108",
+            "ses_pid": "230",
+            "uydu": "T4A",
+            "kalite": "SD",
+            "tur": "RADYO",
+            "tp_id": "12187_V_27500",
+            "kapsama": "Batı"
+        },
+        {
             "kanal_adi": "COSMOSPORTS",
             "frekans": 12187,
             "polarizasyon": "V",
@@ -6619,6 +6689,20 @@
             "fec": "5/6",
             "video_pid": "142",
             "ses_pid": "242",
+            "uydu": "T4A",
+            "kalite": "SD",
+            "tur": "RADYO",
+            "tp_id": "12187_V_27500",
+            "kapsama": "Batı"
+        },
+        {
+            "kanal_adi": "HIP HOP",
+            "frekans": 12187,
+            "polarizasyon": "V",
+            "sembol_orani": 27500,
+            "fec": "5/6",
+            "video_pid": "138",
+            "ses_pid": "238",
             "uydu": "T4A",
             "kalite": "SD",
             "tur": "RADYO",
@@ -6892,6 +6976,20 @@
             "kapsama": "Batı"
         },
         {
+            "kanal_adi": "ROMANCE LATINO",
+            "frekans": 12187,
+            "polarizasyon": "V",
+            "sembol_orani": 27500,
+            "fec": "5/6",
+            "video_pid": "108",
+            "ses_pid": "255",
+            "uydu": "T4A",
+            "kalite": "SD",
+            "tur": "RADYO",
+            "tp_id": "12187_V_27500",
+            "kapsama": "Batı"
+        },
+        {
             "kanal_adi": "SILK (LOVE SONGS)",
             "frekans": 12187,
             "polarizasyon": "V",
@@ -6955,6 +7053,20 @@
             "fec": "5/6",
             "video_pid": "108",
             "ses_pid": "273",
+            "uydu": "T4A",
+            "kalite": "SD",
+            "tur": "RADYO",
+            "tp_id": "12187_V_27500",
+            "kapsama": "Batı"
+        },
+        {
+            "kanal_adi": "THE CHILL LOUNGE",
+            "frekans": 12187,
+            "polarizasyon": "V",
+            "sembol_orani": 27500,
+            "fec": "5/6",
+            "video_pid": "108",
+            "ses_pid": "243",
             "uydu": "T4A",
             "kalite": "SD",
             "tur": "RADYO",
@@ -8958,7 +9070,7 @@
             "video_pid": "1038",
             "ses_pid": "2038",
             "uydu": "T6A",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9154,7 +9266,7 @@
             "video_pid": "1001",
             "ses_pid": "2001",
             "uydu": "T6A",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9266,7 +9378,7 @@
             "video_pid": "1004",
             "ses_pid": "2004",
             "uydu": "T6A",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9364,7 +9476,7 @@
             "video_pid": "1029",
             "ses_pid": "2029",
             "uydu": "T6A",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
@@ -9420,7 +9532,7 @@
             "video_pid": "1015",
             "ses_pid": "2015",
             "uydu": "T6A",
-            "kalite": "SD",
+            "kalite": "HD",
             "tur": "TV",
             "tp_id": "12521_H_30000",
             "kapsama": "Doğu"
