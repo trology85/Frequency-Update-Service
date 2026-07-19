@@ -1,13 +1,68 @@
 {
-    "checked_at": "18.07.2026 17:51:07",
+    "checked_at": "19.07.2026 04:50:59",
     "status": "published",
     "safe": true,
     "errors": [],
     "warnings": [],
-    "old_signature": "7addaa8601d8f5e53c95dbdd4945f0772083f817e0eb8553f446137ff56a246a",
-    "new_signature": "cf82c6beebb64a7f0defba656834aec810dc495b4dca3e35a884432a5fb1e602",
+    "old_signature": "cf82c6beebb64a7f0defba656834aec810dc495b4dca3e35a884432a5fb1e602",
+    "new_signature": "a7a214737303273973ef2b5754e3710fa40505523df0c4c64c8b6c0bd0f010a7",
     "diff": {
-        "added_channels": [
+        "added_channels": [],
+        "removed_channels": [
+            {
+                "kanal_adi": "A HABER",
+                "frekans": 12053,
+                "polarizasyon": "H",
+                "sembol_orani": 27500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "12053_H_27500"
+            },
+            {
+                "kanal_adi": "5+1 CONCERTS",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "ATV",
+                "frekans": 12053,
+                "polarizasyon": "H",
+                "sembol_orani": 27500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "12053_H_27500"
+            },
+            {
+                "kanal_adi": "B4U MOVIES",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
+            },
+            {
+                "kanal_adi": "beIN SPORTS 2",
+                "frekans": 11265,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "11265_V_30000"
+            },
+            {
+                "kanal_adi": "beIN SPORTS 4",
+                "frekans": 11265,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "11265_V_30000"
+            },
             {
                 "kanal_adi": "BEST FM.",
                 "frekans": 11305,
@@ -16,6 +71,33 @@
                 "tur": "RADYO",
                 "kalite": "SD",
                 "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "BLOOMBERG HT HD",
+                "frekans": 12209,
+                "polarizasyon": "H",
+                "sembol_orani": 10000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12209_H_10000"
+            },
+            {
+                "kanal_adi": "BLUES",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "CGTN HD",
+                "frekans": 11265,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "11265_V_30000"
             },
             {
                 "kanal_adi": "COOL JAZZ",
@@ -27,6 +109,15 @@
                 "tp_id": "12187_V_27500"
             },
             {
+                "kanal_adi": "DREAMY",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
                 "kanal_adi": "ENERGETIC",
                 "frekans": 11305,
                 "polarizasyon": "V",
@@ -34,6 +125,24 @@
                 "tur": "RADYO",
                 "kalite": "SD",
                 "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "FREESAT ONE",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
+            },
+            {
+                "kanal_adi": "HABERTÜRK HD",
+                "frekans": 12209,
+                "polarizasyon": "H",
+                "sembol_orani": 10000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12209_H_10000"
             },
             {
                 "kanal_adi": "HIP HOP",
@@ -54,6 +163,42 @@
                 "tp_id": "11305_V_30000"
             },
             {
+                "kanal_adi": "LATIN",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "MASAL RADYO",
+                "frekans": 11305,
+                "polarizasyon": "V",
+                "sembol_orani": 30000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11305_V_30000"
+            },
+            {
+                "kanal_adi": "NETHRA",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
+            },
+            {
+                "kanal_adi": "RADYO LOUNGE",
+                "frekans": 11880,
+                "polarizasyon": "H",
+                "sembol_orani": 20000,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "11880_H_20000"
+            },
+            {
                 "kanal_adi": "RADYO TÜRKÇE SLOW",
                 "frekans": 11880,
                 "polarizasyon": "H",
@@ -72,6 +217,24 @@
                 "tp_id": "12187_V_27500"
             },
             {
+                "kanal_adi": "SHRADDA",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
+            },
+            {
+                "kanal_adi": "STAR TAMIL",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
+            },
+            {
                 "kanal_adi": "THE CHILL LOUNGE",
                 "frekans": 12187,
                 "polarizasyon": "V",
@@ -81,84 +244,19 @@
                 "tp_id": "12187_V_27500"
             }
         ],
-        "removed_channels": [],
-        "technical_changes": [
-            {
-                "kanal_adi": "B4U MOVIES",
-                "changes": {
-                    "kalite": {
-                        "old": "SD",
-                        "new": "HD"
-                    }
-                }
-            },
-            {
-                "kanal_adi": "beIN SPORTS 2",
-                "changes": {
-                    "kalite": {
-                        "old": "SD",
-                        "new": "HD"
-                    }
-                }
-            },
-            {
-                "kanal_adi": "beIN SPORTS 4",
-                "changes": {
-                    "kalite": {
-                        "old": "SD",
-                        "new": "HD"
-                    }
-                }
-            },
-            {
-                "kanal_adi": "FREESAT ONE",
-                "changes": {
-                    "kalite": {
-                        "old": "SD",
-                        "new": "HD"
-                    }
-                }
-            },
-            {
-                "kanal_adi": "NETHRA",
-                "changes": {
-                    "kalite": {
-                        "old": "SD",
-                        "new": "HD"
-                    }
-                }
-            },
-            {
-                "kanal_adi": "SHRADDA",
-                "changes": {
-                    "kalite": {
-                        "old": "SD",
-                        "new": "HD"
-                    }
-                }
-            },
-            {
-                "kanal_adi": "STAR TAMIL",
-                "changes": {
-                    "kalite": {
-                        "old": "SD",
-                        "new": "HD"
-                    }
-                }
-            }
-        ],
+        "technical_changes": [],
         "added_transponders": [],
         "removed_transponders": [],
         "type_changes": [],
         "summary": {
-            "old_channel_count": 757,
-            "new_channel_count": 765,
+            "old_channel_count": 765,
+            "new_channel_count": 739,
             "old_tp_count": 58,
             "new_tp_count": 58,
-            "old_radio_count": 208,
-            "new_radio_count": 216,
+            "old_radio_count": 216,
+            "new_radio_count": 202,
             "old_tv_count": 549,
-            "new_tv_count": 549
+            "new_tv_count": 537
         }
     }
 }
