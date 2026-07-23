@@ -1,21 +1,184 @@
 {
-    "checked_at": "22.07.2026 04:51:53",
+    "checked_at": "23.07.2026 16:26:09",
     "status": "published",
     "safe": true,
     "errors": [],
     "warnings": [],
-    "old_signature": "cf82c6beebb64a7f0defba656834aec810dc495b4dca3e35a884432a5fb1e602",
-    "new_signature": "1fe85cc023bc1301b0a43d3e90361bf34978dee5039939c6a611e9265bb1cadc",
+    "old_signature": "1fe85cc023bc1301b0a43d3e90361bf34978dee5039939c6a611e9265bb1cadc",
+    "new_signature": "0fc8038929012ad9ef3efbc1a696003373e76ccabe11450f09079dc50a0b21a6",
     "diff": {
         "added_channels": [],
-        "removed_channels": [],
+        "removed_channels": [
+            {
+                "kanal_adi": "NTV STYLE",
+                "frekans": 11746,
+                "polarizasyon": "H",
+                "sembol_orani": 27500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "11746_H_27500"
+            },
+            {
+                "kanal_adi": "PERETS INTERNATIONAL",
+                "frekans": 11746,
+                "polarizasyon": "H",
+                "sembol_orani": 27500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "11746_H_27500"
+            },
+            {
+                "kanal_adi": "START EPIC",
+                "frekans": 11746,
+                "polarizasyon": "H",
+                "sembol_orani": 27500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "11746_H_27500"
+            },
+            {
+                "kanal_adi": "TNT INT",
+                "frekans": 11746,
+                "polarizasyon": "H",
+                "sembol_orani": 27500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "11746_H_27500"
+            },
+            {
+                "kanal_adi": "UMKA",
+                "frekans": 11746,
+                "polarizasyon": "H",
+                "sembol_orani": 27500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "11746_H_27500"
+            },
+            {
+                "kanal_adi": "9XM",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
+            },
+            {
+                "kanal_adi": "A SPOR",
+                "frekans": 12053,
+                "polarizasyon": "H",
+                "sembol_orani": 27500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "12053_H_27500"
+            },
+            {
+                "kanal_adi": "DASATHA",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
+            },
+            {
+                "kanal_adi": "DD SPORTS",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
+            },
+            {
+                "kanal_adi": "DİYANET TV",
+                "frekans": 12422,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "12422_H_30000"
+            },
+            {
+                "kanal_adi": "GREATEST HITS",
+                "frekans": 12187,
+                "polarizasyon": "V",
+                "sembol_orani": 27500,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "12187_V_27500"
+            },
+            {
+                "kanal_adi": "HOT COUNTRY UK",
+                "frekans": 12187,
+                "polarizasyon": "V",
+                "sembol_orani": 27500,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "12187_V_27500"
+            },
+            {
+                "kanal_adi": "MİNİKA ÇOCUK",
+                "frekans": 12053,
+                "polarizasyon": "H",
+                "sembol_orani": 27500,
+                "tur": "TV",
+                "kalite": "SD",
+                "tp_id": "12053_H_27500"
+            },
+            {
+                "kanal_adi": "ROCK'N'ROLL",
+                "frekans": 12187,
+                "polarizasyon": "V",
+                "sembol_orani": 27500,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "12187_V_27500"
+            },
+            {
+                "kanal_adi": "TALENT TV",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
+            },
+            {
+                "kanal_adi": "TLC HD",
+                "frekans": 12015,
+                "polarizasyon": "H",
+                "sembol_orani": 27500,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12015_H_27500"
+            },
+            {
+                "kanal_adi": "TRANCE",
+                "frekans": 12187,
+                "polarizasyon": "V",
+                "sembol_orani": 27500,
+                "tur": "RADYO",
+                "kalite": "SD",
+                "tp_id": "12187_V_27500"
+            },
+            {
+                "kanal_adi": "TV1",
+                "frekans": 12521,
+                "polarizasyon": "H",
+                "sembol_orani": 30000,
+                "tur": "TV",
+                "kalite": "HD",
+                "tp_id": "12521_H_30000"
+            }
+        ],
         "technical_changes": [
             {
                 "kanal_adi": "KANAL 1",
                 "changes": {
                     "kalite": {
-                        "old": "HD",
-                        "new": "SD"
+                        "old": "SD",
+                        "new": "HD"
                     }
                 }
             }
@@ -25,13 +188,13 @@
         "type_changes": [],
         "summary": {
             "old_channel_count": 765,
-            "new_channel_count": 765,
+            "new_channel_count": 747,
             "old_tp_count": 58,
             "new_tp_count": 58,
             "old_radio_count": 216,
-            "new_radio_count": 216,
+            "new_radio_count": 212,
             "old_tv_count": 549,
-            "new_tv_count": 549
+            "new_tv_count": 535
         }
     }
 }
