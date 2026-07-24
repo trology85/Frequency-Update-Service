@@ -1,0 +1,38 @@
+{
+  "run_utc": "2026-07-24T19:33:49.933490+00:00",
+  "ok": true,
+  "successful": 3,
+  "failed": 0,
+  "satellites": [
+    {
+      "id": "astra_19_2",
+      "name": "Astra 19.2°E",
+      "ok": true,
+      "errors": [],
+      "channels": 872,
+      "transponders": 88,
+      "output": "data/astra_19_2.json",
+      "state": "external_pipeline/state/astra_19_2.json"
+    },
+    {
+      "id": "hotbird_13",
+      "name": "Hot Bird 13.0°E",
+      "ok": true,
+      "errors": [],
+      "channels": 1135,
+      "transponders": 83,
+      "output": "data/hotbird_13.json",
+      "state": "external_pipeline/state/hotbird_13.json"
+    },
+    {
+      "id": "hellas_39",
+      "name": "Hellas Sat 39.0°E",
+      "ok": true,
+      "errors": [],
+      "channels": 586,
+      "transponders": 32,
+      "output": "data/hellas_39.json",
+      "state": "external_pipeline/state/hellas_39.json"
+    }
+  ]
+}
