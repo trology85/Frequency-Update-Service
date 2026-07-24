@@ -1,0 +1,138 @@
+
+===== fetch_satbeams.py =====
+{
+  "run_utc": "2026-07-24T20:06:59.291921+00:00",
+  "source": "Satbeams API",
+  "ok": true,
+  "satellites": [
+    {
+      "id": "hellas_39",
+      "position": 39,
+      "ok": true,
+      "errors": [],
+      "pages": 2,
+      "transponders": 33,
+      "channels": 587,
+      "raw_channel_rows": 587,
+      "raw_file": "raw/satbeams/hellas_39.json"
+    }
+  ]
+}
+
+===== fetch_kingofsat.py =====
+{
+  "run_utc": "2026-07-24T20:07:01.093799+00:00",
+  "source": "KingOfSat",
+  "ok": true,
+  "satellites": [
+    {
+      "id": "hellas_39",
+      "url": "https://tr.kingofsat.net/pos-39E",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://tr.kingofsat.net/pos-39E",
+      "title": "Hellas Sat 3 / Hellas Sat 4 (39°E) -  - Frekanslar - KingOfSat",
+      "bytes": 721824,
+      "frequency_rows": 126,
+      "channel_rows": 604,
+      "advertised_records": 698,
+      "block_markers": [],
+      "raw_file": "raw/kingofsat/hellas_39.html",
+      "errors": []
+    }
+  ]
+}
+
+===== parse_kingofsat.py =====
+{
+  "generated_utc": "2026-07-24T20:07:04.045579+00:00",
+  "source": "KingOfSat",
+  "satellites": [
+    {
+      "id": "hellas_39",
+      "transponders": 32,
+      "channels": 593,
+      "tv": 555,
+      "radio": 38,
+      "source_updated": "2026-07-24"
+    }
+  ]
+}
+
+===== parse_satbeams.py =====
+{
+  "ok": true,
+  "source": "Satbeams API",
+  "satellites": [
+    {
+      "id": "hellas_39",
+      "ok": true,
+      "transponders": 32,
+      "channels": 586,
+      "tv": 566,
+      "radio": 20,
+      "sd": 305,
+      "hd": 111,
+      "uhd_4k": 1,
+      "unknown_quality": 149,
+      "candidate": "candidate/satbeams/hellas_39.json"
+    }
+  ]
+}
+
+===== enrich_satbeams_quality.py =====
+{
+  "ok": true,
+  "satellites": [
+    {
+      "id": "hellas_39",
+      "unknown_before": 149,
+      "filled": 19,
+      "filled_sd": 0,
+      "filled_hd": 19,
+      "filled_uhd": 0,
+      "filled_3d": 0,
+      "ambiguous": 0,
+      "name_mismatch": 12,
+      "not_found": 118,
+      "unknown_after": 130,
+      "ok": true
+    }
+  ]
+}
+
+===== validate_satbeams.py =====
+{
+  "run_utc": "2026-07-24T20:07:05.306007+00:00",
+  "ok": true,
+  "should_publish": false,
+  "source": "Satbeams API",
+  "satellites": [
+    {
+      "id": "hellas_39",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Bilinmeyen kalite oranı dikkat gerektiriyor: 130/566 (23.0%)"
+      ],
+      "transponders": 32,
+      "channels": 586,
+      "tv": 566,
+      "radio": 20,
+      "sd": 305,
+      "hd": 130,
+      "uhd_4k": 1,
+      "unknown_quality": 130,
+      "forbidden_records": 0,
+      "missing_core_fields": 0,
+      "duplicate_identities": 0,
+      "candidate_hash": "f4e423083fc444ef7589df5f1f058cfec26fe6cd803b763e5d20cb9aec9f144e",
+      "current_hash": "f4e423083fc444ef7589df5f1f058cfec26fe6cd803b763e5d20cb9aec9f144e",
+      "changed": false,
+      "added": 0,
+      "removed": 0,
+      "updated": 0
+    }
+  ]
+}
+SHOULD_PUBLISH=false

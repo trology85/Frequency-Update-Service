@@ -1,0 +1,26 @@
+{
+  "uydu_id": "hotbird_13",
+  "uydu_adi": "Hot Bird 13.0°E",
+  "olusturma_zamani_utc": "2026-07-24T20:06:59.189712+00:00",
+  "ilk_yayin": false,
+  "degisiklik_var": false,
+  "ozet": {
+    "onceki_kanal": 1021,
+    "yeni_kanal": 1021,
+    "eklenen_kanal": 0,
+    "silinen_kanal": 0,
+    "degisen_kanal": 0,
+    "tur_degisen_kanal": 0,
+    "onceki_tp": 82,
+    "yeni_tp": 82,
+    "eklenen_tp": 0,
+    "silinen_tp": 0,
+    "degisen_tp": 0
+  },
+  "eklenen_kanallar": [],
+  "silinen_kanallar": [],
+  "degisen_kanallar": [],
+  "eklenen_transponderler": [],
+  "silinen_transponderler": [],
+  "degisen_transponderler": []
+}
