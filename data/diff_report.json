@@ -1,14 +1,13 @@
 {
-    "checked_at": "23.07.2026 16:26:09",
+    "checked_at": "24.07.2026 04:52:37",
     "status": "published",
     "safe": true,
     "errors": [],
     "warnings": [],
-    "old_signature": "1fe85cc023bc1301b0a43d3e90361bf34978dee5039939c6a611e9265bb1cadc",
-    "new_signature": "0fc8038929012ad9ef3efbc1a696003373e76ccabe11450f09079dc50a0b21a6",
+    "old_signature": "0fc8038929012ad9ef3efbc1a696003373e76ccabe11450f09079dc50a0b21a6",
+    "new_signature": "cf82c6beebb64a7f0defba656834aec810dc495b4dca3e35a884432a5fb1e602",
     "diff": {
-        "added_channels": [],
-        "removed_channels": [
+        "added_channels": [
             {
                 "kanal_adi": "NTV STYLE",
                 "frekans": 11746,
@@ -172,29 +171,20 @@
                 "tp_id": "12521_H_30000"
             }
         ],
-        "technical_changes": [
-            {
-                "kanal_adi": "KANAL 1",
-                "changes": {
-                    "kalite": {
-                        "old": "SD",
-                        "new": "HD"
-                    }
-                }
-            }
-        ],
+        "removed_channels": [],
+        "technical_changes": [],
         "added_transponders": [],
         "removed_transponders": [],
         "type_changes": [],
         "summary": {
-            "old_channel_count": 765,
-            "new_channel_count": 747,
+            "old_channel_count": 747,
+            "new_channel_count": 765,
             "old_tp_count": 58,
             "new_tp_count": 58,
-            "old_radio_count": 216,
-            "new_radio_count": 212,
-            "old_tv_count": 549,
-            "new_tv_count": 535
+            "old_radio_count": 212,
+            "new_radio_count": 216,
+            "old_tv_count": 535,
+            "new_tv_count": 549
         }
     }
 }
