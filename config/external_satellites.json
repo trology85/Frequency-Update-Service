@@ -1,0 +1,38 @@
+[
+  {
+    "id": "astra_19_2",
+    "name": "Astra 19.2°E",
+    "position": 19,
+    "position_label": "19.2E",
+    "minimum_channels": 500,
+    "minimum_transponders": 50,
+    "max_unknown_quality_ratio": 0.15,
+    "kingofsat_name": "Astra 1N/1P",
+    "kingofsat_position": "19.2E",
+    "kingofsat_url": "https://tr.kingofsat.net/pos-19.2E"
+  },
+  {
+    "id": "hotbird_13",
+    "name": "Hot Bird 13.0°E",
+    "position": 13,
+    "position_label": "13.0E",
+    "minimum_channels": 500,
+    "minimum_transponders": 50,
+    "max_unknown_quality_ratio": 0.15,
+    "kingofsat_name": "Hot Bird 13F/13G",
+    "kingofsat_position": "13.0E",
+    "kingofsat_url": "https://tr.kingofsat.net/pos-13E"
+  },
+  {
+    "id": "hellas_39",
+    "name": "Hellas Sat 39.0°E",
+    "position": 39,
+    "position_label": "39.0E",
+    "minimum_channels": 20,
+    "minimum_transponders": 5,
+    "max_unknown_quality_ratio": 0.30,
+    "kingofsat_name": "Hellas Sat 3/4",
+    "kingofsat_position": "39.0E",
+    "kingofsat_url": "https://tr.kingofsat.net/pos-39E"
+  }
+]
