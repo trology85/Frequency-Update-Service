@@ -81,6 +81,9 @@ jobs:
         run: |
           pip install requests beautifulsoup4
 
+      - name: Sync Published Türksat Satellite File
+        run: python scripts/sync_turksat_satellite_file.py
+
       - name: Update Astra Hot Bird and Hellas
         run: python scripts/update_external_satellites.py
 
@@ -101,7 +104,7 @@ jobs:
         run: |
           git config --global user.name "Satellite Data Bot"
           git config --global user.email "action@github.com"
-          git add data/astra_19_2.json data/hotbird_13.json data/hellas_39.json \
+          git add data/turksat_42.json data/astra_19_2.json data/hotbird_13.json data/hellas_39.json \
             external_pipeline/state/*.json reports/external/update_report.json
           git diff --cached --quiet || git commit -m "Uydu verileri güncellendi: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
