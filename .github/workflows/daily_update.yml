@@ -105,7 +105,14 @@ jobs:
           git config --global user.name "Satellite Data Bot"
           git config --global user.email "action@github.com"
           git add data/turksat_42.json data/astra_19_2.json data/hotbird_13.json data/hellas_39.json \
-            data/astra_19_2_previous.json data/hotbird_13_previous.json data/hellas_39_previous.json \
-            external_pipeline/state/*.json reports/external/*.json
+            external_pipeline/state reports/external
+          for optional_file in \
+            data/astra_19_2_previous.json \
+            data/hotbird_13_previous.json \
+            data/hellas_39_previous.json; do
+            if [ -f "$optional_file" ]; then
+              git add "$optional_file"
+            fi
+          done
           git diff --cached --quiet || git commit -m "Uydu verileri güncellendi: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
