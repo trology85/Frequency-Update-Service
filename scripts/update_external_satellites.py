@@ -12,6 +12,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+from satellite_diff import build_diff
+
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "config" / "external_satellites.json"
 PIPELINE_DIR = ROOT / "external_pipeline"
@@ -101,6 +103,29 @@ def run_step(workspace: Path, script_name: str, log_file) -> None:
         raise RuntimeError(f"{script_name} başarısız, kod={process.returncode}")
 
 
+def publish_document(document: dict[str, Any], sat: dict[str, Any], output_path: Path) -> dict[str, Any]:
+    previous = load_json(output_path) if output_path.exists() else None
+    diff = build_diff(previous, document, sat["id"], sat["name"])
+    diff_path = REPORT_DIR / f"{sat['id']}_diff.json"
+    write_json(diff_path, diff)
+
+    changed = bool(diff["degisiklik_var"])
+    previous_path = DATA_DIR / f"{sat['id']}_previous.json"
+    if changed and previous is not None:
+        write_json(previous_path, previous)
+    if changed or not output_path.exists():
+        write_json(output_path, document)
+
+    return {
+        "channels": document["toplam_kanal"],
+        "transponders": document["toplam_tp"],
+        "changed": changed,
+        "diff": str(diff_path.relative_to(ROOT)),
+        "previous": str(previous_path.relative_to(ROOT)) if previous_path.exists() else None,
+        "output": str(output_path.relative_to(ROOT)),
+    }
+
+
 def publish_satellite(workspace: Path, sat: dict[str, Any], converter) -> dict[str, Any]:
     state_candidate = workspace / "output" / "satbeams" / f"{sat['id']}.json"
     source = load_json(state_candidate)
@@ -108,16 +133,11 @@ def publish_satellite(workspace: Path, sat: dict[str, Any], converter) -> dict[s
     document = converter.build_document(source, sat["id"], sat["name"])
 
     output_path = DATA_DIR / f"{sat['id']}.json"
-    converter.write_json(output_path, document)
+    result = publish_document(document, sat, output_path)
     STATE_DIR.mkdir(parents=True, exist_ok=True)
     shutil.copy2(state_candidate, STATE_DIR / state_candidate.name)
-
-    return {
-        "channels": document["toplam_kanal"],
-        "transponders": document["toplam_tp"],
-        "output": str(output_path.relative_to(ROOT)),
-        "state": str((STATE_DIR / state_candidate.name).relative_to(ROOT)),
-    }
+    result["state"] = str((STATE_DIR / state_candidate.name).relative_to(ROOT))
+    return result
 
 
 def main() -> int:
@@ -154,8 +174,7 @@ def main() -> int:
                 source = load_json(state)
                 converter.validate_source(source, state)
                 document = converter.build_document(source, sat["id"], sat["name"])
-                converter.write_json(DATA_DIR / f"{sat['id']}.json", document)
-                item.update({"channels": document["toplam_kanal"], "transponders": document["toplam_tp"]})
+                item.update(publish_document(document, sat, DATA_DIR / f"{sat['id']}.json"))
             else:
                 with tempfile.TemporaryDirectory(prefix=f"sat-{sat['id']}-") as temp_dir:
                     workspace = Path(temp_dir)
