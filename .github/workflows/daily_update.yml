@@ -9,8 +9,9 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  turksat:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
       - name: Checkout Repository
@@ -54,3 +55,53 @@ jobs:
           git config --global user.email "action@github.com"
           git add data/kanallar.json data/kanallar_previous.json data/diff_report.json data/validation_result.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Onaylı Frekans Güncellemesi: $(date +'%d.%m.%Y %H:%M')" && git push)
+
+  external_satellites:
+    needs: turksat
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout Latest Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync Latest Main
+        run: |
+          git pull --rebase origin main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Update Astra Hot Bird and Hellas
+        run: python scripts/update_external_satellites.py
+
+      - name: Validate All Published Satellite Files
+        run: python scripts/validate_satellite_files.py
+
+      - name: Upload External Satellite Reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: external-satellite-update-${{ github.run_number }}
+          retention-days: 14
+          if-no-files-found: warn
+          path: |
+            reports/external/*
+
+      - name: Commit and Push Approved External Data
+        run: |
+          git config --global user.name "Satellite Data Bot"
+          git config --global user.email "action@github.com"
+          git add data/astra_19_2.json data/hotbird_13.json data/hellas_39.json \
+            external_pipeline/state/*.json reports/external/update_report.json
+          git diff --cached --quiet || git commit -m "Uydu verileri güncellendi: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
