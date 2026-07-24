@@ -1,6 +1,6 @@
 {
     "veri_surumu": 2,
-    "guncelleme_tarihi": "19.07.2026 17:51:44",
+    "guncelleme_tarihi": "22.07.2026 04:51:53",
     "uydu_adi": "Türksat 42.0°E",
     "toplam_kanal": 765,
     "toplam_tp": 58,
@@ -8428,7 +8428,7 @@
             "video_pid": "2103",
             "ses_pid": "2203",
             "uydu": "T4A",
-            "kalite": "HD",
+            "kalite": "SD",
             "tur": "TV",
             "tp_id": "12219_H_6500",
             "kapsama": "Doğu",
