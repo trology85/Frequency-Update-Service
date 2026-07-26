@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-07-24T19:33:57.317605+00:00",
+  "generated_utc": "2026-07-26T12:40:38.206046+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=19E",
@@ -1875,7 +1875,7 @@
     {
       "name": "LA 1 UHD",
       "type": "TV",
-      "quality": "UHD",
+      "quality": "4K",
       "satellite_group": "Astra 19.2°E",
       "spacecraft": "Astra 1P",
       "position": "19.2E",
@@ -6432,7 +6432,7 @@
     {
       "name": "SES UHD Demo Channel",
       "type": "TV",
-      "quality": "UHD",
+      "quality": "4K",
       "satellite_group": "Astra 19.2°E",
       "spacecraft": "Astra 1P",
       "position": "19.2E",
@@ -6463,7 +6463,7 @@
     {
       "name": "UHD1 by ASTRA / HD+ (20.00 - 8.00)",
       "type": "TV",
-      "quality": "UHD",
+      "quality": "4K",
       "satellite_group": "Astra 19.2°E",
       "spacecraft": "Astra 1P",
       "position": "19.2E",
@@ -6494,7 +6494,7 @@
     {
       "name": "UHD1 by ASTRA / HD+ (8.00 - 20.00)",
       "type": "TV",
-      "quality": "UHD",
+      "quality": "4K",
       "satellite_group": "Astra 19.2°E",
       "spacecraft": "Astra 1P",
       "position": "19.2E",
@@ -6525,7 +6525,7 @@
     {
       "name": "Pro7Sat.1 UHD",
       "type": "TV",
-      "quality": "UHD",
+      "quality": "4K",
       "satellite_group": "Astra 19.2°E",
       "spacecraft": "Astra 1P",
       "position": "19.2E",
@@ -13562,7 +13562,7 @@
     {
       "name": "RTL UHD",
       "type": "TV",
-      "quality": "UHD",
+      "quality": "4K",
       "satellite_group": "Astra 19.2°E",
       "spacecraft": "Astra 1P",
       "position": "19.2E",
@@ -16166,7 +16166,7 @@
     {
       "name": "Sky Sport UHD",
       "type": "TV",
-      "quality": "UHD",
+      "quality": "4K",
       "satellite_group": "Astra 19.2°E",
       "spacecraft": "Astra 1P",
       "position": "19.2E",

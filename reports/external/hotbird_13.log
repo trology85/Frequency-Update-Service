@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-07-26T06:06:38.261032+00:00",
+  "run_utc": "2026-07-26T12:40:38.538015+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-07-26T06:06:39.790267+00:00",
+  "run_utc": "2026-07-26T12:40:40.165716+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-13E",
       "title": "Hot Bird 13F / Hot Bird 13G (13°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1484297,
+      "bytes": 1483233,
       "frequency_rows": 131,
       "channel_rows": 1449,
       "advertised_records": 1501,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-07-26T06:06:44.600832+00:00",
+  "generated_utc": "2026-07-26T12:40:44.986624+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -87,15 +87,15 @@
     {
       "id": "hotbird_13",
       "unknown_before": 16,
-      "filled": 4,
+      "filled": 2,
       "filled_sd": 0,
       "filled_hd": 2,
-      "filled_uhd": 2,
+      "filled_uhd": 0,
       "filled_3d": 0,
       "ambiguous": 0,
       "name_mismatch": 1,
-      "not_found": 11,
-      "unknown_after": 12,
+      "not_found": 13,
+      "unknown_after": 14,
       "ok": true
     }
   ]
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-07-26T06:06:48.245918+00:00",
+  "run_utc": "2026-07-26T12:40:48.756822+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -119,18 +119,18 @@
       "radio": 100,
       "sd": 462,
       "hd": 554,
-      "uhd_4k": 7,
-      "unknown_quality": 12,
+      "uhd_4k": 5,
+      "unknown_quality": 14,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "f1759eb4810a7d45b57c82eff917f3b9bf777e5f63d5d802fc1f4a2c40347901",
+      "candidate_hash": "5c816039dfbd7951cebbdc8ecd94073ac003983734abaf91af5794f5695dbe02",
       "current_hash": "f1759eb4810a7d45b57c82eff917f3b9bf777e5f63d5d802fc1f4a2c40347901",
-      "changed": false,
+      "changed": true,
       "added": 0,
       "removed": 0,
-      "updated": 0
+      "updated": 5
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true

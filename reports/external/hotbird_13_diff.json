@@ -1,15 +1,15 @@
 {
   "uydu_id": "hotbird_13",
   "uydu_adi": "Hot Bird 13.0°E",
-  "olusturma_zamani_utc": "2026-07-26T06:06:48.306834+00:00",
+  "olusturma_zamani_utc": "2026-07-26T12:40:48.818848+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 1021,
     "yeni_kanal": 1021,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 7,
     "tur_degisen_kanal": 0,
     "onceki_tp": 82,
     "yeni_tp": 82,
@@ -19,7 +19,78 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "hotbird_13|hotbird_13:10727:H:30000|sid:4603",
+      "kanal_adi": "TRAVELXP 4K",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "4K/UHD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:10727:H:30000|sid:4604",
+      "kanal_adi": "Museum 4K",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "4K/UHD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:10727:H:30000|sid:4605",
+      "kanal_adi": "MyZen TV 4K",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "4K/UHD",
+          "yeni": "4K"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11117:V:27500|sid:1807",
+      "kanal_adi": "Eleven Sports 1 4K",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "4K/UHD",
+          "yeni": "4K"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11278:V:27500|sid:13019",
+      "kanal_adi": "Canal+ 4K UHD",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "4K/UHD",
+          "yeni": "4K"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11296:H:27500|sid:2229",
+      "kanal_adi": "Love Nature 4K",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "4K/UHD",
+          "yeni": "4K"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11766:V:29900|sid:3407",
+      "kanal_adi": "Rai 4K",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "4K/UHD",
+          "yeni": "4K"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

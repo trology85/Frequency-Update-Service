@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-07-24T19:34:07.333320+00:00",
+  "generated_utc": "2026-07-26T12:40:48.604792+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=13E",
@@ -18,8 +18,8 @@
     "radio": 100,
     "sd": 462,
     "hd": 554,
-    "uhd_4k": 7,
-    "unknown_quality": 12
+    "uhd_4k": 5,
+    "unknown_quality": 14
   },
   "transponders": [
     {
@@ -2297,7 +2297,7 @@
     {
       "name": "TRAVELXP 4K",
       "type": "TV",
-      "quality": "UHD",
+      "quality": "UNKNOWN",
       "satellite_group": "Hot Bird 13.0°E",
       "spacecraft": "Eutelsat Hot Bird 13F",
       "position": "13.0E",
@@ -2328,7 +2328,7 @@
     {
       "name": "Museum 4K",
       "type": "TV",
-      "quality": "UHD",
+      "quality": "UNKNOWN",
       "satellite_group": "Hot Bird 13.0°E",
       "spacecraft": "Eutelsat Hot Bird 13F",
       "position": "13.0E",
@@ -2359,7 +2359,7 @@
     {
       "name": "MyZen TV 4K",
       "type": "TV",
-      "quality": "UHD",
+      "quality": "4K",
       "satellite_group": "Hot Bird 13.0°E",
       "spacecraft": "Eutelsat Hot Bird 13F",
       "position": "13.0E",
@@ -10078,7 +10078,7 @@
     {
       "name": "Eleven Sports 1 4K",
       "type": "TV",
-      "quality": "UHD",
+      "quality": "4K",
       "satellite_group": "Hot Bird 13.0°E",
       "spacecraft": "Eutelsat Hot Bird 13G",
       "position": "13.0E",
@@ -11504,7 +11504,7 @@
     {
       "name": "Canal+ 4K UHD",
       "type": "TV",
-      "quality": "UHD",
+      "quality": "4K",
       "satellite_group": "Hot Bird 13.0°E",
       "spacecraft": "Eutelsat Hot Bird 13G",
       "position": "13.0E",

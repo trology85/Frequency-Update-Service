@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-07-26T06:06:30.273385+00:00",
+  "run_utc": "2026-07-26T12:40:30.319158+00:00",
   "ok": true,
   "successful": 3,
   "failed": 0,
@@ -11,9 +11,9 @@
       "errors": [],
       "channels": 872,
       "transponders": 88,
-      "changed": false,
+      "changed": true,
       "diff": "reports/external/astra_19_2_diff.json",
-      "previous": null,
+      "previous": "data/astra_19_2_previous.json",
       "output": "data/astra_19_2.json",
       "state": "external_pipeline/state/astra_19_2.json"
     },
@@ -24,9 +24,9 @@
       "errors": [],
       "channels": 1135,
       "transponders": 83,
-      "changed": false,
+      "changed": true,
       "diff": "reports/external/hotbird_13_diff.json",
-      "previous": null,
+      "previous": "data/hotbird_13_previous.json",
       "output": "data/hotbird_13.json",
       "state": "external_pipeline/state/hotbird_13.json"
     },
@@ -37,9 +37,9 @@
       "errors": [],
       "channels": 586,
       "transponders": 32,
-      "changed": false,
+      "changed": true,
       "diff": "reports/external/hellas_39_diff.json",
-      "previous": null,
+      "previous": "data/hellas_39_previous.json",
       "output": "data/hellas_39.json",
       "state": "external_pipeline/state/hellas_39.json"
     }

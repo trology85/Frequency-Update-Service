@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-07-24T19:34:12.406137+00:00",
+  "generated_utc": "2026-07-26T12:40:53.767392+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=39E",
@@ -17,9 +17,9 @@
     "tv": 566,
     "radio": 20,
     "sd": 305,
-    "hd": 130,
+    "hd": 128,
     "uhd_4k": 1,
-    "unknown_quality": 130
+    "unknown_quality": 132
   },
   "transponders": [
     {
@@ -10588,7 +10588,7 @@
     {
       "name": "Investigation Discovery HD",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Hellas Sat 39.0°E",
       "spacecraft": "HellasSat 3",
       "position": "39.0E",
@@ -18586,7 +18586,7 @@
     {
       "name": "ACASA GOLD",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Hellas Sat 39.0°E",
       "spacecraft": "HellasSat 3",
       "position": "39.0E",
