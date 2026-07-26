@@ -1,15 +1,15 @@
 {
   "uydu_id": "hellas_39",
   "uydu_adi": "Hellas Sat 39.0°E",
-  "olusturma_zamani_utc": "2026-07-26T12:40:53.950987+00:00",
+  "olusturma_zamani_utc": "2026-07-26T13:12:02.269092+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 571,
     "yeni_kanal": 571,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 3,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 32,
     "yeni_tp": 32,
@@ -19,38 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "hellas_39|hellas_39:11778:H:16515|sid:15",
-      "kanal_adi": "HTV",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "4K/UHD",
-          "yeni": "4K"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12251:V:30000|sid:605",
-      "kanal_adi": "Investigation Discovery HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12688:V:30000|sid:326",
-      "kanal_adi": "ACASA GOLD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

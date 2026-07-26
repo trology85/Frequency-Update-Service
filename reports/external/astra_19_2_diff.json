@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-07-26T12:40:38.406687+00:00",
+  "olusturma_zamani_utc": "2026-07-26T13:11:47.843760+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 862,
     "yeni_kanal": 862,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 9,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 88,
     "yeni_tp": 88,
@@ -19,98 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "astra_19_2|astra_19_2:10729:V:23500|sid:11400",
-      "kanal_adi": "LA 1 UHD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "4K/UHD",
-          "yeni": "4K"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:10993:H:22000|sid:1",
-      "kanal_adi": "SES UHD Demo Channel",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "4K/UHD",
-          "yeni": "4K"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:10993:H:22000|sid:2",
-      "kanal_adi": "UHD1 by ASTRA / HD+ (8.00 - 20.00)",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "4K/UHD",
-          "yeni": "4K"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:10993:H:22000|sid:6205",
-      "kanal_adi": "Pro7Sat.1 UHD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "4K/UHD",
-          "yeni": "4K"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:11391:H:22000|sid:12410",
-      "kanal_adi": "RTL UHD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "4K/UHD",
-          "yeni": "4K"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:11798:H:27500|sid:553",
-      "kanal_adi": "Sky Sport UHD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "4K/UHD",
-          "yeni": "4K"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:11856:V:29700|sid:8214",
-      "kanal_adi": "FRANCE 2 UHD HDR",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "4K/UHD",
-          "yeni": "4K"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:11895:V:29700|sid:8317",
-      "kanal_adi": "Canal+ Box Office UHD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "4K/UHD",
-          "yeni": "4K"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:12207:V:29700|sid:9017",
-      "kanal_adi": "CANAL+ FOOT UHD HDR",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "4K/UHD",
-          "yeni": "4K"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
