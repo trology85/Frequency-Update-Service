@@ -29,32 +29,31 @@ jobs:
       - name: Run Scraper Candidate
         run: python scripts/scraper.py
 
-      - name: Validate Candidate Data
-        id: validate
+      - name: Publish Official Türksat Data
+        id: publish
         run: |
-          python scripts/validator.py
+          python scripts/publish_turksat.py
           cat data/update_result.env
           source data/update_result.env
           echo "should_publish=$SHOULD_PUBLISH" >> "$GITHUB_OUTPUT"
           echo "status=$VALIDATION_STATUS" >> "$GITHUB_OUTPUT"
 
-      - name: Upload Validation Reports
+      - name: Upload Türksat Snapshot
         uses: actions/upload-artifact@v4
         with:
-          name: frequency-validation-${{ steps.validate.outputs.status }}
+          name: turksat-frequency-${{ steps.publish.outputs.status }}
           path: |
             data/kanallar_candidate.json
-            data/diff_report.json
-            data/validation_result.json
-          if-no-files-found: ignore
+            data/kanallar.json
+            data/turksat_42.json
+          if-no-files-found: error
 
-      - name: Commit and Push Approved Data
-        if: steps.validate.outputs.should_publish == 'true'
+      - name: Commit and Push Türksat Data
         run: |
           git config --global user.name "Github Action Bot"
           git config --global user.email "action@github.com"
-          git add data/kanallar.json data/kanallar_previous.json data/diff_report.json data/validation_result.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Onaylı Frekans Güncellemesi: $(date +'%d.%m.%Y %H:%M')" && git push)
+          git add data/kanallar.json data/kanallar_previous.json data/turksat_42.json
+          git diff --cached --quiet || (git commit -m "Türksat frekansları güncellendi: $(date +'%d.%m.%Y %H:%M')" && git push)
 
   external_satellites:
     needs: turksat
