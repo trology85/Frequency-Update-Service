@@ -1,1198 +1,3986 @@
 {
-    "checked_at": "24.07.2026 19:33:37",
+    "checked_at": "26.07.2026 17:51:30",
     "status": "published",
     "safe": true,
     "errors": [],
-    "warnings": [],
-    "old_signature": "f76703db4f24f957645d6aea3d9902718b05dbe6d1b9bd1543b40d9ef4a5ea37",
-    "new_signature": "00b4550760d7a9a3a43907cdc07d042ad0680be61f8c43ff21cab643614d5eed",
+    "warnings": [
+        "Az sayıda RADYO -> TV dönüşümü var, kontrol önerilir: 1"
+    ],
+    "old_signature": "00b4550760d7a9a3a43907cdc07d042ad0680be61f8c43ff21cab643614d5eed",
+    "new_signature": "64eed23e680fbe1d13925ce3fc2d646c7ff65182048302bd1c5e16cb1b91b5a5",
     "diff": {
         "added_channels": [],
         "removed_channels": [],
         "technical_changes": [
             {
-                "kanal_adi": "A HABER.",
+                "kanal_adi": "POLİS RADYOSU",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "BABY TV",
+                "kanal_adi": "POLİS RADYOSU",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "BABY TV",
+                "kanal_adi": "VOIX DU SAHEL",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "DISNEY JUNIOR",
+                "kanal_adi": "VOIX DU SAHEL",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "0 SIFIR TV",
+                "kanal_adi": "2000'ler",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "24KZ TV",
+                "changes": {
+                    "kalite": {
+                        "old": "4K",
+                        "new": "SD"
                     }
                 }
             },
             {
-                "kanal_adi": "9XM",
+                "kanal_adi": "45'LİK",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "ABC",
+                "kanal_adi": "5+1 CONCERTS",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "AL JAZEERA CHANNEL",
+                "kanal_adi": "60S",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "AL JAZEERA.",
+                "kanal_adi": "80'S HITS",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "AL QURAN AL KAREEM TV.",
+                "kanal_adi": "80S",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "AL SUNNAH AL NABAWIYAH TV.",
+                "kanal_adi": "90'S HITS",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "ALİKHBARİA TV",
+                "kanal_adi": "90S",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "ARIRANG",
+                "kanal_adi": "A HABER RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "ASIA TV",
+                "kanal_adi": "A SPOR RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "AS",
+                "kanal_adi": "AKRA FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "ATV AVRUPA",
+                "kanal_adi": "ALEM FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "AZOOMEE",
+                "kanal_adi": "ALEM FM.",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "B4U MOVIES",
+                "kanal_adi": "AMERICA'S CLASSICS",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "BBC WORLD NEWS",
+                "kanal_adi": "ANTALYA RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN BOXOFFICE",
+                "kanal_adi": "ANTALYA RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN GURME",
+                "kanal_adi": "AROUND THE WORLD",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN H&E",
+                "kanal_adi": "BAROQUE",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN İZ",
+                "kanal_adi": "BAYRAK FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN MOVIES PREMIERE 2",
+                "kanal_adi": "BAYRAM FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN MOVIES PREMIERE",
+                "kanal_adi": "BEST FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN MOVIES STARS",
+                "kanal_adi": "BEST FM.",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN MOVIES TURK",
+                "kanal_adi": "BLOOMBERGHT RD",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN SERIES 1",
+                "kanal_adi": "BLUES",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "bEIN SERIES 2",
+                "kanal_adi": "BROADWAY",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN SPORTS 1",
+                "kanal_adi": "BRT RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN SPORTS 2",
+                "kanal_adi": "CHANSONS",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN SPORTS 3",
+                "kanal_adi": "CHILLOUT/LOUNGE",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN SPORTS 4",
+                "kanal_adi": "CHILLOUT",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN SPORTS 5",
+                "kanal_adi": "CLASSIC MASTERS",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN SPORTS HABER.",
+                "kanal_adi": "CLASSIC ROCK",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN SPORTS INTERNATIONAL TICARI",
+                "kanal_adi": "CLASSIC ROCK",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN SPORTS INTERNATIONAL",
+                "kanal_adi": "CLASSICAL CALM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN SPORTS MAX 1",
+                "kanal_adi": "CLASSICAL GREATS",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN SPORTS MAX2",
+                "kanal_adi": "CLASSICAL MUSIC",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "beIN",
+                "kanal_adi": "CLASSICAL ORCHESTRAL",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "Bİ KANAL",
+                "kanal_adi": "CNNTURK RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "BUDDHIST",
+                "kanal_adi": "CONCERT",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "CARTOONITO",
+                "kanal_adi": "COOL JAZZ",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "CEM TV.",
+                "kanal_adi": "DANCE CLUBBIN",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "CGTN",
+                "kanal_adi": "DANCEFLOOR FILLERS",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "CNBC-e",
+                "kanal_adi": "DEEP BLUES",
                 "changes": {
                     "kalite": {
                         "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "DIGITURK 4K",
+                "changes": {
+                    "kalite": {
+                        "old": "4K",
                         "new": "HD"
                     }
                 }
             },
             {
-                "kanal_adi": "CNN INTERNATIONAL",
+                "kanal_adi": "DIS YAY ORTA DALGA ARAPÇA",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "COSMO EN",
+                "kanal_adi": "DİYALOG FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "COSMOSPORTS",
+                "kanal_adi": "DiYANET RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "DA VINCI",
+                "kanal_adi": "DİYANET RİSALET RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "DASATHA",
+                "kanal_adi": "DREAMY",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "DD SPORTS",
+                "kanal_adi": "EASY LISTENING",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "DERANA 24",
+                "kanal_adi": "EASY LISTENING",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "DERANA",
+                "kanal_adi": "ENERGETIC",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "DİZİ SMART MAX",
+                "kanal_adi": "ERKAM RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "DOCUSCREEN",
+                "kanal_adi": "ERZURUM RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "DW",
+                "kanal_adi": "ERZURUM RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "EKOL SPORTS",
+                "kanal_adi": "FENOMENTÜRK",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "FM TV",
+                "changes": {
+                    "tur": {
+                        "old": "RADYO",
+                        "new": "TV"
                     }
                 }
             },
             {
-                "kanal_adi": "EPIC DRAMA",
+                "kanal_adi": "FOLK ROODS",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "EURO NEWS",
+                "kanal_adi": "GREATEST HITS",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "EUROSPORT 1",
+                "kanal_adi": "GREEK SONGS",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "FASHION TV",
+                "kanal_adi": "GROOVE DISCO &",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "FASHION TV",
+                "kanal_adi": "HABERTÜRK RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "FILMSCREEN",
+                "kanal_adi": "HAPPY",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "FRANCE 24",
+                "kanal_adi": "HIP HOP R&B",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "FREESAT 39",
+                "kanal_adi": "HIP HOP",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "FREESAT ONE",
+                "kanal_adi": "HIT LIST",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "GRT.",
+                "kanal_adi": "HOT COUNTRY UK",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "GZT",
+                "kanal_adi": "HOTTEST HITS",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "HIRU",
+                "kanal_adi": "HOUSE",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "HITZ",
+                "kanal_adi": "HT SPOR RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "HT SPOR",
+                "kanal_adi": "HT",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "İLKE TV",
+                "kanal_adi": "IN LOVE",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "ITN",
+                "kanal_adi": "INTERNATIONAL",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "ITV",
+                "kanal_adi": "İSTANBUL FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "KANAL 1",
+                "kanal_adi": "JAZZ CLASSICS",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "KBS KOREA",
+                "kanal_adi": "JAZZ LATINO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "KBS WORLD",
+                "kanal_adi": "JAZZ NOW",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "LOVE NATURE",
+                "kanal_adi": "JAZZ",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "MEDITATION",
+                "kanal_adi": "JOY FM TÜRKİYE",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "MOONBUG",
+                "kanal_adi": "JOYTÜRK",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "MOVIE CLASSIC",
+                "kanal_adi": "KAFA RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "MOVIE TÜRK",
+                "kanal_adi": "Kalp FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "NATURE ESCAPE",
+                "kanal_adi": "KARADENIZ FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "NETHRA",
+                "kanal_adi": "KIBRIS FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "NHK",
+                "kanal_adi": "KRAL FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "NICK JR.",
+                "kanal_adi": "KRAL POP",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "NICKTOONS",
+                "kanal_adi": "KURAN RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "RANGIRI",
+                "kanal_adi": "KÜPE FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "RT.",
+                "kanal_adi": "LALEGÜL FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "RUPAVAHINI",
+                "kanal_adi": "LATINO TROPICAL",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "S SPORT",
+                "kanal_adi": "LATIN",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "SADDAMAVAHINI",
+                "kanal_adi": "LİG RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "SERCEM TV",
+                "kanal_adi": "LOVE SONGS",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "SHAKTHI",
+                "kanal_adi": "MASAL RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "SHRADDA",
+                "kanal_adi": "MAXIMUM PARTY",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "SIRASA",
+                "kanal_adi": "MEDITERREAN MUSIC",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "SIYATHA",
+                "kanal_adi": "MELANCHOLIC",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "SPOR SMART",
+                "kanal_adi": "METEOROLOJININ SESI",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "SPORSMART 2",
+                "kanal_adi": "METRO FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "SPORTSTV",
+                "kanal_adi": "MORNING COFFEE",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "STAR TAMIL",
+                "kanal_adi": "NICE/COZY",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "SUPREME",
+                "kanal_adi": "NR1 FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "SWARNAVAHINI",
+                "kanal_adi": "NR1 TÜRK FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "SZC",
+                "kanal_adi": "NTV RADYO",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "T.A.Y. TV",
+                "kanal_adi": "NU JAZZ",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "TALENT TV",
+                "kanal_adi": "OLDIES BUT GOLDIES",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "TARAFTAR 2",
+                "kanal_adi": "OPERA",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "TARAFTAR 3",
+                "kanal_adi": "PAL NOSTALJİ",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "TARAFTAR",
+                "kanal_adi": "PAL STATION",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "TELENEWS",
+                "kanal_adi": "PARTY",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "THREEVISION",
+                "kanal_adi": "POPCORN",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "TİCARİ beIN SPORTS 1",
+                "kanal_adi": "POWER FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "TİCARİ beIN SPORTS 2",
+                "kanal_adi": "POWERTURK FM",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "TİCARİ beIN SPORTS 3",
+                "kanal_adi": "PRD 2",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "TİCARİ beIN SPORTS 4",
+                "kanal_adi": "PRD 3",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "TİCARİ beIN SPORTS 5",
+                "kanal_adi": "PRD 4",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "TRT 3 SPOR",
+                "kanal_adi": "PRD 6",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "TRT SPOR YILDIZ",
+                "kanal_adi": "PRD 7",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "TV1",
+                "kanal_adi": "RADIOSPUTNIK",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "TV5 MONDE",
+                "kanal_adi": "RADYO 1",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "TYT TÜRK",
+                "kanal_adi": "RADYO 1",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "VASANTHAM",
+                "kanal_adi": "RADYO 2(TRT FM)",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "VAV TV",
+                "kanal_adi": "RADYO 3",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "VERBUM",
+                "kanal_adi": "RADYO 3",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO 7 HD",
+                "changes": {
+                    "kalite": {
+                        "old": "HD",
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "VIASAT HISTORY",
+                "kanal_adi": "RADYO 7",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "WION",
+                "kanal_adi": "RADYO 7",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "WITNESS EYE",
+                "kanal_adi": "RADYO 90'LAR",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "WITNESS EYE",
+                "kanal_adi": "RADYO ABC",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
                     }
                 }
             },
             {
-                "kanal_adi": "ŞÖMİNE KEYFİ",
+                "kanal_adi": "RADYO AKUSTİK",
                 "changes": {
                     "kalite": {
                         "old": "SD",
-                        "new": "HD"
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO ARABESK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO BLUES",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO DİNİ MUSİKİ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO D",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO FENOMEN",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO FİLM MÜZİKLERİ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO GAP",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO JAZZ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO KLASİK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO LOUNGE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO MARS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO MUTLU",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO OLDIES",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO RETRO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO SPOR",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO TAŞPLAK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO TİVİBU ÇOCUK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO TURKUVAZ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO TÜRK HALK MÜZİGİ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO TÜRK SANAT MÜZİGİ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO TÜRKÇE POP",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO TÜRKÇE SLOW",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO YABANCI POP",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO YABANCI ROCK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO YABANCI SLOW",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO ÇALIŞIYORİKEN",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RD 2000 FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RD SEYMEN",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "REGGAE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RELAXATION",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RİBAT FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RIDDIM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ROCK ANTHEMS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ROCK'N'ROLL",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ROCK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ROMANCE LATINO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SAHİL GÜVENLİK RADYOSU",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SEMERKAND RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SEYR FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SHOW RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SILK (LOVE SONGS)",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SLOWTÜRK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SMOOTH JAZZ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SMOOTH JAZZ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SOHO 70'S",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SÜPER FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TANGO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TGRT FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "THE CHILL LOUNGE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TINT",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRABZON RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRABZON RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRANCE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT HABER RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT MEMLEKETİM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT NAGME",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT NAGME",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT RADYO KURDİ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT RADYO KURDİ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT TURKU",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT TURKU",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT ULTRA HD TV",
+                "changes": {
+                    "kalite": {
+                        "old": "HD",
+                        "new": "4K"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT VOT 1",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT WORLD RD",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TSR TURKÇE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TSR TURKÇE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TURK SANAT MUZIGI",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TURKISH SILK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TV NET RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TÜRKÇE MÜZİK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TÜRKÇE POP",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "URBAN BEATS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VAV RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VİRGİN RADIO TÜRKİYE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VIVA RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VOT EAST",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VOT EAST",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VOT WEST",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VOT WEST",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VOT WORLD",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VOT WORLD",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ÇAĞRI FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ÇUKUROVA RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ÇUKUROVA RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            }
+        ],
+        "quality_changes": [
+            {
+                "kanal_adi": "POLİS RADYOSU",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "POLİS RADYOSU",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VOIX DU SAHEL",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VOIX DU SAHEL",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "2000'ler",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "24KZ TV",
+                "changes": {
+                    "kalite": {
+                        "old": "4K",
+                        "new": "SD"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "45'LİK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "5+1 CONCERTS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "60S",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "80'S HITS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "80S",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "90'S HITS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "90S",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "A HABER RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "A SPOR RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "AKRA FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ALEM FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ALEM FM.",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "AMERICA'S CLASSICS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ANTALYA RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ANTALYA RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "AROUND THE WORLD",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "BAROQUE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "BAYRAK FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "BAYRAM FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "BEST FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "BEST FM.",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "BLOOMBERGHT RD",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "BLUES",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "BROADWAY",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "BRT RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "CHANSONS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "CHILLOUT/LOUNGE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "CHILLOUT",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "CLASSIC MASTERS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "CLASSIC ROCK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "CLASSIC ROCK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "CLASSICAL CALM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "CLASSICAL GREATS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "CLASSICAL MUSIC",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "CLASSICAL ORCHESTRAL",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "CNNTURK RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "CONCERT",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "COOL JAZZ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "DANCE CLUBBIN",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "DANCEFLOOR FILLERS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "DEEP BLUES",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "DIGITURK 4K",
+                "changes": {
+                    "kalite": {
+                        "old": "4K",
+                        "new": "HD"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "DIS YAY ORTA DALGA ARAPÇA",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "DİYALOG FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "DiYANET RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "DİYANET RİSALET RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "DREAMY",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "EASY LISTENING",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "EASY LISTENING",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ENERGETIC",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ERKAM RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ERZURUM RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ERZURUM RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "FENOMENTÜRK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "FOLK ROODS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "GREATEST HITS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "GREEK SONGS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "GROOVE DISCO &",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "HABERTÜRK RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "HAPPY",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "HIP HOP R&B",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "HIP HOP",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "HIT LIST",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "HOT COUNTRY UK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "HOTTEST HITS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "HOUSE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "HT SPOR RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "HT",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "IN LOVE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "INTERNATIONAL",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "İSTANBUL FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "JAZZ CLASSICS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "JAZZ LATINO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "JAZZ NOW",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "JAZZ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "JOY FM TÜRKİYE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "JOYTÜRK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "KAFA RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "Kalp FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "KARADENIZ FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "KIBRIS FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "KRAL FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "KRAL POP",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "KURAN RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "KÜPE FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "LALEGÜL FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "LATINO TROPICAL",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "LATIN",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "LİG RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "LOVE SONGS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "MASAL RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "MAXIMUM PARTY",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "MEDITERREAN MUSIC",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "MELANCHOLIC",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "METEOROLOJININ SESI",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "METRO FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "MORNING COFFEE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "NICE/COZY",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "NR1 FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "NR1 TÜRK FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "NTV RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "NU JAZZ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "OLDIES BUT GOLDIES",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "OPERA",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "PAL NOSTALJİ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "PAL STATION",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "PARTY",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "POPCORN",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "POWER FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "POWERTURK FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "PRD 2",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "PRD 3",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "PRD 4",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "PRD 6",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "PRD 7",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADIOSPUTNIK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO 1",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO 1",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO 2(TRT FM)",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO 3",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO 3",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO 7 HD",
+                "changes": {
+                    "kalite": {
+                        "old": "HD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO 7",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO 7",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO 90'LAR",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO ABC",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO AKUSTİK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO ARABESK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO BLUES",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO DİNİ MUSİKİ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO D",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO FENOMEN",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO FİLM MÜZİKLERİ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO GAP",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO JAZZ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO KLASİK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO LOUNGE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO MARS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO MUTLU",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO OLDIES",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO RETRO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO SPOR",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO TAŞPLAK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO TİVİBU ÇOCUK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO TURKUVAZ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO TÜRK HALK MÜZİGİ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO TÜRK SANAT MÜZİGİ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO TÜRKÇE POP",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO TÜRKÇE SLOW",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO YABANCI POP",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO YABANCI ROCK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO YABANCI SLOW",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RADYO ÇALIŞIYORİKEN",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RD 2000 FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RD SEYMEN",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "REGGAE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RELAXATION",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RİBAT FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "RIDDIM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ROCK ANTHEMS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ROCK'N'ROLL",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ROCK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ROMANCE LATINO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SAHİL GÜVENLİK RADYOSU",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SEMERKAND RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SEYR FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SHOW RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SILK (LOVE SONGS)",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SLOWTÜRK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SMOOTH JAZZ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SMOOTH JAZZ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SOHO 70'S",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "SÜPER FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TANGO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TGRT FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "THE CHILL LOUNGE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TINT",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRABZON RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRABZON RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRANCE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT HABER RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT MEMLEKETİM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT NAGME",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT NAGME",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT RADYO KURDİ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT RADYO KURDİ",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT TURKU",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT TURKU",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT ULTRA HD TV",
+                "changes": {
+                    "kalite": {
+                        "old": "HD",
+                        "new": "4K"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT VOT 1",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TRT WORLD RD",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TSR TURKÇE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TSR TURKÇE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TURK SANAT MUZIGI",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TURKISH SILK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TV NET RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TÜRKÇE MÜZİK",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "TÜRKÇE POP",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "URBAN BEATS",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VAV RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VİRGİN RADIO TÜRKİYE",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VIVA RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VOT EAST",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VOT EAST",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VOT WEST",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VOT WEST",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VOT WORLD",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "VOT WORLD",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ÇAĞRI FM",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ÇUKUROVA RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            },
+            {
+                "kanal_adi": "ÇUKUROVA RADYO",
+                "changes": {
+                    "kalite": {
+                        "old": "SD",
+                        "new": "Bilinmeyen"
+                    }
+                }
+            }
+        ],
+        "non_quality_technical_changes": [
+            {
+                "kanal_adi": "FM TV",
+                "changes": {
+                    "tur": {
+                        "old": "RADYO",
+                        "new": "TV"
                     }
                 }
             }
         ],
         "added_transponders": [],
         "removed_transponders": [],
-        "type_changes": [],
+        "type_changes": [
+            {
+                "kanal_adi": "FM TV",
+                "changes": {
+                    "tur": {
+                        "old": "RADYO",
+                        "new": "TV"
+                    }
+                }
+            }
+        ],
         "summary": {
             "old_channel_count": 765,
             "new_channel_count": 765,
             "old_tp_count": 58,
             "new_tp_count": 58,
             "old_radio_count": 216,
-            "new_radio_count": 216,
+            "new_radio_count": 215,
             "old_tv_count": 549,
-            "new_tv_count": 549
+            "new_tv_count": 550
         }
     }
 }
