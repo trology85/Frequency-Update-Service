@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-07-26T12:40:48.604792+00:00",
+  "generated_utc": "2026-07-28T05:46:51.687151+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=13E",
-    "last_updated": "2026-07-24"
+    "last_updated": "2026-07-27"
   },
   "satellite": {
     "id": "hotbird_13",
@@ -13,10 +13,10 @@
   },
   "counts": {
     "transponders": 83,
-    "channels": 1135,
-    "tv": 1035,
+    "channels": 1136,
+    "tv": 1036,
     "radio": 100,
-    "sd": 462,
+    "sd": 463,
     "hd": 554,
     "uhd_4k": 5,
     "unknown_quality": 14
@@ -1634,8 +1634,8 @@
       "network": "Eutelsat",
       "nid": 318,
       "tid": 9300,
-      "channel_count": 5,
-      "tv_count": 5,
+      "channel_count": 6,
+      "tv_count": 6,
       "radio_count": 0,
       "source_transponder_id": 13087
     },
@@ -14040,7 +14040,7 @@
       "tid": 1200,
       "source_channel_id": 109317,
       "source_transponder_id": 12407,
-      "updated": "2023-06-24",
+      "updated": "2026-07-27",
       "tp_id": "hotbird_13:11432:V:29900"
     },
     {
@@ -14071,7 +14071,7 @@
       "tid": 1200,
       "source_channel_id": 109318,
       "source_transponder_id": 12407,
-      "updated": "2023-06-24",
+      "updated": "2026-07-27",
       "tp_id": "hotbird_13:11432:V:29900"
     },
     {
@@ -14102,7 +14102,7 @@
       "tid": 1200,
       "source_channel_id": 109319,
       "source_transponder_id": 12407,
-      "updated": "2023-06-24",
+      "updated": "2026-07-27",
       "tp_id": "hotbird_13:11432:V:29900"
     },
     {
@@ -20395,7 +20395,7 @@
       "tid": 5200,
       "source_channel_id": 101153,
       "source_transponder_id": 3480,
-      "updated": "2017-01-06",
+      "updated": "2026-07-27",
       "tp_id": "hotbird_13:11766:V:29900"
     },
     {
@@ -20426,7 +20426,7 @@
       "tid": 5200,
       "source_channel_id": 26146,
       "source_transponder_id": 3480,
-      "updated": "2020-12-19",
+      "updated": "2026-07-27",
       "tp_id": "hotbird_13:11766:V:29900"
     },
     {
@@ -32362,6 +32362,37 @@
       "source_channel_id": 161499,
       "source_transponder_id": 13087,
       "updated": "2025-07-18",
+      "tp_id": "hotbird_13:12577:H:27500"
+    },
+    {
+      "name": "Primaset",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Hot Bird 13.0°E",
+      "spacecraft": "Eutelsat Hot Bird 13G",
+      "position": "13.0E",
+      "frequency": 12577,
+      "polarization": "H",
+      "symbol_rate": 27500,
+      "fec": "3/4",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 1623,
+      "country": "",
+      "country_code": "",
+      "beam": "Wide",
+      "provider": "Eutelsat",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4",
+      "vpid": 6231,
+      "audio": "6232 / ita",
+      "nid": 318,
+      "tid": 9300,
+      "source_channel_id": 168954,
+      "source_transponder_id": 13087,
+      "updated": "2026-07-27",
       "tp_id": "hotbird_13:12577:H:27500"
     },
     {

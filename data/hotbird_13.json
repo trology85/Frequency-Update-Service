@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-07-26T12:40:48.604792+00:00",
+  "guncelleme_tarihi": "2026-07-28T05:46:51.687151+00:00",
   "uydu_adi": "Hot Bird 13.0°E",
-  "toplam_kanal": 1135,
+  "toplam_kanal": 1136,
   "toplam_tp": 83,
   "transponderler": [
     {
@@ -1077,8 +1077,8 @@
       "fec": "3/4",
       "uydu": "Eutelsat Hot Bird 13G",
       "kapsama": "Wide",
-      "kanal_sayisi": 5,
-      "tv_sayisi": 5,
+      "kanal_sayisi": 6,
+      "tv_sayisi": 6,
       "radyo_sayisi": 0,
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E"
@@ -13549,6 +13549,24 @@
       "sid": "15920",
       "paket": "Polsat Box",
       "tp_id": "hotbird_13:10911:V:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "Primaset",
+      "frekans": 12577,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "6231",
+      "ses_pid": "6232 / ita",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1623",
+      "paket": "Eutelsat",
+      "tp_id": "hotbird_13:12577:H:27500",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
       "kapsama": "Wide"
