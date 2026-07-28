@@ -1,13 +1,13 @@
 {
   "uydu_id": "hotbird_13",
   "uydu_adi": "Hot Bird 13.0°E",
-  "olusturma_zamani_utc": "2026-07-28T05:46:51.878324+00:00",
+  "olusturma_zamani_utc": "2026-07-28T16:41:39.203823+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 1021,
+    "onceki_kanal": 1022,
     "yeni_kanal": 1022,
-    "eklenen_kanal": 1,
+    "eklenen_kanal": 0,
     "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
@@ -15,45 +15,12 @@
     "yeni_tp": 82,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "Primaset",
-      "frekans": 12577,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "6231",
-      "ses_pid": "6232 / ita",
-      "uydu": "Eutelsat Hot Bird 13G",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "1623",
-      "paket": "Eutelsat",
-      "tp_id": "hotbird_13:12577:H:27500",
-      "konum_id": "hotbird_13",
-      "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
-    }
-  ],
+  "eklenen_kanallar": [],
   "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "hotbird_13:12577:H:27500",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 5,
-          "yeni": 6
-        },
-        "tv_sayisi": {
-          "onceki": 5,
-          "yeni": 6
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }

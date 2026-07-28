@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-07-28T05:46:51.687151+00:00",
+  "generated_utc": "2026-07-28T16:41:38.972866+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=13E",
-    "last_updated": "2026-07-27"
+    "last_updated": "2026-07-28"
   },
   "satellite": {
     "id": "hotbird_13",
@@ -14040,7 +14040,7 @@
       "tid": 1200,
       "source_channel_id": 109317,
       "source_transponder_id": 12407,
-      "updated": "2026-07-27",
+      "updated": "2026-07-28",
       "tp_id": "hotbird_13:11432:V:29900"
     },
     {
@@ -14071,7 +14071,7 @@
       "tid": 1200,
       "source_channel_id": 109318,
       "source_transponder_id": 12407,
-      "updated": "2026-07-27",
+      "updated": "2026-07-28",
       "tp_id": "hotbird_13:11432:V:29900"
     },
     {
@@ -14102,7 +14102,7 @@
       "tid": 1200,
       "source_channel_id": 109319,
       "source_transponder_id": 12407,
-      "updated": "2026-07-27",
+      "updated": "2026-07-28",
       "tp_id": "hotbird_13:11432:V:29900"
     },
     {
@@ -20395,7 +20395,7 @@
       "tid": 5200,
       "source_channel_id": 101153,
       "source_transponder_id": 3480,
-      "updated": "2026-07-27",
+      "updated": "2026-07-28",
       "tp_id": "hotbird_13:11766:V:29900"
     },
     {
@@ -20426,7 +20426,7 @@
       "tid": 5200,
       "source_channel_id": 26146,
       "source_transponder_id": 3480,
-      "updated": "2026-07-27",
+      "updated": "2026-07-28",
       "tp_id": "hotbird_13:11766:V:29900"
     },
     {
@@ -20550,7 +20550,7 @@
       "tid": 5200,
       "source_channel_id": 130733,
       "source_transponder_id": 3480,
-      "updated": "2020-12-19",
+      "updated": "2026-07-28",
       "tp_id": "hotbird_13:11766:V:29900"
     },
     {
@@ -27370,7 +27370,7 @@
       "tid": 7200,
       "source_channel_id": 158005,
       "source_transponder_id": 14489,
-      "updated": "2025-03-17",
+      "updated": "2026-07-28",
       "tp_id": "hotbird_13:12149:V:27500"
     },
     {

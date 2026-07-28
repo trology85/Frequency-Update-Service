@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-07-28T05:46:35.073790+00:00",
+  "run_utc": "2026-07-28T16:41:20.626591+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-07-28T05:46:36.778795+00:00",
+  "run_utc": "2026-07-28T16:41:22.234190+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,9 +32,9 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-19.2E",
       "title": "Astra 1M / Astra 1N / Astra 1P (19.2°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1095368,
+      "bytes": 1095918,
       "frequency_rows": 123,
-      "channel_rows": 1009,
+      "channel_rows": 1010,
       "advertised_records": 1041,
       "block_markers": [],
       "raw_file": "raw/kingofsat/astra_19_2.html",
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-07-28T05:46:40.457437+00:00",
+  "generated_utc": "2026-07-28T16:41:26.643195+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 811,
       "tv": 682,
       "radio": 129,
-      "source_updated": "2026-07-27"
+      "source_updated": "2026-07-28"
     }
   ]
 }
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-07-28T05:46:42.433360+00:00",
+  "run_utc": "2026-07-28T16:41:28.942374+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -124,13 +124,13 @@
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "66f42543326982a03d59967c4915a6a79dd5bd289d821ef431adf5f763c790c8",
+      "candidate_hash": "f8c403c08b9c036152177e600151b4849daab6f9be17ed2129e7d255f4655dbf",
       "current_hash": "66f42543326982a03d59967c4915a6a79dd5bd289d821ef431adf5f763c790c8",
-      "changed": false,
+      "changed": true,
       "added": 0,
       "removed": 0,
-      "updated": 0
+      "updated": 1
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true
