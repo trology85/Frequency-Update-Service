@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-07-28T16:41:29.095975+00:00",
+  "run_utc": "2026-07-29T05:53:14.848793+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-07-28T16:41:30.744655+00:00",
+  "run_utc": "2026-07-29T05:53:16.784318+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-13E",
       "title": "Hot Bird 13F / Hot Bird 13G (13°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1518955,
+      "bytes": 1515943,
       "frequency_rows": 131,
-      "channel_rows": 1506,
-      "advertised_records": 1558,
+      "channel_rows": 1499,
+      "advertised_records": 1551,
       "block_markers": [],
       "raw_file": "raw/kingofsat/hotbird_13.html",
       "errors": []
@@ -45,16 +45,16 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-07-28T16:41:35.448393+00:00",
+  "generated_utc": "2026-07-29T05:53:22.408255+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
       "id": "hotbird_13",
       "transponders": 72,
-      "channels": 1220,
-      "tv": 957,
+      "channels": 1223,
+      "tv": 960,
       "radio": 263,
-      "source_updated": "2026-07-27"
+      "source_updated": "2026-07-29"
     }
   ]
 }
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-07-28T16:41:39.124245+00:00",
+  "run_utc": "2026-07-29T05:53:26.135937+00:00",
   "ok": true,
-  "should_publish": true,
+  "should_publish": false,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -125,12 +125,12 @@
       "missing_core_fields": 0,
       "duplicate_identities": 0,
       "candidate_hash": "72d323649f0e1d9620e5ba9b2244c6d3927a64230e6f7c95bd856ecbab668cea",
-      "current_hash": "3f4f6995b352fe3d8f7180f6f8eed1a4ef38dbc52833dc8a819ce7b32ed4a1b9",
-      "changed": true,
+      "current_hash": "72d323649f0e1d9620e5ba9b2244c6d3927a64230e6f7c95bd856ecbab668cea",
+      "changed": false,
       "added": 0,
       "removed": 0,
-      "updated": 7
+      "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=true
+SHOULD_PUBLISH=false
