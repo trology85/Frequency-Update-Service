@@ -1,9 +1,9 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "29.07.2026 05:52:52",
+  "guncelleme_tarihi": "29.07.2026 16:21:38",
   "uydu_adi": "Türksat 42.0°E",
-  "toplam_kanal": 766,
-  "toplam_tp": 57,
+  "toplam_kanal": 767,
+  "toplam_tp": 58,
   "transponderler": [
     {
       "tp_id": "11012_H_30000",
@@ -169,6 +169,20 @@
       "kapsama": "Doğu",
       "kanal_sayisi": 19,
       "tv_sayisi": 19,
+      "radyo_sayisi": 0,
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
+      "tp_id": "11767_V_15000",
+      "frekans": 11767,
+      "polarizasyon": "V",
+      "sembol_orani": 15000,
+      "fec": "3/4",
+      "uydu": "T4A",
+      "kapsama": "TR",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
       "radyo_sayisi": 0,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -3938,6 +3952,22 @@
       "kalite": "SD",
       "tur": "TV",
       "tp_id": "11746_H_27500",
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
+      "kanal_adi": "TRT ULTRA HD TV",
+      "frekans": 11767,
+      "polarizasyon": "V",
+      "kapsama": "TR",
+      "sembol_orani": 15000,
+      "fec": "3/4",
+      "video_pid": "4855",
+      "ses_pid": "4955",
+      "uydu": "T4A",
+      "kalite": "4K",
+      "tur": "TV",
+      "tp_id": "11767_V_15000",
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
     },
