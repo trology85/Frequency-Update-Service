@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-07-26T12:40:53.767392+00:00",
+  "generated_utc": "2026-08-02T05:58:27.292176+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=39E",
-    "last_updated": "2026-07-24"
+    "last_updated": "2026-08-01"
   },
   "satellite": {
     "id": "hellas_39",
@@ -13,10 +13,10 @@
   },
   "counts": {
     "transponders": 32,
-    "channels": 586,
-    "tv": 566,
+    "channels": 587,
+    "tv": 567,
     "radio": 20,
-    "sd": 305,
+    "sd": 306,
     "hd": 128,
     "uhd_4k": 1,
     "unknown_quality": 132
@@ -38,8 +38,8 @@
       "network": "",
       "nid": 702,
       "tid": 1,
-      "channel_count": 21,
-      "tv_count": 13,
+      "channel_count": 22,
+      "tv_count": 14,
       "radio_count": 8,
       "source_transponder_id": 13497
     },
@@ -1345,6 +1345,37 @@
       "source_channel_id": 167432,
       "source_transponder_id": 13497,
       "updated": "2026-07-24",
+      "tp_id": "hellas_39:10730:H:30000"
+    },
+    {
+      "name": "HTV",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Hellas Sat 39.0°E",
+      "spacecraft": "HellasSat 4",
+      "position": "39.0E",
+      "frequency": 10730,
+      "polarization": "H",
+      "symbol_rate": 30000,
+      "fec": "3/4",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 2026,
+      "country": "",
+      "country_code": "",
+      "beam": "EuropeFSS",
+      "provider": "",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4",
+      "vpid": 62,
+      "audio": "257 / gre",
+      "nid": 702,
+      "tid": 1,
+      "source_channel_id": 169059,
+      "source_transponder_id": 13497,
+      "updated": "2026-08-01",
       "tp_id": "hellas_39:10730:H:30000"
     },
     {

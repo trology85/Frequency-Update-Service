@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-07-26T12:40:53.767392+00:00",
+  "guncelleme_tarihi": "2026-08-02T05:58:27.292176+00:00",
   "uydu_adi": "Hellas Sat 39.0°E",
-  "toplam_kanal": 586,
+  "toplam_kanal": 587,
   "toplam_tp": 32,
   "transponderler": [
     {
@@ -13,8 +13,8 @@
       "fec": "3/4",
       "uydu": "HellasSat 4",
       "kapsama": "EuropeFSS",
-      "kanal_sayisi": 21,
-      "tv_sayisi": 13,
+      "kanal_sayisi": 22,
+      "tv_sayisi": 14,
       "radyo_sayisi": 8,
       "konum_id": "hellas_39",
       "konum_adi": "Hellas Sat 39.0°E"
@@ -5494,6 +5494,24 @@
       "konum_id": "hellas_39",
       "konum_adi": "Hellas Sat 39.0°E",
       "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "HTV",
+      "frekans": 10730,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "62",
+      "ses_pid": "257 / gre",
+      "uydu": "HellasSat 4",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "2026",
+      "paket": "",
+      "tp_id": "hellas_39:10730:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
     },
     {
       "kanal_adi": "HTV",
