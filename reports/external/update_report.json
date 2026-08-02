@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-08-02T05:57:59.203749+00:00",
+  "run_utc": "2026-08-02T16:01:41.528008+00:00",
   "ok": true,
   "successful": 3,
   "failed": 0,
@@ -37,7 +37,7 @@
       "errors": [],
       "channels": 587,
       "transponders": 32,
-      "changed": true,
+      "changed": false,
       "diff": "reports/external/hellas_39_diff.json",
       "previous": "data/hellas_39_previous.json",
       "output": "data/hellas_39.json",

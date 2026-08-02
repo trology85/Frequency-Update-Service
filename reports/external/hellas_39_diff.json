@@ -1,13 +1,13 @@
 {
   "uydu_id": "hellas_39",
   "uydu_adi": "Hellas Sat 39.0°E",
-  "olusturma_zamani_utc": "2026-08-02T05:58:27.478066+00:00",
+  "olusturma_zamani_utc": "2026-08-02T16:02:02.343705+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 571,
+    "onceki_kanal": 572,
     "yeni_kanal": 572,
-    "eklenen_kanal": 1,
+    "eklenen_kanal": 0,
     "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
@@ -15,45 +15,12 @@
     "yeni_tp": 32,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "HTV",
-      "frekans": 10730,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "video_pid": "62",
-      "ses_pid": "257 / gre",
-      "uydu": "HellasSat 4",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "2026",
-      "paket": "",
-      "tp_id": "hellas_39:10730:H:30000",
-      "konum_id": "hellas_39",
-      "konum_adi": "Hellas Sat 39.0°E",
-      "kapsama": "EuropeFSS"
-    }
-  ],
+  "eklenen_kanallar": [],
   "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "hellas_39:10730:H:30000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 21,
-          "yeni": 22
-        },
-        "tv_sayisi": {
-          "onceki": 13,
-          "yeni": 14
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }
