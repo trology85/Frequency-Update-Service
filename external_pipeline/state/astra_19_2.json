@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-07-28T16:41:28.814410+00:00",
+  "generated_utc": "2026-08-05T16:43:18.302829+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=19E",
-    "last_updated": "2026-07-28"
+    "last_updated": "2026-08-05"
   },
   "satellite": {
     "id": "astra_19_2",
@@ -10332,7 +10332,7 @@
       "tid": 1046,
       "source_channel_id": 158300,
       "source_transponder_id": 1317,
-      "updated": "2025-01-28",
+      "updated": "2026-08-05",
       "tp_id": "astra_19_2:11156:V:22000"
     },
     {
