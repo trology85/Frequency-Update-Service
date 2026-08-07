@@ -1,26 +1,173 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-08-06T05:49:14.729954+00:00",
+  "olusturma_zamani_utc": "2026-08-07T04:55:24.716591+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 862,
-    "yeni_kanal": 862,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "yeni_kanal": 861,
+    "eklenen_kanal": 2,
+    "silinen_kanal": 3,
+    "degisen_kanal": 1,
     "tur_degisen_kanal": 0,
     "onceki_tp": 88,
     "yeni_tp": 88,
-    "eklenen_tp": 0,
-    "silinen_tp": 0,
-    "degisen_tp": 0
+    "eklenen_tp": 1,
+    "silinen_tp": 1,
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
-  "degisen_kanallar": [],
-  "eklenen_transponderler": [],
-  "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": ".1.",
+      "frekans": 11171,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "5119",
+      "ses_pid": "5120 / ger",
+      "uydu": "Astra 1P",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "4718",
+      "paket": "SES Astra",
+      "tp_id": "astra_19_2:11171:H:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    },
+    {
+      "kanal_adi": ".2.",
+      "frekans": 11171,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "5375",
+      "ses_pid": "5376 / ger",
+      "uydu": "Astra 1P",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "4719",
+      "paket": "SES Astra",
+      "tp_id": "astra_19_2:11171:H:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    }
+  ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "CAZA Y PESCA",
+      "frekans": 11156,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "169",
+      "ses_pid": "",
+      "uydu": "Astra 1P",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30507",
+      "paket": "Movistar+",
+      "tp_id": "astra_19_2:11156:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    },
+    {
+      "kanal_adi": ".1.",
+      "frekans": 11421,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "5119",
+      "ses_pid": "5120 / ger",
+      "uydu": "Astra 1P",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "4718",
+      "paket": "SES Astra",
+      "tp_id": "astra_19_2:11421:H:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    },
+    {
+      "kanal_adi": ".2.",
+      "frekans": 11421,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "5375",
+      "ses_pid": "5376 / ger",
+      "uydu": "Astra 1P",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "4719",
+      "paket": "SES Astra",
+      "tp_id": "astra_19_2:11421:H:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    }
+  ],
+  "degisen_kanallar": [
+    {
+      "anahtar": "astra_19_2|astra_19_2:11127:V:22000|sid:30866",
+      "kanal_adi": "M+LALIGA 4",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "DAZN Mundial 6",
+          "yeni": "M+LALIGA 4"
+        }
+      }
+    }
+  ],
+  "eklenen_transponderler": [
+    {
+      "tp_id": "astra_19_2:11171:H:22000",
+      "frekans": 11171,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "uydu": "Astra 1P",
+      "kapsama": "PE2",
+      "kanal_sayisi": 2,
+      "tv_sayisi": 2,
+      "radyo_sayisi": 0,
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E"
+    }
+  ],
+  "silinen_transponderler": [
+    {
+      "tp_id": "astra_19_2:11421:H:22000",
+      "frekans": 11421,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "uydu": "Astra 1P",
+      "kapsama": "PE2",
+      "kanal_sayisi": 2,
+      "tv_sayisi": 2,
+      "radyo_sayisi": 0,
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E"
+    }
+  ],
+  "degisen_transponderler": [
+    {
+      "anahtar": "astra_19_2:11156:V:22000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 13,
+          "yeni": 12
+        },
+        "tv_sayisi": {
+          "onceki": 13,
+          "yeni": 12
+        }
+      }
+    }
+  ]
 }
