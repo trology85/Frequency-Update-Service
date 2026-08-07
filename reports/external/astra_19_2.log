@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-08-07T04:55:18.372562+00:00",
+  "run_utc": "2026-08-07T15:56:43.824735+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-08-07T04:55:19.997990+00:00",
+  "run_utc": "2026-08-07T15:56:45.745800+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-19.2E",
       "title": "Astra 1M / Astra 1N / Astra 1P (19.2°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1089644,
+      "bytes": 1093447,
       "frequency_rows": 123,
-      "channel_rows": 1004,
-      "advertised_records": 1035,
+      "channel_rows": 1008,
+      "advertised_records": 1039,
       "block_markers": [],
       "raw_file": "raw/kingofsat/astra_19_2.html",
       "errors": []
@@ -45,14 +45,14 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-08-07T04:55:22.897648+00:00",
+  "generated_utc": "2026-08-07T15:56:50.265360+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
       "id": "astra_19_2",
       "transponders": 86,
-      "channels": 807,
-      "tv": 678,
+      "channels": 811,
+      "tv": 682,
       "radio": 129,
       "source_updated": "2026-08-07"
     }
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-08-07T04:55:24.662688+00:00",
+  "run_utc": "2026-08-07T15:56:52.667168+00:00",
   "ok": true,
-  "should_publish": true,
+  "should_publish": false,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -125,12 +125,12 @@
       "missing_core_fields": 0,
       "duplicate_identities": 0,
       "candidate_hash": "526bc41eb40db9225754afb888688d4a26b4646aace633f21fff2053053a498e",
-      "current_hash": "03a2a3136161d77e3737b6ab467b9f82f053e49bb94ba1d4dcdf9f04de70d1c4",
-      "changed": true,
+      "current_hash": "526bc41eb40db9225754afb888688d4a26b4646aace633f21fff2053053a498e",
+      "changed": false,
       "added": 0,
-      "removed": 1,
-      "updated": 3
+      "removed": 0,
+      "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=true
+SHOULD_PUBLISH=false
