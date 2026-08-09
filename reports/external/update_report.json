@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-08-08T15:29:48.656900+00:00",
+  "run_utc": "2026-08-09T04:18:07.447712+00:00",
   "ok": true,
   "successful": 3,
   "failed": 0,
@@ -22,9 +22,9 @@
       "name": "Hot Bird 13.0°E",
       "ok": true,
       "errors": [],
-      "channels": 1136,
+      "channels": 1133,
       "transponders": 83,
-      "changed": false,
+      "changed": true,
       "diff": "reports/external/hotbird_13_diff.json",
       "previous": "data/hotbird_13_previous.json",
       "output": "data/hotbird_13.json",

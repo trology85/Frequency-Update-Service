@@ -1,26 +1,108 @@
 {
   "uydu_id": "hotbird_13",
   "uydu_adi": "Hot Bird 13.0°E",
-  "olusturma_zamani_utc": "2026-08-08T15:30:03.901046+00:00",
+  "olusturma_zamani_utc": "2026-08-09T04:18:24.637554+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 1022,
-    "yeni_kanal": 1022,
+    "yeni_kanal": 1019,
     "eklenen_kanal": 0,
-    "silinen_kanal": 0,
+    "silinen_kanal": 3,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 82,
     "yeni_tp": 82,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 2
   },
   "eklenen_kanallar": [],
-  "silinen_kanallar": [],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "Nuta Gold",
+      "frekans": 10719,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "176",
+      "ses_pid": "138 / pol",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "4431",
+      "paket": "Canal+ Polska",
+      "tp_id": "hotbird_13:10719:V:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "Nuta TV",
+      "frekans": 10719,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "177",
+      "ses_pid": "140 / pol",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "4432",
+      "paket": "Canal+ Polska",
+      "tp_id": "hotbird_13:10719:V:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "Vantage Music",
+      "frekans": 11862,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "1391",
+      "ses_pid": "1392 / eng",
+      "uydu": "Eutelsat Hot Bird 13F",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "139",
+      "paket": "Kabelio",
+      "tp_id": "hotbird_13:11862:H:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    }
+  ],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "hotbird_13:10719:V:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 17,
+          "yeni": 15
+        },
+        "tv_sayisi": {
+          "onceki": 17,
+          "yeni": 15
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13:11862:H:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 25,
+          "yeni": 24
+        },
+        "tv_sayisi": {
+          "onceki": 25,
+          "yeni": 24
+        }
+      }
+    }
+  ]
 }
