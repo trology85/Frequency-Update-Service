@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-08-10T04:38:31.148913+00:00",
+  "run_utc": "2026-08-10T15:59:42.382422+00:00",
   "ok": true,
   "successful": 3,
   "failed": 0,
@@ -24,7 +24,7 @@
       "errors": [],
       "channels": 1122,
       "transponders": 83,
-      "changed": true,
+      "changed": false,
       "diff": "reports/external/hotbird_13_diff.json",
       "previous": "data/hotbird_13_previous.json",
       "output": "data/hotbird_13.json",
