@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "10.08.2026 15:59:28",
+  "guncelleme_tarihi": "11.08.2026 04:20:00",
   "uydu_adi": "Türksat 42.0°E",
-  "toplam_kanal": 781,
+  "toplam_kanal": 780,
   "toplam_tp": 59,
   "transponderler": [
     {
@@ -531,8 +531,8 @@
       "fec": "5/6",
       "uydu": "T4A",
       "kapsama": "TR",
-      "kanal_sayisi": 16,
-      "tv_sayisi": 16,
+      "kanal_sayisi": 15,
+      "tv_sayisi": 15,
       "radyo_sayisi": 0,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -5001,7 +5001,7 @@
       "sembol_orani": 20000,
       "fec": "3/4",
       "video_pid": "4138",
-      "ses_pid": "4338",
+      "ses_pid": "4238",
       "uydu": "T4A",
       "kalite": "HD",
       "tur": "TV",
@@ -8914,22 +8914,6 @@
       "konum_adi": "Türksat 42.0°E"
     },
     {
-      "kanal_adi": "SPORTSTV",
-      "frekans": 12245,
-      "polarizasyon": "H",
-      "kapsama": "TR",
-      "sembol_orani": 27500,
-      "fec": "5/6",
-      "video_pid": "117",
-      "ses_pid": "217",
-      "uydu": "T4A",
-      "kalite": "HD",
-      "tur": "TV",
-      "tp_id": "12245_H_27500",
-      "konum_id": "turksat_42",
-      "konum_adi": "Türksat 42.0°E"
-    },
-    {
       "kanal_adi": "T.A.Y. TV",
       "frekans": 12245,
       "polarizasyon": "H",
@@ -10185,7 +10169,7 @@
       "sembol_orani": 27500,
       "fec": "3/4",
       "video_pid": "",
-      "ses_pid": "6412",
+      "ses_pid": "6311",
       "uydu": "T4A",
       "kalite": "Bilinmeyen",
       "tur": "RADYO",
