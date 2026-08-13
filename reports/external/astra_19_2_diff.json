@@ -1,70 +1,26 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-08-12T15:59:04.095959+00:00",
+  "olusturma_zamani_utc": "2026-08-13T04:51:03.894378+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 861,
+    "onceki_kanal": 862,
     "yeni_kanal": 862,
-    "eklenen_kanal": 1,
+    "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 1,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 88,
     "yeni_tp": 88,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "LALIGA TV BAR 5",
-      "frekans": 11156,
-      "polarizasyon": "V",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "video_pid": "169",
-      "ses_pid": "116 / spa",
-      "uydu": "Astra 1P",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "30507",
-      "paket": "Movistar+ Astra",
-      "tp_id": "astra_19_2:11156:V:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE2"
-    }
-  ],
+  "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "astra_19_2|astra_19_2:11993:H:27500|sid:111",
-      "kanal_adi": "Sky Cinema Jurassic HD",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Sky Cinema Blockbuster",
-          "yeni": "Sky Cinema Jurassic HD"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "astra_19_2:11156:V:22000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 12,
-          "yeni": 13
-        },
-        "tv_sayisi": {
-          "onceki": 12,
-          "yeni": 13
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }
