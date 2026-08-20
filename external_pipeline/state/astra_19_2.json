@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-08-12T15:59:03.889133+00:00",
+  "generated_utc": "2026-08-20T15:33:49.790217+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=19E",
-    "last_updated": "2026-08-12"
+    "last_updated": "2026-08-20"
   },
   "satellite": {
     "id": "astra_19_2",
@@ -3175,7 +3175,7 @@
       "tp_id": "astra_19_2:10803:H:22000"
     },
     {
-      "name": "123tv HD",
+      "name": "123 live",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -3197,12 +3197,12 @@
       "free_to_air": true,
       "compression": "MPEG-4",
       "vpid": 767,
-      "audio": "",
+      "audio": "771 / deu",
       "nid": 1,
       "tid": 1055,
       "source_channel_id": 79372,
       "source_transponder_id": 1303,
-      "updated": "2025-11-26",
+      "updated": "2026-08-20",
       "tp_id": "astra_19_2:10803:H:22000"
     },
     {

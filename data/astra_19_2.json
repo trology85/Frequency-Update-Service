@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-08-12T15:59:03.889133+00:00",
+  "guncelleme_tarihi": "2026-08-20T15:33:49.790217+00:00",
   "uydu_adi": "Astra 19.2°E",
   "toplam_kanal": 872,
   "toplam_tp": 88,
@@ -1330,13 +1330,13 @@
       "kapsama": "PE2"
     },
     {
-      "kanal_adi": "123tv HD",
+      "kanal_adi": "123 live",
       "frekans": 10803,
       "polarizasyon": "H",
       "sembol_orani": 22000,
       "fec": "3/4",
       "video_pid": "767",
-      "ses_pid": "",
+      "ses_pid": "771 / deu",
       "uydu": "Astra 1P",
       "kalite": "HD",
       "tur": "TV",
