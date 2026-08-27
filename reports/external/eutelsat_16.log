@@ -1,0 +1,136 @@
+
+===== fetch_satbeams.py =====
+{
+  "run_utc": "2026-08-27T13:11:24.736769+00:00",
+  "source": "Satbeams API",
+  "ok": true,
+  "satellites": [
+    {
+      "id": "eutelsat_16",
+      "position": 16,
+      "ok": true,
+      "errors": [],
+      "pages": 2,
+      "transponders": 52,
+      "channels": 805,
+      "raw_channel_rows": 805,
+      "raw_file": "raw/satbeams/eutelsat_16.json"
+    }
+  ]
+}
+
+===== fetch_kingofsat.py =====
+{
+  "run_utc": "2026-08-27T13:11:26.417914+00:00",
+  "source": "KingOfSat",
+  "ok": true,
+  "satellites": [
+    {
+      "id": "eutelsat_16",
+      "url": "https://tr.kingofsat.net/pos-16E",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://tr.kingofsat.net/pos-16E",
+      "title": "Eutelsat 16A (16°E) -  - Frekanslar - KingOfSat",
+      "bytes": 945126,
+      "frequency_rows": 167,
+      "channel_rows": 857,
+      "advertised_records": 977,
+      "block_markers": [],
+      "raw_file": "raw/kingofsat/eutelsat_16.html",
+      "errors": []
+    }
+  ]
+}
+
+===== parse_kingofsat.py =====
+{
+  "generated_utc": "2026-08-27T13:11:29.407149+00:00",
+  "source": "KingOfSat",
+  "satellites": [
+    {
+      "id": "eutelsat_16",
+      "transponders": 43,
+      "channels": 780,
+      "tv": 639,
+      "radio": 141,
+      "source_updated": "2026-08-18"
+    }
+  ]
+}
+
+===== parse_satbeams.py =====
+{
+  "ok": true,
+  "source": "Satbeams API",
+  "satellites": [
+    {
+      "id": "eutelsat_16",
+      "ok": true,
+      "transponders": 51,
+      "channels": 801,
+      "tv": 760,
+      "radio": 41,
+      "sd": 528,
+      "hd": 218,
+      "uhd_4k": 0,
+      "unknown_quality": 14,
+      "candidate": "candidate/satbeams/eutelsat_16.json"
+    }
+  ]
+}
+
+===== enrich_satbeams_quality.py =====
+{
+  "ok": true,
+  "satellites": [
+    {
+      "id": "eutelsat_16",
+      "unknown_before": 14,
+      "filled": 5,
+      "filled_sd": 0,
+      "filled_hd": 5,
+      "filled_uhd": 0,
+      "filled_3d": 0,
+      "ambiguous": 0,
+      "name_mismatch": 0,
+      "not_found": 9,
+      "unknown_after": 9,
+      "ok": true
+    }
+  ]
+}
+
+===== validate_satbeams.py =====
+{
+  "run_utc": "2026-08-27T13:11:30.520851+00:00",
+  "ok": true,
+  "should_publish": true,
+  "source": "Satbeams API",
+  "satellites": [
+    {
+      "id": "eutelsat_16",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "transponders": 51,
+      "channels": 801,
+      "tv": 760,
+      "radio": 41,
+      "sd": 528,
+      "hd": 223,
+      "uhd_4k": 0,
+      "unknown_quality": 9,
+      "forbidden_records": 0,
+      "missing_core_fields": 0,
+      "duplicate_identities": 0,
+      "candidate_hash": "8caabf53f8742977c2f555c2564c6dffbd26d3828b23d41bcd93e284358c65f8",
+      "current_hash": "",
+      "changed": true,
+      "added": 801,
+      "removed": 0,
+      "updated": 0
+    }
+  ]
+}
+SHOULD_PUBLISH=true

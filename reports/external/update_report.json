@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-08-27T12:19:50.122896+00:00",
+  "run_utc": "2026-08-27T13:11:02.408685+00:00",
   "ok": true,
-  "successful": 4,
+  "successful": 5,
   "failed": 0,
   "satellites": [
     {
@@ -24,7 +24,7 @@
       "errors": [],
       "channels": 1122,
       "transponders": 83,
-      "changed": true,
+      "changed": false,
       "diff": "reports/external/hotbird_13_diff.json",
       "previous": "data/hotbird_13_previous.json",
       "output": "data/hotbird_13.json",
@@ -50,11 +50,24 @@
       "errors": [],
       "channels": 139,
       "transponders": 23,
-      "changed": true,
+      "changed": false,
       "diff": "reports/external/azerspace_46_diff.json",
       "previous": null,
       "output": "data/azerspace_46.json",
       "state": "external_pipeline/state/azerspace_46.json"
+    },
+    {
+      "id": "eutelsat_16",
+      "name": "Eutelsat 16A 16.0°E",
+      "ok": true,
+      "errors": [],
+      "channels": 801,
+      "transponders": 51,
+      "changed": true,
+      "diff": "reports/external/eutelsat_16_diff.json",
+      "previous": null,
+      "output": "data/eutelsat_16.json",
+      "state": "external_pipeline/state/eutelsat_16.json"
     }
   ]
 }
