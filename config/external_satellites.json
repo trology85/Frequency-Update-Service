@@ -46,5 +46,17 @@
     "kingofsat_name": "Azerspace-1",
     "kingofsat_position": "46.0E",
     "kingofsat_url": "https://tr.kingofsat.net/pos-46E"
+  },
+  {
+    "id": "eutelsat_16",
+    "name": "Eutelsat 16A 16.0°E",
+    "position": 16,
+    "position_label": "16.0E",
+    "minimum_channels": 500,
+    "minimum_transponders": 35,
+    "max_unknown_quality_ratio": 0.15,
+    "kingofsat_name": "Eutelsat 16A",
+    "kingofsat_position": "16.0E",
+    "kingofsat_url": "https://tr.kingofsat.net/pos-16E"
   }
 ]
