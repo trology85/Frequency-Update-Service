@@ -83,7 +83,7 @@ jobs:
       - name: Sync Published Türksat Satellite File
         run: python scripts/sync_turksat_satellite_file.py
 
-      - name: Update Astra Hot Bird and Hellas
+      - name: Update External Satellites
         run: python scripts/update_external_satellites.py
 
       - name: Validate All Published Satellite Files
@@ -103,12 +103,13 @@ jobs:
         run: |
           git config --global user.name "Satellite Data Bot"
           git config --global user.email "action@github.com"
-          git add data/turksat_42.json data/astra_19_2.json data/hotbird_13.json data/hellas_39.json \
+          git add data/turksat_42.json data/astra_19_2.json data/hotbird_13.json data/hellas_39.json data/azerspace_46.json \
             external_pipeline/state reports/external
           for optional_file in \
             data/astra_19_2_previous.json \
             data/hotbird_13_previous.json \
-            data/hellas_39_previous.json; do
+            data/hellas_39_previous.json \
+            data/azerspace_46_previous.json; do
             if [ -f "$optional_file" ]; then
               git add "$optional_file"
             fi
