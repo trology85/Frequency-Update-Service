@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-08-12T04:47:28.058668+00:00",
+  "guncelleme_tarihi": "2026-08-27T12:20:04.934300+00:00",
   "uydu_adi": "Hot Bird 13.0°E",
   "toplam_kanal": 1122,
   "toplam_tp": 83,
@@ -1649,7 +1649,7 @@
       "kalite": "HD",
       "tur": "TV",
       "sid": "4329",
-      "paket": "M7 Deutschland",
+      "paket": "TVN",
       "tp_id": "hotbird_13:11393:V:27500",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",

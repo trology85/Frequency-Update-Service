@@ -1,15 +1,15 @@
 {
   "uydu_id": "hotbird_13",
   "uydu_adi": "Hot Bird 13.0°E",
-  "olusturma_zamani_utc": "2026-08-26T16:17:54.851593+00:00",
+  "olusturma_zamani_utc": "2026-08-27T12:20:05.146376+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 1010,
     "yeni_kanal": 1010,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 1,
     "tur_degisen_kanal": 0,
     "onceki_tp": 82,
     "yeni_tp": 82,
@@ -19,7 +19,18 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "hotbird_13|hotbird_13:11393:V:27500|sid:4329",
+      "kanal_adi": "Adventure HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "M7 Deutschland",
+          "yeni": "TVN"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

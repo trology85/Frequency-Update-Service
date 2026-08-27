@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-08-12T04:47:28.058668+00:00",
+  "generated_utc": "2026-08-27T12:20:04.934300+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=13E",
@@ -13007,7 +13007,7 @@
       "country_code": "",
       "beam": "Wide",
       "provider": "TVN",
-      "package": "M7 Deutschland",
+      "package": "",
       "encryption": "Conax / Nagravision 3 / Viaccess 3.0 / Mediaguard 3",
       "free_to_air": false,
       "compression": "MPEG-4",
