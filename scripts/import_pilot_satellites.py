@@ -33,6 +33,11 @@ SATELLITES = {
         "input": "azerspace_46.json",
         "output": "azerspace_46.json",
     },
+    "eutelsat_16": {
+        "name": "Eutelsat 16A 16.0°E",
+        "input": "eutelsat_16.json",
+        "output": "eutelsat_16.json",
+    },
 }
 
 
