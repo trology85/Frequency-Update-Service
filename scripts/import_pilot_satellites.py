@@ -28,6 +28,11 @@ SATELLITES = {
         "input": "hellas_39.json",
         "output": "hellas_39.json",
     },
+    "azerspace_46": {
+        "name": "Azerspace-1 46.0°E",
+        "input": "azerspace_46.json",
+        "output": "azerspace_46.json",
+    },
 }
 
 
