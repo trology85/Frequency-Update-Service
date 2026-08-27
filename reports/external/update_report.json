@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-08-27T13:11:02.408685+00:00",
+  "run_utc": "2026-08-27T13:50:36.090724+00:00",
   "ok": true,
   "successful": 5,
   "failed": 0,
@@ -63,7 +63,7 @@
       "errors": [],
       "channels": 801,
       "transponders": 51,
-      "changed": true,
+      "changed": false,
       "diff": "reports/external/eutelsat_16_diff.json",
       "previous": null,
       "output": "data/eutelsat_16.json",
