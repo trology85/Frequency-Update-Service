@@ -30,9 +30,21 @@
     "position_label": "39.0E",
     "minimum_channels": 20,
     "minimum_transponders": 5,
-    "max_unknown_quality_ratio": 0.30,
+    "max_unknown_quality_ratio": 0.3,
     "kingofsat_name": "Hellas Sat 3/4",
     "kingofsat_position": "39.0E",
     "kingofsat_url": "https://tr.kingofsat.net/pos-39E"
+  },
+  {
+    "id": "azerspace_46",
+    "name": "Azerspace-1 46.0°E",
+    "position": 46,
+    "position_label": "46.0E",
+    "minimum_channels": 50,
+    "minimum_transponders": 10,
+    "max_unknown_quality_ratio": 0.3,
+    "kingofsat_name": "Azerspace-1",
+    "kingofsat_position": "46.0E",
+    "kingofsat_url": "https://tr.kingofsat.net/pos-46E"
   }
 ]
