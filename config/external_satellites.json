@@ -70,5 +70,17 @@
     "kingofsat_name": "Astra 3B/3C",
     "kingofsat_position": "23.5E",
     "kingofsat_url": "https://tr.kingofsat.net/pos-23.5E"
+  },
+  {
+    "id": "astra_28_2",
+    "name": "Astra 2E/2F/2G 28.2°E",
+    "position": 28,
+    "position_label": "28.2E",
+    "minimum_channels": 350,
+    "minimum_transponders": 30,
+    "max_unknown_quality_ratio": 0.15,
+    "kingofsat_name": "Astra 2E/2F/2G",
+    "kingofsat_position": "28.2E",
+    "kingofsat_url": "https://tr.kingofsat.net/pos-28.2E"
   }
 ]
