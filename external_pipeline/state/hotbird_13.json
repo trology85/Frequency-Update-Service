@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-08-27T12:20:04.934300+00:00",
+  "generated_utc": "2026-08-28T00:16:48.944961+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=13E",
@@ -17,9 +17,9 @@
     "tv": 1022,
     "radio": 100,
     "sd": 450,
-    "hd": 551,
+    "hd": 550,
     "uhd_4k": 5,
-    "unknown_quality": 16
+    "unknown_quality": 17
   },
   "transponders": [
     {
@@ -3971,7 +3971,7 @@
     {
       "name": "TVP Kultura",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Hot Bird 13.0°E",
       "spacecraft": "Eutelsat Hot Bird 13G",
       "position": "13.0E",
