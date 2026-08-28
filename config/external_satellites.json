@@ -58,5 +58,17 @@
     "kingofsat_name": "Eutelsat 16A",
     "kingofsat_position": "16.0E",
     "kingofsat_url": "https://tr.kingofsat.net/pos-16E"
+  },
+  {
+    "id": "astra_23_5",
+    "name": "Astra 3B/3C 23.5°E",
+    "position": 23.5,
+    "position_label": "23.5E",
+    "minimum_channels": 400,
+    "minimum_transponders": 20,
+    "max_unknown_quality_ratio": 0.15,
+    "kingofsat_name": "Astra 3B/3C",
+    "kingofsat_position": "23.5E",
+    "kingofsat_url": "https://tr.kingofsat.net/pos-23.5E"
   }
 ]
