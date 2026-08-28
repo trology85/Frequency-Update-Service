@@ -82,5 +82,17 @@
     "kingofsat_name": "Astra 2E/2F/2G",
     "kingofsat_position": "28.2E",
     "kingofsat_url": "https://tr.kingofsat.net/pos-28.2E"
+  },
+  {
+    "id": "thor_1w",
+    "name": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+    "position": -1,
+    "position_label": "0.8W",
+    "minimum_channels": 500,
+    "minimum_transponders": 30,
+    "max_unknown_quality_ratio": 0.15,
+    "kingofsat_name": "Thor 5/6/7 / Intelsat 10-02",
+    "kingofsat_position": "0.8W",
+    "kingofsat_url": "https://tr.kingofsat.net/pos-0.8W"
   }
 ]
