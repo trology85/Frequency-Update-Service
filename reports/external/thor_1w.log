@@ -1,0 +1,136 @@
+
+===== fetch_satbeams.py =====
+{
+  "run_utc": "2026-08-28T14:06:00.428204+00:00",
+  "source": "Satbeams API",
+  "ok": true,
+  "satellites": [
+    {
+      "id": "thor_1w",
+      "position": 359,
+      "ok": true,
+      "errors": [],
+      "pages": 2,
+      "transponders": 97,
+      "channels": 817,
+      "raw_channel_rows": 817,
+      "raw_file": "raw/satbeams/thor_1w.json"
+    }
+  ]
+}
+
+===== fetch_kingofsat.py =====
+{
+  "run_utc": "2026-08-28T14:06:01.822585+00:00",
+  "source": "KingOfSat",
+  "ok": true,
+  "satellites": [
+    {
+      "id": "thor_1w",
+      "url": "https://tr.kingofsat.net/pos-0.8W",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://tr.kingofsat.net/pos-0.8W",
+      "title": "Intelsat 10-02 / Thor 5 / Thor 6 / Thor 7 (0.8°W) -  - Frekanslar - KingOfSat",
+      "bytes": 1129695,
+      "frequency_rows": 156,
+      "channel_rows": 1015,
+      "advertised_records": 1110,
+      "block_markers": [],
+      "raw_file": "raw/kingofsat/thor_1w.html",
+      "errors": []
+    }
+  ]
+}
+
+===== parse_kingofsat.py =====
+{
+  "generated_utc": "2026-08-28T14:06:04.547654+00:00",
+  "source": "KingOfSat",
+  "satellites": [
+    {
+      "id": "thor_1w",
+      "transponders": 60,
+      "channels": 791,
+      "tv": 687,
+      "radio": 104,
+      "source_updated": "2026-08-28"
+    }
+  ]
+}
+
+===== parse_satbeams.py =====
+{
+  "ok": true,
+  "source": "Satbeams API",
+  "satellites": [
+    {
+      "id": "thor_1w",
+      "ok": true,
+      "transponders": 69,
+      "channels": 769,
+      "tv": 706,
+      "radio": 63,
+      "sd": 363,
+      "hd": 245,
+      "uhd_4k": 3,
+      "unknown_quality": 95,
+      "candidate": "candidate/satbeams/thor_1w.json"
+    }
+  ]
+}
+
+===== enrich_satbeams_quality.py =====
+{
+  "ok": true,
+  "satellites": [
+    {
+      "id": "thor_1w",
+      "unknown_before": 95,
+      "filled": 26,
+      "filled_sd": 0,
+      "filled_hd": 26,
+      "filled_uhd": 0,
+      "filled_3d": 0,
+      "ambiguous": 0,
+      "name_mismatch": 11,
+      "not_found": 58,
+      "unknown_after": 69,
+      "ok": true
+    }
+  ]
+}
+
+===== validate_satbeams.py =====
+{
+  "run_utc": "2026-08-28T14:06:06.384017+00:00",
+  "ok": true,
+  "should_publish": true,
+  "source": "Satbeams API",
+  "satellites": [
+    {
+      "id": "thor_1w",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "transponders": 69,
+      "channels": 769,
+      "tv": 706,
+      "radio": 63,
+      "sd": 363,
+      "hd": 271,
+      "uhd_4k": 3,
+      "unknown_quality": 69,
+      "forbidden_records": 0,
+      "missing_core_fields": 0,
+      "duplicate_identities": 0,
+      "candidate_hash": "05eea040e275ac8059c47bbc38f84ae0c54111c5f3b6e294faf7e00ab1f1343d",
+      "current_hash": "",
+      "changed": true,
+      "added": 769,
+      "removed": 0,
+      "updated": 0
+    }
+  ]
+}
+SHOULD_PUBLISH=true
