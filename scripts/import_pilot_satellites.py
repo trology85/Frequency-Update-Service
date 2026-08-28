@@ -53,6 +53,11 @@ SATELLITES = {
         "input": "thor_1w.json",
         "output": "thor_1w.json",
     },
+    "turkmenalem_52": {
+        "name": "TurkmenÄlem / MonacoSat 52.0°E",
+        "input": "turkmenalem_52.json",
+        "output": "turkmenalem_52.json",
+    },
 }
 
 
