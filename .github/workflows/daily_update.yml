@@ -103,14 +103,15 @@ jobs:
         run: |
           git config --global user.name "Satellite Data Bot"
           git config --global user.email "action@github.com"
-          git add data/turksat_42.json data/astra_19_2.json data/hotbird_13.json data/hellas_39.json data/azerspace_46.json data/eutelsat_16.json \
+          git add data/turksat_42.json data/astra_19_2.json data/hotbird_13.json data/hellas_39.json data/azerspace_46.json data/eutelsat_16.json data/astra_23_5.json \
             external_pipeline/state reports/external
           for optional_file in \
             data/astra_19_2_previous.json \
             data/hotbird_13_previous.json \
             data/hellas_39_previous.json \
             data/azerspace_46_previous.json \
-            data/eutelsat_16_previous.json; do
+            data/eutelsat_16_previous.json \
+            data/astra_23_5_previous.json; do
             if [ -f "$optional_file" ]; then
               git add "$optional_file"
             fi
