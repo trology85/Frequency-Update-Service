@@ -38,6 +38,11 @@ SATELLITES = {
         "input": "eutelsat_16.json",
         "output": "eutelsat_16.json",
     },
+    "astra_23_5": {
+        "name": "Astra 3B/3C 23.5°E",
+        "input": "astra_23_5.json",
+        "output": "astra_23_5.json",
+    },
 }
 
 
