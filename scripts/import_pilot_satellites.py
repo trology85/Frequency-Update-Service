@@ -48,6 +48,11 @@ SATELLITES = {
         "input": "astra_28_2.json",
         "output": "astra_28_2.json",
     },
+    "thor_1w": {
+        "name": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+        "input": "thor_1w.json",
+        "output": "thor_1w.json",
+    },
 }
 
 
