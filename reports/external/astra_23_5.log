@@ -1,0 +1,136 @@
+
+===== fetch_satbeams.py =====
+{
+  "run_utc": "2026-08-28T12:50:17.309851+00:00",
+  "source": "Satbeams API",
+  "ok": true,
+  "satellites": [
+    {
+      "id": "astra_23_5",
+      "position": 23,
+      "ok": true,
+      "errors": [],
+      "pages": 2,
+      "transponders": 44,
+      "channels": 647,
+      "raw_channel_rows": 647,
+      "raw_file": "raw/satbeams/astra_23_5.json"
+    }
+  ]
+}
+
+===== fetch_kingofsat.py =====
+{
+  "run_utc": "2026-08-28T12:50:18.686116+00:00",
+  "source": "KingOfSat",
+  "ok": true,
+  "satellites": [
+    {
+      "id": "astra_23_5",
+      "url": "https://tr.kingofsat.net/pos-23.5E",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://tr.kingofsat.net/pos-23.5E",
+      "title": "Astra 3B / Astra 3C (23.5°E) -  - Frekanslar - KingOfSat",
+      "bytes": 706418,
+      "frequency_rows": 84,
+      "channel_rows": 656,
+      "advertised_records": 715,
+      "block_markers": [],
+      "raw_file": "raw/kingofsat/astra_23_5.html",
+      "errors": []
+    }
+  ]
+}
+
+===== parse_kingofsat.py =====
+{
+  "generated_utc": "2026-08-28T12:50:20.763952+00:00",
+  "source": "KingOfSat",
+  "satellites": [
+    {
+      "id": "astra_23_5",
+      "transponders": 24,
+      "channels": 601,
+      "tv": 497,
+      "radio": 104,
+      "source_updated": "2026-08-19"
+    }
+  ]
+}
+
+===== parse_satbeams.py =====
+{
+  "ok": true,
+  "source": "Satbeams API",
+  "satellites": [
+    {
+      "id": "astra_23_5",
+      "ok": true,
+      "transponders": 33,
+      "channels": 634,
+      "tv": 525,
+      "radio": 109,
+      "sd": 354,
+      "hd": 156,
+      "uhd_4k": 0,
+      "unknown_quality": 15,
+      "candidate": "candidate/satbeams/astra_23_5.json"
+    }
+  ]
+}
+
+===== enrich_satbeams_quality.py =====
+{
+  "ok": true,
+  "satellites": [
+    {
+      "id": "astra_23_5",
+      "unknown_before": 15,
+      "filled": 8,
+      "filled_sd": 0,
+      "filled_hd": 8,
+      "filled_uhd": 0,
+      "filled_3d": 0,
+      "ambiguous": 0,
+      "name_mismatch": 3,
+      "not_found": 4,
+      "unknown_after": 7,
+      "ok": true
+    }
+  ]
+}
+
+===== validate_satbeams.py =====
+{
+  "run_utc": "2026-08-28T12:50:21.783110+00:00",
+  "ok": true,
+  "should_publish": true,
+  "source": "Satbeams API",
+  "satellites": [
+    {
+      "id": "astra_23_5",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "transponders": 33,
+      "channels": 634,
+      "tv": 525,
+      "radio": 109,
+      "sd": 354,
+      "hd": 164,
+      "uhd_4k": 0,
+      "unknown_quality": 7,
+      "forbidden_records": 0,
+      "missing_core_fields": 0,
+      "duplicate_identities": 0,
+      "candidate_hash": "dcf8f4caeb8d0346cb1e29921b78705b263095611fefdc3b74ece0674061cf93",
+      "current_hash": "",
+      "changed": true,
+      "added": 634,
+      "removed": 0,
+      "updated": 0
+    }
+  ]
+}
+SHOULD_PUBLISH=true
