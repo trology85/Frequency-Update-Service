@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-08-28T14:05:21.699557+00:00",
+  "run_utc": "2026-08-28T14:37:29.135103+00:00",
   "ok": true,
-  "successful": 8,
+  "successful": 9,
   "failed": 0,
   "satellites": [
     {
@@ -102,11 +102,24 @@
       "errors": [],
       "channels": 769,
       "transponders": 69,
-      "changed": true,
+      "changed": false,
       "diff": "reports/external/thor_1w_diff.json",
       "previous": null,
       "output": "data/thor_1w.json",
       "state": "external_pipeline/state/thor_1w.json"
+    },
+    {
+      "id": "turkmenalem_52",
+      "name": "TurkmenÄlem / MonacoSat 52.0°E",
+      "ok": true,
+      "errors": [],
+      "channels": 388,
+      "transponders": 22,
+      "changed": true,
+      "diff": "reports/external/turkmenalem_52_diff.json",
+      "previous": null,
+      "output": "data/turkmenalem_52.json",
+      "state": "external_pipeline/state/turkmenalem_52.json"
     }
   ]
 }

@@ -1,0 +1,136 @@
+
+===== fetch_satbeams.py =====
+{
+  "run_utc": "2026-08-28T14:38:12.459805+00:00",
+  "source": "Satbeams API",
+  "ok": true,
+  "satellites": [
+    {
+      "id": "turkmenalem_52",
+      "position": 52,
+      "ok": true,
+      "errors": [],
+      "pages": 2,
+      "transponders": 22,
+      "channels": 388,
+      "raw_channel_rows": 388,
+      "raw_file": "raw/satbeams/turkmenalem_52.json"
+    }
+  ]
+}
+
+===== fetch_kingofsat.py =====
+{
+  "run_utc": "2026-08-28T14:38:14.190296+00:00",
+  "source": "KingOfSat",
+  "ok": true,
+  "satellites": [
+    {
+      "id": "turkmenalem_52",
+      "url": "https://tr.kingofsat.net/pos-52E",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://tr.kingofsat.net/pos-52E",
+      "title": "TurkmenÄlem / MonacoSat (52°E) -  - Frekanslar - KingOfSat",
+      "bytes": 373139,
+      "frequency_rows": 41,
+      "channel_rows": 332,
+      "advertised_records": 356,
+      "block_markers": [],
+      "raw_file": "raw/kingofsat/turkmenalem_52.html",
+      "errors": []
+    }
+  ]
+}
+
+===== parse_kingofsat.py =====
+{
+  "generated_utc": "2026-08-28T14:38:15.617046+00:00",
+  "source": "KingOfSat",
+  "satellites": [
+    {
+      "id": "turkmenalem_52",
+      "transponders": 17,
+      "channels": 309,
+      "tv": 302,
+      "radio": 7,
+      "source_updated": "2026-08-28"
+    }
+  ]
+}
+
+===== parse_satbeams.py =====
+{
+  "ok": true,
+  "source": "Satbeams API",
+  "satellites": [
+    {
+      "id": "turkmenalem_52",
+      "ok": true,
+      "transponders": 22,
+      "channels": 388,
+      "tv": 382,
+      "radio": 6,
+      "sd": 155,
+      "hd": 227,
+      "uhd_4k": 0,
+      "unknown_quality": 0,
+      "candidate": "candidate/satbeams/turkmenalem_52.json"
+    }
+  ]
+}
+
+===== enrich_satbeams_quality.py =====
+{
+  "ok": true,
+  "satellites": [
+    {
+      "id": "turkmenalem_52",
+      "unknown_before": 0,
+      "filled": 0,
+      "filled_sd": 0,
+      "filled_hd": 0,
+      "filled_uhd": 0,
+      "filled_3d": 0,
+      "ambiguous": 0,
+      "name_mismatch": 0,
+      "not_found": 0,
+      "unknown_after": 0,
+      "ok": true
+    }
+  ]
+}
+
+===== validate_satbeams.py =====
+{
+  "run_utc": "2026-08-28T14:38:15.928242+00:00",
+  "ok": true,
+  "should_publish": true,
+  "source": "Satbeams API",
+  "satellites": [
+    {
+      "id": "turkmenalem_52",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "transponders": 22,
+      "channels": 388,
+      "tv": 382,
+      "radio": 6,
+      "sd": 155,
+      "hd": 227,
+      "uhd_4k": 0,
+      "unknown_quality": 0,
+      "forbidden_records": 0,
+      "missing_core_fields": 0,
+      "duplicate_identities": 0,
+      "candidate_hash": "97c190dded73425b83744b489b57b2e2de8622ddfbc4c7d75cf8638c3c0e41e0",
+      "current_hash": "",
+      "changed": true,
+      "added": 388,
+      "removed": 0,
+      "updated": 0
+    }
+  ]
+}
+SHOULD_PUBLISH=true
