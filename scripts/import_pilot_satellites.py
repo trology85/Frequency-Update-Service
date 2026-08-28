@@ -43,6 +43,11 @@ SATELLITES = {
         "input": "astra_23_5.json",
         "output": "astra_23_5.json",
     },
+    "astra_28_2": {
+        "name": "Astra 2E/2F/2G 28.2°E",
+        "input": "astra_28_2.json",
+        "output": "astra_28_2.json",
+    },
 }
 
 
