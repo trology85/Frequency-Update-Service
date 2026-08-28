@@ -11,6 +11,7 @@ FILES = {
     "hellas_39.json": ("hellas_39", "Hellas Sat 39.0°E"),
     "azerspace_46.json": ("azerspace_46", "Azerspace-1 46.0°E"),
     "eutelsat_16.json": ("eutelsat_16", "Eutelsat 16A 16.0°E"),
+    "astra_23_5.json": ("astra_23_5", "Astra 3B/3C 23.5°E"),
 }
 
 REQUIRED_CHANNEL = {
