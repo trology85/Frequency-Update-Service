@@ -1,26 +1,154 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-08-29T09:47:26.291710+00:00",
+  "olusturma_zamani_utc": "2026-08-29T18:12:49.642257+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 768,
-    "yeni_kanal": 768,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 769,
+    "eklenen_kanal": 1,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 9,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "CS Film",
+      "frekans": 12607,
+      "polarizasyon": "V",
+      "sembol_orani": 28800,
+      "fec": "3/5",
+      "video_pid": "2102",
+      "ses_pid": "2103 / cze",
+      "uydu": "Intelsat 10-02 + MEV2",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "11021",
+      "paket": "Magenta TV Sat / Slovak Telekom",
+      "tp_id": "thor_1w:12607:V:28800",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "Spot3"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:12607:V:28800|sid:11011",
+      "kanal_adi": "Auto Motor und Sport",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV / Slovak Telekom / Telly",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12607:V:28800|sid:11012",
+      "kanal_adi": "Travel XP",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / cze / 0 / cze",
+          "yeni": "1203 / cze / 1204 / eng"
+        },
+        "paket": {
+          "onceki": "Digi TV / Slovak Telekom",
+          "yeni": "Slovak Telekom"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12607:V:28800|sid:11013",
+      "kanal_adi": "CNN International Europe",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV / Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12607:V:28800|sid:11014",
+      "kanal_adi": "Canal+ Sport HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV / Slovak Telekom",
+          "yeni": "Slovak Telekom"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12607:V:28800|sid:11016",
+      "kanal_adi": "FilmBox+ Emotion HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV / Slovak Telekom / freeSAT",
+          "yeni": "Magenta TV Sat / Slovak Telekom / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12607:V:28800|sid:11017",
+      "kanal_adi": "FilmBox+ comedy",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV / Slovak Telekom / freeSAT",
+          "yeni": "Magenta TV Sat / Slovak Telekom / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12607:V:28800|sid:11019",
+      "kanal_adi": "Canal+ Action HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV / Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12607:V:28800|sid:11020",
+      "kanal_adi": "Lala TV",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV / Slovak Telekom / Telly",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12607:V:28800|sid:11022",
+      "kanal_adi": "Ócko TV",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV / Slovak Telekom / Telly",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "thor_1w:12607:V:28800",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 10,
+          "yeni": 11
+        },
+        "tv_sayisi": {
+          "onceki": 10,
+          "yeni": 11
+        }
+      }
+    }
+  ]
 }
