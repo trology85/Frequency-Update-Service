@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-08-30T08:58:17.040736+00:00",
+  "run_utc": "2026-08-30T18:26:39.386186+00:00",
   "ok": true,
   "successful": 9,
   "failed": 0,
@@ -115,7 +115,7 @@
       "errors": [],
       "channels": 396,
       "transponders": 23,
-      "changed": true,
+      "changed": false,
       "diff": "reports/external/turkmenalem_52_diff.json",
       "previous": "data/turkmenalem_52_previous.json",
       "output": "data/turkmenalem_52.json",
