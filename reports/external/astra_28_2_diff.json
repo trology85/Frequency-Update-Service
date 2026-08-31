@@ -1,26 +1,77 @@
 {
   "uydu_id": "astra_28_2",
   "uydu_adi": "Astra 2E/2F/2G 28.2°E",
-  "olusturma_zamani_utc": "2026-08-31T09:24:31.228730+00:00",
+  "olusturma_zamani_utc": "2026-08-31T20:41:50.160288+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 734,
-    "yeni_kanal": 734,
+    "yeni_kanal": 732,
     "eklenen_kanal": 0,
-    "silinen_kanal": 0,
+    "silinen_kanal": 2,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 60,
     "yeni_tp": 60,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
   "eklenen_kanallar": [],
-  "silinen_kanallar": [],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "Kix +1",
+      "frekans": 11307,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2333",
+      "ses_pid": "2334 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "53360",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:11307:V:27500",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Spot"
+    },
+    {
+      "kanal_adi": "PopGirl +1",
+      "frekans": 11307,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2339",
+      "ses_pid": "2340 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "53370",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:11307:V:27500",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Spot"
+    }
+  ],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "astra_28_2:11307:V:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 14,
+          "yeni": 12
+        },
+        "tv_sayisi": {
+          "onceki": 14,
+          "yeni": 12
+        }
+      }
+    }
+  ]
 }

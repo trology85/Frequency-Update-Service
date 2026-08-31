@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-08-31T20:41:49.999054+00:00",
+  "guncelleme_tarihi": "2026-08-28T13:13:52.215458+00:00",
   "uydu_adi": "Astra 2E/2F/2G 28.2°E",
-  "toplam_kanal": 752,
+  "toplam_kanal": 754,
   "toplam_tp": 61,
   "transponderler": [
     {
@@ -265,8 +265,8 @@
       "fec": "2/3",
       "uydu": "Astra 2F",
       "kapsama": "Spot",
-      "kanal_sayisi": 12,
-      "tv_sayisi": 12,
+      "kanal_sayisi": 14,
+      "tv_sayisi": 14,
       "radyo_sayisi": 0,
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E"
@@ -7108,6 +7108,24 @@
       "kapsama": "Spot"
     },
     {
+      "kanal_adi": "Kix +1",
+      "frekans": 11307,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2333",
+      "ses_pid": "2334 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "53360",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:11307:V:27500",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Spot"
+    },
+    {
       "kanal_adi": "Kool",
       "frekans": 12685,
       "polarizasyon": "H",
@@ -9243,6 +9261,24 @@
       "kalite": "SD",
       "tur": "TV",
       "sid": "53340",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:11307:V:27500",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Spot"
+    },
+    {
+      "kanal_adi": "PopGirl +1",
+      "frekans": 11307,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2339",
+      "ses_pid": "2340 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "53370",
       "paket": "Sky UK",
       "tp_id": "astra_28_2:11307:V:27500",
       "konum_id": "astra_28_2",

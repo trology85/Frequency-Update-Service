@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-08-31T09:24:26.263254+00:00",
+  "run_utc": "2026-08-31T20:41:42.525930+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -12,8 +12,8 @@
       "errors": [],
       "pages": 2,
       "transponders": 61,
-      "channels": 754,
-      "raw_channel_rows": 754,
+      "channels": 752,
+      "raw_channel_rows": 752,
       "raw_file": "raw/satbeams/astra_28_2.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-08-31T09:24:27.751414+00:00",
+  "run_utc": "2026-08-31T20:41:45.503877+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-28.2E",
       "title": "Astra 2E / Astra 2F / Astra 2G (28.2°E) -  - Frekanslar - KingOfSat",
-      "bytes": 761835,
+      "bytes": 761816,
       "frequency_rows": 156,
       "channel_rows": 599,
       "advertised_records": 706,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-08-31T09:24:29.905649+00:00",
+  "generated_utc": "2026-08-31T20:41:48.555700+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -68,10 +68,10 @@
       "id": "astra_28_2",
       "ok": true,
       "transponders": 61,
-      "channels": 754,
-      "tv": 753,
+      "channels": 752,
+      "tv": 751,
       "radio": 1,
-      "sd": 533,
+      "sd": 531,
       "hd": 217,
       "uhd_4k": 0,
       "unknown_quality": 3,
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-08-31T09:24:31.184569+00:00",
+  "run_utc": "2026-08-31T20:41:50.116155+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -114,23 +114,23 @@
       "errors": [],
       "warnings": [],
       "transponders": 61,
-      "channels": 754,
-      "tv": 753,
+      "channels": 752,
+      "tv": 751,
       "radio": 1,
-      "sd": 533,
+      "sd": 531,
       "hd": 217,
       "uhd_4k": 0,
       "unknown_quality": 3,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "7e5c852082a0504b21d553755fe129fc85eb4587ed6130f855ce7f6ecb62039c",
+      "candidate_hash": "9909f2b9b616035f48fad12fbf9b15e57956202f7871cde2de09f82e4de9a223",
       "current_hash": "7e5c852082a0504b21d553755fe129fc85eb4587ed6130f855ce7f6ecb62039c",
-      "changed": false,
+      "changed": true,
       "added": 0,
-      "removed": 0,
+      "removed": 2,
       "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true
