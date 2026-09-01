@@ -1,26 +1,92 @@
 {
   "uydu_id": "turkmenalem_52",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "olusturma_zamani_utc": "2026-08-31T20:42:04.222280+00:00",
+  "olusturma_zamani_utc": "2026-09-01T08:22:50.636455+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 393,
-    "yeni_kanal": 393,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 395,
+    "eklenen_kanal": 2,
     "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 23,
-    "yeni_tp": 23,
-    "eklenen_tp": 0,
+    "yeni_tp": 24,
+    "eklenen_tp": 1,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Persiana Voyage",
+      "frekans": 11420,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "1201",
+      "ses_pid": "1202 / per",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "0",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11420:H:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "AVA Family",
+      "frekans": 11420,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "101",
+      "ses_pid": "",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "0",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11420:V:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    }
+  ],
   "silinen_kanallar": [],
   "degisen_kanallar": [],
-  "eklenen_transponderler": [],
+  "eklenen_transponderler": [
+    {
+      "tp_id": "turkmenalem_52:11420:H:27500",
+      "frekans": 11420,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "uydu": "TurkmenAlem",
+      "kapsama": "East",
+      "kanal_sayisi": 14,
+      "tv_sayisi": 14,
+      "radyo_sayisi": 0,
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E"
+    }
+  ],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "turkmenalem_52:11420:V:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 13,
+          "yeni": 14
+        },
+        "tv_sayisi": {
+          "onceki": 13,
+          "yeni": 14
+        }
+      }
+    }
+  ]
 }
