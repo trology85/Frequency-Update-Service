@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-01T08:22:46.015793+00:00",
+  "olusturma_zamani_utc": "2026-09-01T18:11:38.377071+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 769,
     "yeni_kanal": 769,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 10,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
@@ -19,112 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9011",
-      "kanal_adi": "Kanál 1 Sport HD",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV / Slovak Telekom",
-          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9014",
-      "kanal_adi": "Nova Cinema",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "Magenta TV Sat / Telly / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9020",
-      "kanal_adi": "Nova Sport 1 HD",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "Magenta TV Sat / Slovak Telekom / Telly / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9027",
-      "kanal_adi": "Jojko",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV / Slovak Telekom / freeSAT",
-          "yeni": "Slovak Telekom / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9028",
-      "kanal_adi": "HGTV",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "0 / cze / 0 / eng",
-          "yeni": "2802 / cze / 2803 / eng"
-        },
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "Telly"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12527:H:28800|sid:8011",
-      "kanal_adi": "Film+ SK",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "Slovak Telekom / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12527:H:28800|sid:8012",
-      "kanal_adi": "Prima COOL SK",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV / Slovak Telekom",
-          "yeni": "Slovak Telekom"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12527:H:28800|sid:8013",
-      "kanal_adi": "Spektrum SK HD",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV / Slovak Telekom",
-          "yeni": "Slovak Telekom / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12527:H:28800|sid:8014",
-      "kanal_adi": "AMC SK HD",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV / Slovak Telekom / freeSAT",
-          "yeni": "Slovak Telekom / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12527:H:28800|sid:8015",
-      "kanal_adi": "Nova Šport 6 HD",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV / Slovak Telekom",
-          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
