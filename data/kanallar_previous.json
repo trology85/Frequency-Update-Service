@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "31.08.2026 20:40:43",
+  "guncelleme_tarihi": "01.09.2026 08:21:24",
   "uydu_adi": "Türksat 42.0°E",
-  "toplam_kanal": 742,
+  "toplam_kanal": 741,
   "toplam_tp": 51,
   "transponderler": [
     {
@@ -503,8 +503,8 @@
       "fec": "3/4",
       "uydu": "T4A",
       "kapsama": "Batı",
-      "kanal_sayisi": 38,
-      "tv_sayisi": 26,
+      "kanal_sayisi": 37,
+      "tv_sayisi": 25,
       "radyo_sayisi": 12,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -8666,22 +8666,6 @@
       "fec": "3/4",
       "video_pid": "3456",
       "ses_pid": "3556",
-      "uydu": "T4A",
-      "kalite": "SD",
-      "tur": "TV",
-      "tp_id": "12265_V_27500",
-      "konum_id": "turksat_42",
-      "konum_adi": "Türksat 42.0°E"
-    },
-    {
-      "kanal_adi": "BRTV",
-      "frekans": 12265,
-      "polarizasyon": "V",
-      "kapsama": "Batı",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "3462",
-      "ses_pid": "3562",
       "uydu": "T4A",
       "kalite": "SD",
       "tur": "TV",
