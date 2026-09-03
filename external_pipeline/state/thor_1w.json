@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-02T18:28:33.518757+00:00",
+  "generated_utc": "2026-09-03T18:23:33.690243+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-09-02"
+    "last_updated": "2026-09-03"
   },
   "satellite": {
     "id": "thor_1w",
@@ -13,10 +13,10 @@
   },
   "counts": {
     "transponders": 69,
-    "channels": 770,
-    "tv": 707,
+    "channels": 771,
+    "tv": 708,
     "radio": 63,
-    "sd": 364,
+    "sd": 365,
     "hd": 270,
     "uhd_4k": 3,
     "unknown_quality": 70
@@ -962,8 +962,8 @@
       "network": "M7 Group",
       "nid": null,
       "tid": null,
-      "channel_count": 24,
-      "tv_count": 24,
+      "channel_count": 25,
+      "tv_count": 25,
       "radio_count": 0,
       "source_transponder_id": 9428
     },
@@ -16650,7 +16650,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "Digi TV / Slovak Telekom",
+      "package": "Slovak Telekom / freeSAT",
       "encryption": "",
       "free_to_air": true,
       "compression": "MPEG-4",
@@ -16660,7 +16660,7 @@
       "tid": null,
       "source_channel_id": 152147,
       "source_transponder_id": 9428,
-      "updated": "2026-08-12",
+      "updated": "2026-09-03",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
@@ -16774,7 +16774,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "",
+      "package": "freeSAT",
       "encryption": "Compel / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -16784,7 +16784,7 @@
       "tid": null,
       "source_channel_id": 152146,
       "source_transponder_id": 9428,
-      "updated": "2023-11-28",
+      "updated": "2026-09-03",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
@@ -16867,7 +16867,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "Digi TV / Slovak Telekom / freeSAT",
+      "package": "Focus Sat / Slovak Telekom / freeSAT",
       "encryption": "Compel / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -16877,7 +16877,7 @@
       "tid": null,
       "source_channel_id": 152143,
       "source_transponder_id": 9428,
-      "updated": "2026-08-05",
+      "updated": "2026-09-03",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
@@ -16898,7 +16898,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "",
+      "package": "Magenta TV Sat / Slovak Telekom / Telly",
       "encryption": "Compel / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -16908,7 +16908,7 @@
       "tid": null,
       "source_channel_id": 152140,
       "source_transponder_id": 9428,
-      "updated": "2023-11-28",
+      "updated": "2026-09-03",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
@@ -16960,7 +16960,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "",
+      "package": "freeSAT",
       "encryption": "Compel / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -16970,7 +16970,7 @@
       "tid": null,
       "source_channel_id": 152142,
       "source_transponder_id": 9428,
-      "updated": "2023-11-28",
+      "updated": "2026-09-03",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
@@ -16991,7 +16991,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "",
+      "package": "freeSAT",
       "encryption": "Compel / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -17001,7 +17001,7 @@
       "tid": null,
       "source_channel_id": 152138,
       "source_transponder_id": 9428,
-      "updated": "2023-11-28",
+      "updated": "2026-09-03",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
@@ -17208,7 +17208,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "Digi TV / Slovak Telekom",
+      "package": "Magenta TV Sat / Slovak Telekom",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -17218,7 +17218,7 @@
       "tid": null,
       "source_channel_id": 169036,
       "source_transponder_id": 9428,
-      "updated": "2026-07-30",
+      "updated": "2026-09-03",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
@@ -17239,7 +17239,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "Digi TV / Slovak Telekom",
+      "package": "Magenta TV Sat / Slovak Telekom",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -17249,7 +17249,38 @@
       "tid": null,
       "source_channel_id": 152090,
       "source_transponder_id": 9428,
-      "updated": "2026-08-12",
+      "updated": "2026-09-03",
+      "tp_id": "thor_1w:12111:V:30000"
+    },
+    {
+      "name": "JimJam ( SVT)",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "spacecraft": "Thor 7",
+      "position": "0.8W",
+      "frequency": 12111,
+      "polarization": "V",
+      "symbol_rate": 30000,
+      "fec": "3/4",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 31327,
+      "country": "",
+      "country_code": "",
+      "beam": "CEE",
+      "provider": "M7 Group",
+      "package": "Magenta TV Sat / Slovak Telekom / Telly",
+      "encryption": "Nagravision 3",
+      "free_to_air": false,
+      "compression": "MPEG-2",
+      "vpid": 3201,
+      "audio": "3211 / hun / 3212 / cze / 3213 / eng / 3214 / rum / 3215 / slo",
+      "nid": null,
+      "tid": null,
+      "source_channel_id": 169689,
+      "source_transponder_id": 9428,
+      "updated": "2026-09-03",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {

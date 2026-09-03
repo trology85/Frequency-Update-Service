@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-01T08:22:50.525617+00:00",
+  "generated_utc": "2026-09-03T18:23:37.287975+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=52E",
-    "last_updated": "2026-09-01"
+    "last_updated": "2026-09-03"
   },
   "satellite": {
     "id": "turkmenalem_52",
@@ -8523,7 +8523,7 @@
       "tid": null,
       "source_channel_id": 164042,
       "source_transponder_id": 12418,
-      "updated": "2025-12-15",
+      "updated": "2026-09-03",
       "tp_id": "turkmenalem_52:11420:V:27500"
     },
     {
