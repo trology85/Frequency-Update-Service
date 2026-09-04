@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-03T18:23:33.891242+00:00",
+  "olusturma_zamani_utc": "2026-09-04T07:46:35.600565+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
-    "onceki_kanal": 769,
-    "yeni_kanal": 770,
-    "eklenen_kanal": 1,
+    "onceki_kanal": 770,
+    "yeni_kanal": 772,
+    "eklenen_kanal": 2,
     "silinen_kanal": 0,
-    "degisen_kanal": 8,
+    "degisen_kanal": 7,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
@@ -19,19 +19,37 @@
   },
   "eklenen_kanallar": [
     {
-      "kanal_adi": "JimJam ( SVT)",
-      "frekans": 12111,
+      "kanal_adi": "Šport 2 HD (SVT)",
+      "frekans": 12149,
       "polarizasyon": "V",
       "sembol_orani": 30000,
       "fec": "3/4",
-      "video_pid": "3201",
-      "ses_pid": "3211 / hun / 3212 / cze / 3213 / eng / 3214 / rum / 3215 / slo",
+      "video_pid": "1001",
+      "ses_pid": "1011 / cze",
       "uydu": "Thor 7",
-      "kalite": "SD",
+      "kalite": "HD",
       "tur": "TV",
-      "sid": "31327",
-      "paket": "Magenta TV Sat / Slovak Telekom / Telly",
-      "tp_id": "thor_1w:12111:V:30000",
+      "sid": "31422",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:12149:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "JOJ Šport HD (SVT)",
+      "frekans": 12149,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1401",
+      "ses_pid": "1411 / slo",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "31423",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:12149:V:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "CEE"
@@ -40,82 +58,92 @@
   "silinen_kanallar": [],
   "degisen_kanallar": [
     {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31302",
-      "kanal_adi": "TV8",
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31413",
+      "kanal_adi": "FilmBox+ One",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "FilmBox Basic",
+          "yeni": "FilmBox+ One"
+        },
+        "paket": {
+          "onceki": "Canal+ Magyarország",
+          "yeni": "Slovak Telekom / Canal+ Magyarország"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31414",
+      "kanal_adi": "TV Paprika Czechia",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Canal+ Magyarország",
+          "yeni": "Slovak Telekom / Canal+ Magyarország"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31415",
+      "kanal_adi": "Sport 1 Czechia",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Canal+ Magyarország",
+          "yeni": "Slovak Telekom / Canal+ Magyarország"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31416",
+      "kanal_adi": "Duna TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / hun",
+          "yeni": "2511 / hun"
+        },
+        "paket": {
+          "onceki": "Canal+ Magyarország",
+          "yeni": "Slovak Telekom / Canal+ Magyarország"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31417",
+      "kanal_adi": "M4 Sport HD",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "M4 Sport",
+          "yeni": "M4 Sport HD"
+        },
+        "ses_pid": {
+          "onceki": "0 / hun",
+          "yeni": "2611 / hun"
+        },
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "HD"
+        },
+        "paket": {
+          "onceki": "Canal+ Magyarország",
+          "yeni": "Slovak Telekom / Canal+ Magyarország"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31427",
+      "kanal_adi": "Spektrum Home SVT",
       "degisiklikler": {
         "paket": {
           "onceki": "Digi TV / Slovak Telekom",
-          "yeni": "Slovak Telekom / freeSAT"
+          "yeni": "Slovak Telekom"
         }
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31306",
-      "kanal_adi": "TA 3",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31311",
-      "kanal_adi": "Film+ Hungary",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV / Slovak Telekom / freeSAT",
-          "yeni": "Focus Sat / Slovak Telekom / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31312",
-      "kanal_adi": "*",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31315",
-      "kanal_adi": "Šláger Original",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31316",
-      "kanal_adi": "TV Lux",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31325",
-      "kanal_adi": "Senzi ( SVT )",
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31428",
+      "kanal_adi": "Minimax (SVT)",
       "degisiklikler": {
         "paket": {
           "onceki": "Digi TV / Slovak Telekom",
-          "yeni": "Magenta TV Sat / Slovak Telekom"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31326",
-      "kanal_adi": "Filmbox+ Love & Crime CZ ( SVT )",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV / Slovak Telekom",
-          "yeni": "Magenta TV Sat / Slovak Telekom"
+          "yeni": "Slovak Telekom"
         }
       }
     }
@@ -124,15 +152,15 @@
   "silinen_transponderler": [],
   "degisen_transponderler": [
     {
-      "anahtar": "thor_1w:12111:V:30000",
+      "anahtar": "thor_1w:12149:V:30000",
       "degisiklikler": {
         "kanal_sayisi": {
-          "onceki": 24,
-          "yeni": 25
+          "onceki": 17,
+          "yeni": 19
         },
         "tv_sayisi": {
-          "onceki": 24,
-          "yeni": 25
+          "onceki": 17,
+          "yeni": 19
         }
       }
     }
