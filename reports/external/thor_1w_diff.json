@@ -1,168 +1,26 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-04T07:46:35.600565+00:00",
+  "olusturma_zamani_utc": "2026-09-04T18:10:09.218555+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 770,
+    "onceki_kanal": 772,
     "yeni_kanal": 772,
-    "eklenen_kanal": 2,
+    "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 7,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "Šport 2 HD (SVT)",
-      "frekans": 12149,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "video_pid": "1001",
-      "ses_pid": "1011 / cze",
-      "uydu": "Thor 7",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "31422",
-      "paket": "Slovak Telekom",
-      "tp_id": "thor_1w:12149:V:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
-    },
-    {
-      "kanal_adi": "JOJ Šport HD (SVT)",
-      "frekans": 12149,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "video_pid": "1401",
-      "ses_pid": "1411 / slo",
-      "uydu": "Thor 7",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "31423",
-      "paket": "Slovak Telekom",
-      "tp_id": "thor_1w:12149:V:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
-    }
-  ],
+  "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31413",
-      "kanal_adi": "FilmBox+ One",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "FilmBox Basic",
-          "yeni": "FilmBox+ One"
-        },
-        "paket": {
-          "onceki": "Canal+ Magyarország",
-          "yeni": "Slovak Telekom / Canal+ Magyarország"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31414",
-      "kanal_adi": "TV Paprika Czechia",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Canal+ Magyarország",
-          "yeni": "Slovak Telekom / Canal+ Magyarország"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31415",
-      "kanal_adi": "Sport 1 Czechia",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Canal+ Magyarország",
-          "yeni": "Slovak Telekom / Canal+ Magyarország"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31416",
-      "kanal_adi": "Duna TV",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "0 / hun",
-          "yeni": "2511 / hun"
-        },
-        "paket": {
-          "onceki": "Canal+ Magyarország",
-          "yeni": "Slovak Telekom / Canal+ Magyarország"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31417",
-      "kanal_adi": "M4 Sport HD",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "M4 Sport",
-          "yeni": "M4 Sport HD"
-        },
-        "ses_pid": {
-          "onceki": "0 / hun",
-          "yeni": "2611 / hun"
-        },
-        "kalite": {
-          "onceki": "SD",
-          "yeni": "HD"
-        },
-        "paket": {
-          "onceki": "Canal+ Magyarország",
-          "yeni": "Slovak Telekom / Canal+ Magyarország"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31427",
-      "kanal_adi": "Spektrum Home SVT",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV / Slovak Telekom",
-          "yeni": "Slovak Telekom"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31428",
-      "kanal_adi": "Minimax (SVT)",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV / Slovak Telekom",
-          "yeni": "Slovak Telekom"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "thor_1w:12149:V:30000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 17,
-          "yeni": 19
-        },
-        "tv_sayisi": {
-          "onceki": 17,
-          "yeni": 19
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }
