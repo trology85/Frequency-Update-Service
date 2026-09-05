@@ -1,26 +1,59 @@
 {
   "uydu_id": "astra_28_2",
   "uydu_adi": "Astra 2E/2F/2G 28.2°E",
-  "olusturma_zamani_utc": "2026-09-05T07:28:15.012613+00:00",
+  "olusturma_zamani_utc": "2026-09-05T17:11:44.014864+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 732,
-    "yeni_kanal": 732,
+    "yeni_kanal": 731,
     "eklenen_kanal": 0,
-    "silinen_kanal": 0,
+    "silinen_kanal": 1,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 60,
     "yeni_tp": 60,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
   "eklenen_kanallar": [],
-  "silinen_kanallar": [],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "[Empty TP]",
+      "frekans": 11509,
+      "polarizasyon": "V",
+      "sembol_orani": 23000,
+      "fec": "2/3",
+      "video_pid": "0",
+      "ses_pid": "",
+      "uydu": "Astra 2G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "0",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:11509:V:23000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Europe"
+    }
+  ],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "astra_28_2:11509:V:23000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 11,
+          "yeni": 10
+        },
+        "tv_sayisi": {
+          "onceki": 11,
+          "yeni": 10
+        }
+      }
+    }
+  ]
 }

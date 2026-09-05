@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-05T07:28:09.536291+00:00",
+  "run_utc": "2026-09-05T17:11:38.711489+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -12,8 +12,8 @@
       "errors": [],
       "pages": 2,
       "transponders": 61,
-      "channels": 752,
-      "raw_channel_rows": 752,
+      "channels": 751,
+      "raw_channel_rows": 751,
       "raw_file": "raw/satbeams/astra_28_2.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-05T07:28:11.099518+00:00",
+  "run_utc": "2026-09-05T17:11:40.189283+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-28.2E",
       "title": "Astra 2E / Astra 2F / Astra 2G (28.2°E) -  - Frekanslar - KingOfSat",
-      "bytes": 761999,
+      "bytes": 761968,
       "frequency_rows": 156,
       "channel_rows": 599,
       "advertised_records": 706,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-05T07:28:13.564080+00:00",
+  "generated_utc": "2026-09-05T17:11:42.556791+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 526,
       "tv": 475,
       "radio": 51,
-      "source_updated": "2026-09-03"
+      "source_updated": "2026-09-05"
     }
   ]
 }
@@ -68,10 +68,10 @@
       "id": "astra_28_2",
       "ok": true,
       "transponders": 61,
-      "channels": 752,
-      "tv": 751,
+      "channels": 751,
+      "tv": 750,
       "radio": 1,
-      "sd": 531,
+      "sd": 530,
       "hd": 217,
       "uhd_4k": 0,
       "unknown_quality": 3,
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-05T07:28:14.972784+00:00",
+  "run_utc": "2026-09-05T17:11:43.973094+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -114,23 +114,23 @@
       "errors": [],
       "warnings": [],
       "transponders": 61,
-      "channels": 752,
-      "tv": 751,
+      "channels": 751,
+      "tv": 750,
       "radio": 1,
-      "sd": 531,
+      "sd": 530,
       "hd": 217,
       "uhd_4k": 0,
       "unknown_quality": 3,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "9909f2b9b616035f48fad12fbf9b15e57956202f7871cde2de09f82e4de9a223",
+      "candidate_hash": "9a18e0afd0b6532b46ac284502043fd3a536db45acd26ef751899b60c57a9965",
       "current_hash": "9909f2b9b616035f48fad12fbf9b15e57956202f7871cde2de09f82e4de9a223",
-      "changed": false,
+      "changed": true,
       "added": 0,
-      "removed": 0,
+      "removed": 1,
       "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true
