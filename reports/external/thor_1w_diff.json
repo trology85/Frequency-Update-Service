@@ -1,26 +1,144 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-04T18:10:09.218555+00:00",
+  "olusturma_zamani_utc": "2026-09-05T07:28:22.461851+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 772,
-    "yeni_kanal": 772,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 776,
+    "eklenen_kanal": 4,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 3,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "ducktv (SVT )",
+      "frekans": 11938,
+      "polarizasyon": "H",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "701",
+      "ses_pid": "714 / slo",
+      "uydu": "Thor 5",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30716",
+      "paket": "Magenta TV Sat / Slovak Telekom",
+      "tp_id": "thor_1w:11938:H:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T1Nordic"
+    },
+    {
+      "kanal_adi": "Disney Channel (SVT)",
+      "frekans": 11938,
+      "polarizasyon": "H",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "201",
+      "ses_pid": "210 / hun / 211 / ces / 212 / eng / 214 / slo",
+      "uydu": "Thor 5",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30721",
+      "paket": "Magenta TV Sat / Slovak Telekom",
+      "tp_id": "thor_1w:11938:H:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T1Nordic"
+    },
+    {
+      "kanal_adi": "STORY 4 (SVT)",
+      "frekans": 11938,
+      "polarizasyon": "H",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "451",
+      "ses_pid": "460 / hun",
+      "uydu": "Thor 5",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30725",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:11938:H:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T1Nordic"
+    },
+    {
+      "kanal_adi": "BBC Earth HD (SVT)",
+      "frekans": 11938,
+      "polarizasyon": "H",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "2151",
+      "ses_pid": "2161 / eng / 2163 / cze / 2164 / hun",
+      "uydu": "Thor 5",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "30739",
+      "paket": "Magenta TV Sat / Slovak Telekom",
+      "tp_id": "thor_1w:11938:H:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T1Nordic"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31413",
+      "kanal_adi": "FilmBox+ One",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom / Canal+ Magyarország",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Canal+ Magyarország"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31427",
+      "kanal_adi": "Spektrum Home SVT",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31428",
+      "kanal_adi": "Minimax (SVT)",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "thor_1w:11938:H:28000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 12,
+          "yeni": 16
+        },
+        "tv_sayisi": {
+          "onceki": 12,
+          "yeni": 16
+        }
+      }
+    }
+  ]
 }
