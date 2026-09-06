@@ -1,26 +1,179 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-05T17:11:51.215428+00:00",
+  "olusturma_zamani_utc": "2026-09-06T07:41:35.866403+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 776,
-    "yeni_kanal": 776,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 781,
+    "eklenen_kanal": 5,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 3,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 2
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Slager TV",
+      "frekans": 11900,
+      "polarizasyon": "H",
+      "sembol_orani": 28000,
+      "fec": "5/6",
+      "video_pid": "615",
+      "ses_pid": "2007 / hun",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "2850",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:11900:H:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "TV4 (SVT)",
+      "frekans": 11919,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "701",
+      "ses_pid": "710 / hun",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "31125",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:11919:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "M5 (SVT)",
+      "frekans": 11919,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "851",
+      "ses_pid": "860 / hun",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "31137",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:11919:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "TV2 Séf ( SVT)",
+      "frekans": 11919,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "201",
+      "ses_pid": "210 / hun",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "31138",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:11919:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "M4 sport+/Duna world (SVT)",
+      "frekans": 11919,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "2401",
+      "ses_pid": "2410 / hun",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "31145",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:11919:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:1025",
+      "kanal_adi": "Music Channel",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Focus Sat / Digi TV",
+          "yeni": "Focus Sat / Slovak Telekom"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:1430",
+      "kanal_adi": "Fishing&Hunting",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "1432 / rum / 1433 / hun / 1434 / bul / 1435 / ces"
+        },
+        "paket": {
+          "onceki": "Focus Sat / Digi TV / Slovak Telekom / Telly / Direct One / freeSAT",
+          "yeni": "Focus Sat / Slovak Telekom / Telly / Direct One / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:3400",
+      "kanal_adi": "Agro TV",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Focus Sat / Digi TV",
+          "yeni": "Focus Sat / DIGI RO"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "thor_1w:11900:H:28000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 28,
+          "yeni": 29
+        },
+        "tv_sayisi": {
+          "onceki": 14,
+          "yeni": 15
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:11919:V:28000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 17,
+          "yeni": 21
+        },
+        "tv_sayisi": {
+          "onceki": 17,
+          "yeni": 21
+        }
+      }
+    }
+  ]
 }

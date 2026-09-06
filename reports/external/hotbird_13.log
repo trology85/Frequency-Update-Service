@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-05T17:11:09.555379+00:00",
+  "run_utc": "2026-09-06T07:40:56.330192+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-05T17:11:11.028747+00:00",
+  "run_utc": "2026-09-06T07:40:58.075609+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-13E",
       "title": "Hot Bird 13F / Hot Bird 13G (13°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1515787,
+      "bytes": 1515966,
       "frequency_rows": 141,
       "channel_rows": 1488,
       "advertised_records": 1550,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-05T17:11:15.733180+00:00",
+  "generated_utc": "2026-09-06T07:41:02.416492+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 1214,
       "tv": 958,
       "radio": 256,
-      "source_updated": "2026-09-05"
+      "source_updated": "2026-09-06"
     }
   ]
 }
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-05T17:11:19.518564+00:00",
+  "run_utc": "2026-09-06T07:41:05.365017+00:00",
   "ok": true,
   "should_publish": false,
   "source": "Satbeams API",

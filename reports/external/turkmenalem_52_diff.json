@@ -1,212 +1,26 @@
 {
   "uydu_id": "turkmenalem_52",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "olusturma_zamani_utc": "2026-09-05T17:11:54.938168+00:00",
+  "olusturma_zamani_utc": "2026-09-06T07:41:39.548331+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 395,
+    "onceki_kanal": 389,
     "yeni_kanal": 389,
-    "eklenen_kanal": 1,
-    "silinen_kanal": 7,
+    "eklenen_kanal": 0,
+    "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 24,
     "yeni_tp": 24,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 3
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "AVA Family",
-      "frekans": 11420,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "101",
-      "ses_pid": "102 / 000",
-      "uydu": "TurkmenAlem",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "1",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:11420:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "East"
-    }
-  ],
-  "silinen_kanallar": [
-    {
-      "kanal_adi": "WNS Info card",
-      "frekans": 10762,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "1401",
-      "ses_pid": "",
-      "uydu": "TurkmenAlem",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "14",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:10762:V:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "East"
-    },
-    {
-      "kanal_adi": "Cafe Trade",
-      "frekans": 10762,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "1801",
-      "ses_pid": "0 / per",
-      "uydu": "TurkmenAlem",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "18",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:10762:V:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "East"
-    },
-    {
-      "kanal_adi": "Rahe Nejat TV",
-      "frekans": 10762,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "3004",
-      "ses_pid": "0 / per",
-      "uydu": "TurkmenAlem",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "19",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:10762:V:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "East"
-    },
-    {
-      "kanal_adi": "Promo",
-      "frekans": 10762,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2401",
-      "ses_pid": "2402 / fas",
-      "uydu": "TurkmenAlem",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "24",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:10762:V:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "East"
-    },
-    {
-      "kanal_adi": "WNS Info card",
-      "frekans": 10762,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2501",
-      "ses_pid": "0 / per",
-      "uydu": "TurkmenAlem",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "25",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:10762:V:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "East"
-    },
-    {
-      "kanal_adi": "Maawj TV",
-      "frekans": 10887,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "1005",
-      "ses_pid": "0 / per",
-      "uydu": "TurkmenAlem",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "10",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:10887:V:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "East"
-    },
-    {
-      "kanal_adi": "Radio Payam Azadi",
-      "frekans": 10887,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "0",
-      "ses_pid": "2401 / per",
-      "uydu": "TurkmenAlem",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "24",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:10887:V:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "East"
-    }
-  ],
+  "eklenen_kanallar": [],
+  "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "turkmenalem_52:10762:V:27500",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 21,
-          "yeni": 16
-        },
-        "tv_sayisi": {
-          "onceki": 21,
-          "yeni": 16
-        }
-      }
-    },
-    {
-      "anahtar": "turkmenalem_52:10887:V:27500",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 25,
-          "yeni": 23
-        },
-        "tv_sayisi": {
-          "onceki": 25,
-          "yeni": 23
-        }
-      }
-    },
-    {
-      "anahtar": "turkmenalem_52:11420:H:27500",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 14,
-          "yeni": 15
-        },
-        "tv_sayisi": {
-          "onceki": 14,
-          "yeni": 15
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }
