@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-07T07:59:27.289292+00:00",
+  "run_utc": "2026-09-07T19:01:50.792125+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-07T07:59:28.849988+00:00",
+  "run_utc": "2026-09-07T19:01:52.560192+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-39E",
       "title": "Hellas Sat 3 / Hellas Sat 4 (39°E) -  - Frekanslar - KingOfSat",
-      "bytes": 724003,
+      "bytes": 718766,
       "frequency_rows": 127,
-      "channel_rows": 607,
-      "advertised_records": 702,
+      "channel_rows": 601,
+      "advertised_records": 697,
       "block_markers": [],
       "raw_file": "raw/kingofsat/hellas_39.html",
       "errors": []
@@ -45,16 +45,16 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-07T07:59:30.743031+00:00",
+  "generated_utc": "2026-09-07T19:01:54.912991+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
       "id": "hellas_39",
-      "transponders": 32,
-      "channels": 593,
-      "tv": 555,
+      "transponders": 31,
+      "channels": 587,
+      "tv": 549,
       "radio": 38,
-      "source_updated": "2026-09-02"
+      "source_updated": "2026-09-07"
     }
   ]
 }
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-07T07:59:31.701953+00:00",
+  "run_utc": "2026-09-07T19:01:55.949758+00:00",
   "ok": true,
   "should_publish": false,
   "source": "Satbeams API",

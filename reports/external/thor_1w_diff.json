@@ -1,199 +1,26 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-07T07:59:56.157736+00:00",
+  "olusturma_zamani_utc": "2026-09-07T19:02:23.983445+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 781,
+    "onceki_kanal": 786,
     "yeni_kanal": 786,
-    "eklenen_kanal": 6,
-    "silinen_kanal": 1,
-    "degisen_kanal": 3,
+    "eklenen_kanal": 0,
+    "silinen_kanal": 0,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "TVR Info",
-      "frekans": 11824,
-      "polarizasyon": "H",
-      "sembol_orani": 3000,
-      "fec": "5/6",
-      "video_pid": "1461",
-      "ses_pid": "1462 / rum",
-      "uydu": "Thor 6",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "5100",
-      "paket": "DIGI RO",
-      "tp_id": "thor_1w:11824:H:3000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K1"
-    },
-    {
-      "kanal_adi": "Sorozat+(SVT)",
-      "frekans": 11958,
-      "polarizasyon": "V",
-      "sembol_orani": 28000,
-      "fec": "7/8",
-      "video_pid": "751",
-      "ses_pid": "760 / hun",
-      "uydu": "Thor 6",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "31220",
-      "paket": "Slovak Telekom",
-      "tp_id": "thor_1w:11958:V:28000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K2"
-    },
-    {
-      "kanal_adi": "Muzsika TV ( SVT)",
-      "frekans": 11958,
-      "polarizasyon": "V",
-      "sembol_orani": 28000,
-      "fec": "7/8",
-      "video_pid": "801",
-      "ses_pid": "810 / hun",
-      "uydu": "Thor 6",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "31221",
-      "paket": "Slovak Telekom",
-      "tp_id": "thor_1w:11958:V:28000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K2"
-    },
-    {
-      "kanal_adi": "RTL GOLD (SVT)",
-      "frekans": 11958,
-      "polarizasyon": "V",
-      "sembol_orani": 28000,
-      "fec": "7/8",
-      "video_pid": "901",
-      "ses_pid": "910 / hun",
-      "uydu": "Thor 6",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "31235",
-      "paket": "Slovak Telekom",
-      "tp_id": "thor_1w:11958:V:28000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K2"
-    },
-    {
-      "kanal_adi": "ATV (SVT)",
-      "frekans": 11958,
-      "polarizasyon": "V",
-      "sembol_orani": 28000,
-      "fec": "7/8",
-      "video_pid": "2451",
-      "ses_pid": "2460 / hun",
-      "uydu": "Thor 6",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "31242",
-      "paket": "Slovak Telekom",
-      "tp_id": "thor_1w:11958:V:28000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K2"
-    },
-    {
-      "kanal_adi": "RTL HAROM (SVT)",
-      "frekans": 11958,
-      "polarizasyon": "V",
-      "sembol_orani": 28000,
-      "fec": "7/8",
-      "video_pid": "701",
-      "ses_pid": "710 / hun",
-      "uydu": "Thor 6",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "321218",
-      "paket": "Slovak Telekom",
-      "tp_id": "thor_1w:11958:V:28000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K2"
-    }
-  ],
-  "silinen_kanallar": [
-    {
-      "kanal_adi": "TVR Info",
-      "frekans": 11824,
-      "polarizasyon": "H",
-      "sembol_orani": 3000,
-      "fec": "5/6",
-      "video_pid": "1461",
-      "ses_pid": "1462 / rum",
-      "uydu": "Thor 6",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "1460",
-      "paket": "Digi TV",
-      "tp_id": "thor_1w:11824:H:3000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K1"
-    }
-  ],
-  "degisen_kanallar": [
-    {
-      "anahtar": "thor_1w|thor_1w:11824:H:3000|sid:4040",
-      "kanal_adi": "M1 HD",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV / Direct One",
-          "yeni": "DIGI RO / Slovak Telekom / Direct One"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11824:H:3000|sid:4070",
-      "kanal_adi": "Digi Sport 1 HD RO",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11824:H:3000|sid:4080",
-      "kanal_adi": "Digi Sport 2 HD RO",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    }
-  ],
+  "eklenen_kanallar": [],
+  "silinen_kanallar": [],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "thor_1w:11958:V:28000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 19,
-          "yeni": 24
-        },
-        "tv_sayisi": {
-          "onceki": 19,
-          "yeni": 24
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }
