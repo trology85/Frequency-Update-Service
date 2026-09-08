@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-07T19:02:23.983445+00:00",
+  "olusturma_zamani_utc": "2026-09-08T07:53:12.078136+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 786,
     "yeni_kanal": 786,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "eklenen_kanal": 1,
+    "silinen_kanal": 1,
+    "degisen_kanal": 7,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
@@ -17,9 +17,118 @@
     "silinen_tp": 0,
     "degisen_tp": 0
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "TVR Cultural",
+      "frekans": 11824,
+      "polarizasyon": "H",
+      "sembol_orani": 3000,
+      "fec": "5/6",
+      "video_pid": "5211",
+      "ses_pid": "5212 / rum",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "5110",
+      "paket": "DIGI RO",
+      "tp_id": "thor_1w:11824:H:3000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K1"
+    }
+  ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "TVR Cultural",
+      "frekans": 11824,
+      "polarizasyon": "H",
+      "sembol_orani": 3000,
+      "fec": "5/6",
+      "video_pid": "1471",
+      "ses_pid": "1472 / rum",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1470",
+      "paket": "Digi TV",
+      "tp_id": "thor_1w:11824:H:3000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K1"
+    }
+  ],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:11824:H:3000|sid:4030",
+      "kanal_adi": "TV 2 HD Hungary",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1011",
+      "kanal_adi": "Jednotka HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1012",
+      "kanal_adi": "Dvojka HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom / freeSAT",
+          "yeni": "Magenta TV Sat / Slovak Telekom / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1018",
+      "kanal_adi": "Prima HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1020",
+      "kanal_adi": "CT 1 HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom / Telly / freeSAT",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1023",
+      "kanal_adi": "Slager Originál",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom / Telly",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1024",
+      "kanal_adi": "Nova HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
