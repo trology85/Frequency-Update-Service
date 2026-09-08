@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-08T07:52:42.322564+00:00",
+  "run_utc": "2026-09-08T18:22:03.505835+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -11,9 +11,9 @@
       "ok": true,
       "errors": [],
       "pages": 2,
-      "transponders": 32,
-      "channels": 586,
-      "raw_channel_rows": 586,
+      "transponders": 31,
+      "channels": 580,
+      "raw_channel_rows": 580,
       "raw_file": "raw/satbeams/hellas_39.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-08T07:52:43.781939+00:00",
+  "run_utc": "2026-09-08T18:22:04.831895+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-39E",
       "title": "Hellas Sat 3 / Hellas Sat 4 (39°E) -  - Frekanslar - KingOfSat",
-      "bytes": 720981,
+      "bytes": 720941,
       "frequency_rows": 128,
       "channel_rows": 601,
       "advertised_records": 698,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-08T07:52:45.897626+00:00",
+  "generated_utc": "2026-09-08T18:22:07.135489+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -67,12 +67,12 @@
     {
       "id": "hellas_39",
       "ok": true,
-      "transponders": 31,
-      "channels": 585,
-      "tv": 566,
+      "transponders": 30,
+      "channels": 579,
+      "tv": 560,
       "radio": 19,
       "sd": 306,
-      "hd": 110,
+      "hd": 104,
       "uhd_4k": 1,
       "unknown_quality": 149,
       "candidate": "candidate/satbeams/hellas_39.json"
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-08T07:52:46.989749+00:00",
+  "run_utc": "2026-09-08T18:22:08.195276+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -113,26 +113,26 @@
       "ok": true,
       "errors": [],
       "warnings": [
-        "Bilinmeyen kalite oranı dikkat gerektiriyor: 132/566 (23.3%)"
+        "Bilinmeyen kalite oranı dikkat gerektiriyor: 132/560 (23.6%)"
       ],
-      "transponders": 31,
-      "channels": 585,
-      "tv": 566,
+      "transponders": 30,
+      "channels": 579,
+      "tv": 560,
       "radio": 19,
       "sd": 306,
-      "hd": 127,
+      "hd": 121,
       "uhd_4k": 1,
       "unknown_quality": 132,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "0be30049e2e6184292818c29d638e1ddc8269ccb46e8e6c1a93c4de1a461dcd4",
+      "candidate_hash": "f2efe269ac6e0e0188443e374c95f30a813e59c622395fd607796689a3f99e29",
       "current_hash": "0be30049e2e6184292818c29d638e1ddc8269ccb46e8e6c1a93c4de1a461dcd4",
-      "changed": false,
+      "changed": true,
       "added": 0,
-      "removed": 0,
+      "removed": 6,
       "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true

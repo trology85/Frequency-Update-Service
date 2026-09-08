@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-08-31T20:41:49.999054+00:00",
+  "guncelleme_tarihi": "2026-09-05T17:11:43.864390+00:00",
   "uydu_adi": "Astra 2E/2F/2G 28.2°E",
-  "toplam_kanal": 752,
+  "toplam_kanal": 751,
   "toplam_tp": 61,
   "transponderler": [
     {
@@ -363,8 +363,8 @@
       "fec": "2/3",
       "uydu": "Astra 2G",
       "kapsama": "Europe",
-      "kanal_sayisi": 11,
-      "tv_sayisi": 11,
+      "kanal_sayisi": 10,
+      "tv_sayisi": 10,
       "radyo_sayisi": 0,
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E"
@@ -1073,24 +1073,6 @@
       "sid": "0",
       "paket": "Sky UK",
       "tp_id": "astra_28_2:11038:V:22000",
-      "konum_id": "astra_28_2",
-      "konum_adi": "Astra 2E/2F/2G 28.2°E",
-      "kapsama": "Europe"
-    },
-    {
-      "kanal_adi": "[Empty TP]",
-      "frekans": 11509,
-      "polarizasyon": "V",
-      "sembol_orani": 23000,
-      "fec": "2/3",
-      "video_pid": "0",
-      "ses_pid": "",
-      "uydu": "Astra 2G",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "0",
-      "paket": "Sky UK",
-      "tp_id": "astra_28_2:11509:V:23000",
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E",
       "kapsama": "Europe"

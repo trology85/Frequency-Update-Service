@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-05T17:11:43.864390+00:00",
+  "generated_utc": "2026-09-08T18:22:25.902149+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=28E",
-    "last_updated": "2026-08-26"
+    "last_updated": "2026-09-08"
   },
   "satellite": {
     "id": "astra_28_2",
@@ -9707,7 +9707,7 @@
       "tp_id": "astra_28_2:11553:H:22000"
     },
     {
-      "name": "High Street TV",
+      "name": "High Street TV 2",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
@@ -9732,13 +9732,13 @@
       "audio": "2353 / eng",
       "nid": 2,
       "tid": 2095,
-      "source_channel_id": 92165,
+      "source_channel_id": 169768,
       "source_transponder_id": 10992,
-      "updated": "2015-07-24",
+      "updated": "2026-09-08",
       "tp_id": "astra_28_2:11553:H:22000"
     },
     {
-      "name": "Shop Unlimited",
+      "name": "High Street TV 3",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
@@ -9763,9 +9763,9 @@
       "audio": "2339 / eng",
       "nid": 2,
       "tid": 2095,
-      "source_channel_id": 163876,
+      "source_channel_id": 169767,
       "source_transponder_id": 10992,
-      "updated": "2025-12-02",
+      "updated": "2026-09-08",
       "tp_id": "astra_28_2:11553:H:22000"
     },
     {

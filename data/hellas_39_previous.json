@@ -1,9 +1,9 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-08-02T05:58:27.292176+00:00",
+  "guncelleme_tarihi": "2026-08-12T15:59:22.056221+00:00",
   "uydu_adi": "Hellas Sat 39.0°E",
-  "toplam_kanal": 587,
-  "toplam_tp": 32,
+  "toplam_kanal": 585,
+  "toplam_tp": 31,
   "transponderler": [
     {
       "tp_id": "hellas_39:10730:H:30000",
@@ -58,20 +58,6 @@
       "kanal_sayisi": 10,
       "tv_sayisi": 10,
       "radyo_sayisi": 0,
-      "konum_id": "hellas_39",
-      "konum_adi": "Hellas Sat 39.0°E"
-    },
-    {
-      "tp_id": "hellas_39:11504:V:5865",
-      "frekans": 11504,
-      "polarizasyon": "V",
-      "sembol_orani": 5865,
-      "fec": "1/2",
-      "uydu": "HellasSat 4",
-      "kapsama": "ME",
-      "kanal_sayisi": 2,
-      "tv_sayisi": 1,
-      "radyo_sayisi": 1,
       "konum_id": "hellas_39",
       "konum_adi": "Hellas Sat 39.0°E"
     },
@@ -832,24 +818,6 @@
       "konum_id": "hellas_39",
       "konum_adi": "Hellas Sat 39.0°E",
       "kapsama": "EuropeBSS"
-    },
-    {
-      "kanal_adi": "Alfa Fann",
-      "frekans": 11504,
-      "polarizasyon": "V",
-      "sembol_orani": 5865,
-      "fec": "1/2",
-      "video_pid": "48",
-      "ses_pid": "47 / ara",
-      "uydu": "HellasSat 4",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "2707",
-      "paket": "",
-      "tp_id": "hellas_39:11504:V:5865",
-      "konum_id": "hellas_39",
-      "konum_adi": "Hellas Sat 39.0°E",
-      "kapsama": "ME"
     },
     {
       "kanal_adi": "Alfa Omega TV",
@@ -9310,24 +9278,6 @@
       "konum_id": "hellas_39",
       "konum_adi": "Hellas Sat 39.0°E",
       "kapsama": "EuropeFSS"
-    },
-    {
-      "kanal_adi": "Tarabiya t",
-      "frekans": 11504,
-      "polarizasyon": "V",
-      "sembol_orani": 5865,
-      "fec": "1/2",
-      "video_pid": "0",
-      "ses_pid": "57 / ara",
-      "uydu": "HellasSat 4",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "2709",
-      "paket": "",
-      "tp_id": "hellas_39:11504:V:5865",
-      "konum_id": "hellas_39",
-      "konum_adi": "Hellas Sat 39.0°E",
-      "kapsama": "ME"
     },
     {
       "kanal_adi": "Taraf",

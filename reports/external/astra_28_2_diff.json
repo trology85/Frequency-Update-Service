@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_28_2",
   "uydu_adi": "Astra 2E/2F/2G 28.2°E",
-  "olusturma_zamani_utc": "2026-09-08T07:53:05.857922+00:00",
+  "olusturma_zamani_utc": "2026-09-08T18:22:26.064823+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 731,
     "yeni_kanal": 731,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 2,
     "tur_degisen_kanal": 0,
     "onceki_tp": 60,
     "yeni_tp": 60,
@@ -19,7 +19,28 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "astra_28_2|astra_28_2:11553:H:22000|sid:55102",
+      "kanal_adi": "High Street TV 2",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "High Street TV",
+          "yeni": "High Street TV 2"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11553:H:22000|sid:55104",
+      "kanal_adi": "High Street TV 3",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Shop Unlimited",
+          "yeni": "High Street TV 3"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

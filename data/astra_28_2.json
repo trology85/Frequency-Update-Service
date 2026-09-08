@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-09-05T17:11:43.864390+00:00",
+  "guncelleme_tarihi": "2026-09-08T18:22:25.902149+00:00",
   "uydu_adi": "Astra 2E/2F/2G 28.2°E",
   "toplam_kanal": 751,
   "toplam_tp": 61,
@@ -5650,7 +5650,25 @@
       "kapsama": "Europe"
     },
     {
-      "kanal_adi": "High Street TV",
+      "kanal_adi": "High Street TV 1",
+      "frekans": 11344,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2405",
+      "ses_pid": "2406 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55250",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:11344:V:27500",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Spot"
+    },
+    {
+      "kanal_adi": "High Street TV 2",
       "frekans": 11553,
       "polarizasyon": "H",
       "sembol_orani": 22000,
@@ -5668,22 +5686,22 @@
       "kapsama": "Europe"
     },
     {
-      "kanal_adi": "High Street TV 1",
-      "frekans": 11344,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2405",
-      "ses_pid": "2406 / eng",
-      "uydu": "Astra 2F",
+      "kanal_adi": "High Street TV 3",
+      "frekans": 11553,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "2338",
+      "ses_pid": "2339 / eng",
+      "uydu": "Astra 2G",
       "kalite": "SD",
       "tur": "TV",
-      "sid": "55250",
+      "sid": "55104",
       "paket": "Sky UK",
-      "tp_id": "astra_28_2:11344:V:27500",
+      "tp_id": "astra_28_2:11553:H:22000",
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E",
-      "kapsama": "Spot"
+      "kapsama": "Europe"
     },
     {
       "kanal_adi": "Hobby Maker",
@@ -10310,24 +10328,6 @@
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E",
       "kapsama": "WAfrica"
-    },
-    {
-      "kanal_adi": "Shop Unlimited",
-      "frekans": 11553,
-      "polarizasyon": "H",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "video_pid": "2338",
-      "ses_pid": "2339 / eng",
-      "uydu": "Astra 2G",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "55104",
-      "paket": "Sky UK",
-      "tp_id": "astra_28_2:11553:H:22000",
-      "konum_id": "astra_28_2",
-      "konum_adi": "Astra 2E/2F/2G 28.2°E",
-      "kapsama": "Europe"
     },
     {
       "kanal_adi": "Sikh Channel",
