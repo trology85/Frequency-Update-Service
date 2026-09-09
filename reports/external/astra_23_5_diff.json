@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_23_5",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "olusturma_zamani_utc": "2026-09-09T07:55:40.044894+00:00",
+  "olusturma_zamani_utc": "2026-09-09T18:20:57.071398+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 630,
     "yeni_kanal": 630,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 2,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 33,
     "yeni_tp": 33,
@@ -19,44 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "astra_23_5|astra_23_5:11934:V:29900|sid:14058",
-      "kanal_adi": "CS Film/CS Horror",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "CS Film",
-          "yeni": "CS Film/CS Horror"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:11934:V:29900|sid:14059",
-      "kanal_adi": "14059",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "CS Horror",
-          "yeni": "14059"
-        },
-        "video_pid": {
-          "onceki": "5910",
-          "yeni": "0"
-        },
-        "ses_pid": {
-          "onceki": "5920 / cze",
-          "yeni": ""
-        },
-        "kalite": {
-          "onceki": "SD",
-          "yeni": "Bilinmeyen"
-        },
-        "paket": {
-          "onceki": "SkyLink",
-          "yeni": "M7 Group"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

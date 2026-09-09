@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-09-09T07:55:04.857299+00:00",
+  "olusturma_zamani_utc": "2026-09-09T18:20:25.880595+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 862,
     "yeni_kanal": 862,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 1,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 88,
     "yeni_tp": 88,
@@ -19,30 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "astra_19_2|astra_19_2:10993:H:22000|sid:1",
-      "kanal_adi": "1",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "SES UHD Demo Channel",
-          "yeni": "1"
-        },
-        "video_pid": {
-          "onceki": "511",
-          "yeni": "0"
-        },
-        "ses_pid": {
-          "onceki": "0 / eng / 0 / eng",
-          "yeni": ""
-        },
-        "kalite": {
-          "onceki": "4K",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

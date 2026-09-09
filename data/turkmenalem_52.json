@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-09-05T17:11:54.826183+00:00",
+  "guncelleme_tarihi": "2026-09-09T18:21:12.812484+00:00",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "toplam_kanal": 405,
+  "toplam_kanal": 406,
   "toplam_tp": 24,
   "transponderler": [
     {
@@ -13,8 +13,8 @@
       "fec": "3/4",
       "uydu": "TurkmenAlem",
       "kapsama": "East",
-      "kanal_sayisi": 21,
-      "tv_sayisi": 21,
+      "kanal_sayisi": 22,
+      "tv_sayisi": 22,
       "radyo_sayisi": 0,
       "konum_id": "turkmenalem_52",
       "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E"
@@ -7452,6 +7452,24 @@
       "konum_id": "turkmenalem_52",
       "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
       "kapsama": "West"
+    },
+    {
+      "kanal_adi": "Wide Network Solutions (9)",
+      "frekans": 10762,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "301",
+      "ses_pid": "",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "3",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:10762:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
     },
     {
       "kanal_adi": "WildEarth",

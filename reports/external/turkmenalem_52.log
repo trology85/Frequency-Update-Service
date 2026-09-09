@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-09T07:55:55.190291+00:00",
+  "run_utc": "2026-09-09T18:21:09.493702+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -12,8 +12,8 @@
       "errors": [],
       "pages": 2,
       "transponders": 24,
-      "channels": 405,
-      "raw_channel_rows": 405,
+      "channels": 406,
+      "raw_channel_rows": 406,
       "raw_file": "raw/satbeams/turkmenalem_52.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-09T07:55:56.913858+00:00",
+  "run_utc": "2026-09-09T18:21:10.743874+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-09T07:55:58.776329+00:00",
+  "generated_utc": "2026-09-09T18:21:12.257114+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -68,11 +68,11 @@
       "id": "turkmenalem_52",
       "ok": true,
       "transponders": 24,
-      "channels": 405,
-      "tv": 399,
+      "channels": 406,
+      "tv": 400,
       "radio": 6,
       "sd": 162,
-      "hd": 237,
+      "hd": 238,
       "uhd_4k": 0,
       "unknown_quality": 0,
       "candidate": "candidate/satbeams/turkmenalem_52.json"
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-09T07:55:59.428795+00:00",
+  "run_utc": "2026-09-09T18:21:12.899234+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -114,23 +114,23 @@
       "errors": [],
       "warnings": [],
       "transponders": 24,
-      "channels": 405,
-      "tv": 399,
+      "channels": 406,
+      "tv": 400,
       "radio": 6,
       "sd": 162,
-      "hd": 237,
+      "hd": 238,
       "uhd_4k": 0,
       "unknown_quality": 0,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "32806d88e8dc81665dc5caf395d10352a5cad4ac72112ad0169d8b5b86849d86",
+      "candidate_hash": "be83b6002ed5a1493db2ae40960ba82a87c9a1a1e1bc708ab94ffa2d879d56f2",
       "current_hash": "32806d88e8dc81665dc5caf395d10352a5cad4ac72112ad0169d8b5b86849d86",
-      "changed": false,
-      "added": 0,
+      "changed": true,
+      "added": 1,
       "removed": 0,
       "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true
