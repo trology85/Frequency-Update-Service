@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-08-28T12:50:21.667452+00:00",
+  "generated_utc": "2026-09-09T07:55:39.899309+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=23E",
-    "last_updated": "2026-08-20"
+    "last_updated": "2026-09-09"
   },
   "satellite": {
     "id": "astra_23_5",
@@ -16,10 +16,10 @@
     "channels": 634,
     "tv": 525,
     "radio": 109,
-    "sd": 354,
+    "sd": 353,
     "hd": 164,
     "uhd_4k": 0,
-    "unknown_quality": 7
+    "unknown_quality": 8
   },
   "transponders": [
     {
@@ -3446,7 +3446,7 @@
       "tp_id": "astra_23_5:11934:V:29900"
     },
     {
-      "name": "CS Film",
+      "name": "CS Film/CS Horror",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 3B/3C 23.5°E",
@@ -3473,13 +3473,13 @@
       "tid": 3212,
       "source_channel_id": 96528,
       "source_transponder_id": 9117,
-      "updated": "2026-07-24",
+      "updated": "2026-09-09",
       "tp_id": "astra_23_5:11934:V:29900"
     },
     {
-      "name": "CS Horror",
+      "name": "14059",
       "type": "TV",
-      "quality": "SD",
+      "quality": "UNKNOWN",
       "satellite_group": "Astra 3B/3C 23.5°E",
       "spacecraft": "Astra 3B",
       "position": "23.5E",
@@ -3494,17 +3494,17 @@
       "country_code": "",
       "beam": "PanEuropean",
       "provider": "M7 Group",
-      "package": "SkyLink",
-      "encryption": "Conax / Cryptoworks / Irdeto / Viaccess 5.0",
-      "free_to_air": false,
-      "compression": "MPEG-4",
-      "vpid": 5910,
-      "audio": "5920 / cze",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "",
+      "vpid": 0,
+      "audio": "",
       "nid": 3,
       "tid": 3212,
       "source_channel_id": 122852,
       "source_transponder_id": 9117,
-      "updated": "2026-07-24",
+      "updated": "2026-09-09",
       "tp_id": "astra_23_5:11934:V:29900"
     },
     {

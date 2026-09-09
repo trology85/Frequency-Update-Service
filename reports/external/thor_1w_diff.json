@@ -1,26 +1,164 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-08T18:22:32.555945+00:00",
+  "olusturma_zamani_utc": "2026-09-09T07:55:55.064143+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 786,
-    "yeni_kanal": 786,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 789,
+    "eklenen_kanal": 3,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 3,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 3
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Kuukauden Kanava",
+      "frekans": 11261,
+      "polarizasyon": "H",
+      "sembol_orani": 25000,
+      "fec": "3/4",
+      "video_pid": "1130",
+      "ses_pid": "3060 / eng",
+      "uydu": "Thor 5",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "17084",
+      "paket": "Allente",
+      "tp_id": "thor_1w:11261:H:25000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T1Nordic"
+    },
+    {
+      "kanal_adi": "Story4",
+      "frekans": 11938,
+      "polarizasyon": "H",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "451",
+      "ses_pid": "460 / hun",
+      "uydu": "Thor 5",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30727",
+      "paket": "Digi TV",
+      "tp_id": "thor_1w:11938:H:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T1Nordic"
+    },
+    {
+      "kanal_adi": "Filmbox+ One",
+      "frekans": 12265,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "601",
+      "ses_pid": "610 / hun",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30930",
+      "paket": "Digi TV",
+      "tp_id": "thor_1w:12265:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:11278:V:25000|sid:17084",
+      "kanal_adi": "17084",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Kuukauden Kanava",
+          "yeni": "17084"
+        },
+        "video_pid": {
+          "onceki": "1210",
+          "yeni": "0"
+        },
+        "ses_pid": {
+          "onceki": "3245 / eng",
+          "yeni": ""
+        },
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11938:H:28000|sid:30708",
+      "kanal_adi": "Story4 HU",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "STORY 4",
+          "yeni": "Story4 HU"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12265:V:28000|sid:30918",
+      "kanal_adi": "AXN Crime",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Viasat Film",
+          "yeni": "AXN Crime"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "thor_1w:11261:H:25000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 10,
+          "yeni": 11
+        },
+        "tv_sayisi": {
+          "onceki": 10,
+          "yeni": 11
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:11938:H:28000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 16,
+          "yeni": 17
+        },
+        "tv_sayisi": {
+          "onceki": 16,
+          "yeni": 17
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:12265:V:28000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 21,
+          "yeni": 22
+        },
+        "tv_sayisi": {
+          "onceki": 21,
+          "yeni": 22
+        }
+      }
+    }
+  ]
 }

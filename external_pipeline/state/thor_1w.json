@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-08T07:53:11.864761+00:00",
+  "generated_utc": "2026-09-09T07:55:54.860992+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-09-08"
+    "last_updated": "2026-09-09"
   },
   "satellite": {
     "id": "thor_1w",
@@ -13,13 +13,13 @@
   },
   "counts": {
     "transponders": 69,
-    "channels": 787,
-    "tv": 724,
+    "channels": 790,
+    "tv": 727,
     "radio": 63,
-    "sd": 377,
+    "sd": 379,
     "hd": 274,
     "uhd_4k": 3,
-    "unknown_quality": 70
+    "unknown_quality": 71
   },
   "transponders": [
     {
@@ -416,8 +416,8 @@
       "network": "Allente",
       "nid": 70,
       "tid": 33,
-      "channel_count": 10,
-      "tv_count": 10,
+      "channel_count": 11,
+      "tv_count": 11,
       "radio_count": 0,
       "source_transponder_id": 6490
     },
@@ -794,8 +794,8 @@
       "network": "M7 Group",
       "nid": null,
       "tid": null,
-      "channel_count": 16,
-      "tv_count": 16,
+      "channel_count": 17,
+      "tv_count": 17,
       "radio_count": 0,
       "source_transponder_id": 8564
     },
@@ -1109,8 +1109,8 @@
       "network": "M7 Group",
       "nid": 1536,
       "tid": 709,
-      "channel_count": 21,
-      "tv_count": 21,
+      "channel_count": 22,
+      "tv_count": 22,
       "radio_count": 0,
       "source_transponder_id": 6507
     },
@@ -7302,6 +7302,37 @@
       "tp_id": "thor_1w:11261:H:25000"
     },
     {
+      "name": "Kuukauden Kanava",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "spacecraft": "Thor 5",
+      "position": "0.8W",
+      "frequency": 11261,
+      "polarization": "H",
+      "symbol_rate": 25000,
+      "fec": "3/4",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 17084,
+      "country": "",
+      "country_code": "",
+      "beam": "T1Nordic",
+      "provider": "Allente",
+      "package": "Allente",
+      "encryption": "Videoguard / Conax / Nagravision 3",
+      "free_to_air": false,
+      "compression": "MPEG-4",
+      "vpid": 1130,
+      "audio": "3060 / eng",
+      "nid": 70,
+      "tid": 33,
+      "source_channel_id": 169786,
+      "source_transponder_id": 6490,
+      "updated": "2026-09-09",
+      "tp_id": "thor_1w:11261:H:25000"
+    },
+    {
       "name": "VGTV",
       "type": "TV",
       "quality": "HD",
@@ -7550,9 +7581,9 @@
       "tp_id": "thor_1w:11278:V:25000"
     },
     {
-      "name": "Kuukauden Kanava",
+      "name": "17084",
       "type": "TV",
-      "quality": "SD",
+      "quality": "UNKNOWN",
       "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "spacecraft": "Thor 5",
       "position": "0.8W",
@@ -7567,17 +7598,17 @@
       "country_code": "",
       "beam": "T1Nordic",
       "provider": "Allente",
-      "package": "Allente",
-      "encryption": "Videoguard / Conax / Nagravision 3",
-      "free_to_air": false,
-      "compression": "MPEG-4",
-      "vpid": 1210,
-      "audio": "3245 / eng",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "",
+      "vpid": 0,
+      "audio": "",
       "nid": 70,
       "tid": 3,
       "source_channel_id": 169130,
       "source_transponder_id": 6491,
-      "updated": "2026-08-05",
+      "updated": "2026-09-09",
       "tp_id": "thor_1w:11278:V:25000"
     },
     {
@@ -13440,7 +13471,7 @@
       "tp_id": "thor_1w:11938:H:28000"
     },
     {
-      "name": "STORY 4",
+      "name": "Story4 HU",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
@@ -13467,7 +13498,7 @@
       "tid": null,
       "source_channel_id": 147794,
       "source_transponder_id": 8564,
-      "updated": "2026-08-15",
+      "updated": "2026-09-09",
       "tp_id": "thor_1w:11938:H:28000"
     },
     {
@@ -13716,6 +13747,37 @@
       "source_channel_id": 169695,
       "source_transponder_id": 8564,
       "updated": "2026-09-05",
+      "tp_id": "thor_1w:11938:H:28000"
+    },
+    {
+      "name": "Story4",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "spacecraft": "Thor 5",
+      "position": "0.8W",
+      "frequency": 11938,
+      "polarization": "H",
+      "symbol_rate": 28000,
+      "fec": "7/8",
+      "system": "DVB-S",
+      "modulation": "QPSK",
+      "sid": 30727,
+      "country": "",
+      "country_code": "",
+      "beam": "T1Nordic",
+      "provider": "M7 Group",
+      "package": "Digi TV",
+      "encryption": "Conax / Cryptoworks / Irdeto / Nagravision 3",
+      "free_to_air": false,
+      "compression": "MPEG-2",
+      "vpid": 451,
+      "audio": "460 / hun",
+      "nid": null,
+      "tid": null,
+      "source_channel_id": 169787,
+      "source_transponder_id": 8564,
+      "updated": "2026-09-09",
       "tp_id": "thor_1w:11938:H:28000"
     },
     {
@@ -20973,7 +21035,7 @@
       "tp_id": "thor_1w:12265:V:28000"
     },
     {
-      "name": "Viasat Film",
+      "name": "AXN Crime",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
@@ -21000,7 +21062,7 @@
       "tid": 709,
       "source_channel_id": 149058,
       "source_transponder_id": 6507,
-      "updated": "2023-07-05",
+      "updated": "2026-09-09",
       "tp_id": "thor_1w:12265:V:28000"
     },
     {
@@ -21125,6 +21187,37 @@
       "source_channel_id": 149061,
       "source_transponder_id": 6507,
       "updated": "2023-07-05",
+      "tp_id": "thor_1w:12265:V:28000"
+    },
+    {
+      "name": "Filmbox+ One",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "spacecraft": "Thor 6",
+      "position": "0.8W",
+      "frequency": 12265,
+      "polarization": "V",
+      "symbol_rate": 28000,
+      "fec": "7/8",
+      "system": "DVB-S",
+      "modulation": "QPSK",
+      "sid": 30930,
+      "country": "",
+      "country_code": "",
+      "beam": "K2",
+      "provider": "M7 Group",
+      "package": "Digi TV",
+      "encryption": "Nagravision 3",
+      "free_to_air": false,
+      "compression": "MPEG-2",
+      "vpid": 601,
+      "audio": "610 / hun",
+      "nid": 1536,
+      "tid": 709,
+      "source_channel_id": 169788,
+      "source_transponder_id": 6507,
+      "updated": "2026-09-09",
       "tp_id": "thor_1w:12265:V:28000"
     },
     {

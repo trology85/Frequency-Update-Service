@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-09-09T07:55:39.899309+00:00",
+  "guncelleme_tarihi": "2026-08-28T12:50:21.667452+00:00",
   "uydu_adi": "Astra 3B/3C 23.5°E",
   "toplam_kanal": 634,
   "toplam_tp": 33,
@@ -519,24 +519,6 @@
       "sid": "21075",
       "paket": "CanalDigitaal / TV Vlaanderen Digitaal",
       "tp_id": "astra_23_5:12187:H:29900",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "PanEuropean"
-    },
-    {
-      "kanal_adi": "14059",
-      "frekans": 11934,
-      "polarizasyon": "V",
-      "sembol_orani": 29900,
-      "fec": "3/4",
-      "video_pid": "0",
-      "ses_pid": "",
-      "uydu": "Astra 3B",
-      "kalite": "Bilinmeyen",
-      "tur": "TV",
-      "sid": "14059",
-      "paket": "M7 Group",
-      "tp_id": "astra_23_5:11934:V:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "PanEuropean"
@@ -2828,7 +2810,7 @@
       "kapsama": "European"
     },
     {
-      "kanal_adi": "CS Film/CS Horror",
+      "kanal_adi": "CS Film",
       "frekans": 11934,
       "polarizasyon": "V",
       "sembol_orani": 29900,
@@ -2859,6 +2841,24 @@
       "sid": "13146",
       "paket": "SkyLink",
       "tp_id": "astra_23_5:12070:H:27500",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "CS Horror",
+      "frekans": 11934,
+      "polarizasyon": "V",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "5910",
+      "ses_pid": "5920 / cze",
+      "uydu": "Astra 3B",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "14059",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:11934:V:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "PanEuropean"

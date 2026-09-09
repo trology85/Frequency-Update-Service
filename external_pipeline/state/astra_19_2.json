@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-08-20T15:33:49.790217+00:00",
+  "generated_utc": "2026-09-09T07:55:04.590416+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=19E",
-    "last_updated": "2026-08-20"
+    "last_updated": "2026-09-09"
   },
   "satellite": {
     "id": "astra_19_2",
@@ -18,8 +18,8 @@
     "radio": 133,
     "sd": 318,
     "hd": 411,
-    "uhd_4k": 10,
-    "unknown_quality": 0
+    "uhd_4k": 9,
+    "unknown_quality": 1
   },
   "transponders": [
     {
@@ -6430,9 +6430,9 @@
       "tp_id": "astra_19_2:10979:V:22000"
     },
     {
-      "name": "SES UHD Demo Channel",
+      "name": "1",
       "type": "TV",
-      "quality": "4K",
+      "quality": "UNKNOWN",
       "satellite_group": "Astra 19.2°E",
       "spacecraft": "Astra 1P",
       "position": "19.2E",
@@ -6450,14 +6450,14 @@
       "package": "",
       "encryption": "",
       "free_to_air": true,
-      "compression": "HEVC (H.265)",
-      "vpid": 511,
-      "audio": "0 / eng / 0 / eng",
+      "compression": "",
+      "vpid": 0,
+      "audio": "",
       "nid": 133,
       "tid": 15,
       "source_channel_id": 79776,
       "source_transponder_id": 9875,
-      "updated": "2025-09-17",
+      "updated": "2026-09-09",
       "tp_id": "astra_19_2:10993:H:22000"
     },
     {
