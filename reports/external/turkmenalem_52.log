@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-09T18:21:09.493702+00:00",
+  "run_utc": "2026-09-10T07:56:01.103135+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-09T18:21:10.743874+00:00",
+  "run_utc": "2026-09-10T07:56:02.424999+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-09T18:21:12.257114+00:00",
+  "generated_utc": "2026-09-10T07:56:03.688405+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-09T18:21:12.899234+00:00",
+  "run_utc": "2026-09-10T07:56:04.353927+00:00",
   "ok": true,
-  "should_publish": true,
+  "should_publish": false,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -125,12 +125,12 @@
       "missing_core_fields": 0,
       "duplicate_identities": 0,
       "candidate_hash": "be83b6002ed5a1493db2ae40960ba82a87c9a1a1e1bc708ab94ffa2d879d56f2",
-      "current_hash": "32806d88e8dc81665dc5caf395d10352a5cad4ac72112ad0169d8b5b86849d86",
-      "changed": true,
-      "added": 1,
+      "current_hash": "be83b6002ed5a1493db2ae40960ba82a87c9a1a1e1bc708ab94ffa2d879d56f2",
+      "changed": false,
+      "added": 0,
       "removed": 0,
       "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=true
+SHOULD_PUBLISH=false
