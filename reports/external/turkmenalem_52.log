@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-10T07:56:01.103135+00:00",
+  "run_utc": "2026-09-10T18:10:15.760703+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-10T07:56:02.424999+00:00",
+  "run_utc": "2026-09-10T18:10:17.250622+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-52E",
       "title": "TurkmenÄlem / MonacoSat (52°E) -  - Frekanslar - KingOfSat",
-      "bytes": 361828,
+      "bytes": 361816,
       "frequency_rows": 42,
       "channel_rows": 326,
       "advertised_records": 351,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-10T07:56:03.688405+00:00",
+  "generated_utc": "2026-09-10T18:10:18.980755+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -71,8 +71,8 @@
       "channels": 406,
       "tv": 400,
       "radio": 6,
-      "sd": 162,
-      "hd": 238,
+      "sd": 163,
+      "hd": 237,
       "uhd_4k": 0,
       "unknown_quality": 0,
       "candidate": "candidate/satbeams/turkmenalem_52.json"
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-10T07:56:04.353927+00:00",
+  "run_utc": "2026-09-10T18:10:19.613716+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -117,20 +117,20 @@
       "channels": 406,
       "tv": 400,
       "radio": 6,
-      "sd": 162,
-      "hd": 238,
+      "sd": 163,
+      "hd": 237,
       "uhd_4k": 0,
       "unknown_quality": 0,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "be83b6002ed5a1493db2ae40960ba82a87c9a1a1e1bc708ab94ffa2d879d56f2",
+      "candidate_hash": "0d5d047bb1bc166c715ebd4bb6378d707f406b6756a56f3518458cea32269fc9",
       "current_hash": "be83b6002ed5a1493db2ae40960ba82a87c9a1a1e1bc708ab94ffa2d879d56f2",
-      "changed": false,
-      "added": 0,
-      "removed": 0,
-      "updated": 0
+      "changed": true,
+      "added": 3,
+      "removed": 3,
+      "updated": 16
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true
