@@ -1,13 +1,13 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-11T07:51:37.692869+00:00",
+  "olusturma_zamani_utc": "2026-09-11T18:12:59.296557+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
-    "onceki_kanal": 790,
+    "onceki_kanal": 791,
     "yeni_kanal": 791,
-    "eklenen_kanal": 1,
+    "eklenen_kanal": 0,
     "silinen_kanal": 0,
     "degisen_kanal": 2,
     "tur_degisen_kanal": 0,
@@ -15,74 +15,37 @@
     "yeni_tp": 68,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "Eroxxx",
-      "frekans": 11977,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "video_pid": "2302",
-      "ses_pid": "2303 / und",
-      "uydu": "Thor 6",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "2023",
-      "paket": "Magenta TV Sat / Slovak Telekom",
-      "tp_id": "thor_1w:11977:H:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K2"
-    }
-  ],
+  "eklenen_kanallar": [],
   "silinen_kanallar": [],
   "degisen_kanallar": [
     {
-      "anahtar": "thor_1w|thor_1w:11977:H:30000|sid:2017",
-      "kanal_adi": "HBO HD Czechia",
+      "anahtar": "thor_1w|thor_1w:11977:H:30000|sid:2014",
+      "kanal_adi": "Nova Sport 4",
       "degisiklikler": {
-        "ses_pid": {
-          "onceki": "1703 / cze / 1704 / eng",
-          "yeni": "1703 / cze / 1704 / eng / 1705 / hun"
-        },
         "paket": {
           "onceki": "Slovak Telekom",
-          "yeni": "Magenta TV Sat / Slovak Telekom / Telly / freeSAT"
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
         }
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:11977:H:30000|sid:2018",
-      "kanal_adi": "National Geographic Channel Hungary & Czechia",
+      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9013",
+      "kanal_adi": "Animal Planet Europe",
       "degisiklikler": {
         "ses_pid": {
-          "onceki": "1803 / cze",
-          "yeni": "302 / cze / 303 / eng / 304 / hun"
+          "onceki": "0 / cze / 0 / eng / 0 / hun",
+          "yeni": "1303 / cze / 1304 / eng / 1305 / hun"
         },
         "paket": {
           "onceki": "Slovak Telekom",
-          "yeni": "Magenta TV Sat / Slovak Telekom / Telly / freeSAT"
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
         }
       }
     }
   ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "thor_1w:11977:H:30000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 12,
-          "yeni": 13
-        },
-        "tv_sayisi": {
-          "onceki": 12,
-          "yeni": 13
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }

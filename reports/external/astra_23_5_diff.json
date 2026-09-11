@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_23_5",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "olusturma_zamani_utc": "2026-09-11T07:51:26.484589+00:00",
+  "olusturma_zamani_utc": "2026-09-11T18:12:47.061731+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 630,
     "yeni_kanal": 630,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 1,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 33,
     "yeni_tp": 33,
@@ -19,22 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "astra_23_5|astra_23_5:11739:V:29900|sid:6094",
-      "kanal_adi": "Filmbox+ One NL HD",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Filmbox NL HD",
-          "yeni": "Filmbox+ One NL HD"
-        },
-        "ses_pid": {
-          "onceki": "",
-          "yeni": "134 / nzi"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
