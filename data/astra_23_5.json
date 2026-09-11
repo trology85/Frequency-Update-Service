@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-09-09T07:55:39.899309+00:00",
+  "guncelleme_tarihi": "2026-09-11T07:51:26.332412+00:00",
   "uydu_adi": "Astra 3B/3C 23.5°E",
   "toplam_kanal": 634,
   "toplam_tp": 33,
@@ -4412,24 +4412,6 @@
       "kapsama": "European"
     },
     {
-      "kanal_adi": "Filmbox NL HD",
-      "frekans": 11739,
-      "polarizasyon": "V",
-      "sembol_orani": 29900,
-      "fec": "3/4",
-      "video_pid": "534",
-      "ses_pid": "",
-      "uydu": "Astra 3B",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "6094",
-      "paket": "CanalDigitaal",
-      "tp_id": "astra_23_5:11739:V:29900",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "PanEuropean"
-    },
-    {
       "kanal_adi": "Filmbox+ Comedy",
       "frekans": 12012,
       "polarizasyon": "V",
@@ -4515,6 +4497,24 @@
       "sid": "14057",
       "paket": "SkyLink",
       "tp_id": "astra_23_5:11934:V:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "Filmbox+ One NL HD",
+      "frekans": 11739,
+      "polarizasyon": "V",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "534",
+      "ses_pid": "134 / nzi",
+      "uydu": "Astra 3B",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "6094",
+      "paket": "CanalDigitaal",
+      "tp_id": "astra_23_5:11739:V:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "PanEuropean"

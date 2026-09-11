@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-09T07:55:39.899309+00:00",
+  "generated_utc": "2026-09-11T07:51:26.332412+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=23E",
-    "last_updated": "2026-09-09"
+    "last_updated": "2026-09-10"
   },
   "satellite": {
     "id": "astra_23_5",
@@ -1028,7 +1028,7 @@
       "tp_id": "astra_23_5:11739:V:29900"
     },
     {
-      "name": "Filmbox NL HD",
+      "name": "Filmbox+ One NL HD",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 3B/3C 23.5°E",
@@ -1050,12 +1050,12 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 534,
-      "audio": "",
+      "audio": "134 / nzi",
       "nid": 3,
       "tid": 3202,
       "source_channel_id": 167609,
       "source_transponder_id": 1256,
-      "updated": "2026-07-24",
+      "updated": "2026-09-10",
       "tp_id": "astra_23_5:11739:V:29900"
     },
     {

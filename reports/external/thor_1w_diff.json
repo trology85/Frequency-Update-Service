@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-10T18:10:15.634274+00:00",
+  "olusturma_zamani_utc": "2026-09-11T07:51:37.692869+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
-    "onceki_kanal": 789,
-    "yeni_kanal": 790,
+    "onceki_kanal": 790,
+    "yeni_kanal": 791,
     "eklenen_kanal": 1,
     "silinen_kanal": 0,
-    "degisen_kanal": 5,
+    "degisen_kanal": 2,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
@@ -19,18 +19,18 @@
   },
   "eklenen_kanallar": [
     {
-      "kanal_adi": "CT :D/CT Art HD",
+      "kanal_adi": "Eroxxx",
       "frekans": 11977,
       "polarizasyon": "H",
       "sembol_orani": 30000,
       "fec": "3/4",
-      "video_pid": "2402",
-      "ses_pid": "2403 / cze",
+      "video_pid": "2302",
+      "ses_pid": "2303 / und",
       "uydu": "Thor 6",
-      "kalite": "HD",
+      "kalite": "SD",
       "tur": "TV",
-      "sid": "2024",
-      "paket": "Magenta TV Sat / Telly / freeSAT",
+      "sid": "2023",
+      "paket": "Magenta TV Sat / Slovak Telekom",
       "tp_id": "thor_1w:11977:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
@@ -40,52 +40,30 @@
   "silinen_kanallar": [],
   "degisen_kanallar": [
     {
-      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1011",
-      "kanal_adi": "Jednotka HD",
+      "anahtar": "thor_1w|thor_1w:11977:H:30000|sid:2017",
+      "kanal_adi": "HBO HD Czechia",
       "degisiklikler": {
-        "paket": {
-          "onceki": "Magenta TV Sat",
-          "yeni": "Magenta TV Sat / Slovak Telekom / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1013",
-      "kanal_adi": "Markiza HD",
-      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1703 / cze / 1704 / eng",
+          "yeni": "1703 / cze / 1704 / eng / 1705 / hun"
+        },
         "paket": {
           "onceki": "Slovak Telekom",
-          "yeni": "Slovak Telekom / freeSAT"
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly / freeSAT"
         }
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1014",
-      "kanal_adi": "STVR :24",
+      "anahtar": "thor_1w|thor_1w:11977:H:30000|sid:2018",
+      "kanal_adi": "National Geographic Channel Hungary & Czechia",
       "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom / freeSAT",
-          "yeni": "Magenta TV Sat / Slovak Telekom / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1015",
-      "kanal_adi": "JOJ HD",
-      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1803 / cze",
+          "yeni": "302 / cze / 303 / eng / 304 / hun"
+        },
         "paket": {
           "onceki": "Slovak Telekom",
-          "yeni": "Slovak Telekom / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1016",
-      "kanal_adi": "Plus HD",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "Slovak Telekom / freeSAT"
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly / freeSAT"
         }
       }
     }
@@ -97,12 +75,12 @@
       "anahtar": "thor_1w:11977:H:30000",
       "degisiklikler": {
         "kanal_sayisi": {
-          "onceki": 11,
-          "yeni": 12
+          "onceki": 12,
+          "yeni": 13
         },
         "tv_sayisi": {
-          "onceki": 11,
-          "yeni": 12
+          "onceki": 12,
+          "yeni": 13
         }
       }
     }
