@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-12T07:44:09.516581+00:00",
+  "run_utc": "2026-09-12T17:42:49.700728+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-12T07:44:11.308920+00:00",
+  "run_utc": "2026-09-12T17:42:51.063415+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-0.8W",
       "title": "Intelsat 10-02 / Thor 5 / Thor 6 / Thor 7 (0.8°W) -  - Frekanslar - KingOfSat",
-      "bytes": 1132738,
+      "bytes": 1132641,
       "frequency_rows": 156,
       "channel_rows": 1017,
       "advertised_records": 1112,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-12T07:44:15.422215+00:00",
+  "generated_utc": "2026-09-12T17:42:53.810720+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -71,8 +71,8 @@
       "channels": 792,
       "tv": 729,
       "radio": 63,
-      "sd": 380,
-      "hd": 249,
+      "sd": 379,
+      "hd": 250,
       "uhd_4k": 3,
       "unknown_quality": 97,
       "candidate": "candidate/satbeams/thor_1w.json"
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-12T07:44:17.758795+00:00",
+  "run_utc": "2026-09-12T17:42:55.552223+00:00",
   "ok": true,
   "should_publish": true,
   "source": "Satbeams API",
@@ -117,19 +117,19 @@
       "channels": 792,
       "tv": 729,
       "radio": 63,
-      "sd": 380,
-      "hd": 275,
+      "sd": 379,
+      "hd": 276,
       "uhd_4k": 3,
       "unknown_quality": 71,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "383328d5d75a888ac8528ff01a422b2a01e13f1407ad2559fbdc639f3c5d6a20",
-      "current_hash": "b6ea17f803009b25fa49ad9d15d9a868d8c74c4ab5db71d4047aa77b7f6436e9",
+      "candidate_hash": "1fd0042d2119e815b1794e7f29ee9f3270f01e8f45b55013449f9effce21b11c",
+      "current_hash": "383328d5d75a888ac8528ff01a422b2a01e13f1407ad2559fbdc639f3c5d6a20",
       "changed": true,
       "added": 0,
       "removed": 0,
-      "updated": 8
+      "updated": 10
     }
   ]
 }

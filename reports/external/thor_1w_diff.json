@@ -1,7 +1,7 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-12T07:44:17.806744+00:00",
+  "olusturma_zamani_utc": "2026-09-12T17:42:55.601778+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
@@ -9,7 +9,7 @@
     "yeni_kanal": 791,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 6,
+    "degisen_kanal": 10,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
@@ -21,66 +21,110 @@
   "silinen_kanallar": [],
   "degisen_kanallar": [
     {
-      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7013",
-      "kanal_adi": "Cinemax Central Europe",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom / Telly",
-          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7014",
-      "kanal_adi": "Cinemax 2 Central Europe",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom / Telly",
-          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7018",
-      "kanal_adi": "Crime and Investigation Central Eastern Europe",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom / Telly",
-          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7022",
-      "kanal_adi": "Nova Action",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "Magenta TV Sat / Telly / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7024",
-      "kanal_adi": "Nova Fun",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "Magenta TV Sat / Telly / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9023",
-      "kanal_adi": "Investigation Discovery Hungary",
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7011",
+      "kanal_adi": "Nova Sport 5 Czech",
       "degisiklikler": {
         "ses_pid": {
-          "onceki": "0 / cze / 0 / eng / 0 / hun",
-          "yeni": "2303 / cze / 2304 / eng / 2305 / hun"
+          "onceki": "0 / cze",
+          "yeni": "1103 / cze"
         },
         "paket": {
           "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7017",
+      "kanal_adi": "Film Europe",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7019",
+      "kanal_adi": "TA 3",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7020",
+      "kanal_adi": "Viasat History",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom / Telly",
           "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7021",
+      "kanal_adi": "Spektrum International",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / cze / 0 / hun",
+          "yeni": "2103 / cze / 2104 / hun"
+        },
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7023",
+      "kanal_adi": "Nova Krimi HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Telly / freeSAT",
+          "yeni": "Magenta TV Sat / Telly / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7025",
+      "kanal_adi": "MEN TV",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7026",
+      "kanal_adi": "Dusk TV",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7028",
+      "kanal_adi": "SPORT",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "HD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:3450",
+      "kanal_adi": "Disney Junior",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Focus Sat / Digi TV",
+          "yeni": "Focus Sat / DIGI RO"
         }
       }
     }

@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-12T07:44:17.605122+00:00",
+  "generated_utc": "2026-09-12T17:42:55.394238+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-09-11"
+    "last_updated": "2026-09-12"
   },
   "satellite": {
     "id": "thor_1w",
@@ -16,8 +16,8 @@
     "channels": 792,
     "tv": 729,
     "radio": 63,
-    "sd": 380,
-    "hd": 275,
+    "sd": 379,
+    "hd": 276,
     "uhd_4k": 3,
     "unknown_quality": 71
   },
@@ -9551,17 +9551,17 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "",
+      "package": "Magenta TV Sat / Telly",
       "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1102,
-      "audio": "0 / cze",
+      "audio": "1103 / cze",
       "nid": null,
       "tid": null,
       "source_channel_id": 156074,
       "source_transponder_id": 6474,
-      "updated": "2024-08-31",
+      "updated": "2026-09-12",
       "tp_id": "thor_1w:11747:H:30000"
     },
     {
@@ -9675,7 +9675,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "Slovak Telekom",
+      "package": "Magenta TV Sat / Slovak Telekom",
       "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -9685,7 +9685,7 @@
       "tid": null,
       "source_channel_id": 156080,
       "source_transponder_id": 6474,
-      "updated": "2026-08-26",
+      "updated": "2026-09-12",
       "tp_id": "thor_1w:11747:H:30000"
     },
     {
@@ -9737,7 +9737,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "Slovak Telekom",
+      "package": "Magenta TV Sat / Slovak Telekom",
       "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -9747,7 +9747,7 @@
       "tid": null,
       "source_channel_id": 156077,
       "source_transponder_id": 6474,
-      "updated": "2026-08-27",
+      "updated": "2026-09-12",
       "tp_id": "thor_1w:11747:H:30000"
     },
     {
@@ -9768,7 +9768,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "Slovak Telekom / Telly",
+      "package": "Magenta TV Sat / Slovak Telekom / Telly",
       "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -9778,7 +9778,7 @@
       "tid": null,
       "source_channel_id": 156084,
       "source_transponder_id": 6474,
-      "updated": "2026-08-27",
+      "updated": "2026-09-12",
       "tp_id": "thor_1w:11747:H:30000"
     },
     {
@@ -9799,17 +9799,17 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "",
+      "package": "Magenta TV Sat / Telly",
       "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 2102,
-      "audio": "0 / cze / 0 / hun",
+      "audio": "2103 / cze / 2104 / hun",
       "nid": null,
       "tid": null,
       "source_channel_id": 156085,
       "source_transponder_id": 6474,
-      "updated": "2024-08-31",
+      "updated": "2026-09-12",
       "tp_id": "thor_1w:11747:H:30000"
     },
     {
@@ -9861,7 +9861,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "Telly / freeSAT",
+      "package": "Magenta TV Sat / Telly / freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -9871,7 +9871,7 @@
       "tid": null,
       "source_channel_id": 156076,
       "source_transponder_id": 6474,
-      "updated": "2026-08-03",
+      "updated": "2026-09-12",
       "tp_id": "thor_1w:11747:H:30000"
     },
     {
@@ -9923,7 +9923,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "Slovak Telekom",
+      "package": "Magenta TV Sat / Slovak Telekom",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -9933,7 +9933,7 @@
       "tid": null,
       "source_channel_id": 169165,
       "source_transponder_id": 6474,
-      "updated": "2026-08-27",
+      "updated": "2026-09-12",
       "tp_id": "thor_1w:11747:H:30000"
     },
     {
@@ -9954,7 +9954,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "Slovak Telekom",
+      "package": "Magenta TV Sat / Slovak Telekom",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -9964,7 +9964,7 @@
       "tid": null,
       "source_channel_id": 169166,
       "source_transponder_id": 6474,
-      "updated": "2026-08-26",
+      "updated": "2026-09-12",
       "tp_id": "thor_1w:11747:H:30000"
     },
     {
@@ -10001,7 +10001,7 @@
     {
       "name": "SPORT",
       "type": "TV",
-      "quality": "SD",
+      "quality": "HD",
       "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "spacecraft": "Thor 6",
       "position": "0.8W",
@@ -10026,7 +10026,7 @@
       "tid": null,
       "source_channel_id": 156082,
       "source_transponder_id": 6474,
-      "updated": "2026-08-27",
+      "updated": "2026-09-12",
       "tp_id": "thor_1w:11747:H:30000"
     },
     {
@@ -12186,7 +12186,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Digi TV",
-      "package": "Focus Sat / Digi TV",
+      "package": "Focus Sat / DIGI RO",
       "encryption": "Conax / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -12196,7 +12196,7 @@
       "tid": 12,
       "source_channel_id": 11607,
       "source_transponder_id": 6502,
-      "updated": "2021-04-11",
+      "updated": "2026-09-12",
       "tp_id": "thor_1w:11900:H:28000"
     },
     {
