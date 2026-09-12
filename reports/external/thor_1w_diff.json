@@ -1,7 +1,7 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-11T18:12:59.296557+00:00",
+  "olusturma_zamani_utc": "2026-09-12T07:44:17.806744+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
@@ -9,7 +9,7 @@
     "yeni_kanal": 791,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 2,
+    "degisen_kanal": 6,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
@@ -21,22 +21,62 @@
   "silinen_kanallar": [],
   "degisen_kanallar": [
     {
-      "anahtar": "thor_1w|thor_1w:11977:H:30000|sid:2014",
-      "kanal_adi": "Nova Sport 4",
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7013",
+      "kanal_adi": "Cinemax Central Europe",
       "degisiklikler": {
         "paket": {
-          "onceki": "Slovak Telekom",
+          "onceki": "Slovak Telekom / Telly",
           "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
         }
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9013",
-      "kanal_adi": "Animal Planet Europe",
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7014",
+      "kanal_adi": "Cinemax 2 Central Europe",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom / Telly",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7018",
+      "kanal_adi": "Crime and Investigation Central Eastern Europe",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom / Telly",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7022",
+      "kanal_adi": "Nova Action",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Telly / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7024",
+      "kanal_adi": "Nova Fun",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Telly / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9023",
+      "kanal_adi": "Investigation Discovery Hungary",
       "degisiklikler": {
         "ses_pid": {
           "onceki": "0 / cze / 0 / eng / 0 / hun",
-          "yeni": "1303 / cze / 1304 / eng / 1305 / hun"
+          "yeni": "2303 / cze / 2304 / eng / 2305 / hun"
         },
         "paket": {
           "onceki": "Slovak Telekom",

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-11T18:12:59.129467+00:00",
+  "generated_utc": "2026-09-12T07:44:17.605122+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
@@ -7639,7 +7639,7 @@
       "tid": 24,
       "source_channel_id": 78879,
       "source_transponder_id": 6492,
-      "updated": "2026-08-23",
+      "updated": "2026-09-11",
       "tp_id": "thor_1w:11293:H:25000"
     },
     {
@@ -7670,7 +7670,7 @@
       "tid": 24,
       "source_channel_id": 78880,
       "source_transponder_id": 6492,
-      "updated": "2026-08-21",
+      "updated": "2026-09-11",
       "tp_id": "thor_1w:11293:H:25000"
     },
     {
@@ -9613,7 +9613,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "Slovak Telekom / Telly",
+      "package": "Magenta TV Sat / Slovak Telekom / Telly",
       "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -9623,7 +9623,7 @@
       "tid": null,
       "source_channel_id": 156078,
       "source_transponder_id": 6474,
-      "updated": "2026-08-26",
+      "updated": "2026-09-11",
       "tp_id": "thor_1w:11747:H:30000"
     },
     {
@@ -9644,7 +9644,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "Slovak Telekom / Telly",
+      "package": "Magenta TV Sat / Slovak Telekom / Telly",
       "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -9654,7 +9654,7 @@
       "tid": null,
       "source_channel_id": 156081,
       "source_transponder_id": 6474,
-      "updated": "2026-08-26",
+      "updated": "2026-09-11",
       "tp_id": "thor_1w:11747:H:30000"
     },
     {
@@ -9706,7 +9706,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "Slovak Telekom / Telly",
+      "package": "Magenta TV Sat / Slovak Telekom / Telly",
       "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -9716,7 +9716,7 @@
       "tid": null,
       "source_channel_id": 156083,
       "source_transponder_id": 6474,
-      "updated": "2026-08-26",
+      "updated": "2026-09-11",
       "tp_id": "thor_1w:11747:H:30000"
     },
     {
@@ -9830,7 +9830,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "",
+      "package": "Magenta TV Sat / Telly / freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -9840,7 +9840,7 @@
       "tid": null,
       "source_channel_id": 156086,
       "source_transponder_id": 6474,
-      "updated": "2024-08-31",
+      "updated": "2026-09-11",
       "tp_id": "thor_1w:11747:H:30000"
     },
     {
@@ -9892,7 +9892,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "",
+      "package": "Magenta TV Sat / Telly / freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -9902,7 +9902,7 @@
       "tid": null,
       "source_channel_id": 156087,
       "source_transponder_id": 6474,
-      "updated": "2024-08-31",
+      "updated": "2026-09-11",
       "tp_id": "thor_1w:11747:H:30000"
     },
     {
@@ -23222,17 +23222,17 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "Slovak Telekom",
+      "package": "Magenta TV Sat / Slovak Telekom / Telly",
       "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 2302,
-      "audio": "0 / cze / 0 / eng / 0 / hun",
+      "audio": "2303 / cze / 2304 / eng / 2305 / hun",
       "nid": 187,
       "tid": 2809,
       "source_channel_id": 161605,
       "source_transponder_id": 13795,
-      "updated": "2025-07-21",
+      "updated": "2026-09-11",
       "tp_id": "thor_1w:12456:V:30000"
     },
     {
