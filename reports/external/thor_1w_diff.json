@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-13T08:03:49.007168+00:00",
+  "olusturma_zamani_utc": "2026-09-13T17:56:58.085838+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 791,
     "yeni_kanal": 791,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 2,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
@@ -19,7 +19,32 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4014",
+      "kanal_adi": "Barandov Krimi",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4027",
+      "kanal_adi": "Food Network",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / cze / 2704 / eng",
+          "yeni": "2703 / cze / 2704 / eng"
+        },
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

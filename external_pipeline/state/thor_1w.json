@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-12T17:42:55.394238+00:00",
+  "generated_utc": "2026-09-13T17:56:57.876393+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-09-12"
+    "last_updated": "2026-09-13"
   },
   "satellite": {
     "id": "thor_1w",
@@ -20184,7 +20184,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "Slovak Telekom",
-      "package": "Slovak Telekom",
+      "package": "Magenta TV Sat / Slovak Telekom / Telly",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -20194,7 +20194,7 @@
       "tid": 2804,
       "source_channel_id": 169616,
       "source_transponder_id": 4015,
-      "updated": "2026-08-27",
+      "updated": "2026-09-13",
       "tp_id": "thor_1w:12245:H:30000"
     },
     {
@@ -20587,17 +20587,17 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "Slovak Telekom",
-      "package": "Slovak Telekom",
+      "package": "Magenta TV Sat / Slovak Telekom / Telly",
       "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 2702,
-      "audio": "0 / cze / 2704 / eng",
+      "audio": "2703 / cze / 2704 / eng",
       "nid": 187,
       "tid": 2804,
       "source_channel_id": 162658,
       "source_transponder_id": 4015,
-      "updated": "2025-09-17",
+      "updated": "2026-09-13",
       "tp_id": "thor_1w:12245:H:30000"
     },
     {

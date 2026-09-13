@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-13T08:03:27.886766+00:00",
+  "run_utc": "2026-09-13T17:56:36.324653+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-13T08:03:29.601363+00:00",
+  "run_utc": "2026-09-13T17:56:37.734747+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-16E",
       "title": "Eutelsat 16A (16°E) -  - Frekanslar - KingOfSat",
-      "bytes": 964666,
+      "bytes": 964671,
       "frequency_rows": 179,
       "channel_rows": 863,
       "advertised_records": 994,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-13T08:03:32.052984+00:00",
+  "generated_utc": "2026-09-13T17:56:40.109059+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-13T08:03:33.182996+00:00",
+  "run_utc": "2026-09-13T17:56:41.913902+00:00",
   "ok": true,
   "should_publish": false,
   "source": "Satbeams API",
