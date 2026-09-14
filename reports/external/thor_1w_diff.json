@@ -1,28 +1,57 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-14T08:37:29.335994+00:00",
+  "olusturma_zamani_utc": "2026-09-14T19:45:59.122223+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 791,
-    "yeni_kanal": 791,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 792,
+    "eklenen_kanal": 1,
     "silinen_kanal": 0,
-    "degisen_kanal": 8,
+    "degisen_kanal": 9,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Prima Love",
+      "frekans": 12111,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1701",
+      "ses_pid": "1711 / cze",
+      "uydu": "Thor 7",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "31308",
+      "paket": "freeSAT",
+      "tp_id": "thor_1w:12111:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    }
+  ],
   "silinen_kanallar": [],
   "degisen_kanallar": [
     {
-      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:3520",
-      "kanal_adi": "Etno TV",
+      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:1430",
+      "kanal_adi": "Fishing&Hunting",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Focus Sat / Slovak Telekom / Telly / Direct One / freeSAT",
+          "yeni": "Focus Sat / DIGI RO / Slovak Telekom / Telly / Direct One / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:3440",
+      "kanal_adi": "HBO Romania",
       "degisiklikler": {
         "paket": {
           "onceki": "Focus Sat / Digi TV",
@@ -31,95 +60,79 @@
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4012",
-      "kanal_adi": "Prima KRIMI HD",
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31303",
+      "kanal_adi": "Lala TV",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31304",
+      "kanal_adi": "CS Film/CS Horror",
       "degisiklikler": {
         "kanal_adi": {
-          "onceki": "Prima KRIMI",
-          "yeni": "Prima KRIMI HD"
+          "onceki": "CS Film",
+          "yeni": "CS Film/CS Horror"
         },
-        "ses_pid": {
-          "onceki": "0 / cze",
-          "yeni": "1203 / cze"
-        },
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "Magenta TV Sat / Telly"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4015",
-      "kanal_adi": "Kino Barandov",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4016",
-      "kanal_adi": "HBO 2 HD",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom / Telly",
-          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4021",
-      "kanal_adi": "HBO 3 HD",
-      "degisiklikler": {
         "ses_pid": {
           "onceki": "",
-          "yeni": "2103 / cze / 2104 / eng / 2105 / hun"
+          "yeni": "1311 / cze"
         },
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31309",
+      "kanal_adi": "CNN Prima News",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31320",
+      "kanal_adi": "DocuBox",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Focus Sat",
+          "yeni": "Focus Sat / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31322",
+      "kanal_adi": "FightBox",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "Focus Sat / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31323",
+      "kanal_adi": "JimJam Europe",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4022",
+      "kanal_adi": "Viasat Explore HD",
+      "degisiklikler": {
         "paket": {
           "onceki": "Slovak Telekom / Telly",
-          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4023",
-      "kanal_adi": "Kanal 1 Slovakia",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "0 / 000 / 0 / slo",
-          "yeni": "2304 / 000 / 2303 / slo"
-        },
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "Magenta TV Sat / Slovak Telekom"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4025",
-      "kanal_adi": "Strike TV",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "0 / slo",
-          "yeni": "2503 / slo"
-        },
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4033",
-      "kanal_adi": "TLC Pan Regional",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "0 / cze / 0 / eng / 0 / hun",
-          "yeni": "3303 / cze / 3304 / eng / 3305 / hun"
-        },
-        "paket": {
-          "onceki": "Slovak Telekom",
           "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
         }
       }
@@ -127,5 +140,19 @@
   ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "thor_1w:12111:V:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 25,
+          "yeni": 26
+        },
+        "tv_sayisi": {
+          "onceki": 25,
+          "yeni": 26
+        }
+      }
+    }
+  ]
 }

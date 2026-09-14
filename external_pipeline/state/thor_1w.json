@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-14T08:37:29.151289+00:00",
+  "generated_utc": "2026-09-14T19:45:58.911181+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-09-13"
+    "last_updated": "2026-09-14"
   },
   "satellite": {
     "id": "thor_1w",
@@ -13,10 +13,10 @@
   },
   "counts": {
     "transponders": 69,
-    "channels": 792,
-    "tv": 729,
+    "channels": 793,
+    "tv": 730,
     "radio": 63,
-    "sd": 379,
+    "sd": 380,
     "hd": 276,
     "uhd_4k": 3,
     "unknown_quality": 71
@@ -962,8 +962,8 @@
       "network": "M7 Group",
       "nid": null,
       "tid": null,
-      "channel_count": 25,
-      "tv_count": 25,
+      "channel_count": 26,
+      "tv_count": 26,
       "radio_count": 0,
       "source_transponder_id": 9428
     },
@@ -11814,7 +11814,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Digi TV",
-      "package": "Focus Sat / Slovak Telekom / Telly / Direct One / freeSAT",
+      "package": "Focus Sat / DIGI RO / Slovak Telekom / Telly / Direct One / freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -11824,7 +11824,7 @@
       "tid": 12,
       "source_channel_id": 168634,
       "source_transponder_id": 6502,
-      "updated": "2026-09-06",
+      "updated": "2026-09-14",
       "tp_id": "thor_1w:11900:H:28000"
     },
     {
@@ -12155,7 +12155,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Digi TV",
-      "package": "Focus Sat / Digi TV",
+      "package": "Focus Sat / DIGI RO",
       "encryption": "Conax / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -12165,7 +12165,7 @@
       "tid": 12,
       "source_channel_id": 91169,
       "source_transponder_id": 6502,
-      "updated": "2019-10-21",
+      "updated": "2026-09-14",
       "tp_id": "thor_1w:11900:H:28000"
     },
     {
@@ -17239,7 +17239,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "",
+      "package": "freeSAT",
       "encryption": "Compel / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -17249,11 +17249,11 @@
       "tid": null,
       "source_channel_id": 152135,
       "source_transponder_id": 9428,
-      "updated": "2023-11-28",
+      "updated": "2026-09-14",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
-      "name": "CS Film",
+      "name": "CS Film/CS Horror",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
@@ -17270,17 +17270,17 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "",
-      "encryption": "Compel / Cryptoworks / Irdeto / Nagravision",
+      "package": "freeSAT",
+      "encryption": "Conax / Cryptoworks / Irdeto",
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1301,
-      "audio": "",
+      "audio": "1311 / cze",
       "nid": null,
       "tid": null,
       "source_channel_id": 152136,
       "source_transponder_id": 9428,
-      "updated": "2023-11-28",
+      "updated": "2026-09-14",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
@@ -17377,6 +17377,37 @@
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
+      "name": "Prima Love",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "spacecraft": "Thor 7",
+      "position": "0.8W",
+      "frequency": 12111,
+      "polarization": "V",
+      "symbol_rate": 30000,
+      "fec": "3/4",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 31308,
+      "country": "",
+      "country_code": "",
+      "beam": "CEE",
+      "provider": "M7 Group",
+      "package": "freeSAT",
+      "encryption": "Conax / Cryptoworks / Irdeto",
+      "free_to_air": false,
+      "compression": "MPEG-4",
+      "vpid": 1701,
+      "audio": "1711 / cze",
+      "nid": null,
+      "tid": null,
+      "source_channel_id": 169838,
+      "source_transponder_id": 9428,
+      "updated": "2026-09-14",
+      "tp_id": "thor_1w:12111:V:30000"
+    },
+    {
       "name": "CNN Prima News",
       "type": "TV",
       "quality": "SD",
@@ -17394,8 +17425,8 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "",
-      "encryption": "Compel / Cryptoworks / Irdeto / Nagravision",
+      "package": "freeSAT",
+      "encryption": "Conax / Cryptoworks / Irdeto",
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1801,
@@ -17404,7 +17435,7 @@
       "tid": null,
       "source_channel_id": 152144,
       "source_transponder_id": 9428,
-      "updated": "2023-11-28",
+      "updated": "2026-09-14",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
@@ -17642,7 +17673,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "Focus Sat",
+      "package": "Focus Sat / freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -17652,7 +17683,7 @@
       "tid": null,
       "source_channel_id": 152152,
       "source_transponder_id": 9428,
-      "updated": "2026-07-29",
+      "updated": "2026-09-14",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
@@ -17704,7 +17735,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "",
+      "package": "Focus Sat / freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -17714,7 +17745,7 @@
       "tid": null,
       "source_channel_id": 152150,
       "source_transponder_id": 9428,
-      "updated": "2023-11-28",
+      "updated": "2026-09-14",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
@@ -17735,17 +17766,17 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "",
+      "package": "freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
-      "compression": "MPEG-4",
+      "compression": "MPEG-2",
       "vpid": 3201,
       "audio": "3211 / hun / 3212 / cze / 3213 / eng / 3214 / rum / 3215 / slo",
       "nid": null,
       "tid": null,
       "source_channel_id": 152154,
       "source_transponder_id": 9428,
-      "updated": "2023-11-28",
+      "updated": "2026-09-14",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
@@ -20432,7 +20463,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "Slovak Telekom",
-      "package": "Slovak Telekom / Telly",
+      "package": "Magenta TV Sat / Slovak Telekom / Telly",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -20442,7 +20473,7 @@
       "tid": 2804,
       "source_channel_id": 169619,
       "source_transponder_id": 4015,
-      "updated": "2026-08-27",
+      "updated": "2026-09-14",
       "tp_id": "thor_1w:12245:H:30000"
     },
     {
