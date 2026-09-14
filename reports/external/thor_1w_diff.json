@@ -1,7 +1,7 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-13T17:56:58.085838+00:00",
+  "olusturma_zamani_utc": "2026-09-14T08:37:29.335994+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
@@ -9,7 +9,7 @@
     "yeni_kanal": 791,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 2,
+    "degisen_kanal": 8,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
@@ -21,8 +21,36 @@
   "silinen_kanallar": [],
   "degisen_kanallar": [
     {
-      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4014",
-      "kanal_adi": "Barandov Krimi",
+      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:3520",
+      "kanal_adi": "Etno TV",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Focus Sat / Digi TV",
+          "yeni": "Focus Sat / DIGI RO"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4012",
+      "kanal_adi": "Prima KRIMI HD",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Prima KRIMI",
+          "yeni": "Prima KRIMI HD"
+        },
+        "ses_pid": {
+          "onceki": "0 / cze",
+          "yeni": "1203 / cze"
+        },
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4015",
+      "kanal_adi": "Kino Barandov",
       "degisiklikler": {
         "paket": {
           "onceki": "Slovak Telekom",
@@ -31,12 +59,64 @@
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4027",
-      "kanal_adi": "Food Network",
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4016",
+      "kanal_adi": "HBO 2 HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom / Telly",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4021",
+      "kanal_adi": "HBO 3 HD",
       "degisiklikler": {
         "ses_pid": {
-          "onceki": "0 / cze / 2704 / eng",
-          "yeni": "2703 / cze / 2704 / eng"
+          "onceki": "",
+          "yeni": "2103 / cze / 2104 / eng / 2105 / hun"
+        },
+        "paket": {
+          "onceki": "Slovak Telekom / Telly",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4023",
+      "kanal_adi": "Kanal 1 Slovakia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / 000 / 0 / slo",
+          "yeni": "2304 / 000 / 2303 / slo"
+        },
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4025",
+      "kanal_adi": "Strike TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / slo",
+          "yeni": "2503 / slo"
+        },
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4033",
+      "kanal_adi": "TLC Pan Regional",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / cze / 0 / eng / 0 / hun",
+          "yeni": "3303 / cze / 3304 / eng / 3305 / hun"
         },
         "paket": {
           "onceki": "Slovak Telekom",
