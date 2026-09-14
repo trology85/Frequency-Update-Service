@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "14.09.2026 08:36:28",
+  "guncelleme_tarihi": "14.09.2026 19:45:03",
   "uydu_adi": "Türksat 42.0°E",
-  "toplam_kanal": 740,
+  "toplam_kanal": 741,
   "toplam_tp": 51,
   "transponderler": [
     {
@@ -419,8 +419,8 @@
       "fec": "3/4",
       "uydu": "T6A",
       "kapsama": "Batı",
-      "kanal_sayisi": 11,
-      "tv_sayisi": 10,
+      "kanal_sayisi": 12,
+      "tv_sayisi": 11,
       "radyo_sayisi": 1,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -6524,6 +6524,22 @@
       "ses_pid": "5656",
       "uydu": "T6A",
       "kalite": "SD",
+      "tur": "TV",
+      "tp_id": "12111_V_27500",
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
+      "kanal_adi": "FLASH HABER HD",
+      "frekans": 12111,
+      "polarizasyon": "V",
+      "kapsama": "Batı",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "5550",
+      "ses_pid": "5650",
+      "uydu": "T6A",
+      "kalite": "HD",
       "tur": "TV",
       "tp_id": "12111_V_27500",
       "konum_id": "turksat_42",

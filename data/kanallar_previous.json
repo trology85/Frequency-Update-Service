@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "13.09.2026 17:56:02",
+  "guncelleme_tarihi": "14.09.2026 08:36:28",
   "uydu_adi": "Türksat 42.0°E",
-  "toplam_kanal": 742,
+  "toplam_kanal": 740,
   "toplam_tp": 51,
   "transponderler": [
     {
@@ -377,8 +377,8 @@
       "fec": "3/4",
       "uydu": "T4A",
       "kapsama": "Batı",
-      "kanal_sayisi": 15,
-      "tv_sayisi": 8,
+      "kanal_sayisi": 14,
+      "tv_sayisi": 7,
       "radyo_sayisi": 7,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -419,8 +419,8 @@
       "fec": "3/4",
       "uydu": "T6A",
       "kapsama": "Batı",
-      "kanal_sayisi": 12,
-      "tv_sayisi": 11,
+      "kanal_sayisi": 11,
+      "tv_sayisi": 10,
       "radyo_sayisi": 1,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -5922,22 +5922,6 @@
       "konum_adi": "Türksat 42.0°E"
     },
     {
-      "kanal_adi": "TELE 1 HD",
-      "frekans": 12034,
-      "polarizasyon": "V",
-      "kapsama": "Batı",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "109",
-      "ses_pid": "209",
-      "uydu": "T4A",
-      "kalite": "HD",
-      "tur": "TV",
-      "tp_id": "12034_V_27500",
-      "konum_id": "turksat_42",
-      "konum_adi": "Türksat 42.0°E"
-    },
-    {
       "kanal_adi": "TV8 INT HD",
       "frekans": 12034,
       "polarizasyon": "V",
@@ -6540,22 +6524,6 @@
       "ses_pid": "5656",
       "uydu": "T6A",
       "kalite": "SD",
-      "tur": "TV",
-      "tp_id": "12111_V_27500",
-      "konum_id": "turksat_42",
-      "konum_adi": "Türksat 42.0°E"
-    },
-    {
-      "kanal_adi": "FLASH HABER HD",
-      "frekans": 12111,
-      "polarizasyon": "V",
-      "kapsama": "Batı",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "5550",
-      "ses_pid": "5650",
-      "uydu": "T6A",
-      "kalite": "HD",
       "tur": "TV",
       "tp_id": "12111_V_27500",
       "konum_id": "turksat_42",
