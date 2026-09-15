@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-14T19:45:59.122223+00:00",
+  "olusturma_zamani_utc": "2026-09-15T08:26:53.460284+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
-    "onceki_kanal": 791,
-    "yeni_kanal": 792,
-    "eklenen_kanal": 1,
-    "silinen_kanal": 0,
-    "degisen_kanal": 9,
+    "onceki_kanal": 792,
+    "yeni_kanal": 793,
+    "eklenen_kanal": 2,
+    "silinen_kanal": 1,
+    "degisen_kanal": 3,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
@@ -19,49 +19,66 @@
   },
   "eklenen_kanallar": [
     {
-      "kanal_adi": "Prima Love",
+      "kanal_adi": "Šport 1 HD CZ",
       "frekans": 12111,
       "polarizasyon": "V",
       "sembol_orani": 30000,
       "fec": "3/4",
-      "video_pid": "1701",
-      "ses_pid": "1711 / cze",
+      "video_pid": "4101",
+      "ses_pid": "4111 / cze / 4112 / slo",
       "uydu": "Thor 7",
-      "kalite": "SD",
+      "kalite": "HD",
       "tur": "TV",
-      "sid": "31308",
-      "paket": "freeSAT",
+      "sid": "31332",
+      "paket": "Magenta TV Sat / Telly / freeSAT",
       "tp_id": "thor_1w:12111:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "M4",
+      "frekans": 12149,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "3801",
+      "ses_pid": "3811 / hun",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "31429",
+      "paket": "freeSAT",
+      "tp_id": "thor_1w:12149:V:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "CEE"
     }
   ],
-  "silinen_kanallar": [],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "History Europe",
+      "frekans": 12149,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1201",
+      "ses_pid": "1211 / hun / 1212 / cze / 1213 / eng / 1214 / slo",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "31403",
+      "paket": "Canal+ Magyarország",
+      "tp_id": "thor_1w:12149:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    }
+  ],
   "degisen_kanallar": [
     {
-      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:1430",
-      "kanal_adi": "Fishing&Hunting",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Focus Sat / Slovak Telekom / Telly / Direct One / freeSAT",
-          "yeni": "Focus Sat / DIGI RO / Slovak Telekom / Telly / Direct One / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:3440",
-      "kanal_adi": "HBO Romania",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Focus Sat / Digi TV",
-          "yeni": "Focus Sat / DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31303",
-      "kanal_adi": "Lala TV",
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31305",
+      "kanal_adi": "Markíza International",
       "degisiklikler": {
         "paket": {
           "onceki": "M7 Group",
@@ -70,26 +87,8 @@
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31304",
-      "kanal_adi": "CS Film/CS Horror",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "CS Film",
-          "yeni": "CS Film/CS Horror"
-        },
-        "ses_pid": {
-          "onceki": "",
-          "yeni": "1311 / cze"
-        },
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31309",
-      "kanal_adi": "CNN Prima News",
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31307",
+      "kanal_adi": "Prima COOL",
       "degisiklikler": {
         "paket": {
           "onceki": "M7 Group",
@@ -98,42 +97,12 @@
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31320",
-      "kanal_adi": "DocuBox",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Focus Sat",
-          "yeni": "Focus Sat / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31322",
-      "kanal_adi": "FightBox",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "Focus Sat / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31323",
-      "kanal_adi": "JimJam Europe",
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31329",
+      "kanal_adi": "Mezzo",
       "degisiklikler": {
         "paket": {
           "onceki": "M7 Group",
           "yeni": "freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4022",
-      "kanal_adi": "Viasat Explore HD",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom / Telly",
-          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
         }
       }
     }
@@ -145,12 +114,12 @@
       "anahtar": "thor_1w:12111:V:30000",
       "degisiklikler": {
         "kanal_sayisi": {
-          "onceki": 25,
-          "yeni": 26
+          "onceki": 26,
+          "yeni": 27
         },
         "tv_sayisi": {
-          "onceki": 25,
-          "yeni": 26
+          "onceki": 26,
+          "yeni": 27
         }
       }
     }

@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-14T19:45:52.606872+00:00",
+  "run_utc": "2026-09-15T08:26:47.141133+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-14T19:45:54.179624+00:00",
+  "run_utc": "2026-09-15T08:26:48.892257+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-0.8W",
       "title": "Intelsat 10-02 / Thor 5 / Thor 6 / Thor 7 (0.8°W) -  - Frekanslar - KingOfSat",
-      "bytes": 1132684,
+      "bytes": 1132649,
       "frequency_rows": 156,
       "channel_rows": 1017,
       "advertised_records": 1112,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-14T19:45:57.233528+00:00",
+  "generated_utc": "2026-09-15T08:26:52.075927+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -68,11 +68,11 @@
       "id": "thor_1w",
       "ok": true,
       "transponders": 69,
-      "channels": 793,
-      "tv": 730,
+      "channels": 794,
+      "tv": 731,
       "radio": 63,
       "sd": 380,
-      "hd": 250,
+      "hd": 251,
       "uhd_4k": 3,
       "unknown_quality": 97,
       "candidate": "candidate/satbeams/thor_1w.json"
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-14T19:45:59.071189+00:00",
+  "run_utc": "2026-09-15T08:26:53.423827+00:00",
   "ok": true,
   "should_publish": true,
   "source": "Satbeams API",
@@ -114,22 +114,22 @@
       "errors": [],
       "warnings": [],
       "transponders": 69,
-      "channels": 793,
-      "tv": 730,
+      "channels": 794,
+      "tv": 731,
       "radio": 63,
       "sd": 380,
-      "hd": 276,
+      "hd": 277,
       "uhd_4k": 3,
       "unknown_quality": 71,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "2de3b157ad549b5e243abcab8ffaf4c6287f169f0ad71093ed78d4d6084e092f",
-      "current_hash": "e7640944c21aa6fcf2c592a8bc924e77a752dc62fd0aa54c8287c42f5ac2a8c8",
+      "candidate_hash": "c72d807872d696374ca5ea194d78e02d03fbd91488429ba5c68ff16be799e2c8",
+      "current_hash": "2de3b157ad549b5e243abcab8ffaf4c6287f169f0ad71093ed78d4d6084e092f",
       "changed": true,
       "added": 1,
       "removed": 0,
-      "updated": 9
+      "updated": 4
     }
   ]
 }

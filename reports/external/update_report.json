@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-09-14T19:45:14.858554+00:00",
+  "run_utc": "2026-09-15T08:26:08.882164+00:00",
   "ok": true,
   "successful": 9,
   "failed": 0,
@@ -100,7 +100,7 @@
       "name": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "ok": true,
       "errors": [],
-      "channels": 793,
+      "channels": 794,
       "transponders": 69,
       "changed": true,
       "diff": "reports/external/thor_1w_diff.json",
