@@ -1,9 +1,9 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-09-15T18:44:33.992027+00:00",
+  "guncelleme_tarihi": "2026-08-27T12:20:12.738353+00:00",
   "uydu_adi": "Azerspace-1 46.0°E",
-  "toplam_kanal": 142,
-  "toplam_tp": 25,
+  "toplam_kanal": 139,
+  "toplam_tp": 23,
   "transponderler": [
     {
       "tp_id": "azerspace_46:3730:V:30000",
@@ -104,20 +104,6 @@
       "konum_adi": "Azerspace-1 46.0°E"
     },
     {
-      "tp_id": "azerspace_46:4003:V:2500",
-      "frekans": 4003,
-      "polarizasyon": "V",
-      "sembol_orani": 2500,
-      "fec": "2/3",
-      "uydu": "Azerspace",
-      "kapsama": "AfricaEurope",
-      "kanal_sayisi": 1,
-      "tv_sayisi": 1,
-      "radyo_sayisi": 0,
-      "konum_id": "azerspace_46",
-      "konum_adi": "Azerspace-1 46.0°E"
-    },
-    {
       "tp_id": "azerspace_46:4027:V:1200",
       "frekans": 4027,
       "polarizasyon": "V",
@@ -127,20 +113,6 @@
       "kapsama": "C",
       "kanal_sayisi": 1,
       "tv_sayisi": 1,
-      "radyo_sayisi": 0,
-      "konum_id": "azerspace_46",
-      "konum_adi": "Azerspace-1 46.0°E"
-    },
-    {
-      "tp_id": "azerspace_46:4112:V:2432",
-      "frekans": 4112,
-      "polarizasyon": "V",
-      "sembol_orani": 2432,
-      "fec": "3/4",
-      "uydu": "Azerspace",
-      "kapsama": "AfricaEurope",
-      "kanal_sayisi": 2,
-      "tv_sayisi": 2,
       "radyo_sayisi": 0,
       "konum_id": "azerspace_46",
       "konum_adi": "Azerspace-1 46.0°E"
@@ -988,24 +960,6 @@
       "kapsama": "AfricaEurope"
     },
     {
-      "kanal_adi": "CBI News",
-      "frekans": 4003,
-      "polarizasyon": "V",
-      "sembol_orani": 2500,
-      "fec": "2/3",
-      "video_pid": "512",
-      "ses_pid": "258 / eng",
-      "uydu": "Azerspace",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "1",
-      "paket": "",
-      "tp_id": "azerspace_46:4003:V:2500",
-      "konum_id": "azerspace_46",
-      "konum_adi": "Azerspace-1 46.0°E",
-      "kapsama": "AfricaEurope"
-    },
-    {
       "kanal_adi": "Champions of Fire TV",
       "frekans": 4027,
       "polarizasyon": "V",
@@ -1025,24 +979,6 @@
     },
     {
       "kanal_adi": "Channel Ten",
-      "frekans": 4112,
-      "polarizasyon": "V",
-      "sembol_orani": 2432,
-      "fec": "3/4",
-      "video_pid": "49",
-      "ses_pid": "50 / eng",
-      "uydu": "Azerspace",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "2",
-      "paket": "",
-      "tp_id": "azerspace_46:4112:V:2432",
-      "konum_id": "azerspace_46",
-      "konum_adi": "Azerspace-1 46.0°E",
-      "kapsama": "AfricaEurope"
-    },
-    {
-      "kanal_adi": "Channel Ten",
       "frekans": 4160,
       "polarizasyon": "R",
       "sembol_orani": 16325,
@@ -1055,24 +991,6 @@
       "sid": "402",
       "paket": "",
       "tp_id": "azerspace_46:4160:R:16325",
-      "konum_id": "azerspace_46",
-      "konum_adi": "Azerspace-1 46.0°E",
-      "kapsama": "AfricaEurope"
-    },
-    {
-      "kanal_adi": "Channel Ten +",
-      "frekans": 4112,
-      "polarizasyon": "V",
-      "sembol_orani": 2432,
-      "fec": "3/4",
-      "video_pid": "37",
-      "ses_pid": "38 / eng",
-      "uydu": "Azerspace",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "4",
-      "paket": "",
-      "tp_id": "azerspace_46:4112:V:2432",
       "konum_id": "azerspace_46",
       "konum_adi": "Azerspace-1 46.0°E",
       "kapsama": "AfricaEurope"
@@ -1598,6 +1516,24 @@
       "konum_id": "azerspace_46",
       "konum_adi": "Azerspace-1 46.0°E",
       "kapsama": "AfricaEurope"
+    },
+    {
+      "kanal_adi": "Kanal S Azerbaycan",
+      "frekans": 11025,
+      "polarizasyon": "V",
+      "sembol_orani": 12700,
+      "fec": "5/6",
+      "video_pid": "517",
+      "ses_pid": "4117 / aze",
+      "uydu": "Azerspace",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4",
+      "paket": "",
+      "tp_id": "azerspace_46:11025:V:12700",
+      "konum_id": "azerspace_46",
+      "konum_adi": "Azerspace-1 46.0°E",
+      "kapsama": "Europe"
     },
     {
       "kanal_adi": "Kepez FM",
@@ -2480,24 +2416,6 @@
       "konum_id": "azerspace_46",
       "konum_adi": "Azerspace-1 46.0°E",
       "kapsama": "AfricaEurope"
-    },
-    {
-      "kanal_adi": "Start TV",
-      "frekans": 11025,
-      "polarizasyon": "V",
-      "sembol_orani": 12700,
-      "fec": "5/6",
-      "video_pid": "517",
-      "ses_pid": "4117 / aze",
-      "uydu": "Azerspace",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "4",
-      "paket": "",
-      "tp_id": "azerspace_46:11025:V:12700",
-      "konum_id": "azerspace_46",
-      "konum_adi": "Azerspace-1 46.0°E",
-      "kapsama": "Europe"
     },
     {
       "kanal_adi": "Tanzania Safari Channel",

@@ -1,26 +1,121 @@
 {
   "uydu_id": "azerspace_46",
   "uydu_adi": "Azerspace-1 46.0°E",
-  "olusturma_zamani_utc": "2026-09-15T08:26:31.644818+00:00",
+  "olusturma_zamani_utc": "2026-09-15T18:44:34.075284+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 132,
-    "yeni_kanal": 132,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 135,
+    "eklenen_kanal": 3,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 1,
     "tur_degisen_kanal": 0,
     "onceki_tp": 23,
-    "yeni_tp": 23,
-    "eklenen_tp": 0,
+    "yeni_tp": 25,
+    "eklenen_tp": 2,
     "silinen_tp": 0,
     "degisen_tp": 0
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "CBI News",
+      "frekans": 4003,
+      "polarizasyon": "V",
+      "sembol_orani": 2500,
+      "fec": "2/3",
+      "video_pid": "512",
+      "ses_pid": "258 / eng",
+      "uydu": "Azerspace",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "",
+      "tp_id": "azerspace_46:4003:V:2500",
+      "konum_id": "azerspace_46",
+      "konum_adi": "Azerspace-1 46.0°E",
+      "kapsama": "AfricaEurope"
+    },
+    {
+      "kanal_adi": "Channel Ten",
+      "frekans": 4112,
+      "polarizasyon": "V",
+      "sembol_orani": 2432,
+      "fec": "3/4",
+      "video_pid": "49",
+      "ses_pid": "50 / eng",
+      "uydu": "Azerspace",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "2",
+      "paket": "",
+      "tp_id": "azerspace_46:4112:V:2432",
+      "konum_id": "azerspace_46",
+      "konum_adi": "Azerspace-1 46.0°E",
+      "kapsama": "AfricaEurope"
+    },
+    {
+      "kanal_adi": "Channel Ten +",
+      "frekans": 4112,
+      "polarizasyon": "V",
+      "sembol_orani": 2432,
+      "fec": "3/4",
+      "video_pid": "37",
+      "ses_pid": "38 / eng",
+      "uydu": "Azerspace",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "4",
+      "paket": "",
+      "tp_id": "azerspace_46:4112:V:2432",
+      "konum_id": "azerspace_46",
+      "konum_adi": "Azerspace-1 46.0°E",
+      "kapsama": "AfricaEurope"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
-  "eklenen_transponderler": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "azerspace_46|azerspace_46:11025:V:12700|sid:4",
+      "kanal_adi": "Start TV",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Kanal S Azerbaycan",
+          "yeni": "Start TV"
+        }
+      }
+    }
+  ],
+  "eklenen_transponderler": [
+    {
+      "tp_id": "azerspace_46:4003:V:2500",
+      "frekans": 4003,
+      "polarizasyon": "V",
+      "sembol_orani": 2500,
+      "fec": "2/3",
+      "uydu": "Azerspace",
+      "kapsama": "AfricaEurope",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "azerspace_46",
+      "konum_adi": "Azerspace-1 46.0°E"
+    },
+    {
+      "tp_id": "azerspace_46:4112:V:2432",
+      "frekans": 4112,
+      "polarizasyon": "V",
+      "sembol_orani": 2432,
+      "fec": "3/4",
+      "uydu": "Azerspace",
+      "kapsama": "AfricaEurope",
+      "kanal_sayisi": 2,
+      "tv_sayisi": 2,
+      "radyo_sayisi": 0,
+      "konum_id": "azerspace_46",
+      "konum_adi": "Azerspace-1 46.0°E"
+    }
+  ],
   "silinen_transponderler": [],
   "degisen_transponderler": []
 }

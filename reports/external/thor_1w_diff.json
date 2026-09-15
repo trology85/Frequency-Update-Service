@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-15T08:26:53.460284+00:00",
+  "olusturma_zamani_utc": "2026-09-15T18:44:59.517597+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
-    "onceki_kanal": 792,
-    "yeni_kanal": 793,
-    "eklenen_kanal": 2,
-    "silinen_kanal": 1,
-    "degisen_kanal": 3,
+    "onceki_kanal": 793,
+    "yeni_kanal": 796,
+    "eklenen_kanal": 3,
+    "silinen_kanal": 0,
+    "degisen_kanal": 2,
     "tur_degisen_kanal": 0,
     "onceki_tp": 68,
     "yeni_tp": 68,
@@ -19,35 +19,53 @@
   },
   "eklenen_kanallar": [
     {
-      "kanal_adi": "Šport 1 HD CZ",
-      "frekans": 12111,
+      "kanal_adi": "Spektrum Home",
+      "frekans": 12149,
       "polarizasyon": "V",
       "sembol_orani": 30000,
       "fec": "3/4",
-      "video_pid": "4101",
-      "ses_pid": "4111 / cze / 4112 / slo",
+      "video_pid": "3401",
+      "ses_pid": "3411 / cze / 3413 / slo",
       "uydu": "Thor 7",
-      "kalite": "HD",
+      "kalite": "SD",
       "tur": "TV",
-      "sid": "31332",
-      "paket": "Magenta TV Sat / Telly / freeSAT",
-      "tp_id": "thor_1w:12111:V:30000",
+      "sid": "31425",
+      "paket": "freeSAT",
+      "tp_id": "thor_1w:12149:V:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "CEE"
     },
     {
-      "kanal_adi": "M4",
+      "kanal_adi": "Minimax CZ",
       "frekans": 12149,
       "polarizasyon": "V",
       "sembol_orani": 30000,
       "fec": "3/4",
-      "video_pid": "3801",
-      "ses_pid": "3811 / hun",
+      "video_pid": "3501",
+      "ses_pid": "3511 / hun / 3512 / cze / 3514 / slo",
       "uydu": "Thor 7",
-      "kalite": "HD",
+      "kalite": "SD",
       "tur": "TV",
-      "sid": "31429",
+      "sid": "31426",
+      "paket": "freeSAT",
+      "tp_id": "thor_1w:12149:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "M5",
+      "frekans": 12149,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "3901",
+      "ses_pid": "3911 / hun",
+      "uydu": "Thor 7",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "31430",
       "paket": "freeSAT",
       "tp_id": "thor_1w:12149:V:30000",
       "konum_id": "thor_1w",
@@ -55,54 +73,25 @@
       "kapsama": "CEE"
     }
   ],
-  "silinen_kanallar": [
-    {
-      "kanal_adi": "History Europe",
-      "frekans": 12149,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "video_pid": "1201",
-      "ses_pid": "1211 / hun / 1212 / cze / 1213 / eng / 1214 / slo",
-      "uydu": "Thor 7",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "31403",
-      "paket": "Canal+ Magyarország",
-      "tp_id": "thor_1w:12149:V:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
-    }
-  ],
+  "silinen_kanallar": [],
   "degisen_kanallar": [
     {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31305",
-      "kanal_adi": "Markíza International",
+      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:3460",
+      "kanal_adi": "Prima Sport 1",
       "degisiklikler": {
         "paket": {
-          "onceki": "M7 Group",
-          "yeni": "freeSAT"
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
         }
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31307",
-      "kanal_adi": "Prima COOL",
+      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:3510",
+      "kanal_adi": "National TV",
       "degisiklikler": {
         "paket": {
-          "onceki": "M7 Group",
-          "yeni": "freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31329",
-      "kanal_adi": "Mezzo",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "freeSAT"
+          "onceki": "Focus Sat / Digi TV",
+          "yeni": "Focus Sat / DIGI RO"
         }
       }
     }
@@ -111,15 +100,15 @@
   "silinen_transponderler": [],
   "degisen_transponderler": [
     {
-      "anahtar": "thor_1w:12111:V:30000",
+      "anahtar": "thor_1w:12149:V:30000",
       "degisiklikler": {
         "kanal_sayisi": {
-          "onceki": 26,
-          "yeni": 27
+          "onceki": 19,
+          "yeni": 22
         },
         "tv_sayisi": {
-          "onceki": 26,
-          "yeni": 27
+          "onceki": 19,
+          "yeni": 22
         }
       }
     }

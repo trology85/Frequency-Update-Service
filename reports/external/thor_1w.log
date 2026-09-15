@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-15T08:26:47.141133+00:00",
+  "run_utc": "2026-09-15T18:44:52.088234+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -12,8 +12,8 @@
       "errors": [],
       "pages": 2,
       "transponders": 97,
-      "channels": 839,
-      "raw_channel_rows": 839,
+      "channels": 842,
+      "raw_channel_rows": 842,
       "raw_file": "raw/satbeams/thor_1w.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-15T08:26:48.892257+00:00",
+  "run_utc": "2026-09-15T18:44:53.697854+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-0.8W",
       "title": "Intelsat 10-02 / Thor 5 / Thor 6 / Thor 7 (0.8°W) -  - Frekanslar - KingOfSat",
-      "bytes": 1132649,
+      "bytes": 1132638,
       "frequency_rows": 156,
       "channel_rows": 1017,
       "advertised_records": 1112,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-15T08:26:52.075927+00:00",
+  "generated_utc": "2026-09-15T18:44:57.164910+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 794,
       "tv": 690,
       "radio": 104,
-      "source_updated": "2026-09-11"
+      "source_updated": "2026-09-15"
     }
   ]
 }
@@ -68,10 +68,10 @@
       "id": "thor_1w",
       "ok": true,
       "transponders": 69,
-      "channels": 794,
-      "tv": 731,
+      "channels": 797,
+      "tv": 734,
       "radio": 63,
-      "sd": 380,
+      "sd": 383,
       "hd": 251,
       "uhd_4k": 3,
       "unknown_quality": 97,
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-15T08:26:53.423827+00:00",
+  "run_utc": "2026-09-15T18:44:59.470012+00:00",
   "ok": true,
   "should_publish": true,
   "source": "Satbeams API",
@@ -114,22 +114,22 @@
       "errors": [],
       "warnings": [],
       "transponders": 69,
-      "channels": 794,
-      "tv": 731,
+      "channels": 797,
+      "tv": 734,
       "radio": 63,
-      "sd": 380,
+      "sd": 383,
       "hd": 277,
       "uhd_4k": 3,
       "unknown_quality": 71,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "c72d807872d696374ca5ea194d78e02d03fbd91488429ba5c68ff16be799e2c8",
-      "current_hash": "2de3b157ad549b5e243abcab8ffaf4c6287f169f0ad71093ed78d4d6084e092f",
+      "candidate_hash": "732ceab72426db0ab8ebe187169dcaf569d306d71e1f79b481f5ce953f5375ee",
+      "current_hash": "c72d807872d696374ca5ea194d78e02d03fbd91488429ba5c68ff16be799e2c8",
       "changed": true,
-      "added": 1,
+      "added": 3,
       "removed": 0,
-      "updated": 4
+      "updated": 2
     }
   ]
 }

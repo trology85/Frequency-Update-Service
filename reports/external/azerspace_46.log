@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-15T08:26:28.599839+00:00",
+  "run_utc": "2026-09-15T18:44:30.610949+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -11,9 +11,9 @@
       "ok": true,
       "errors": [],
       "pages": 2,
-      "transponders": 31,
-      "channels": 147,
-      "raw_channel_rows": 147,
+      "transponders": 33,
+      "channels": 150,
+      "raw_channel_rows": 150,
       "raw_file": "raw/satbeams/azerspace_46.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-15T08:26:30.122359+00:00",
+  "run_utc": "2026-09-15T18:44:32.129098+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-46E",
       "title": "Azerspace-1 (46°E) -  - Frekanslar - KingOfSat",
-      "bytes": 250698,
+      "bytes": 249382,
       "frequency_rows": 70,
-      "channel_rows": 189,
-      "advertised_records": 226,
+      "channel_rows": 187,
+      "advertised_records": 224,
       "block_markers": [],
       "raw_file": "raw/kingofsat/azerspace_46.html",
       "errors": []
@@ -45,15 +45,15 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-15T08:26:31.361965+00:00",
+  "generated_utc": "2026-09-15T18:44:33.642860+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
       "id": "azerspace_46",
       "transponders": 33,
-      "channels": 148,
+      "channels": 146,
       "tv": 71,
-      "radio": 77,
+      "radio": 75,
       "source_updated": "2026-09-15"
     }
   ]
@@ -67,11 +67,11 @@
     {
       "id": "azerspace_46",
       "ok": true,
-      "transponders": 23,
-      "channels": 139,
-      "tv": 125,
+      "transponders": 25,
+      "channels": 142,
+      "tv": 128,
       "radio": 14,
-      "sd": 83,
+      "sd": 86,
       "hd": 42,
       "uhd_4k": 0,
       "unknown_quality": 0,
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-15T08:26:31.635423+00:00",
+  "run_utc": "2026-09-15T18:44:34.062575+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -113,24 +113,24 @@
       "ok": true,
       "errors": [],
       "warnings": [],
-      "transponders": 23,
-      "channels": 139,
-      "tv": 125,
+      "transponders": 25,
+      "channels": 142,
+      "tv": 128,
       "radio": 14,
-      "sd": 83,
+      "sd": 86,
       "hd": 42,
       "uhd_4k": 0,
       "unknown_quality": 0,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "eb6ea8298b25d492db1c50c04f1affa1486f0e2190f6c4f8c295b7518bf9feae",
+      "candidate_hash": "7746fd9cd7d06af2053151535b17302415c341616136bdfefc4f597338c24d90",
       "current_hash": "eb6ea8298b25d492db1c50c04f1affa1486f0e2190f6c4f8c295b7518bf9feae",
-      "changed": false,
-      "added": 0,
-      "removed": 0,
+      "changed": true,
+      "added": 4,
+      "removed": 1,
       "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true
