@@ -1,26 +1,248 @@
 {
   "uydu_id": "hotbird_13",
   "uydu_adi": "Hot Bird 13.0°E",
-  "olusturma_zamani_utc": "2026-09-16T08:20:13.684962+00:00",
+  "olusturma_zamani_utc": "2026-09-16T18:42:16.147535+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 1010,
-    "yeni_kanal": 1010,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
+    "yeni_kanal": 1016,
+    "eklenen_kanal": 8,
+    "silinen_kanal": 2,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 82,
     "yeni_tp": 82,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 3
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Kino Polska Muzyka",
+      "frekans": 11411,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "172",
+      "ses_pid": "128 / pol",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "14213",
+      "paket": "Canal+ Polska",
+      "tp_id": "hotbird_13:11411:H:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "FilmBox+ Action",
+      "frekans": 11411,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "173",
+      "ses_pid": "132 / pol",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "14214",
+      "paket": "Canal+ Polska",
+      "tp_id": "hotbird_13:11411:H:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "FilmBox+ Emotion Polska",
+      "frekans": 11411,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "174",
+      "ses_pid": "136 / pol",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "14215",
+      "paket": "Canal+ Polska",
+      "tp_id": "hotbird_13:11411:H:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "Hustler HD Europe",
+      "frekans": 11411,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "5174",
+      "ses_pid": "5136 / eng",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "14241",
+      "paket": "Canal+ Polska",
+      "tp_id": "hotbird_13:11411:H:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "Blue Hustler Europe Eng",
+      "frekans": 11411,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "5175",
+      "ses_pid": "5140 / eng",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "14242",
+      "paket": "Canal+ Polska",
+      "tp_id": "hotbird_13:11411:H:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "Private TV",
+      "frekans": 11411,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "5176",
+      "ses_pid": "0 / eng",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "14243",
+      "paket": "Canal+ Polska",
+      "tp_id": "hotbird_13:11411:H:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "TBN Rossiya",
+      "frekans": 12520,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "1171",
+      "ses_pid": "1172 / rus",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "9017",
+      "paket": "STN",
+      "tp_id": "hotbird_13:12520:V:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "EuroNews Italiano",
+      "frekans": 12520,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "1231",
+      "ses_pid": "9232 / ita",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "9023",
+      "paket": "STN",
+      "tp_id": "hotbird_13:12520:V:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    }
+  ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "Just TV",
+      "frekans": 11034,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "1220",
+      "ses_pid": "1230 / rus",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1712",
+      "paket": "GlobeCast",
+      "tp_id": "hotbird_13:11034:V:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "RTVi Europe",
+      "frekans": 11034,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "1720",
+      "ses_pid": "1730 / rus",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1713",
+      "paket": "GlobeCast",
+      "tp_id": "hotbird_13:11034:V:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    }
+  ],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "hotbird_13:11034:V:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 14,
+          "yeni": 12
+        },
+        "tv_sayisi": {
+          "onceki": 14,
+          "yeni": 12
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13:11411:H:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 14,
+          "yeni": 20
+        },
+        "tv_sayisi": {
+          "onceki": 14,
+          "yeni": 20
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13:12520:V:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 17,
+          "yeni": 19
+        },
+        "tv_sayisi": {
+          "onceki": 17,
+          "yeni": 19
+        }
+      }
+    }
+  ]
 }

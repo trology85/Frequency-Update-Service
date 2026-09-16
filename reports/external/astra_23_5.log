@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-16T08:20:27.388659+00:00",
+  "run_utc": "2026-09-16T18:42:30.847704+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -12,8 +12,8 @@
       "errors": [],
       "pages": 2,
       "transponders": 44,
-      "channels": 647,
-      "raw_channel_rows": 647,
+      "channels": 650,
+      "raw_channel_rows": 650,
       "raw_file": "raw/satbeams/astra_23_5.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-16T08:20:28.963380+00:00",
+  "run_utc": "2026-09-16T18:42:32.202045+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-23.5E",
       "title": "Astra 3B / Astra 3C (23.5°E) -  - Frekanslar - KingOfSat",
-      "bytes": 707439,
+      "bytes": 707460,
       "frequency_rows": 84,
       "channel_rows": 657,
       "advertised_records": 716,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-16T08:20:31.002695+00:00",
+  "generated_utc": "2026-09-16T18:42:34.218578+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -68,10 +68,10 @@
       "id": "astra_23_5",
       "ok": true,
       "transponders": 33,
-      "channels": 634,
-      "tv": 525,
+      "channels": 637,
+      "tv": 528,
       "radio": 109,
-      "sd": 353,
+      "sd": 356,
       "hd": 156,
       "uhd_4k": 0,
       "unknown_quality": 16,
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-16T08:20:31.797911+00:00",
+  "run_utc": "2026-09-16T18:42:35.509553+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -114,23 +114,23 @@
       "errors": [],
       "warnings": [],
       "transponders": 33,
-      "channels": 634,
-      "tv": 525,
+      "channels": 637,
+      "tv": 528,
       "radio": 109,
-      "sd": 353,
+      "sd": 356,
       "hd": 164,
       "uhd_4k": 0,
       "unknown_quality": 8,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "fec0009f908510ab699723c8f47956e06e1fd976352de54ebddd7214fc8fc00c",
+      "candidate_hash": "9736ac11e0b6f8b56151efec153159e11719c44ec89db0d14c7108e623676415",
       "current_hash": "fec0009f908510ab699723c8f47956e06e1fd976352de54ebddd7214fc8fc00c",
-      "changed": false,
-      "added": 0,
+      "changed": true,
+      "added": 3,
       "removed": 0,
       "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true

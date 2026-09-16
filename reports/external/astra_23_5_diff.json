@@ -1,13 +1,13 @@
 {
   "uydu_id": "astra_23_5",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "olusturma_zamani_utc": "2026-09-16T08:20:31.829674+00:00",
+  "olusturma_zamani_utc": "2026-09-16T18:42:35.548414+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 630,
-    "yeni_kanal": 630,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 631,
+    "eklenen_kanal": 1,
     "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
@@ -15,12 +15,58 @@
     "yeni_tp": 33,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 2
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Belarus Tomorrow (t12)",
+      "frekans": 12363,
+      "polarizasyon": "V",
+      "sembol_orani": 29500,
+      "fec": "3/4",
+      "video_pid": "1751",
+      "ses_pid": "1752 / rus",
+      "uydu": "Astra 3B",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "5175",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12363:V:29500",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    }
+  ],
   "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "astra_23_5:12168:V:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 5,
+          "yeni": 6
+        },
+        "tv_sayisi": {
+          "onceki": 3,
+          "yeni": 4
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5:12363:V:29500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 44,
+          "yeni": 46
+        },
+        "tv_sayisi": {
+          "onceki": 5,
+          "yeni": 7
+        }
+      }
+    }
+  ]
 }
