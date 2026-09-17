@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-16T18:42:05.823697+00:00",
+  "run_utc": "2026-09-17T08:26:09.149869+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-16T18:42:07.396652+00:00",
+  "run_utc": "2026-09-17T08:26:11.096181+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-13E",
       "title": "Hot Bird 13F / Hot Bird 13G (13°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1536678,
+      "bytes": 1536527,
       "frequency_rows": 151,
       "channel_rows": 1499,
       "advertised_records": 1571,
@@ -45,16 +45,16 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-16T18:42:12.208312+00:00",
+  "generated_utc": "2026-09-17T08:26:15.299711+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
       "id": "hotbird_13",
       "transponders": 72,
-      "channels": 1222,
-      "tv": 966,
+      "channels": 1221,
+      "tv": 965,
       "radio": 256,
-      "source_updated": "2026-09-15"
+      "source_updated": "2026-09-16"
     }
   ]
 }
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-16T18:42:16.084889+00:00",
+  "run_utc": "2026-09-17T08:26:17.674571+00:00",
   "ok": true,
-  "should_publish": true,
+  "should_publish": false,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -125,12 +125,12 @@
       "missing_core_fields": 0,
       "duplicate_identities": 0,
       "candidate_hash": "1998e2b96306e7603812a59b073b90f9653a2048b273c60c17ab6f91beff0cae",
-      "current_hash": "483114630a99b33efa60aedd40a8d9af27545574dd9682f6422585db354340a9",
-      "changed": true,
-      "added": 8,
-      "removed": 2,
+      "current_hash": "1998e2b96306e7603812a59b073b90f9653a2048b273c60c17ab6f91beff0cae",
+      "changed": false,
+      "added": 0,
+      "removed": 0,
       "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=true
+SHOULD_PUBLISH=false

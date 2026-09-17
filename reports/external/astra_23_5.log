@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-16T18:42:30.847704+00:00",
+  "run_utc": "2026-09-17T08:26:33.161513+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-16T18:42:32.202045+00:00",
+  "run_utc": "2026-09-17T08:26:34.886944+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-23.5E",
       "title": "Astra 3B / Astra 3C (23.5°E) -  - Frekanslar - KingOfSat",
-      "bytes": 707460,
+      "bytes": 709233,
       "frequency_rows": 84,
-      "channel_rows": 657,
-      "advertised_records": 716,
+      "channel_rows": 659,
+      "advertised_records": 718,
       "block_markers": [],
       "raw_file": "raw/kingofsat/astra_23_5.html",
       "errors": []
@@ -45,16 +45,16 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-16T18:42:34.218578+00:00",
+  "generated_utc": "2026-09-17T08:26:37.397817+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
       "id": "astra_23_5",
       "transponders": 24,
-      "channels": 602,
-      "tv": 498,
+      "channels": 604,
+      "tv": 500,
       "radio": 104,
-      "source_updated": "2026-09-16"
+      "source_updated": "2026-09-17"
     }
   ]
 }
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-16T18:42:35.509553+00:00",
+  "run_utc": "2026-09-17T08:26:38.272821+00:00",
   "ok": true,
-  "should_publish": true,
+  "should_publish": false,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -125,12 +125,12 @@
       "missing_core_fields": 0,
       "duplicate_identities": 0,
       "candidate_hash": "9736ac11e0b6f8b56151efec153159e11719c44ec89db0d14c7108e623676415",
-      "current_hash": "fec0009f908510ab699723c8f47956e06e1fd976352de54ebddd7214fc8fc00c",
-      "changed": true,
-      "added": 3,
+      "current_hash": "9736ac11e0b6f8b56151efec153159e11719c44ec89db0d14c7108e623676415",
+      "changed": false,
+      "added": 0,
       "removed": 0,
       "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=true
+SHOULD_PUBLISH=false
