@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-10T18:10:19.529035+00:00",
+  "generated_utc": "2026-09-17T18:52:20.865602+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=52E",
-    "last_updated": "2026-09-10"
+    "last_updated": "2026-09-17"
   },
   "satellite": {
     "id": "turkmenalem_52",
@@ -1977,12 +1977,12 @@
       "free_to_air": true,
       "compression": "MPEG-4",
       "vpid": 1201,
-      "audio": "1202 / per",
+      "audio": "",
       "nid": 8478,
       "tid": 8478,
       "source_channel_id": 155509,
       "source_transponder_id": 13435,
-      "updated": "2026-02-20",
+      "updated": "2026-09-17",
       "tp_id": "turkmenalem_52:10804:H:27500"
     },
     {
@@ -2261,7 +2261,7 @@
       "tid": 8478,
       "source_channel_id": 143848,
       "source_transponder_id": 13435,
-      "updated": "2022-10-08",
+      "updated": "2026-09-17",
       "tp_id": "turkmenalem_52:10804:H:27500"
     },
     {
