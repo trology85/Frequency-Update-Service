@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-09-17T08:26:50.064163+00:00",
+  "guncelleme_tarihi": "2026-09-17T18:52:16.740168+00:00",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "toplam_kanal": 813,
+  "toplam_kanal": 812,
   "toplam_tp": 70,
   "transponderler": [
     {
@@ -363,8 +363,8 @@
       "fec": "7/8",
       "uydu": "Thor 5",
       "kapsama": "T1Nordic",
-      "kanal_sayisi": 7,
-      "tv_sayisi": 7,
+      "kanal_sayisi": 6,
+      "tv_sayisi": 6,
       "radyo_sayisi": 0,
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
@@ -2009,24 +2009,6 @@
       "sid": "7912",
       "paket": "Allente",
       "tp_id": "thor_1w:11278:V:25000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "T1Nordic"
-    },
-    {
-      "kanal_adi": "Bedehuskanalen",
-      "frekans": 11389,
-      "polarizasyon": "H",
-      "sembol_orani": 24500,
-      "fec": "7/8",
-      "video_pid": "0",
-      "ses_pid": "",
-      "uydu": "Thor 5",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "7788",
-      "paket": "Telenor",
-      "tp_id": "thor_1w:11389:H:24500",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "T1Nordic"
