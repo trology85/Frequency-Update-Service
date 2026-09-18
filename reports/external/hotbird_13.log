@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-18T08:00:54.747432+00:00",
+  "run_utc": "2026-09-18T18:06:39.925745+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-18T08:00:56.257368+00:00",
+  "run_utc": "2026-09-18T18:06:41.996848+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-13E",
       "title": "Hot Bird 13F / Hot Bird 13G (13°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1537184,
+      "bytes": 1537278,
       "frequency_rows": 151,
       "channel_rows": 1499,
       "advertised_records": 1571,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-18T08:01:01.253116+00:00",
+  "generated_utc": "2026-09-18T18:06:48.089869+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -72,9 +72,9 @@
       "tv": 1028,
       "radio": 100,
       "sd": 454,
-      "hd": 551,
+      "hd": 552,
       "uhd_4k": 5,
-      "unknown_quality": 18,
+      "unknown_quality": 17,
       "candidate": "candidate/satbeams/hotbird_13.json"
     }
   ]
@@ -86,16 +86,16 @@
   "satellites": [
     {
       "id": "hotbird_13",
-      "unknown_before": 18,
+      "unknown_before": 17,
       "filled": 1,
       "filled_sd": 0,
       "filled_hd": 1,
       "filled_uhd": 0,
       "filled_3d": 0,
       "ambiguous": 0,
-      "name_mismatch": 3,
+      "name_mismatch": 2,
       "not_found": 14,
-      "unknown_after": 17,
+      "unknown_after": 16,
       "ok": true
     }
   ]
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-18T08:01:05.121189+00:00",
+  "run_utc": "2026-09-18T18:06:52.026334+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -118,19 +118,19 @@
       "tv": 1028,
       "radio": 100,
       "sd": 454,
-      "hd": 552,
+      "hd": 553,
       "uhd_4k": 5,
-      "unknown_quality": 17,
+      "unknown_quality": 16,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "1998e2b96306e7603812a59b073b90f9653a2048b273c60c17ab6f91beff0cae",
+      "candidate_hash": "808dbdaf9056089df3202e997447e5de4b21fd029f3c915783a69b8bce9f52b3",
       "current_hash": "1998e2b96306e7603812a59b073b90f9653a2048b273c60c17ab6f91beff0cae",
-      "changed": false,
+      "changed": true,
       "added": 0,
       "removed": 0,
-      "updated": 0
+      "updated": 1
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true

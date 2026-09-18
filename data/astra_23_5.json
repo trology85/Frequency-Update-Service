@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-09-16T18:42:35.399195+00:00",
+  "guncelleme_tarihi": "2026-09-18T18:07:16.595645+00:00",
   "uydu_adi": "Astra 3B/3C 23.5°E",
   "toplam_kanal": 637,
   "toplam_tp": 33,
@@ -1738,7 +1738,7 @@
       "video_pid": "1751",
       "ses_pid": "1752 / rus",
       "uydu": "Astra 3B",
-      "kalite": "SD",
+      "kalite": "HD",
       "tur": "TV",
       "sid": "5175",
       "paket": "SkyLink",

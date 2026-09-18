@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-16T18:42:35.399195+00:00",
+  "generated_utc": "2026-09-18T18:07:16.595645+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=23E",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   "satellite": {
     "id": "astra_23_5",
@@ -16,8 +16,8 @@
     "channels": 637,
     "tv": 528,
     "radio": 109,
-    "sd": 356,
-    "hd": 164,
+    "sd": 355,
+    "hd": 165,
     "uhd_4k": 0,
     "unknown_quality": 8
   },
@@ -14205,7 +14205,7 @@
     {
       "name": "Belarus Tomorrow (t12)",
       "type": "TV",
-      "quality": "SD",
+      "quality": "HD",
       "satellite_group": "Astra 3B/3C 23.5°E",
       "spacecraft": "Astra 3B",
       "position": "23.5E",
@@ -14230,7 +14230,7 @@
       "tid": 3234,
       "source_channel_id": 169917,
       "source_transponder_id": 10691,
-      "updated": "2026-09-16",
+      "updated": "2026-09-18",
       "tp_id": "astra_23_5:12363:V:29500"
     },
     {

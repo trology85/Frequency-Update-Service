@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-16T18:42:15.936298+00:00",
+  "generated_utc": "2026-09-18T18:06:51.876918+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=13E",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   "satellite": {
     "id": "hotbird_13",
@@ -17,9 +17,9 @@
     "tv": 1028,
     "radio": 100,
     "sd": 454,
-    "hd": 552,
+    "hd": 553,
     "uhd_4k": 5,
-    "unknown_quality": 17
+    "unknown_quality": 16
   },
   "transponders": [
     {
@@ -2140,9 +2140,9 @@
       "tp_id": "hotbird_13:10727:H:30000"
     },
     {
-      "name": "APEX",
+      "name": "In Touch+",
       "type": "TV",
-      "quality": "UNKNOWN",
+      "quality": "HD",
       "satellite_group": "Hot Bird 13.0°E",
       "spacecraft": "Eutelsat Hot Bird 13F",
       "position": "13.0E",
@@ -2160,14 +2160,14 @@
       "package": "",
       "encryption": "",
       "free_to_air": true,
-      "compression": "",
+      "compression": "MPEG-4",
       "vpid": 6071,
-      "audio": "6072 / und",
+      "audio": "6072 / eng",
       "nid": 318,
       "tid": 11100,
       "source_channel_id": 169158,
       "source_transponder_id": 10921,
-      "updated": "2026-08-09",
+      "updated": "2026-09-18",
       "tp_id": "hotbird_13:10727:H:30000"
     },
     {
