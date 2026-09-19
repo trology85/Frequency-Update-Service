@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-19T07:52:25.855730+00:00",
+  "generated_utc": "2026-09-19T17:49:33.719170+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
@@ -22654,17 +22654,17 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "Telly",
+      "package": "Magenta TV Sat / Telly",
       "encryption": "Conax / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1402,
-      "audio": "0 / cze",
+      "audio": "1403 / cze",
       "nid": 187,
       "tid": 2806,
       "source_channel_id": 149549,
       "source_transponder_id": 11832,
-      "updated": "2026-08-24",
+      "updated": "2026-09-19",
       "tp_id": "thor_1w:12380:V:30000"
     },
     {
