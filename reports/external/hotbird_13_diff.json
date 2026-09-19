@@ -1,15 +1,15 @@
 {
   "uydu_id": "hotbird_13",
   "uydu_adi": "Hot Bird 13.0°E",
-  "olusturma_zamani_utc": "2026-09-18T18:06:52.087809+00:00",
+  "olusturma_zamani_utc": "2026-09-19T07:51:49.824824+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 1016,
     "yeni_kanal": 1016,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 1,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 82,
     "yeni_tp": 82,
@@ -19,26 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "hotbird_13|hotbird_13:10727:H:30000|sid:4607",
-      "kanal_adi": "In Touch+",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "APEX",
-          "yeni": "In Touch+"
-        },
-        "ses_pid": {
-          "onceki": "6072 / und",
-          "yeni": "6072 / eng"
-        },
-        "kalite": {
-          "onceki": "Bilinmeyen",
-          "yeni": "HD"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
