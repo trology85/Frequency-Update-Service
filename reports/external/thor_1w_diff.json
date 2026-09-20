@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-20T08:21:28.466408+00:00",
+  "olusturma_zamani_utc": "2026-09-20T18:01:48.762009+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 819,
     "yeni_kanal": 819,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 10,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
@@ -19,136 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:3120",
-      "kanal_adi": "Realitatea Plus",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Realitatea TV",
-          "yeni": "Realitatea Plus"
-        },
-        "paket": {
-          "onceki": "Focus Sat / Digi TV",
-          "yeni": "Focus Sat / DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6011",
-      "kanal_adi": "Cartoon Network",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "Magenta TV Sat / Slovak Telekom"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6017",
-      "kanal_adi": "JOJ Family",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "1703 / slo",
-          "yeni": "1703 / cze"
-        },
-        "paket": {
-          "onceki": "Telly",
-          "yeni": "Magenta TV Sat / Telly"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6018",
-      "kanal_adi": "Nova Sport 2 HD Czechia",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom / freeSAT",
-          "yeni": "Magenta TV Sat / Slovak Telekom / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6020",
-      "kanal_adi": "Golf Channel Czechia",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "0 / cze",
-          "yeni": "2003 / cze"
-        },
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "Magenta TV Sat / Slovak Telekom"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6022",
-      "kanal_adi": "Nova Lady",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "",
-          "yeni": "2203 / ces"
-        },
-        "paket": {
-          "onceki": "Telly",
-          "yeni": "Magenta TV Sat / Telly"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6023",
-      "kanal_adi": "Doma HD",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "TV Doma",
-          "yeni": "Doma HD"
-        },
-        "ses_pid": {
-          "onceki": "0 / slo",
-          "yeni": "2303 / slo"
-        },
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "Slovak Telekom / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6024",
-      "kanal_adi": "JOJ KRIMI HD",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "0 / slo / 0 / mul",
-          "yeni": "2403 / slo / 2404 / mul"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6025",
-      "kanal_adi": "Joj Cinema",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom / Telly / freeSAT",
-          "yeni": "Magenta TV Sat / Slovak Telekom / Telly / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6030",
-      "kanal_adi": "Discovery Channel Central Europe",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "0 / cze / 0 / eng / 0 / hun",
-          "yeni": "3003 / cze / 3004 / eng / 3005 / hun"
-        },
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "Magenta TV Sat / Slovak Telekom"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
