@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-21T19:54:41.933842+00:00",
+  "generated_utc": "2026-09-22T18:33:47.874542+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-22"
   },
   "satellite": {
     "id": "thor_1w",
@@ -13,10 +13,10 @@
   },
   "counts": {
     "transponders": 70,
-    "channels": 821,
-    "tv": 754,
+    "channels": 822,
+    "tv": 755,
     "radio": 67,
-    "sd": 391,
+    "sd": 392,
     "hd": 295,
     "uhd_4k": 3,
     "unknown_quality": 65
@@ -753,8 +753,8 @@
       "nid": 1,
       "tid": 12,
       "channel_count": 28,
-      "tv_count": 15,
-      "radio_count": 13,
+      "tv_count": 16,
+      "radio_count": 12,
       "source_transponder_id": 6502
     },
     {
@@ -1487,9 +1487,9 @@
       "network": "Digi TV",
       "nid": 1,
       "tid": 2,
-      "channel_count": 17,
+      "channel_count": 18,
       "tv_count": 13,
-      "radio_count": 4,
+      "radio_count": 5,
       "source_transponder_id": 4048
     }
   ],
@@ -11897,7 +11897,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Digi TV",
-      "package": "Focus Sat / Slovak Telekom",
+      "package": "Focus Sat / DIGI RO / Slovak Telekom",
       "encryption": "",
       "free_to_air": true,
       "compression": "MPEG-2",
@@ -11907,7 +11907,7 @@
       "tid": 12,
       "source_channel_id": 11605,
       "source_transponder_id": 6502,
-      "updated": "2026-09-06",
+      "updated": "2026-09-22",
       "tp_id": "thor_1w:11900:H:28000"
     },
     {
@@ -11959,7 +11959,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Digi TV",
-      "package": "Focus Sat / Digi TV",
+      "package": "Focus Sat / DIGI RO",
       "encryption": "Conax / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -11969,7 +11969,7 @@
       "tid": 12,
       "source_channel_id": 11616,
       "source_transponder_id": 6502,
-      "updated": "2026-08-02",
+      "updated": "2026-09-22",
       "tp_id": "thor_1w:11900:H:28000"
     },
     {
@@ -12052,7 +12052,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Digi TV",
-      "package": "Slovak Telekom",
+      "package": "DIGI RO / Slovak Telekom",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -12062,7 +12062,7 @@
       "tid": 12,
       "source_channel_id": 169713,
       "source_transponder_id": 6502,
-      "updated": "2026-09-06",
+      "updated": "2026-09-22",
       "tp_id": "thor_1w:11900:H:28000"
     },
     {
@@ -12097,37 +12097,6 @@
       "tp_id": "thor_1w:11900:H:28000"
     },
     {
-      "name": "Virgin Radio",
-      "type": "RADIO",
-      "quality": "RADIO",
-      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "spacecraft": "Thor 6",
-      "position": "0.8W",
-      "frequency": 11900,
-      "polarization": "H",
-      "symbol_rate": 28000,
-      "fec": "5/6",
-      "system": "DVB-S",
-      "modulation": "QPSK",
-      "sid": 3330,
-      "country": "",
-      "country_code": "",
-      "beam": "K2",
-      "provider": "Digi TV",
-      "package": "Digi TV",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-1",
-      "vpid": 0,
-      "audio": "900 / rum",
-      "nid": 1,
-      "tid": 12,
-      "source_channel_id": 73826,
-      "source_transponder_id": 6502,
-      "updated": "2021-04-11",
-      "tp_id": "thor_1w:11900:H:28000"
-    },
-    {
       "name": "Taraf TV",
       "type": "TV",
       "quality": "SD",
@@ -12145,7 +12114,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Digi TV",
-      "package": "Focus Sat / Digi TV",
+      "package": "Focus Sat / DIGI RO",
       "encryption": "Conax / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -12155,7 +12124,7 @@
       "tid": 12,
       "source_channel_id": 91835,
       "source_transponder_id": 6502,
-      "updated": "2017-06-04",
+      "updated": "2026-09-22",
       "tp_id": "thor_1w:11900:H:28000"
     },
     {
@@ -12217,7 +12186,7 @@
       "tid": 12,
       "source_channel_id": 793,
       "source_transponder_id": 6502,
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "tp_id": "thor_1w:11900:H:28000"
     },
     {
@@ -12331,7 +12300,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Digi TV",
-      "package": "Focus Sat / Digi TV",
+      "package": "Focus Sat / DIGI RO",
       "encryption": "Conax / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -12341,7 +12310,7 @@
       "tid": 12,
       "source_channel_id": 11609,
       "source_transponder_id": 6502,
-      "updated": "2019-10-21",
+      "updated": "2026-09-22",
       "tp_id": "thor_1w:11900:H:28000"
     },
     {
@@ -12424,7 +12393,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Digi TV",
-      "package": "Focus Sat / Digi TV",
+      "package": "Focus Sat / DIGI RO",
       "encryption": "Conax / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -12434,7 +12403,7 @@
       "tid": 12,
       "source_channel_id": 11617,
       "source_transponder_id": 6502,
-      "updated": "2026-08-02",
+      "updated": "2026-09-22",
       "tp_id": "thor_1w:11900:H:28000"
     },
     {
@@ -12652,6 +12621,37 @@
       "source_channel_id": 40458,
       "source_transponder_id": 6502,
       "updated": "2021-04-11",
+      "tp_id": "thor_1w:11900:H:28000"
+    },
+    {
+      "name": "HGTV",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "spacecraft": "Thor 6",
+      "position": "0.8W",
+      "frequency": 11900,
+      "polarization": "H",
+      "symbol_rate": 28000,
+      "fec": "5/6",
+      "system": "DVB-S",
+      "modulation": "QPSK",
+      "sid": 4110,
+      "country": "",
+      "country_code": "",
+      "beam": "K2",
+      "provider": "Digi TV",
+      "package": "DIGI RO",
+      "encryption": "Conax / Cryptoworks / Irdeto / Nagravision 3",
+      "free_to_air": false,
+      "compression": "MPEG-2",
+      "vpid": 4112,
+      "audio": "4113 / eng / 4114 / hun",
+      "nid": 1,
+      "tid": 12,
+      "source_channel_id": 73826,
+      "source_transponder_id": 6502,
+      "updated": "2026-09-22",
       "tp_id": "thor_1w:11900:H:28000"
     },
     {
@@ -26881,6 +26881,37 @@
       "source_channel_id": 88349,
       "source_transponder_id": 4048,
       "updated": "2026-08-02",
+      "tp_id": "thor_1w:12723:H:27500"
+    },
+    {
+      "name": "Virgin Rádio",
+      "type": "RADIO",
+      "quality": "RADIO",
+      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "spacecraft": "Intelsat 10-02 + MEV2",
+      "position": "0.8W",
+      "frequency": 12723,
+      "polarization": "H",
+      "symbol_rate": 27500,
+      "fec": "3/4",
+      "system": "DVB-S",
+      "modulation": "QPSK",
+      "sid": 3490,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot3",
+      "provider": "Digi TV",
+      "package": "DIGI RO",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "",
+      "vpid": 0,
+      "audio": "4040 / rum",
+      "nid": 1,
+      "tid": 2,
+      "source_channel_id": 169945,
+      "source_transponder_id": 4048,
+      "updated": "2026-09-22",
       "tp_id": "thor_1w:12723:H:27500"
     },
     {

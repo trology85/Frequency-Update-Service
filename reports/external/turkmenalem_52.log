@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-22T08:18:38.727199+00:00",
+  "run_utc": "2026-09-22T18:33:48.208551+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-22T08:18:39.939200+00:00",
+  "run_utc": "2026-09-22T18:33:50.006483+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-52E",
       "title": "TurkmenÄlem / MonacoSat (52°E) -  - Frekanslar - KingOfSat",
-      "bytes": 367564,
+      "bytes": 367569,
       "frequency_rows": 45,
       "channel_rows": 327,
       "advertised_records": 355,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-22T08:18:41.321750+00:00",
+  "generated_utc": "2026-09-22T18:33:51.770190+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-22T08:18:41.972193+00:00",
+  "run_utc": "2026-09-22T18:33:52.414932+00:00",
   "ok": true,
   "should_publish": false,
   "source": "Satbeams API",
