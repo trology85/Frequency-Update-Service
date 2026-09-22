@@ -1,199 +1,26 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-21T19:54:42.145210+00:00",
+  "olusturma_zamani_utc": "2026-09-22T08:18:38.621412+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 819,
+    "onceki_kanal": 820,
     "yeni_kanal": 820,
-    "eklenen_kanal": 2,
-    "silinen_kanal": 1,
-    "degisen_kanal": 6,
+    "eklenen_kanal": 0,
+    "silinen_kanal": 0,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 3
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "Film+ CZE SVT",
-      "frekans": 11958,
-      "polarizasyon": "V",
-      "sembol_orani": 28000,
-      "fec": "7/8",
-      "video_pid": "2351",
-      "ses_pid": "2360 / cze",
-      "uydu": "Thor 6",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "31243",
-      "paket": "Magenta TV Sat",
-      "tp_id": "thor_1w:11958:V:28000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K2"
-    },
-    {
-      "kanal_adi": "Sport Total FM",
-      "frekans": 12723,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "0",
-      "ses_pid": "595 / rum",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "2650",
-      "paket": "DIGI RO",
-      "tp_id": "thor_1w:12723:H:27500",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    }
-  ],
-  "silinen_kanallar": [
-    {
-      "kanal_adi": "Sport Total",
-      "frekans": 11900,
-      "polarizasyon": "H",
-      "sembol_orani": 28000,
-      "fec": "5/6",
-      "video_pid": "0",
-      "ses_pid": "763 / rum",
-      "uydu": "Thor 6",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "2540",
-      "paket": "Focus Sat / Digi TV",
-      "tp_id": "thor_1w:11900:H:28000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K2"
-    }
-  ],
-  "degisen_kanallar": [
-    {
-      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:3430",
-      "kanal_adi": "3430",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Rádió GaGa",
-          "yeni": "3430"
-        },
-        "ses_pid": {
-          "onceki": "4034 / rum",
-          "yeni": ""
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:4130",
-      "kanal_adi": "DIGI 24 FM",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Chill FM",
-          "yeni": "DIGI 24 FM"
-        },
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31422",
-      "kanal_adi": "Šport 2 HD (SVT)",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "Magenta TV Sat / Slovak Telekom"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6012",
-      "kanal_adi": "Viasat Nature",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "0 / cze / 0 / eng / 0 / hun",
-          "yeni": "1203 / cze / 1204 / eng / 1205 / hun"
-        },
-        "kalite": {
-          "onceki": "SD",
-          "yeni": "HD"
-        },
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "Magenta TV Sat / Slovak Telekom"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6013",
-      "kanal_adi": "Prima Show",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Telly",
-          "yeni": "Magenta TV Sat / Telly"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6031",
-      "kanal_adi": "Prima ZOOM",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Telly / freeSAT",
-          "yeni": "Magenta TV Sat / Telly / freeSAT"
-        }
-      }
-    }
-  ],
+  "eklenen_kanallar": [],
+  "silinen_kanallar": [],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "thor_1w:11900:H:28000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 29,
-          "yeni": 28
-        },
-        "radyo_sayisi": {
-          "onceki": 14,
-          "yeni": 13
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w:11958:V:28000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 24,
-          "yeni": 25
-        },
-        "tv_sayisi": {
-          "onceki": 24,
-          "yeni": 25
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w:12723:H:27500",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 16,
-          "yeni": 17
-        },
-        "radyo_sayisi": {
-          "onceki": 3,
-          "yeni": 4
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }
