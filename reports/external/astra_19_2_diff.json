@@ -1,14 +1,14 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-09-23T08:19:47.838527+00:00",
+  "olusturma_zamani_utc": "2026-09-23T18:53:03.209213+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 862,
     "yeni_kanal": 862,
-    "eklenen_kanal": 1,
-    "silinen_kanal": 1,
+    "eklenen_kanal": 0,
+    "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 88,
@@ -17,46 +17,8 @@
     "silinen_tp": 0,
     "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "RTL UHD",
-      "frekans": 10993,
-      "polarizasyon": "H",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "video_pid": "1023",
-      "ses_pid": "1027 / ger",
-      "uydu": "Astra 1P",
-      "kalite": "4K",
-      "tur": "TV",
-      "sid": "10",
-      "paket": "Sky Germany / HD+",
-      "tp_id": "astra_19_2:10993:H:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE1"
-    }
-  ],
-  "silinen_kanallar": [
-    {
-      "kanal_adi": "1",
-      "frekans": 10993,
-      "polarizasyon": "H",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "video_pid": "0",
-      "ses_pid": "",
-      "uydu": "Astra 1P",
-      "kalite": "Bilinmeyen",
-      "tur": "TV",
-      "sid": "1",
-      "paket": "SES",
-      "tp_id": "astra_19_2:10993:H:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE1"
-    }
-  ],
+  "eklenen_kanallar": [],
+  "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],

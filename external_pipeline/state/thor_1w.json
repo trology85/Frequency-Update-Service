@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-22T18:33:47.874542+00:00",
+  "generated_utc": "2026-09-23T18:53:47.052577+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-09-22"
+    "last_updated": "2026-09-23"
   },
   "satellite": {
     "id": "thor_1w",
@@ -11990,7 +11990,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Digi TV",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "",
       "free_to_air": true,
       "compression": "MPEG-1",
@@ -12000,7 +12000,7 @@
       "tid": 12,
       "source_channel_id": 104005,
       "source_transponder_id": 6502,
-      "updated": "2021-04-11",
+      "updated": "2026-09-23",
       "tp_id": "thor_1w:11900:H:28000"
     },
     {
@@ -12703,7 +12703,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Digi TV",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "",
       "free_to_air": true,
       "compression": "MPEG-1",
@@ -12713,7 +12713,7 @@
       "tid": 12,
       "source_channel_id": 73828,
       "source_transponder_id": 6502,
-      "updated": "2021-04-11",
+      "updated": "2026-09-23",
       "tp_id": "thor_1w:11900:H:28000"
     },
     {

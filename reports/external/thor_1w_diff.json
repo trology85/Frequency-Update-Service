@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-23T08:20:30.530990+00:00",
+  "olusturma_zamani_utc": "2026-09-23T18:53:47.259809+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 821,
     "yeni_kanal": 821,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 2,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
@@ -19,7 +19,28 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:2510",
+      "kanal_adi": "Digi FM",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:4140",
+      "kanal_adi": "Dance FM",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-23T08:20:12.681895+00:00",
+  "run_utc": "2026-09-23T18:53:29.264355+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -12,8 +12,8 @@
       "errors": [],
       "pages": 2,
       "transponders": 44,
-      "channels": 651,
-      "raw_channel_rows": 651,
+      "channels": 654,
+      "raw_channel_rows": 654,
       "raw_file": "raw/satbeams/astra_23_5.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-23T08:20:14.289407+00:00",
+  "run_utc": "2026-09-23T18:53:30.669313+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-23.5E",
       "title": "Astra 3B / Astra 3C (23.5°E) -  - Frekanslar - KingOfSat",
-      "bytes": 709294,
+      "bytes": 709301,
       "frequency_rows": 84,
       "channel_rows": 659,
       "advertised_records": 718,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-23T08:20:16.522064+00:00",
+  "generated_utc": "2026-09-23T18:53:32.815322+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -68,10 +68,10 @@
       "id": "astra_23_5",
       "ok": true,
       "transponders": 33,
-      "channels": 638,
-      "tv": 529,
+      "channels": 641,
+      "tv": 532,
       "radio": 109,
-      "sd": 356,
+      "sd": 359,
       "hd": 157,
       "uhd_4k": 0,
       "unknown_quality": 16,
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-23T08:20:17.792326+00:00",
+  "run_utc": "2026-09-23T18:53:34.105484+00:00",
   "ok": true,
   "should_publish": true,
   "source": "Satbeams API",
@@ -114,22 +114,22 @@
       "errors": [],
       "warnings": [],
       "transponders": 33,
-      "channels": 638,
-      "tv": 529,
+      "channels": 641,
+      "tv": 532,
       "radio": 109,
-      "sd": 356,
+      "sd": 359,
       "hd": 165,
       "uhd_4k": 0,
       "unknown_quality": 8,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "339514292f4438b815f1c7b7ff13bc64d469fabb0cdf0f469bae544203af4bf1",
-      "current_hash": "b3c082c4ccc9a10296653b09930cc5807168f41e7a8dae152f94a241c2799833",
+      "candidate_hash": "5aaae1145920b1f8b0687b8f43888848998a35bc8f278e5e5f095a1e2fc63027",
+      "current_hash": "339514292f4438b815f1c7b7ff13bc64d469fabb0cdf0f469bae544203af4bf1",
       "changed": true,
-      "added": 1,
+      "added": 3,
       "removed": 0,
-      "updated": 1
+      "updated": 0
     }
   ]
 }
