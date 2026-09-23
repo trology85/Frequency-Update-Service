@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-09T07:55:04.590416+00:00",
+  "generated_utc": "2026-09-23T08:19:47.655826+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=19E",
-    "last_updated": "2026-09-09"
+    "last_updated": "2026-09-23"
   },
   "satellite": {
     "id": "astra_19_2",
@@ -18,8 +18,8 @@
     "radio": 133,
     "sd": 318,
     "hd": 411,
-    "uhd_4k": 9,
-    "unknown_quality": 1
+    "uhd_4k": 10,
+    "unknown_quality": 0
   },
   "transponders": [
     {
@@ -6430,37 +6430,6 @@
       "tp_id": "astra_19_2:10979:V:22000"
     },
     {
-      "name": "1",
-      "type": "TV",
-      "quality": "UNKNOWN",
-      "satellite_group": "Astra 19.2°E",
-      "spacecraft": "Astra 1P",
-      "position": "19.2E",
-      "frequency": 10993,
-      "polarization": "H",
-      "symbol_rate": 22000,
-      "fec": "5/6",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 1,
-      "country": "",
-      "country_code": "",
-      "beam": "PE1",
-      "provider": "SES",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "",
-      "vpid": 0,
-      "audio": "",
-      "nid": 133,
-      "tid": 15,
-      "source_channel_id": 79776,
-      "source_transponder_id": 9875,
-      "updated": "2026-09-09",
-      "tp_id": "astra_19_2:10993:H:22000"
-    },
-    {
       "name": "UHD1 by ASTRA / HD+ (20.00 - 8.00)",
       "type": "TV",
       "quality": "4K",
@@ -6520,6 +6489,37 @@
       "source_channel_id": 136942,
       "source_transponder_id": 9875,
       "updated": "2021-08-05",
+      "tp_id": "astra_19_2:10993:H:22000"
+    },
+    {
+      "name": "RTL UHD",
+      "type": "TV",
+      "quality": "4K",
+      "satellite_group": "Astra 19.2°E",
+      "spacecraft": "Astra 1P",
+      "position": "19.2E",
+      "frequency": 10993,
+      "polarization": "H",
+      "symbol_rate": 22000,
+      "fec": "5/6",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 10,
+      "country": "",
+      "country_code": "",
+      "beam": "PE1",
+      "provider": "SES",
+      "package": "Sky Germany / HD+",
+      "encryption": "Videoguard / Nagravision 3",
+      "free_to_air": false,
+      "compression": "HEVC (H.265)",
+      "vpid": 1023,
+      "audio": "1027 / ger",
+      "nid": 133,
+      "tid": 15,
+      "source_channel_id": 79776,
+      "source_transponder_id": 9875,
+      "updated": "2026-09-23",
       "tp_id": "astra_19_2:10993:H:22000"
     },
     {

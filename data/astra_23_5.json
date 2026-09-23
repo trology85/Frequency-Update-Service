@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-09-18T18:07:16.595645+00:00",
+  "guncelleme_tarihi": "2026-09-23T08:20:17.685468+00:00",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "toplam_kanal": 637,
+  "toplam_kanal": 638,
   "toplam_tp": 33,
   "transponderler": [
     {
@@ -55,8 +55,8 @@
       "fec": "3/4",
       "uydu": "Astra 3B",
       "kapsama": "PanEuropean",
-      "kanal_sayisi": 29,
-      "tv_sayisi": 21,
+      "kanal_sayisi": 30,
+      "tv_sayisi": 22,
       "radyo_sayisi": 8,
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E"
@@ -6241,7 +6241,7 @@
       "kalite": "HD",
       "tur": "TV",
       "sid": "6166",
-      "paket": "CanalDigitaal / SkyLink / TV Vlaanderen Digitaal / TéléSAT (Telesat)",
+      "paket": "CanalDigitaal / TV Vlaanderen Digitaal / TéléSAT (Telesat)",
       "tp_id": "astra_23_5:11739:V:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
@@ -10185,6 +10185,24 @@
       "sid": "21169",
       "paket": "SkyLink",
       "tp_id": "astra_23_5:12187:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "Story4 CZ",
+      "frekans": 11739,
+      "polarizasyon": "V",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "582",
+      "ses_pid": "161 / cze / 261 / hun",
+      "uydu": "Astra 3B",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "6123",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:11739:V:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "PanEuropean"

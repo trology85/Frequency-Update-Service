@@ -1,170 +1,26 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-22T18:33:48.079221+00:00",
+  "olusturma_zamani_utc": "2026-09-23T08:20:30.530990+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 820,
+    "onceki_kanal": 821,
     "yeni_kanal": 821,
-    "eklenen_kanal": 2,
-    "silinen_kanal": 1,
-    "degisen_kanal": 6,
+    "eklenen_kanal": 0,
+    "silinen_kanal": 0,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 2
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "HGTV",
-      "frekans": 11900,
-      "polarizasyon": "H",
-      "sembol_orani": 28000,
-      "fec": "5/6",
-      "video_pid": "4112",
-      "ses_pid": "4113 / eng / 4114 / hun",
-      "uydu": "Thor 6",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "4110",
-      "paket": "DIGI RO",
-      "tp_id": "thor_1w:11900:H:28000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K2"
-    },
-    {
-      "kanal_adi": "Virgin Rádio",
-      "frekans": 12723,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "0",
-      "ses_pid": "4040 / rum",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "3490",
-      "paket": "DIGI RO",
-      "tp_id": "thor_1w:12723:H:27500",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    }
-  ],
-  "silinen_kanallar": [
-    {
-      "kanal_adi": "Virgin Radio",
-      "frekans": 11900,
-      "polarizasyon": "H",
-      "sembol_orani": 28000,
-      "fec": "5/6",
-      "video_pid": "0",
-      "ses_pid": "900 / rum",
-      "uydu": "Thor 6",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "3330",
-      "paket": "Digi TV",
-      "tp_id": "thor_1w:11900:H:28000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K2"
-    }
-  ],
-  "degisen_kanallar": [
-    {
-      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:1025",
-      "kanal_adi": "Music Channel",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Focus Sat / Slovak Telekom",
-          "yeni": "Focus Sat / DIGI RO / Slovak Telekom"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:1450",
-      "kanal_adi": "Warner TV Romania",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Focus Sat / Digi TV",
-          "yeni": "Focus Sat / DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:2850",
-      "kanal_adi": "Slager TV",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Slovak Telekom",
-          "yeni": "DIGI RO / Slovak Telekom"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:3380",
-      "kanal_adi": "Taraf TV",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Focus Sat / Digi TV",
-          "yeni": "Focus Sat / DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:3470",
-      "kanal_adi": "Trinitas TV",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Focus Sat / Digi TV",
-          "yeni": "Focus Sat / DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:3550",
-      "kanal_adi": "TVR 2",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Focus Sat / Digi TV",
-          "yeni": "Focus Sat / DIGI RO"
-        }
-      }
-    }
-  ],
+  "eklenen_kanallar": [],
+  "silinen_kanallar": [],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "thor_1w:11900:H:28000",
-      "degisiklikler": {
-        "tv_sayisi": {
-          "onceki": 15,
-          "yeni": 16
-        },
-        "radyo_sayisi": {
-          "onceki": 13,
-          "yeni": 12
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w:12723:H:27500",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 17,
-          "yeni": 18
-        },
-        "radyo_sayisi": {
-          "onceki": 4,
-          "yeni": 5
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }

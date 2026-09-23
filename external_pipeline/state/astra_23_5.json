@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-18T18:07:16.595645+00:00",
+  "generated_utc": "2026-09-23T08:20:17.685468+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=23E",
-    "last_updated": "2026-09-18"
+    "last_updated": "2026-09-23"
   },
   "satellite": {
     "id": "astra_23_5",
@@ -13,10 +13,10 @@
   },
   "counts": {
     "transponders": 33,
-    "channels": 637,
-    "tv": 528,
+    "channels": 638,
+    "tv": 529,
     "radio": 109,
-    "sd": 355,
+    "sd": 356,
     "hd": 165,
     "uhd_4k": 0,
     "unknown_quality": 8
@@ -101,8 +101,8 @@
       "network": "M7 Group",
       "nid": 3,
       "tid": 3202,
-      "channel_count": 29,
-      "tv_count": 21,
+      "channel_count": 30,
+      "tv_count": 22,
       "radio_count": 8,
       "source_transponder_id": 1256
     },
@@ -1431,6 +1431,37 @@
       "tp_id": "astra_23_5:11739:V:29900"
     },
     {
+      "name": "Story4 CZ",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 3B/3C 23.5°E",
+      "spacecraft": "Astra 3B",
+      "position": "23.5E",
+      "frequency": 11739,
+      "polarization": "V",
+      "symbol_rate": 29900,
+      "fec": "3/4",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 6123,
+      "country": "",
+      "country_code": "",
+      "beam": "PanEuropean",
+      "provider": "M7 Group",
+      "package": "SkyLink",
+      "encryption": "Conax / Irdeto / Nagravision 3 / Viaccess",
+      "free_to_air": false,
+      "compression": "MPEG-4",
+      "vpid": 582,
+      "audio": "161 / cze / 261 / hun",
+      "nid": 3,
+      "tid": 3202,
+      "source_channel_id": 169946,
+      "source_transponder_id": 1256,
+      "updated": "2026-09-23",
+      "tp_id": "astra_23_5:11739:V:29900"
+    },
+    {
       "name": "Qmusic",
       "type": "RADIO",
       "quality": "RADIO",
@@ -1603,7 +1634,7 @@
       "country_code": "",
       "beam": "PanEuropean",
       "provider": "M7 Group",
-      "package": "CanalDigitaal / SkyLink / TV Vlaanderen Digitaal / TéléSAT (Telesat)",
+      "package": "CanalDigitaal / TV Vlaanderen Digitaal / TéléSAT (Telesat)",
       "encryption": "Conax / Irdeto / Nagravision / Viaccess 5.0",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -1613,7 +1644,7 @@
       "tid": 3202,
       "source_channel_id": 130211,
       "source_transponder_id": 1256,
-      "updated": "2026-07-24",
+      "updated": "2026-09-23",
       "tp_id": "astra_23_5:11739:V:29900"
     },
     {

@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-08-20T15:33:49.790217+00:00",
+  "guncelleme_tarihi": "2026-09-09T07:55:04.590416+00:00",
   "uydu_adi": "Astra 19.2°E",
   "toplam_kanal": 872,
   "toplam_tp": 88,
@@ -1292,6 +1292,24 @@
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E",
       "kapsama": "PE2"
+    },
+    {
+      "kanal_adi": "1",
+      "frekans": 10993,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "0",
+      "ses_pid": "",
+      "uydu": "Astra 1P",
+      "kalite": "Bilinmeyen",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "SES",
+      "tp_id": "astra_19_2:10993:H:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE1"
     },
     {
       "kanal_adi": "1. S FEDERÁCION",
@@ -13460,24 +13478,6 @@
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E",
       "kapsama": "Europe"
-    },
-    {
-      "kanal_adi": "SES UHD Demo Channel",
-      "frekans": 10993,
-      "polarizasyon": "H",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "video_pid": "511",
-      "ses_pid": "0 / eng / 0 / eng",
-      "uydu": "Astra 1P",
-      "kalite": "4K",
-      "tur": "TV",
-      "sid": "1",
-      "paket": "SES",
-      "tp_id": "astra_19_2:10993:H:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE1"
     },
     {
       "kanal_adi": "Shop LC",
