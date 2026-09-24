@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-09-23T18:53:47.052577+00:00",
+  "guncelleme_tarihi": "2026-09-24T08:12:39.295360+00:00",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "toplam_kanal": 822,
+  "toplam_kanal": 823,
   "toplam_tp": 70,
   "transponderler": [
     {
@@ -685,8 +685,8 @@
       "fec": "7/8",
       "uydu": "Thor 5",
       "kapsama": "T2",
-      "kanal_sayisi": 12,
-      "tv_sayisi": 12,
+      "kanal_sayisi": 13,
+      "tv_sayisi": 13,
       "radyo_sayisi": 0,
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
@@ -3056,24 +3056,6 @@
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "K2"
-    },
-    {
-      "kanal_adi": "DIGI Life",
-      "frekans": 12188,
-      "polarizasyon": "V",
-      "sembol_orani": 28000,
-      "fec": "7/8",
-      "video_pid": "543",
-      "ses_pid": "693 / rum",
-      "uydu": "Thor 5",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "1540",
-      "paket": "Digi TV",
-      "tp_id": "thor_1w:12188:V:28000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "T2"
     },
     {
       "kanal_adi": "Digi Life Romania",
@@ -5792,6 +5774,24 @@
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "Izaura TV",
+      "frekans": 12188,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "2114",
+      "ses_pid": "3114 / hun",
+      "uydu": "Thor 5",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "17914",
+      "paket": "Digi TV / Direct One",
+      "tp_id": "thor_1w:12188:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T2"
     },
     {
       "kanal_adi": "Jednotka HD",
@@ -11480,6 +11480,24 @@
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "Spot3"
+    },
+    {
+      "kanal_adi": "Sport2 HD",
+      "frekans": 12188,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "1492",
+      "ses_pid": "1493 / hun",
+      "uydu": "Thor 5",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1490",
+      "paket": "Digi TV / Direct One",
+      "tp_id": "thor_1w:12188:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T2"
     },
     {
       "kanal_adi": "Story 4",

@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-24T08:12:39.512875+00:00",
+  "olusturma_zamani_utc": "2026-09-24T18:52:13.049854+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
-    "onceki_kanal": 821,
-    "yeni_kanal": 822,
+    "onceki_kanal": 822,
+    "yeni_kanal": 823,
     "eklenen_kanal": 2,
     "silinen_kanal": 1,
-    "degisen_kanal": 0,
+    "degisen_kanal": 4,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
@@ -19,35 +19,35 @@
   },
   "eklenen_kanallar": [
     {
-      "kanal_adi": "Sport2 HD",
-      "frekans": 12188,
-      "polarizasyon": "V",
+      "kanal_adi": "Max4",
+      "frekans": 12130,
+      "polarizasyon": "H",
       "sembol_orani": 28000,
       "fec": "7/8",
-      "video_pid": "1492",
-      "ses_pid": "1493 / hun",
+      "video_pid": "531",
+      "ses_pid": "681 / hun",
       "uydu": "Thor 5",
-      "kalite": "HD",
+      "kalite": "SD",
       "tur": "TV",
-      "sid": "1490",
+      "sid": "1031",
       "paket": "Digi TV / Direct One",
-      "tp_id": "thor_1w:12188:V:28000",
+      "tp_id": "thor_1w:12130:H:28000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "T2"
     },
     {
-      "kanal_adi": "Izaura TV",
+      "kanal_adi": "Match4 HD",
       "frekans": 12188,
       "polarizasyon": "V",
       "sembol_orani": 28000,
       "fec": "7/8",
-      "video_pid": "2114",
-      "ses_pid": "3114 / hun",
+      "video_pid": "1482",
+      "ses_pid": "1483 / hun",
       "uydu": "Thor 5",
-      "kalite": "SD",
+      "kalite": "HD",
       "tur": "TV",
-      "sid": "17914",
+      "sid": "1480",
       "paket": "Digi TV / Direct One",
       "tp_id": "thor_1w:12188:V:28000",
       "konum_id": "thor_1w",
@@ -57,17 +57,17 @@
   ],
   "silinen_kanallar": [
     {
-      "kanal_adi": "DIGI Life",
+      "kanal_adi": "PRO 2",
       "frekans": 12188,
       "polarizasyon": "V",
       "sembol_orani": 28000,
       "fec": "7/8",
-      "video_pid": "543",
-      "ses_pid": "693 / rum",
+      "video_pid": "599",
+      "ses_pid": "832 / rum",
       "uydu": "Thor 5",
       "kalite": "SD",
       "tur": "TV",
-      "sid": "1540",
+      "sid": "1372",
       "paket": "Digi TV",
       "tp_id": "thor_1w:12188:V:28000",
       "konum_id": "thor_1w",
@@ -75,20 +75,65 @@
       "kapsama": "T2"
     }
   ],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:12130:H:28000|sid:1510",
+      "kanal_adi": "RTL",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "RTL Klub",
+          "yeni": "RTL"
+        },
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "Digi TV / Direct One"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12723:H:27500|sid:1012",
+      "kanal_adi": "Cinemaraton",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12723:H:27500|sid:1032",
+      "kanal_adi": "DIGI WORLD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12723:H:27500|sid:1358",
+      "kanal_adi": "Digi Life Romania",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": [
     {
-      "anahtar": "thor_1w:12188:V:28000",
+      "anahtar": "thor_1w:12130:H:28000",
       "degisiklikler": {
         "kanal_sayisi": {
-          "onceki": 12,
-          "yeni": 13
+          "onceki": 13,
+          "yeni": 14
         },
         "tv_sayisi": {
-          "onceki": 12,
-          "yeni": 13
+          "onceki": 13,
+          "yeni": 14
         }
       }
     }
