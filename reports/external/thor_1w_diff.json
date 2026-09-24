@@ -1,47 +1,96 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-23T18:53:47.259809+00:00",
+  "olusturma_zamani_utc": "2026-09-24T08:12:39.512875+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 821,
-    "yeni_kanal": 821,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
-    "degisen_kanal": 2,
+    "yeni_kanal": 822,
+    "eklenen_kanal": 2,
+    "silinen_kanal": 1,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
-  "degisen_kanallar": [
+  "eklenen_kanallar": [
     {
-      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:2510",
-      "kanal_adi": "Digi FM",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
+      "kanal_adi": "Sport2 HD",
+      "frekans": 12188,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "1492",
+      "ses_pid": "1493 / hun",
+      "uydu": "Thor 5",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1490",
+      "paket": "Digi TV / Direct One",
+      "tp_id": "thor_1w:12188:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T2"
     },
     {
-      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:4140",
-      "kanal_adi": "Dance FM",
+      "kanal_adi": "Izaura TV",
+      "frekans": 12188,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "2114",
+      "ses_pid": "3114 / hun",
+      "uydu": "Thor 5",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "17914",
+      "paket": "Digi TV / Direct One",
+      "tp_id": "thor_1w:12188:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T2"
+    }
+  ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "DIGI Life",
+      "frekans": 12188,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "543",
+      "ses_pid": "693 / rum",
+      "uydu": "Thor 5",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1540",
+      "paket": "Digi TV",
+      "tp_id": "thor_1w:12188:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T2"
+    }
+  ],
+  "degisen_kanallar": [],
+  "eklenen_transponderler": [],
+  "silinen_transponderler": [],
+  "degisen_transponderler": [
+    {
+      "anahtar": "thor_1w:12188:V:28000",
       "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
+        "kanal_sayisi": {
+          "onceki": 12,
+          "yeni": 13
+        },
+        "tv_sayisi": {
+          "onceki": 12,
+          "yeni": 13
         }
       }
     }
-  ],
-  "eklenen_transponderler": [],
-  "silinen_transponderler": [],
-  "degisen_transponderler": []
+  ]
 }
