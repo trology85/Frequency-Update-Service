@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-24T18:52:06.426399+00:00",
+  "run_utc": "2026-09-25T08:35:25.426051+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-24T18:52:08.030774+00:00",
+  "run_utc": "2026-09-25T08:35:27.338949+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-0.8W",
       "title": "Intelsat 10-02 / Thor 5 / Thor 6 / Thor 7 (0.8°W) -  - Frekanslar - KingOfSat",
-      "bytes": 1146348,
+      "bytes": 1146319,
       "frequency_rows": 154,
       "channel_rows": 1033,
       "advertised_records": 1125,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-24T18:52:11.262892+00:00",
+  "generated_utc": "2026-09-25T08:35:31.335175+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -71,10 +71,10 @@
       "channels": 824,
       "tv": 757,
       "radio": 67,
-      "sd": 392,
+      "sd": 393,
       "hd": 271,
       "uhd_4k": 3,
-      "unknown_quality": 91,
+      "unknown_quality": 90,
       "candidate": "candidate/satbeams/thor_1w.json"
     }
   ]
@@ -86,7 +86,7 @@
   "satellites": [
     {
       "id": "thor_1w",
-      "unknown_before": 91,
+      "unknown_before": 90,
       "filled": 26,
       "filled_sd": 0,
       "filled_hd": 26,
@@ -94,8 +94,8 @@
       "filled_3d": 0,
       "ambiguous": 0,
       "name_mismatch": 11,
-      "not_found": 54,
-      "unknown_after": 65,
+      "not_found": 53,
+      "unknown_after": 64,
       "ok": true
     }
   ]
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-24T18:52:12.997244+00:00",
+  "run_utc": "2026-09-25T08:35:33.644820+00:00",
   "ok": true,
   "should_publish": true,
   "source": "Satbeams API",
@@ -117,19 +117,19 @@
       "channels": 824,
       "tv": 757,
       "radio": 67,
-      "sd": 392,
+      "sd": 393,
       "hd": 297,
       "uhd_4k": 3,
-      "unknown_quality": 65,
+      "unknown_quality": 64,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "5f6229b6586655628246230620456520a9c6dd465c966d04c8a4a15fbdded9fb",
-      "current_hash": "a3935bc189d8a7066d229fcc09f3995501f1c436a55f8b1d83892be04c548c82",
+      "candidate_hash": "7002c18ddf9e9c678cb4682ca99dff144d24e6ff3ff984831922f220ef8ed14f",
+      "current_hash": "5f6229b6586655628246230620456520a9c6dd465c966d04c8a4a15fbdded9fb",
       "changed": true,
-      "added": 1,
+      "added": 0,
       "removed": 0,
-      "updated": 5
+      "updated": 6
     }
   ]
 }

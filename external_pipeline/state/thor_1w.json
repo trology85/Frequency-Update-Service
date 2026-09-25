@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-24T18:52:12.839595+00:00",
+  "generated_utc": "2026-09-25T08:35:33.493105+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-09-24"
+    "last_updated": "2026-09-25"
   },
   "satellite": {
     "id": "thor_1w",
@@ -16,10 +16,10 @@
     "channels": 824,
     "tv": 757,
     "radio": 67,
-    "sd": 392,
+    "sd": 393,
     "hd": 297,
     "uhd_4k": 3,
-    "unknown_quality": 65
+    "unknown_quality": 64
   },
   "transponders": [
     {
@@ -15259,9 +15259,9 @@
       "tp_id": "thor_1w:11996:V:28000"
     },
     {
-      "name": "Zu TV",
+      "name": "Chefi .Ro",
       "type": "TV",
-      "quality": "UNKNOWN",
+      "quality": "SD",
       "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "spacecraft": "Thor 6",
       "position": "0.8W",
@@ -15276,7 +15276,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "M7 Group",
-      "package": "Focus Sat / Digi TV",
+      "package": "Focus Sat",
       "encryption": "Conax / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -15286,7 +15286,7 @@
       "tid": 704,
       "source_channel_id": 115743,
       "source_transponder_id": 7505,
-      "updated": "2021-02-09",
+      "updated": "2026-09-25",
       "tp_id": "thor_1w:11996:V:28000"
     },
     {
@@ -26498,7 +26498,7 @@
       "country_code": "",
       "beam": "Spot3",
       "provider": "Digi TV",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -26508,7 +26508,7 @@
       "tid": 2,
       "source_channel_id": 149106,
       "source_transponder_id": 4048,
-      "updated": "2023-07-06",
+      "updated": "2026-09-25",
       "tp_id": "thor_1w:12723:H:27500"
     },
     {
@@ -26622,9 +26622,9 @@
       "country_code": "",
       "beam": "Spot3",
       "provider": "Digi TV",
-      "package": "Digi TV",
-      "encryption": "Nagravision",
-      "free_to_air": false,
+      "package": "DIGI RO",
+      "encryption": "",
+      "free_to_air": true,
       "compression": "MPEG-2",
       "vpid": 527,
       "audio": "677 / rum",
@@ -26632,7 +26632,7 @@
       "tid": 2,
       "source_channel_id": 150821,
       "source_transponder_id": 4048,
-      "updated": "2023-09-06",
+      "updated": "2026-09-25",
       "tp_id": "thor_1w:12723:H:27500"
     },
     {
@@ -26653,7 +26653,7 @@
       "country_code": "",
       "beam": "Spot3",
       "provider": "Digi TV",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -26663,7 +26663,7 @@
       "tid": 2,
       "source_channel_id": 149108,
       "source_transponder_id": 4048,
-      "updated": "2023-07-06",
+      "updated": "2026-09-25",
       "tp_id": "thor_1w:12723:H:27500"
     },
     {
@@ -26684,7 +26684,7 @@
       "country_code": "",
       "beam": "Spot3",
       "provider": "Digi TV",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -26694,7 +26694,7 @@
       "tid": 2,
       "source_channel_id": 100305,
       "source_transponder_id": 4048,
-      "updated": "2026-08-02",
+      "updated": "2026-09-25",
       "tp_id": "thor_1w:12723:H:27500"
     },
     {
@@ -26839,7 +26839,7 @@
       "country_code": "",
       "beam": "Spot3",
       "provider": "Digi TV",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -26849,7 +26849,7 @@
       "tid": 2,
       "source_channel_id": 150822,
       "source_transponder_id": 4048,
-      "updated": "2023-09-06",
+      "updated": "2026-09-25",
       "tp_id": "thor_1w:12723:H:27500"
     },
     {
