@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-25T08:34:44.147805+00:00",
+  "generated_utc": "2026-09-25T19:09:14.811515+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=19E",
@@ -5686,7 +5686,7 @@
       "tp_id": "astra_19_2:10936:V:22000"
     },
     {
-      "name": "LALIGA TV HIPERMOTION 10",
+      "name": "M+LCAMPEON 9",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -5704,16 +5704,16 @@
       "beam": "PE2",
       "provider": "Movistar+ Astra",
       "package": "Movistar+",
-      "encryption": "Mediaguard / Nagravision",
+      "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 173,
-      "audio": "",
+      "audio": "132 / spa",
       "nid": 1,
       "tid": 1064,
       "source_channel_id": 167664,
       "source_transponder_id": 1312,
-      "updated": "2026-07-24",
+      "updated": "2026-09-25",
       "tp_id": "astra_19_2:10936:V:22000"
     },
     {

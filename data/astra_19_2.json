@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-09-25T08:34:44.147805+00:00",
+  "guncelleme_tarihi": "2026-09-25T19:09:14.811515+00:00",
   "uydu_adi": "Astra 19.2°E",
   "toplam_kanal": 872,
   "toplam_tp": 88,
@@ -8134,24 +8134,6 @@
       "kapsama": "PE2"
     },
     {
-      "kanal_adi": "LALIGA TV HIPERMOTION 10",
-      "frekans": 10936,
-      "polarizasyon": "V",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "video_pid": "173",
-      "ses_pid": "",
-      "uydu": "Astra 1P",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "30764",
-      "paket": "Movistar+",
-      "tp_id": "astra_19_2:10936:V:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE2"
-    },
-    {
       "kanal_adi": "LALIGA TV HIPERMOTION 11",
       "frekans": 10936,
       "polarizasyon": "V",
@@ -9392,6 +9374,24 @@
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E",
       "kapsama": "PE1"
+    },
+    {
+      "kanal_adi": "M+LCAMPEON 9",
+      "frekans": 10936,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "173",
+      "ses_pid": "132 / spa",
+      "uydu": "Astra 1P",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30764",
+      "paket": "Movistar+",
+      "tp_id": "astra_19_2:10936:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
     },
     {
       "kanal_adi": "M+LCAMPEON2",

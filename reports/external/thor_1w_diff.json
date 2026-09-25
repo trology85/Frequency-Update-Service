@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-25T08:35:33.696422+00:00",
+  "olusturma_zamani_utc": "2026-09-25T19:09:57.399620+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 823,
     "yeni_kanal": 823,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 6,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
@@ -19,76 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "thor_1w|thor_1w:11996:V:28000|sid:30407",
-      "kanal_adi": "Chefi .Ro",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Zu TV",
-          "yeni": "Chefi .Ro"
-        },
-        "kalite": {
-          "onceki": "Bilinmeyen",
-          "yeni": "SD"
-        },
-        "paket": {
-          "onceki": "Focus Sat / Digi TV",
-          "yeni": "Focus Sat"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12723:H:27500|sid:1003",
-      "kanal_adi": "Eurosport 1 Romania",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12723:H:27500|sid:1027",
-      "kanal_adi": "H!t Music Channel Romania",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12723:H:27500|sid:1028",
-      "kanal_adi": "Discovery Channel Romania",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12723:H:27500|sid:1029",
-      "kanal_adi": "TLC Romania",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12723:H:27500|sid:1580",
-      "kanal_adi": "Prima Sport 2",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

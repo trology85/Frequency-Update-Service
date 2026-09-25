@@ -1,7 +1,7 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-09-25T08:34:44.327451+00:00",
+  "olusturma_zamani_utc": "2026-09-25T19:09:15.025033+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
@@ -9,7 +9,7 @@
     "yeni_kanal": 862,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 3,
+    "degisen_kanal": 1,
     "tur_degisen_kanal": 0,
     "onceki_tp": 88,
     "yeni_tp": 88,
@@ -21,40 +21,16 @@
   "silinen_kanallar": [],
   "degisen_kanallar": [
     {
-      "anahtar": "astra_19_2|astra_19_2:10936:V:22000|sid:30763",
-      "kanal_adi": "M+ LCAMPEON 13",
+      "anahtar": "astra_19_2|astra_19_2:10936:V:22000|sid:30764",
+      "kanal_adi": "M+LCAMPEON 9",
       "degisiklikler": {
         "kanal_adi": {
-          "onceki": "LALIGA TV BAR 6",
-          "yeni": "M+ LCAMPEON 13"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:10936:V:22000|sid:30765",
-      "kanal_adi": "M+Balóncesto",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "M+ Deportes 7",
-          "yeni": "M+Balóncesto"
-        },
-        "ses_pid": {
-          "onceki": "110 / rus",
-          "yeni": "110 / spa"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:10979:V:22000|sid:30665",
-      "kanal_adi": "M+Balóncesto 5",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "M+DEPORTES 8",
-          "yeni": "M+Balóncesto 5"
+          "onceki": "LALIGA TV HIPERMOTION 10",
+          "yeni": "M+LCAMPEON 9"
         },
         "ses_pid": {
           "onceki": "",
-          "yeni": "92 / spa"
+          "yeni": "132 / spa"
         }
       }
     }
