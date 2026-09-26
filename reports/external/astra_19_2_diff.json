@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-09-25T19:09:15.025033+00:00",
+  "olusturma_zamani_utc": "2026-09-26T08:21:43.434037+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 862,
     "yeni_kanal": 862,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 1,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 88,
     "yeni_tp": 88,
@@ -19,22 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "astra_19_2|astra_19_2:10936:V:22000|sid:30764",
-      "kanal_adi": "M+LCAMPEON 9",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "LALIGA TV HIPERMOTION 10",
-          "yeni": "M+LCAMPEON 9"
-        },
-        "ses_pid": {
-          "onceki": "",
-          "yeni": "132 / spa"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
