@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-27T09:00:30.312551+00:00",
+  "olusturma_zamani_utc": "2026-09-27T18:56:17.292364+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 825,
     "yeni_kanal": 825,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 10,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
@@ -19,7 +19,108 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1007",
+      "kanal_adi": "E! Europe",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1009",
+      "kanal_adi": "Digi Sport 4",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1010",
+      "kanal_adi": "Digi Sport 2",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1017",
+      "kanal_adi": "Food Network",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1019",
+      "kanal_adi": "Kiss TV",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1020",
+      "kanal_adi": "HBO 3 Romania",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1022",
+      "kanal_adi": "Digi Sport 3",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1100",
+      "kanal_adi": "Cinemax",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV / Direct One",
+          "yeni": "DIGI RO / Direct One"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1110",
+      "kanal_adi": "Dá Vinci Learning",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:3370",
+      "kanal_adi": "Eurosport 2 Romania",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Digi TV",
+          "yeni": "DIGI RO"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

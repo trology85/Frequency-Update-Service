@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-26T08:22:24.845722+00:00",
+  "generated_utc": "2026-09-27T18:56:17.107841+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-09-26"
+    "last_updated": "2026-09-27"
   },
   "satellite": {
     "id": "thor_1w",
@@ -26002,7 +26002,7 @@
       "country_code": "",
       "beam": "Spot3",
       "provider": "Slovak Telekom",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -26012,7 +26012,7 @@
       "tid": 1,
       "source_channel_id": 148961,
       "source_transponder_id": 4045,
-      "updated": "2023-06-30",
+      "updated": "2026-09-27",
       "tp_id": "thor_1w:12687:H:27500"
     },
     {
@@ -26064,7 +26064,7 @@
       "country_code": "",
       "beam": "Spot3",
       "provider": "Slovak Telekom",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -26074,7 +26074,7 @@
       "tid": 1,
       "source_channel_id": 11722,
       "source_transponder_id": 4045,
-      "updated": "2026-07-27",
+      "updated": "2026-09-27",
       "tp_id": "thor_1w:12687:H:27500"
     },
     {
@@ -26095,7 +26095,7 @@
       "country_code": "",
       "beam": "Spot3",
       "provider": "Slovak Telekom",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -26105,7 +26105,7 @@
       "tid": 1,
       "source_channel_id": 11723,
       "source_transponder_id": 4045,
-      "updated": "2011-06-14",
+      "updated": "2026-09-27",
       "tp_id": "thor_1w:12687:H:27500"
     },
     {
@@ -26157,7 +26157,7 @@
       "country_code": "",
       "beam": "Spot3",
       "provider": "Slovak Telekom",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -26167,7 +26167,7 @@
       "tid": 1,
       "source_channel_id": 11726,
       "source_transponder_id": 4045,
-      "updated": "2026-07-27",
+      "updated": "2026-09-27",
       "tp_id": "thor_1w:12687:H:27500"
     },
     {
@@ -26188,7 +26188,7 @@
       "country_code": "",
       "beam": "Spot3",
       "provider": "Slovak Telekom",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -26198,7 +26198,7 @@
       "tid": 1,
       "source_channel_id": 11729,
       "source_transponder_id": 4045,
-      "updated": "2011-02-15",
+      "updated": "2026-09-27",
       "tp_id": "thor_1w:12687:H:27500"
     },
     {
@@ -26219,7 +26219,7 @@
       "country_code": "",
       "beam": "Spot3",
       "provider": "Slovak Telekom",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -26229,7 +26229,7 @@
       "tid": 1,
       "source_channel_id": 95720,
       "source_transponder_id": 4045,
-      "updated": "2016-03-21",
+      "updated": "2026-09-27",
       "tp_id": "thor_1w:12687:H:27500"
     },
     {
@@ -26250,7 +26250,7 @@
       "country_code": "",
       "beam": "Spot3",
       "provider": "Slovak Telekom",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -26260,7 +26260,7 @@
       "tid": 1,
       "source_channel_id": 168939,
       "source_transponder_id": 4045,
-      "updated": "2026-07-27",
+      "updated": "2026-09-27",
       "tp_id": "thor_1w:12687:H:27500"
     },
     {
@@ -26281,7 +26281,7 @@
       "country_code": "",
       "beam": "Spot3",
       "provider": "Slovak Telekom",
-      "package": "Digi TV / Direct One",
+      "package": "DIGI RO / Direct One",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -26291,7 +26291,7 @@
       "tid": 1,
       "source_channel_id": 168943,
       "source_transponder_id": 4045,
-      "updated": "2026-07-27",
+      "updated": "2026-09-27",
       "tp_id": "thor_1w:12687:H:27500"
     },
     {
@@ -26312,7 +26312,7 @@
       "country_code": "",
       "beam": "Spot3",
       "provider": "Slovak Telekom",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -26322,7 +26322,7 @@
       "tid": 1,
       "source_channel_id": 11728,
       "source_transponder_id": 4045,
-      "updated": "2026-07-27",
+      "updated": "2026-09-27",
       "tp_id": "thor_1w:12687:H:27500"
     },
     {
@@ -26374,7 +26374,7 @@
       "country_code": "",
       "beam": "Spot3",
       "provider": "Slovak Telekom",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -26384,7 +26384,7 @@
       "tid": 1,
       "source_channel_id": 11725,
       "source_transponder_id": 4045,
-      "updated": "2026-07-27",
+      "updated": "2026-09-27",
       "tp_id": "thor_1w:12687:H:27500"
     },
     {
