@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-27T18:56:17.292364+00:00",
+  "olusturma_zamani_utc": "2026-09-28T09:26:12.952322+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 825,
     "yeni_kanal": 825,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
-    "degisen_kanal": 10,
+    "eklenen_kanal": 1,
+    "silinen_kanal": 1,
+    "degisen_kanal": 9,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
@@ -17,12 +17,50 @@
     "silinen_tp": 0,
     "degisen_tp": 0
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Rádio Vibe",
+      "frekans": 12723,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "782 / rum",
+      "uydu": "Intelsat 10-02 + MEV2",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "2516",
+      "paket": "DIGI RO",
+      "tp_id": "thor_1w:12723:H:27500",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "Spot3"
+    }
+  ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "Romantic FM",
+      "frekans": 12723,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "4062 / rum",
+      "uydu": "Intelsat 10-02 + MEV2",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "3570",
+      "paket": "Digi TV",
+      "tp_id": "thor_1w:12723:H:27500",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "Spot3"
+    }
+  ],
   "degisen_kanallar": [
     {
-      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1007",
-      "kanal_adi": "E! Europe",
+      "anahtar": "thor_1w|thor_1w:11900:H:28000|sid:2530",
+      "kanal_adi": "Pro FM",
       "degisiklikler": {
         "paket": {
           "onceki": "Digi TV",
@@ -31,8 +69,8 @@
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1009",
-      "kanal_adi": "Digi Sport 4",
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1001",
+      "kanal_adi": "TVR 1",
       "degisiklikler": {
         "paket": {
           "onceki": "Digi TV",
@@ -41,8 +79,8 @@
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1010",
-      "kanal_adi": "Digi Sport 2",
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1006",
+      "kanal_adi": "Prima TV",
       "degisiklikler": {
         "paket": {
           "onceki": "Digi TV",
@@ -51,8 +89,8 @@
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1017",
-      "kanal_adi": "Food Network",
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1008",
+      "kanal_adi": "Mezzo",
       "degisiklikler": {
         "paket": {
           "onceki": "Digi TV",
@@ -61,8 +99,8 @@
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1019",
-      "kanal_adi": "Kiss TV",
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1011",
+      "kanal_adi": "U TV",
       "degisiklikler": {
         "paket": {
           "onceki": "Digi TV",
@@ -71,8 +109,8 @@
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1020",
-      "kanal_adi": "HBO 3 Romania",
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:2680",
+      "kanal_adi": "Mária Rádió Hungary",
       "degisiklikler": {
         "paket": {
           "onceki": "Digi TV",
@@ -81,8 +119,8 @@
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1022",
-      "kanal_adi": "Digi Sport 3",
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:3480",
+      "kanal_adi": "Rádio Ga Ga",
       "degisiklikler": {
         "paket": {
           "onceki": "Digi TV",
@@ -91,19 +129,13 @@
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1100",
-      "kanal_adi": "Cinemax",
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:3670",
+      "kanal_adi": "Radio Maria Romania",
       "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV / Direct One",
-          "yeni": "DIGI RO / Direct One"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1110",
-      "kanal_adi": "Dá Vinci Learning",
-      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4073 / hin",
+          "yeni": "4073 / rum"
+        },
         "paket": {
           "onceki": "Digi TV",
           "yeni": "DIGI RO"
@@ -111,12 +143,16 @@
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:3370",
-      "kanal_adi": "Eurosport 2 Romania",
+      "anahtar": "thor_1w|thor_1w:12723:H:27500|sid:2530",
+      "kanal_adi": "2530",
       "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
+        "kanal_adi": {
+          "onceki": "Pro FM",
+          "yeni": "2530"
+        },
+        "ses_pid": {
+          "onceki": "762 / rum",
+          "yeni": ""
         }
       }
     }
