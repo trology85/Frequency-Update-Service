@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-28T09:26:12.784924+00:00",
+  "generated_utc": "2026-09-29T09:32:15.082150+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-09-28"
+    "last_updated": "2026-09-29"
   },
   "satellite": {
     "id": "thor_1w",
@@ -11432,7 +11432,7 @@
       "country_code": "",
       "beam": "T2",
       "provider": "Digi TV",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -11442,7 +11442,7 @@
       "tid": 7,
       "source_channel_id": 149683,
       "source_transponder_id": 7117,
-      "updated": "2023-08-09",
+      "updated": "2026-09-29",
       "tp_id": "thor_1w:11862:H:28000"
     },
     {
@@ -11463,17 +11463,17 @@
       "country_code": "",
       "beam": "T2",
       "provider": "Digi TV",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 513,
-      "audio": "663 / rum",
+      "audio": "663 / rum / 664 / hun",
       "nid": 1,
       "tid": 7,
       "source_channel_id": 113248,
       "source_transponder_id": 7117,
-      "updated": "2018-06-19",
+      "updated": "2026-09-29",
       "tp_id": "thor_1w:11862:H:28000"
     },
     {
@@ -11494,7 +11494,7 @@
       "country_code": "",
       "beam": "T2",
       "provider": "Digi TV",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -11504,7 +11504,7 @@
       "tid": 7,
       "source_channel_id": 113247,
       "source_transponder_id": 7117,
-      "updated": "2018-06-19",
+      "updated": "2026-09-29",
       "tp_id": "thor_1w:11862:H:28000"
     },
     {
@@ -11618,7 +11618,7 @@
       "country_code": "",
       "beam": "T2",
       "provider": "Digi TV",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Conax / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -11628,7 +11628,7 @@
       "tid": 7,
       "source_channel_id": 149685,
       "source_transponder_id": 7117,
-      "updated": "2023-08-09",
+      "updated": "2026-09-29",
       "tp_id": "thor_1w:11862:H:28000"
     },
     {
@@ -11649,7 +11649,7 @@
       "country_code": "",
       "beam": "T2",
       "provider": "Digi TV",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Conax / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -11659,7 +11659,7 @@
       "tid": 7,
       "source_channel_id": 149686,
       "source_transponder_id": 7117,
-      "updated": "2023-08-09",
+      "updated": "2026-09-29",
       "tp_id": "thor_1w:11862:H:28000"
     },
     {
@@ -11680,7 +11680,7 @@
       "country_code": "",
       "beam": "T2",
       "provider": "Digi TV",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Conax / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -11690,7 +11690,7 @@
       "tid": 7,
       "source_channel_id": 149687,
       "source_transponder_id": 7117,
-      "updated": "2023-08-09",
+      "updated": "2026-09-29",
       "tp_id": "thor_1w:11862:H:28000"
     },
     {
@@ -11804,17 +11804,17 @@
       "country_code": "",
       "beam": "T2",
       "provider": "Digi TV",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 544,
-      "audio": "694 / eng",
+      "audio": "694 / rum",
       "nid": 1,
       "tid": 7,
       "source_channel_id": 116023,
       "source_transponder_id": 7117,
-      "updated": "2018-11-23",
+      "updated": "2026-09-29",
       "tp_id": "thor_1w:11862:H:28000"
     },
     {
@@ -11897,7 +11897,7 @@
       "country_code": "",
       "beam": "T2",
       "provider": "Digi TV",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -11907,7 +11907,7 @@
       "tid": 7,
       "source_channel_id": 113238,
       "source_transponder_id": 7117,
-      "updated": "2018-06-19",
+      "updated": "2026-09-29",
       "tp_id": "thor_1w:11862:H:28000"
     },
     {
@@ -11928,17 +11928,17 @@
       "country_code": "",
       "beam": "T2",
       "provider": "Digi TV",
-      "package": "Digi TV",
+      "package": "DIGI RO",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 1001,
-      "audio": "2006 / eng / 2010 / eng",
+      "audio": "2006 / rum / 2010 / hun",
       "nid": 1,
       "tid": 7,
       "source_channel_id": 113252,
       "source_transponder_id": 7117,
-      "updated": "2018-06-19",
+      "updated": "2026-09-29",
       "tp_id": "thor_1w:11862:H:28000"
     },
     {
