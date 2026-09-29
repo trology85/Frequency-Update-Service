@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-29T09:32:05.072457+00:00",
+  "run_utc": "2026-09-29T19:49:24.098815+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -12,8 +12,8 @@
       "errors": [],
       "pages": 2,
       "transponders": 63,
-      "channels": 766,
-      "raw_channel_rows": 766,
+      "channels": 769,
+      "raw_channel_rows": 769,
       "raw_file": "raw/satbeams/astra_28_2.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-29T09:32:06.702006+00:00",
+  "run_utc": "2026-09-29T19:49:25.695952+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-28.2E",
       "title": "Astra 2E / Astra 2F / Astra 2G (28.2°E) -  - Frekanslar - KingOfSat",
-      "bytes": 759338,
+      "bytes": 760137,
       "frequency_rows": 156,
-      "channel_rows": 596,
-      "advertised_records": 703,
+      "channel_rows": 598,
+      "advertised_records": 705,
       "block_markers": [],
       "raw_file": "raw/kingofsat/astra_28_2.html",
       "errors": []
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-29T09:32:08.699308+00:00",
+  "generated_utc": "2026-09-29T19:49:27.685197+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 524,
       "tv": 473,
       "radio": 51,
-      "source_updated": "2026-09-28"
+      "source_updated": "2026-09-29"
     }
   ]
 }
@@ -68,10 +68,10 @@
       "id": "astra_28_2",
       "ok": true,
       "transponders": 63,
-      "channels": 766,
-      "tv": 765,
+      "channels": 769,
+      "tv": 768,
       "radio": 1,
-      "sd": 544,
+      "sd": 547,
       "hd": 218,
       "uhd_4k": 0,
       "unknown_quality": 3,
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-29T09:32:09.511445+00:00",
+  "run_utc": "2026-09-29T19:49:28.788963+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -114,23 +114,23 @@
       "errors": [],
       "warnings": [],
       "transponders": 63,
-      "channels": 766,
-      "tv": 765,
+      "channels": 769,
+      "tv": 768,
       "radio": 1,
-      "sd": 544,
+      "sd": 547,
       "hd": 218,
       "uhd_4k": 0,
       "unknown_quality": 3,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "c8e887d1209d62dd6a49e31049e8c3f9029411e46d46c964283f132e86197c14",
+      "candidate_hash": "942022cdaeff0591996a8271e48ff723b8aa7bb67e23e0721b59c081db0a9244",
       "current_hash": "c8e887d1209d62dd6a49e31049e8c3f9029411e46d46c964283f132e86197c14",
-      "changed": false,
-      "added": 0,
-      "removed": 0,
+      "changed": true,
+      "added": 4,
+      "removed": 1,
       "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true

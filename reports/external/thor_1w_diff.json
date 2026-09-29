@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-29T09:32:15.219974+00:00",
+  "olusturma_zamani_utc": "2026-09-29T19:49:34.872179+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 825,
     "yeni_kanal": 825,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 9,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
@@ -19,110 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "thor_1w|thor_1w:11862:H:28000|sid:1004",
-      "kanal_adi": "B1 TV",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11862:H:28000|sid:1013",
-      "kanal_adi": "Digi Sport 1 Romania",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "663 / rum",
-          "yeni": "663 / rum / 664 / hun"
-        },
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11862:H:28000|sid:1014",
-      "kanal_adi": "Digi 24",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11862:H:28000|sid:1410",
-      "kanal_adi": "Acasă TV",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11862:H:28000|sid:1420",
-      "kanal_adi": "Acasa Gold",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11862:H:28000|sid:1440",
-      "kanal_adi": "Cartoon Network Central Europe",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11862:H:28000|sid:2951",
-      "kanal_adi": "Diva",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "694 / eng",
-          "yeni": "694 / rum"
-        },
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11862:H:28000|sid:6000",
-      "kanal_adi": "Film Now Romania",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11862:H:28000|sid:6010",
-      "kanal_adi": "Digi Animal World",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2006 / eng / 2010 / eng",
-          "yeni": "2006 / rum / 2010 / hun"
-        },
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-09-16T18:42:40.575613+00:00",
+  "guncelleme_tarihi": "2026-09-29T19:49:28.674372+00:00",
   "uydu_adi": "Astra 2E/2F/2G 28.2°E",
-  "toplam_kanal": 766,
+  "toplam_kanal": 769,
   "toplam_tp": 63,
   "transponderler": [
     {
@@ -839,8 +839,8 @@
       "fec": "None",
       "uydu": "Astra 2F",
       "kapsama": "WAfrica",
-      "kanal_sayisi": 28,
-      "tv_sayisi": 28,
+      "kanal_sayisi": 31,
+      "tv_sayisi": 31,
       "radyo_sayisi": 0,
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E"
@@ -1140,24 +1140,6 @@
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E",
       "kapsama": "Europe"
-    },
-    {
-      "kanal_adi": "ABC News GH",
-      "frekans": 12525,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "1322",
-      "ses_pid": "1323 / eng",
-      "uydu": "Astra 2F",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "132",
-      "paket": "Sky UK",
-      "tp_id": "astra_28_2:12525:V:30000",
-      "konum_id": "astra_28_2",
-      "konum_adi": "Astra 2E/2F/2G 28.2°E",
-      "kapsama": "WAfrica"
     },
     {
       "kanal_adi": "Abinadab TV",
@@ -1626,6 +1608,24 @@
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E",
       "kapsama": "Europe"
+    },
+    {
+      "kanal_adi": "Armstrong Star TV",
+      "frekans": 12605,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "None",
+      "video_pid": "1247",
+      "ses_pid": "1248 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55731",
+      "paket": "SES",
+      "tp_id": "astra_28_2:12605:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
     },
     {
       "kanal_adi": "ARY Digital UK",
@@ -5066,6 +5066,24 @@
       "kapsama": "WAfrica"
     },
     {
+      "kanal_adi": "Givers TV+",
+      "frekans": 12605,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "None",
+      "video_pid": "1279",
+      "ses_pid": "1280 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55732",
+      "paket": "SES",
+      "tp_id": "astra_28_2:12605:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
+    },
+    {
       "kanal_adi": "GL TV (Ghana Learning TV)",
       "frekans": 12645,
       "polarizasyon": "V",
@@ -7082,6 +7100,24 @@
       "kapsama": "WAfrica"
     },
     {
+      "kanal_adi": "Kessben Plus",
+      "frekans": 12525,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "1322",
+      "ses_pid": "1323 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "132",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:12525:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
+    },
+    {
       "kanal_adi": "Kessben TV",
       "frekans": 12525,
       "polarizasyon": "V",
@@ -7332,6 +7368,24 @@
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E",
       "kapsama": "Spot"
+    },
+    {
+      "kanal_adi": "Legend TV",
+      "frekans": 12605,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "None",
+      "video_pid": "1215",
+      "ses_pid": "1216 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55730",
+      "paket": "SES",
+      "tp_id": "astra_28_2:12605:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
     },
     {
       "kanal_adi": "Legend UK",

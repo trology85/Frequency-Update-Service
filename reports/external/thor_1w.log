@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-29T09:32:09.609943+00:00",
+  "run_utc": "2026-09-29T19:49:28.960377+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-29T09:32:11.354173+00:00",
+  "run_utc": "2026-09-29T19:49:30.466282+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-0.8W",
       "title": "Intelsat 10-02 / Thor 5 / Thor 6 / Thor 7 (0.8°W) -  - Frekanslar - KingOfSat",
-      "bytes": 1145948,
+      "bytes": 1150870,
       "frequency_rows": 154,
-      "channel_rows": 1033,
-      "advertised_records": 1125,
+      "channel_rows": 1040,
+      "advertised_records": 1132,
       "block_markers": [],
       "raw_file": "raw/kingofsat/thor_1w.html",
       "errors": []
@@ -45,16 +45,16 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-29T09:32:13.887140+00:00",
+  "generated_utc": "2026-09-29T19:49:33.067458+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
       "id": "thor_1w",
       "transponders": 61,
-      "channels": 810,
-      "tv": 706,
+      "channels": 808,
+      "tv": 704,
       "radio": 104,
-      "source_updated": "2026-09-26"
+      "source_updated": "2026-09-29"
     }
   ]
 }
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-29T09:32:15.183841+00:00",
+  "run_utc": "2026-09-29T19:49:34.819980+00:00",
   "ok": true,
-  "should_publish": true,
+  "should_publish": false,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -125,12 +125,12 @@
       "missing_core_fields": 0,
       "duplicate_identities": 0,
       "candidate_hash": "d430f3dbc9e7bc89c4c5c3f872ab98b8052e2e00acd8ff20295b5830e2fa0fc4",
-      "current_hash": "8c14368d46db614b9969f587df5d86cc3be32ca8081a60d0f7c3b72c31dbf66a",
-      "changed": true,
+      "current_hash": "d430f3dbc9e7bc89c4c5c3f872ab98b8052e2e00acd8ff20295b5830e2fa0fc4",
+      "changed": false,
       "added": 0,
       "removed": 0,
-      "updated": 9
+      "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=true
+SHOULD_PUBLISH=false
