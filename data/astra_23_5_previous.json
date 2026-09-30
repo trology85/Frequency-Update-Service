@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-09-23T08:20:17.685468+00:00",
+  "guncelleme_tarihi": "2026-09-23T18:53:33.997851+00:00",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "toplam_kanal": 638,
+  "toplam_kanal": 641,
   "toplam_tp": 33,
   "transponderler": [
     {
@@ -195,8 +195,8 @@
       "fec": "2/3",
       "uydu": "Astra 3B",
       "kapsama": "PanEuropean",
-      "kanal_sayisi": 29,
-      "tv_sayisi": 25,
+      "kanal_sayisi": 32,
+      "tv_sayisi": 28,
       "radyo_sayisi": 4,
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E"
@@ -9794,6 +9794,24 @@
       "kapsama": "PanEuropean"
     },
     {
+      "kanal_adi": "Slager TV",
+      "frekans": 12129,
+      "polarizasyon": "V",
+      "sembol_orani": 29900,
+      "fec": "2/3",
+      "video_pid": "537",
+      "ses_pid": "137 / hun",
+      "uydu": "Astra 3B",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "21237",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12129:V:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
       "kanal_adi": "Slam!",
       "frekans": 12187,
       "polarizasyon": "H",
@@ -11324,6 +11342,24 @@
       "kapsama": "European"
     },
     {
+      "kanal_adi": "TV8",
+      "frekans": 12129,
+      "polarizasyon": "V",
+      "sembol_orani": 29900,
+      "fec": "2/3",
+      "video_pid": "572",
+      "ses_pid": "173 / slo",
+      "uydu": "Astra 3B",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "21272",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12129:V:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
       "kanal_adi": "TV8 (Televízia Osem)",
       "frekans": 12110,
       "polarizasyon": "H",
@@ -11823,6 +11859,24 @@
       "sid": "7030",
       "paket": "TV Vlaanderen Digitaal / TéléSAT (Telesat)",
       "tp_id": "astra_23_5:11856:V:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "VTM XMAS",
+      "frekans": 12129,
+      "polarizasyon": "V",
+      "sembol_orani": 29900,
+      "fec": "2/3",
+      "video_pid": "556",
+      "ses_pid": "126 / dut",
+      "uydu": "Astra 3B",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "21116",
+      "paket": "TV Vlaanderen Digitaal / Austriasat",
+      "tp_id": "astra_23_5:12129:V:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "PanEuropean"

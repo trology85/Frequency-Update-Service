@@ -1,106 +1,26 @@
 {
   "uydu_id": "astra_28_2",
   "uydu_adi": "Astra 2E/2F/2G 28.2°E",
-  "olusturma_zamani_utc": "2026-09-29T19:49:28.831771+00:00",
+  "olusturma_zamani_utc": "2026-09-30T09:23:37.647768+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 746,
+    "onceki_kanal": 749,
     "yeni_kanal": 749,
-    "eklenen_kanal": 3,
+    "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 1,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 62,
     "yeni_tp": 62,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "Legend TV",
-      "frekans": 12605,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "None",
-      "video_pid": "1215",
-      "ses_pid": "1216 / eng",
-      "uydu": "Astra 2F",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "55730",
-      "paket": "SES",
-      "tp_id": "astra_28_2:12605:V:30000",
-      "konum_id": "astra_28_2",
-      "konum_adi": "Astra 2E/2F/2G 28.2°E",
-      "kapsama": "WAfrica"
-    },
-    {
-      "kanal_adi": "Armstrong Star TV",
-      "frekans": 12605,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "None",
-      "video_pid": "1247",
-      "ses_pid": "1248 / eng",
-      "uydu": "Astra 2F",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "55731",
-      "paket": "SES",
-      "tp_id": "astra_28_2:12605:V:30000",
-      "konum_id": "astra_28_2",
-      "konum_adi": "Astra 2E/2F/2G 28.2°E",
-      "kapsama": "WAfrica"
-    },
-    {
-      "kanal_adi": "Givers TV+",
-      "frekans": 12605,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "None",
-      "video_pid": "1279",
-      "ses_pid": "1280 / eng",
-      "uydu": "Astra 2F",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "55732",
-      "paket": "SES",
-      "tp_id": "astra_28_2:12605:V:30000",
-      "konum_id": "astra_28_2",
-      "konum_adi": "Astra 2E/2F/2G 28.2°E",
-      "kapsama": "WAfrica"
-    }
-  ],
+  "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "astra_28_2|astra_28_2:12525:V:30000|sid:132",
-      "kanal_adi": "Kessben Plus",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "ABC News GH",
-          "yeni": "Kessben Plus"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "astra_28_2:12605:V:30000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 28,
-          "yeni": 31
-        },
-        "tv_sayisi": {
-          "onceki": 28,
-          "yeni": 31
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }

@@ -1,13 +1,13 @@
 {
   "uydu_id": "hotbird_13",
   "uydu_adi": "Hot Bird 13.0°E",
-  "olusturma_zamani_utc": "2026-09-29T19:49:06.830001+00:00",
+  "olusturma_zamani_utc": "2026-09-30T09:23:13.016060+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 1016,
+    "onceki_kanal": 1020,
     "yeni_kanal": 1020,
-    "eklenen_kanal": 4,
+    "eklenen_kanal": 0,
     "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
@@ -15,99 +15,12 @@
     "yeni_tp": 82,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "Home TV (Poland)",
-      "frekans": 10796,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "372",
-      "ses_pid": "428 / pol",
-      "uydu": "Eutelsat Hot Bird 13G",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "15733",
-      "paket": "Platforma Canal+",
-      "tp_id": "hotbird_13:10796:V:27500",
-      "konum_id": "hotbird_13",
-      "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
-    },
-    {
-      "kanal_adi": "Nuta Gold",
-      "frekans": 10796,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "373",
-      "ses_pid": "432 / pol",
-      "uydu": "Eutelsat Hot Bird 13G",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "15734",
-      "paket": "Platforma Canal+",
-      "tp_id": "hotbird_13:10796:V:27500",
-      "konum_id": "hotbird_13",
-      "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
-    },
-    {
-      "kanal_adi": "Nuta TV",
-      "frekans": 10796,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "374",
-      "ses_pid": "436 / pol",
-      "uydu": "Eutelsat Hot Bird 13G",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "15735",
-      "paket": "Platforma Canal+",
-      "tp_id": "hotbird_13:10796:V:27500",
-      "konum_id": "hotbird_13",
-      "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
-    },
-    {
-      "kanal_adi": "Power TV (Poland)",
-      "frekans": 10796,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "375",
-      "ses_pid": "440 / pol",
-      "uydu": "Eutelsat Hot Bird 13G",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "15736",
-      "paket": "Platforma Canal+",
-      "tp_id": "hotbird_13:10796:V:27500",
-      "konum_id": "hotbird_13",
-      "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
-    }
-  ],
+  "eklenen_kanallar": [],
   "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "hotbird_13:10796:V:27500",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 16,
-          "yeni": 20
-        },
-        "tv_sayisi": {
-          "onceki": 16,
-          "yeni": 20
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }

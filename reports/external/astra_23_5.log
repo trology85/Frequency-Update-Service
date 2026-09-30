@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-09-29T19:49:19.719739+00:00",
+  "run_utc": "2026-09-30T09:23:27.247654+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-09-29T19:49:21.131087+00:00",
+  "run_utc": "2026-09-30T09:23:28.781766+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-23.5E",
       "title": "Astra 3B / Astra 3C (23.5°E) -  - Frekanslar - KingOfSat",
-      "bytes": 709199,
+      "bytes": 708250,
       "frequency_rows": 84,
-      "channel_rows": 659,
-      "advertised_records": 718,
+      "channel_rows": 658,
+      "advertised_records": 717,
       "block_markers": [],
       "raw_file": "raw/kingofsat/astra_23_5.html",
       "errors": []
@@ -45,16 +45,16 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-09-29T19:49:22.964409+00:00",
+  "generated_utc": "2026-09-30T09:23:31.011108+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
       "id": "astra_23_5",
       "transponders": 24,
-      "channels": 604,
-      "tv": 500,
+      "channels": 603,
+      "tv": 499,
       "radio": 104,
-      "source_updated": "2026-09-21"
+      "source_updated": "2026-09-30"
     }
   ]
 }
@@ -71,10 +71,10 @@
       "channels": 641,
       "tv": 532,
       "radio": 109,
-      "sd": 359,
+      "sd": 358,
       "hd": 157,
       "uhd_4k": 0,
-      "unknown_quality": 16,
+      "unknown_quality": 17,
       "candidate": "candidate/satbeams/astra_23_5.json"
     }
   ]
@@ -86,7 +86,7 @@
   "satellites": [
     {
       "id": "astra_23_5",
-      "unknown_before": 16,
+      "unknown_before": 17,
       "filled": 8,
       "filled_sd": 0,
       "filled_hd": 8,
@@ -94,8 +94,8 @@
       "filled_3d": 0,
       "ambiguous": 0,
       "name_mismatch": 3,
-      "not_found": 5,
-      "unknown_after": 8,
+      "not_found": 6,
+      "unknown_after": 9,
       "ok": true
     }
   ]
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-09-29T19:49:23.954523+00:00",
+  "run_utc": "2026-09-30T09:23:32.262890+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -117,20 +117,20 @@
       "channels": 641,
       "tv": 532,
       "radio": 109,
-      "sd": 359,
+      "sd": 358,
       "hd": 165,
       "uhd_4k": 0,
-      "unknown_quality": 8,
+      "unknown_quality": 9,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "5aaae1145920b1f8b0687b8f43888848998a35bc8f278e5e5f095a1e2fc63027",
+      "candidate_hash": "c173bdcbf59da85f9a0ae2119dd70d2aa06e9ff13124937adf63a2bec3de51dd",
       "current_hash": "5aaae1145920b1f8b0687b8f43888848998a35bc8f278e5e5f095a1e2fc63027",
-      "changed": false,
+      "changed": true,
       "added": 0,
       "removed": 0,
-      "updated": 0
+      "updated": 1
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true

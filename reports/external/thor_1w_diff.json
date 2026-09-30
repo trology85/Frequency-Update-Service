@@ -1,26 +1,148 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-29T19:49:34.872179+00:00",
+  "olusturma_zamani_utc": "2026-09-30T09:23:44.959201+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 825,
-    "yeni_kanal": 825,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 829,
+    "eklenen_kanal": 4,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 3,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Priváte TV",
+      "frekans": 12265,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "501",
+      "ses_pid": "512 / eng",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30928",
+      "paket": "Direct One",
+      "tp_id": "thor_1w:12265:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "FEM3 (SVT)",
+      "frekans": 12265,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "351",
+      "ses_pid": "360 / hun",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30937",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:12265:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "Super TV2 (SVT)",
+      "frekans": 12265,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "401",
+      "ses_pid": "410 / hun",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30939",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:12265:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "Cool TV",
+      "frekans": 12265,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "2601",
+      "ses_pid": "2610 / hun",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30941",
+      "paket": "freeSAT",
+      "tp_id": "thor_1w:12265:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:12265:V:28000|sid:30902",
+      "kanal_adi": "Moziklub",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Focus Sat / Direct One",
+          "yeni": "Focus Sat / Slovak Telekom / Direct One"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12265:V:28000|sid:30909",
+      "kanal_adi": "Priváte TV",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Focus Sat / Direct One",
+          "yeni": "Focus Sat / Slovak Telekom"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12265:V:28000|sid:30942",
+      "kanal_adi": "Cool TV (SVT )",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Cool TV Hungary",
+          "yeni": "Cool TV (SVT )"
+        },
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "Slovak Telekom"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "thor_1w:12265:V:28000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 22,
+          "yeni": 26
+        },
+        "tv_sayisi": {
+          "onceki": 22,
+          "yeni": 26
+        }
+      }
+    }
+  ]
 }
