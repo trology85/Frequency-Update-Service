@@ -1,26 +1,284 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-09-30T19:53:06.951991+00:00",
+  "olusturma_zamani_utc": "2026-10-01T09:50:31.140778+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 829,
-    "yeni_kanal": 829,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
+    "yeni_kanal": 837,
+    "eklenen_kanal": 10,
+    "silinen_kanal": 2,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 3
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Canál+Šport HD SK",
+      "frekans": 11747,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1502",
+      "ses_pid": "1503 / cze",
+      "uydu": "Thor 6",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7015",
+      "paket": "Magenta TV Sat / Slovak Telekom",
+      "tp_id": "thor_1w:11747:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "Očko",
+      "frekans": 11747,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "2902",
+      "ses_pid": "2903 / cze",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "7029",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:11747:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "Prima Cool SK",
+      "frekans": 11747,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "3002",
+      "ses_pid": "3003 / cze",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "7030",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:11747:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "Auto Motor Šport",
+      "frekans": 11977,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "2602",
+      "ses_pid": "2603 / cze / 2604 / hun",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "2026",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:11977:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "CNN International",
+      "frekans": 11977,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "2702",
+      "ses_pid": "2703 / eng",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "2027",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:11977:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "CS Film/CS Horror",
+      "frekans": 11977,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "2802",
+      "ses_pid": "2803 / cze",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "2028",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:11977:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "FILMBOX+ Comedy",
+      "frekans": 12380,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "2702",
+      "ses_pid": "2703 / ces",
+      "uydu": "Thor 6",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "6027",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:12380:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "Lála TV",
+      "frekans": 12380,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "2902",
+      "ses_pid": "2903 / slo / 2904 / cze",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "6029",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:12380:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "Nova Šport 6",
+      "frekans": 12380,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "3202",
+      "ses_pid": "3203 / ces",
+      "uydu": "Thor 6",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "6032",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:12380:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "Canál+ Action HD",
+      "frekans": 12456,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "3002",
+      "ses_pid": "3003 / ces",
+      "uydu": "Thor 6",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "9030",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:12456:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    }
+  ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "Dusk TV",
+      "frekans": 11747,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "2602",
+      "ses_pid": "2603 / eng",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "7026",
+      "paket": "Magenta TV Sat / Slovak Telekom",
+      "tp_id": "thor_1w:11747:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "9025",
+      "frekans": 12456,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "",
+      "uydu": "Thor 6",
+      "kalite": "Bilinmeyen",
+      "tur": "TV",
+      "sid": "9025",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:12456:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    }
+  ],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "thor_1w:11747:H:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 16,
+          "yeni": 18
+        },
+        "tv_sayisi": {
+          "onceki": 16,
+          "yeni": 18
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:11977:H:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 13,
+          "yeni": 16
+        },
+        "tv_sayisi": {
+          "onceki": 13,
+          "yeni": 16
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:12380:V:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 20,
+          "yeni": 23
+        },
+        "tv_sayisi": {
+          "onceki": 20,
+          "yeni": 23
+        }
+      }
+    }
+  ]
 }
