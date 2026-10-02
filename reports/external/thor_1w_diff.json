@@ -1,26 +1,126 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-10-02T09:27:03.209562+00:00",
+  "olusturma_zamani_utc": "2026-10-02T19:47:41.482023+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 837,
-    "yeni_kanal": 837,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 839,
+    "eklenen_kanal": 2,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 4,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Travelxp",
+      "frekans": 12456,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "2902",
+      "ses_pid": "2903 / cze / 2904 / eng",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "9029",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:12456:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "TV Barandov",
+      "frekans": 12456,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "3102",
+      "ses_pid": "3103 / ces",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "9031",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:12456:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31102",
+      "kanal_adi": "Cartoon Network Central & Eastern Europe",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "160 / hun / 162 / eng",
+          "yeni": "160 / hun / 161 / ces / 162 / eng"
+        },
+        "paket": {
+          "onceki": "Direct One",
+          "yeni": "Direct One / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31103",
+      "kanal_adi": "TV2 Séf",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Direct One",
+          "yeni": "Direct One / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31116",
+      "kanal_adi": "M5 (Magyar 5)",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Direct One",
+          "yeni": "Direct One / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31119",
+      "kanal_adi": "AXN Czechia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1210 / cze",
+          "yeni": "1210 / cze / 1211 / eng"
+        },
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "freeSAT"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "thor_1w:12456:V:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 18,
+          "yeni": 20
+        },
+        "tv_sayisi": {
+          "onceki": 18,
+          "yeni": 20
+        }
+      }
+    }
+  ]
 }

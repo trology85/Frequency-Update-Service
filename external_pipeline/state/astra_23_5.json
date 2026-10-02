@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-30T09:23:32.154309+00:00",
+  "generated_utc": "2026-10-02T19:47:26.506916+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=23E",
-    "last_updated": "2026-09-30"
+    "last_updated": "2026-10-02"
   },
   "satellite": {
     "id": "astra_23_5",
@@ -17,9 +17,9 @@
     "tv": 532,
     "radio": 109,
     "sd": 358,
-    "hd": 165,
+    "hd": 164,
     "uhd_4k": 0,
-    "unknown_quality": 9
+    "unknown_quality": 10
   },
   "transponders": [
     {
@@ -1617,9 +1617,9 @@
       "tp_id": "astra_23_5:11739:V:29900"
     },
     {
-      "name": "Mezzo",
+      "name": "6166",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Astra 3B/3C 23.5°E",
       "spacecraft": "Astra 3B",
       "position": "23.5E",
@@ -1634,17 +1634,17 @@
       "country_code": "",
       "beam": "PanEuropean",
       "provider": "M7 Group",
-      "package": "CanalDigitaal / TV Vlaanderen Digitaal / TéléSAT (Telesat)",
-      "encryption": "Conax / Irdeto / Nagravision / Viaccess 5.0",
-      "free_to_air": false,
-      "compression": "MPEG-4",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "",
       "vpid": 566,
-      "audio": "136 / fre",
+      "audio": "",
       "nid": 3,
       "tid": 3202,
       "source_channel_id": 130211,
       "source_transponder_id": 1256,
-      "updated": "2026-09-23",
+      "updated": "2026-10-02",
       "tp_id": "astra_23_5:11739:V:29900"
     },
     {
