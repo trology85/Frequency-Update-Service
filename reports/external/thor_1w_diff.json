@@ -1,152 +1,26 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-10-03T08:56:54.716555+00:00",
+  "olusturma_zamani_utc": "2026-10-03T18:34:59.540593+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 839,
+    "onceki_kanal": 841,
     "yeni_kanal": 841,
-    "eklenen_kanal": 2,
+    "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 7,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "Dizi Channel",
-      "frekans": 11919,
-      "polarizasyon": "V",
-      "sembol_orani": 28000,
-      "fec": "7/8",
-      "video_pid": "1901",
-      "ses_pid": "1911 / tur",
-      "uydu": "Thor 6",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "31114",
-      "paket": "Focus Sat",
-      "tp_id": "thor_1w:11919:V:28000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K2"
-    },
-    {
-      "kanal_adi": "Filmbox+ Love & Crime",
-      "frekans": 11919,
-      "polarizasyon": "V",
-      "sembol_orani": 28000,
-      "fec": "7/8",
-      "video_pid": "2451",
-      "ses_pid": "2460 / hun / 2470 / rum",
-      "uydu": "Thor 6",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "31143",
-      "paket": "Focus Sat / Direct One",
-      "tp_id": "thor_1w:11919:V:28000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K2"
-    }
-  ],
+  "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31103",
-      "kanal_adi": "TV2 Séf",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Direct One / freeSAT",
-          "yeni": "Focus Sat / Direct One / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31107",
-      "kanal_adi": "AMC Cesko",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31108",
-      "kanal_adi": "AXN Central Europe",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "SD"
-        },
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "Focus Sat"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31111",
-      "kanal_adi": "AXN White",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "Focus Sat"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31112",
-      "kanal_adi": "AXN Black",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "Focus Sat"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31113",
-      "kanal_adi": "TV4",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "Focus Sat / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31118",
-      "kanal_adi": "Zenebutik",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Direct One",
-          "yeni": "Focus Sat / Direct One"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "thor_1w:11919:V:28000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 21,
-          "yeni": 23
-        },
-        "tv_sayisi": {
-          "onceki": 21,
-          "yeni": 23
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }

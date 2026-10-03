@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-10-03T08:55:57.820820+00:00",
+  "run_utc": "2026-10-03T18:34:04.151880+00:00",
   "ok": true,
   "successful": 9,
   "failed": 0,
@@ -102,7 +102,7 @@
       "errors": [],
       "channels": 842,
       "transponders": 70,
-      "changed": true,
+      "changed": false,
       "diff": "reports/external/thor_1w_diff.json",
       "previous": "data/thor_1w_previous.json",
       "output": "data/thor_1w.json",
