@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-10-02T19:47:41.482023+00:00",
+  "olusturma_zamani_utc": "2026-10-03T08:56:54.716555+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
-    "onceki_kanal": 837,
-    "yeni_kanal": 839,
+    "onceki_kanal": 839,
+    "yeni_kanal": 841,
     "eklenen_kanal": 2,
     "silinen_kanal": 0,
-    "degisen_kanal": 4,
+    "degisen_kanal": 7,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
@@ -19,37 +19,37 @@
   },
   "eklenen_kanallar": [
     {
-      "kanal_adi": "Travelxp",
-      "frekans": 12456,
+      "kanal_adi": "Dizi Channel",
+      "frekans": 11919,
       "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "video_pid": "2902",
-      "ses_pid": "2903 / cze / 2904 / eng",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "1901",
+      "ses_pid": "1911 / tur",
       "uydu": "Thor 6",
       "kalite": "SD",
       "tur": "TV",
-      "sid": "9029",
-      "paket": "Slovak Telekom",
-      "tp_id": "thor_1w:12456:V:30000",
+      "sid": "31114",
+      "paket": "Focus Sat",
+      "tp_id": "thor_1w:11919:V:28000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "K2"
     },
     {
-      "kanal_adi": "TV Barandov",
-      "frekans": 12456,
+      "kanal_adi": "Filmbox+ Love & Crime",
+      "frekans": 11919,
       "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "video_pid": "3102",
-      "ses_pid": "3103 / ces",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "2451",
+      "ses_pid": "2460 / hun / 2470 / rum",
       "uydu": "Thor 6",
       "kalite": "SD",
       "tur": "TV",
-      "sid": "9031",
-      "paket": "Slovak Telekom",
-      "tp_id": "thor_1w:12456:V:30000",
+      "sid": "31143",
+      "paket": "Focus Sat / Direct One",
+      "tp_id": "thor_1w:11919:V:28000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "K2"
@@ -58,50 +58,76 @@
   "silinen_kanallar": [],
   "degisen_kanallar": [
     {
-      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31102",
-      "kanal_adi": "Cartoon Network Central & Eastern Europe",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "160 / hun / 162 / eng",
-          "yeni": "160 / hun / 161 / ces / 162 / eng"
-        },
-        "paket": {
-          "onceki": "Direct One",
-          "yeni": "Direct One / freeSAT"
-        }
-      }
-    },
-    {
       "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31103",
       "kanal_adi": "TV2 Séf",
       "degisiklikler": {
         "paket": {
-          "onceki": "Direct One",
-          "yeni": "Direct One / freeSAT"
+          "onceki": "Direct One / freeSAT",
+          "yeni": "Focus Sat / Direct One / freeSAT"
         }
       }
     },
     {
-      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31116",
-      "kanal_adi": "M5 (Magyar 5)",
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31107",
+      "kanal_adi": "AMC Cesko",
       "degisiklikler": {
-        "paket": {
-          "onceki": "Direct One",
-          "yeni": "Direct One / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31119",
-      "kanal_adi": "AXN Czechia",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "1210 / cze",
-          "yeni": "1210 / cze / 1211 / eng"
-        },
         "paket": {
           "onceki": "M7 Group",
           "yeni": "freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31108",
+      "kanal_adi": "AXN Central Europe",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "SD"
+        },
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "Focus Sat"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31111",
+      "kanal_adi": "AXN White",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "Focus Sat"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31112",
+      "kanal_adi": "AXN Black",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "Focus Sat"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31113",
+      "kanal_adi": "TV4",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "Focus Sat / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31118",
+      "kanal_adi": "Zenebutik",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Direct One",
+          "yeni": "Focus Sat / Direct One"
         }
       }
     }
@@ -110,15 +136,15 @@
   "silinen_transponderler": [],
   "degisen_transponderler": [
     {
-      "anahtar": "thor_1w:12456:V:30000",
+      "anahtar": "thor_1w:11919:V:28000",
       "degisiklikler": {
         "kanal_sayisi": {
-          "onceki": 18,
-          "yeni": 20
+          "onceki": 21,
+          "yeni": 23
         },
         "tv_sayisi": {
-          "onceki": 18,
-          "yeni": 20
+          "onceki": 21,
+          "yeni": 23
         }
       }
     }
