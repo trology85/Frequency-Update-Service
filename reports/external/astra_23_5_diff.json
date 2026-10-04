@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_23_5",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "olusturma_zamani_utc": "2026-10-04T09:24:38.551554+00:00",
+  "olusturma_zamani_utc": "2026-10-04T18:33:45.641650+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 635,
     "yeni_kanal": 635,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 8,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 33,
     "yeni_tp": 33,
@@ -19,88 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "astra_23_5|astra_23_5:11739:V:29900|sid:6080",
-      "kanal_adi": "NPO 2 HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:11739:V:29900|sid:6090",
-      "kanal_adi": "SBS 6 HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:11856:V:29900|sid:7020",
-      "kanal_adi": "RTL 4 HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:11856:V:29900|sid:7023",
-      "kanal_adi": "RTL 5 HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:11856:V:29900|sid:7027",
-      "kanal_adi": "RTL 7 HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:11856:V:29900|sid:7030",
-      "kanal_adi": "VTM HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:11856:V:29900|sid:7036",
-      "kanal_adi": "RTL 8 HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12012:V:29900|sid:15405",
-      "kanal_adi": "Film Europe HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

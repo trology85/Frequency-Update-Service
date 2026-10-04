@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-10-04T09:24:32.277028+00:00",
+  "run_utc": "2026-10-04T18:33:40.012750+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-10-04T09:24:34.289915+00:00",
+  "run_utc": "2026-10-04T18:33:41.711911+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-23.5E",
       "title": "Astra 3B / Astra 3C (23.5°E) -  - Frekanslar - KingOfSat",
-      "bytes": 849393,
+      "bytes": 849395,
       "frequency_rows": 84,
       "channel_rows": 657,
       "advertised_records": 716,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-10-04T09:24:37.233723+00:00",
+  "generated_utc": "2026-10-04T18:33:44.352161+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-10-04T09:24:38.510109+00:00",
+  "run_utc": "2026-10-04T18:33:45.601676+00:00",
   "ok": true,
-  "should_publish": true,
+  "should_publish": false,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -125,12 +125,12 @@
       "missing_core_fields": 0,
       "duplicate_identities": 0,
       "candidate_hash": "3a28734475e9c9fdec49aa49930be965bf74a931b25256c76b3890412bdfcd8a",
-      "current_hash": "c6d73dc95e129c59218638ba94f8c5f126acd70f8330d730886ac8164cbfa321",
-      "changed": true,
+      "current_hash": "3a28734475e9c9fdec49aa49930be965bf74a931b25256c76b3890412bdfcd8a",
+      "changed": false,
       "added": 0,
       "removed": 0,
-      "updated": 8
+      "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=true
+SHOULD_PUBLISH=false

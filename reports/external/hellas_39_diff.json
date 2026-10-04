@@ -1,15 +1,15 @@
 {
   "uydu_id": "hellas_39",
   "uydu_adi": "Hellas Sat 39.0°E",
-  "olusturma_zamani_utc": "2026-10-04T09:24:20.439938+00:00",
+  "olusturma_zamani_utc": "2026-10-04T18:33:29.191161+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 564,
     "yeni_kanal": 564,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 17,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 30,
     "yeni_tp": 30,
@@ -19,178 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "hellas_39|hellas_39:12251:V:30000|sid:604",
-      "kanal_adi": "Eurosport 1 HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12251:V:30000|sid:606",
-      "kanal_adi": "Motorvision HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12251:V:30000|sid:702",
-      "kanal_adi": "Antena Stars HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12251:V:30000|sid:704",
-      "kanal_adi": "Cinemaraton HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12251:V:30000|sid:705",
-      "kanal_adi": "Prima Sport 3 HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12290:V:30000|sid:514",
-      "kanal_adi": "Cinemax 2 HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12290:V:30000|sid:519",
-      "kanal_adi": "Prima Sport 2 HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12290:V:30000|sid:520",
-      "kanal_adi": "Prima Sport 1 HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12290:V:30000|sid:521",
-      "kanal_adi": "ACASA HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12290:V:30000|sid:522",
-      "kanal_adi": "PRO CINEMA HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12290:V:30000|sid:523",
-      "kanal_adi": "TVR Info HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12290:V:30000|sid:706",
-      "kanal_adi": "Prima Sport 4 HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12328:V:30000|sid:276",
-      "kanal_adi": "TVR 1 HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12328:V:30000|sid:277",
-      "kanal_adi": "PRO TV HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12328:V:30000|sid:278",
-      "kanal_adi": "Antena 1 HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12328:V:30000|sid:531",
-      "kanal_adi": "PRO ARENA HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12328:V:30000|sid:707",
-      "kanal_adi": "Prima TV HD",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "Bilinmeyen"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

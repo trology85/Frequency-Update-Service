@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-10-04T09:24:24.590342+00:00",
+  "run_utc": "2026-10-04T18:33:33.194332+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-10-04T09:24:26.472067+00:00",
+  "run_utc": "2026-10-04T18:33:34.865643+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-16E",
       "title": "Eutelsat 16D (16°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1122867,
-      "frequency_rows": 182,
-      "channel_rows": 848,
-      "advertised_records": 983,
+      "bytes": 1094557,
+      "frequency_rows": 183,
+      "channel_rows": 810,
+      "advertised_records": 948,
       "block_markers": [],
       "raw_file": "raw/kingofsat/eutelsat_16.html",
       "errors": []
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-10-04T09:24:30.397782+00:00",
+  "generated_utc": "2026-10-04T18:33:38.217631+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 0,
       "tv": 0,
       "radio": 0,
-      "source_updated": "2026-09-19"
+      "source_updated": "2026-10-04"
     }
   ]
 }
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-10-04T09:24:32.092089+00:00",
+  "run_utc": "2026-10-04T18:33:39.855168+00:00",
   "ok": true,
-  "should_publish": true,
+  "should_publish": false,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -125,12 +125,12 @@
       "missing_core_fields": 0,
       "duplicate_identities": 0,
       "candidate_hash": "1193127b7666952139afb6e895c22b9c26759258481f6df3e9f7a66503c2b978",
-      "current_hash": "8caabf53f8742977c2f555c2564c6dffbd26d3828b23d41bcd93e284358c65f8",
-      "changed": true,
+      "current_hash": "1193127b7666952139afb6e895c22b9c26759258481f6df3e9f7a66503c2b978",
+      "changed": false,
       "added": 0,
       "removed": 0,
-      "updated": 5
+      "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=true
+SHOULD_PUBLISH=false
