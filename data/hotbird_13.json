@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-09-29T19:49:06.616179+00:00",
+  "guncelleme_tarihi": "2026-10-04T09:24:13.698096+00:00",
   "uydu_adi": "Hot Bird 13.0°E",
   "toplam_kanal": 1132,
   "toplam_tp": 83,
@@ -19700,7 +19700,7 @@
       "video_pid": "177",
       "ses_pid": "150 / pol / 151 / pol",
       "uydu": "Eutelsat Hot Bird 13G",
-      "kalite": "HD",
+      "kalite": "Bilinmeyen",
       "tur": "TV",
       "sid": "15718",
       "paket": "Cyfrowy Polsat / Orange Polska / Platforma Canal+",

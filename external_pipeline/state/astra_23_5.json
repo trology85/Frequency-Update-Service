@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-02T19:47:26.506916+00:00",
+  "generated_utc": "2026-10-04T09:24:38.403966+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=23E",
@@ -17,9 +17,9 @@
     "tv": 532,
     "radio": 109,
     "sd": 358,
-    "hd": 164,
+    "hd": 156,
     "uhd_4k": 0,
-    "unknown_quality": 10
+    "unknown_quality": 18
   },
   "transponders": [
     {
@@ -937,7 +937,7 @@
     {
       "name": "NPO 2 HD",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Astra 3B/3C 23.5°E",
       "spacecraft": "Astra 3B",
       "position": "23.5E",
@@ -968,7 +968,7 @@
     {
       "name": "SBS 6 HD",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Astra 3B/3C 23.5°E",
       "spacecraft": "Astra 3B",
       "position": "23.5E",
@@ -1743,7 +1743,7 @@
     {
       "name": "RTL 4 HD",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Astra 3B/3C 23.5°E",
       "spacecraft": "Astra 3B",
       "position": "23.5E",
@@ -1774,7 +1774,7 @@
     {
       "name": "RTL 5 HD",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Astra 3B/3C 23.5°E",
       "spacecraft": "Astra 3B",
       "position": "23.5E",
@@ -1805,7 +1805,7 @@
     {
       "name": "RTL 7 HD",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Astra 3B/3C 23.5°E",
       "spacecraft": "Astra 3B",
       "position": "23.5E",
@@ -1836,7 +1836,7 @@
     {
       "name": "VTM HD",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Astra 3B/3C 23.5°E",
       "spacecraft": "Astra 3B",
       "position": "23.5E",
@@ -1867,7 +1867,7 @@
     {
       "name": "RTL 8 HD",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Astra 3B/3C 23.5°E",
       "spacecraft": "Astra 3B",
       "position": "23.5E",
@@ -4719,7 +4719,7 @@
     {
       "name": "Film Europe HD",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Astra 3B/3C 23.5°E",
       "spacecraft": "Astra 3B",
       "position": "23.5E",

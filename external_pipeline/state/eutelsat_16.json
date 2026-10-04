@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-08-27T13:11:30.428425+00:00",
+  "generated_utc": "2026-10-04T09:24:31.975527+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=16E",
@@ -17,9 +17,9 @@
     "tv": 760,
     "radio": 41,
     "sd": 528,
-    "hd": 223,
+    "hd": 218,
     "uhd_4k": 0,
-    "unknown_quality": 9
+    "unknown_quality": 14
   },
   "transponders": [
     {
@@ -20225,7 +20225,7 @@
     {
       "name": "History",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Eutelsat 16A 16.0°E",
       "spacecraft": "Eutelsat 16A",
       "position": "16.0E",
@@ -20318,7 +20318,7 @@
     {
       "name": "TravelXP HD",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Eutelsat 16A 16.0°E",
       "spacecraft": "Eutelsat 16A",
       "position": "16.0E",
@@ -20411,7 +20411,7 @@
     {
       "name": "History",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Eutelsat 16A 16.0°E",
       "spacecraft": "Eutelsat 16A",
       "position": "16.0E",
@@ -20938,7 +20938,7 @@
     {
       "name": "HRT 2",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Eutelsat 16A 16.0°E",
       "spacecraft": "Eutelsat 16A",
       "position": "16.0E",
@@ -20969,7 +20969,7 @@
     {
       "name": "HRT 3",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Eutelsat 16A 16.0°E",
       "spacecraft": "Eutelsat 16A",
       "position": "16.0E",

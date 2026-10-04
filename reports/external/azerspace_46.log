@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-10-03T18:34:30.105772+00:00",
+  "run_utc": "2026-10-04T09:24:20.566441+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-10-03T18:34:31.673329+00:00",
+  "run_utc": "2026-10-04T09:24:22.262836+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-46E",
       "title": "Azerspace-1 (46°E) -  - Frekanslar - KingOfSat",
-      "bytes": 241187,
+      "bytes": 283231,
       "frequency_rows": 69,
       "channel_rows": 171,
       "advertised_records": 209,
@@ -45,15 +45,15 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-10-03T18:34:33.138391+00:00",
+  "generated_utc": "2026-10-04T09:24:24.054721+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
       "id": "azerspace_46",
-      "transponders": 31,
-      "channels": 134,
-      "tv": 69,
-      "radio": 65,
+      "transponders": 0,
+      "channels": 0,
+      "tv": 0,
+      "radio": 0,
       "source_updated": "2026-09-27"
     }
   ]
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-10-03T18:34:33.564121+00:00",
+  "run_utc": "2026-10-04T09:24:24.465877+00:00",
   "ok": true,
   "should_publish": false,
   "source": "Satbeams API",

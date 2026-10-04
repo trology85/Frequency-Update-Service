@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-09-30T09:23:32.154309+00:00",
+  "guncelleme_tarihi": "2026-10-02T19:47:26.506916+00:00",
   "uydu_adi": "Astra 3B/3C 23.5°E",
   "toplam_kanal": 641,
   "toplam_tp": 33,
@@ -612,6 +612,24 @@
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "European"
+    },
+    {
+      "kanal_adi": "6166",
+      "frekans": 11739,
+      "polarizasyon": "V",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "566",
+      "ses_pid": "",
+      "uydu": "Astra 3B",
+      "kalite": "Bilinmeyen",
+      "tur": "TV",
+      "sid": "6166",
+      "paket": "M7 Group",
+      "tp_id": "astra_23_5:11739:V:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "Adria TV",
@@ -6243,24 +6261,6 @@
       "sid": "20949",
       "paket": "M7 Group",
       "tp_id": "astra_23_5:12129:V:29900",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "PanEuropean"
-    },
-    {
-      "kanal_adi": "Mezzo",
-      "frekans": 11739,
-      "polarizasyon": "V",
-      "sembol_orani": 29900,
-      "fec": "3/4",
-      "video_pid": "566",
-      "ses_pid": "136 / fre",
-      "uydu": "Astra 3B",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "6166",
-      "paket": "CanalDigitaal / TV Vlaanderen Digitaal / TéléSAT (Telesat)",
-      "tp_id": "astra_23_5:11739:V:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "PanEuropean"

@@ -1,26 +1,388 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-10-03T18:34:59.540593+00:00",
+  "olusturma_zamani_utc": "2026-10-04T09:24:53.521791+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 841,
-    "yeni_kanal": 841,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 843,
+    "eklenen_kanal": 2,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 31,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "TV2 HD",
+      "frekans": 12034,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "601",
+      "ses_pid": "610 / hun / 611 / eng",
+      "uydu": "Thor 6",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "30511",
+      "paket": "freeSAT",
+      "tp_id": "thor_1w:12034:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "TV2 HD (SVT)",
+      "frekans": 12034,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "601",
+      "ses_pid": "610 / hun / 611 / eng",
+      "uydu": "Thor 6",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "30527",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:12034:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:10716:H:25000|sid:7415",
+      "kanal_adi": "TV 2 Fri HD",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10716:H:25000|sid:7909",
+      "kanal_adi": "TV 2 SPORT X",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10716:H:25000|sid:7925",
+      "kanal_adi": "TV 2 Charlie HD",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10747:H:25000|sid:1034",
+      "kanal_adi": "TV 2 Sport Premium HD",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10747:H:25000|sid:1035",
+      "kanal_adi": "TV 2 Sport Premium 2 HD",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10747:H:25000|sid:7065",
+      "kanal_adi": "TV 2 Zebra HD",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10747:H:25000|sid:7078",
+      "kanal_adi": "TV 2 Sport 2 HD",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10747:V:25000|sid:1039",
+      "kanal_adi": "NRK1 HD",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10747:V:25000|sid:1040",
+      "kanal_adi": "NRK2 HD",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10747:V:25000|sid:18012",
+      "kanal_adi": "NRK1 lydtekst",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10747:V:25000|sid:18013",
+      "kanal_adi": "NRK2 lydtekst",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10778:V:25000|sid:2924",
+      "kanal_adi": "Kanal 5 HD (D)",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10778:V:25000|sid:4103",
+      "kanal_adi": "TVNorge HD",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10778:V:25000|sid:4807",
+      "kanal_adi": "6`eren HD",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10778:V:25000|sid:7160",
+      "kanal_adi": "Kanal 9 HD",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10841:H:25000|sid:4702",
+      "kanal_adi": "TV 2 / Midt-Vest",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10841:H:25000|sid:4703",
+      "kanal_adi": "TV 2 / Østjylland",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10841:H:25000|sid:4704",
+      "kanal_adi": "TV 2 / Syd",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10841:H:25000|sid:4705",
+      "kanal_adi": "TV 2 / Fyn",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10841:H:25000|sid:4706",
+      "kanal_adi": "TV 2 / Øst",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10841:H:25000|sid:4707",
+      "kanal_adi": "TV 2 / Bornholm",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10934:H:25000|sid:1405",
+      "kanal_adi": "TV4 HD",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10934:V:25000|sid:7315",
+      "kanal_adi": "dk4",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10934:V:25000|sid:7316",
+      "kanal_adi": "Sport Live",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10934:V:25000|sid:7318",
+      "kanal_adi": "DR2 HD",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11325:H:25000|sid:7045",
+      "kanal_adi": "Sjuan HD",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30504",
+      "kanal_adi": "RTL HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Focus Sat / Digi TV / Direct One",
+          "yeni": "Focus Sat / Digi TV / Slovak Telekom / Direct One / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30515",
+      "kanal_adi": "RTL Kettő HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Focus Sat",
+          "yeni": "Focus Sat / Slovak Telekom / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30516",
+      "kanal_adi": "Love Nature",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30517",
+      "kanal_adi": "RTL Három HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Focus Sat / Digi TV / Direct One",
+          "yeni": "Focus Sat / Digi TV / Direct One / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30529",
+      "kanal_adi": "Nat Geo Wild Hungary",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "freeSAT"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "thor_1w:12034:V:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 13,
+          "yeni": 15
+        },
+        "tv_sayisi": {
+          "onceki": 13,
+          "yeni": 15
+        }
+      }
+    }
+  ]
 }

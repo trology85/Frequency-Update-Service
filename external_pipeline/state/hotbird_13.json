@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-09-29T19:49:06.616179+00:00",
+  "generated_utc": "2026-10-04T09:24:13.698096+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=13E",
@@ -17,9 +17,9 @@
     "tv": 1032,
     "radio": 100,
     "sd": 458,
-    "hd": 553,
+    "hd": 552,
     "uhd_4k": 5,
-    "unknown_quality": 16
+    "unknown_quality": 17
   },
   "transponders": [
     {
@@ -4312,7 +4312,7 @@
     {
       "name": "TV PULS HD",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Hot Bird 13.0°E",
       "spacecraft": "Eutelsat Hot Bird 13G",
       "position": "13.0E",
