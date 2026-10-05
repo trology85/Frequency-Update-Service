@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-04T09:24:58.063275+00:00",
+  "generated_utc": "2026-10-05T10:05:27.822510+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=52E",
-    "last_updated": "2026-10-04"
+    "last_updated": "2026-10-05"
   },
   "satellite": {
     "id": "turkmenalem_52",
@@ -5520,7 +5520,7 @@
       "tp_id": "turkmenalem_52:10887:V:27500"
     },
     {
-      "name": "Project Leon",
+      "name": "Radio Shemroon",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "TurkmenÄlem / MonacoSat 52.0°E",
@@ -5545,9 +5545,9 @@
       "audio": "2002 / per",
       "nid": 8478,
       "tid": 8478,
-      "source_channel_id": 138454,
+      "source_channel_id": 170143,
       "source_transponder_id": 12417,
-      "updated": "2026-04-30",
+      "updated": "2026-10-05",
       "tp_id": "turkmenalem_52:10887:V:27500"
     },
     {

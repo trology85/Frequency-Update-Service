@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-10-04T09:24:58.063275+00:00",
+  "guncelleme_tarihi": "2026-10-05T10:05:27.822510+00:00",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
   "toplam_kanal": 417,
   "toplam_tp": 24,
@@ -5511,24 +5511,6 @@
     },
     {
       "kanal_adi": "Project Leon",
-      "frekans": 10887,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2001",
-      "ses_pid": "2002 / per",
-      "uydu": "TurkmenAlem",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "20",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:10887:V:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "East"
-    },
-    {
-      "kanal_adi": "Project Leon",
       "frekans": 11221,
       "polarizasyon": "V",
       "sembol_orani": 27500,
@@ -5688,6 +5670,24 @@
       "konum_id": "turkmenalem_52",
       "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
       "kapsama": "West"
+    },
+    {
+      "kanal_adi": "Radio Shemroon",
+      "frekans": 10887,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2001",
+      "ses_pid": "2002 / per",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "20",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:10887:V:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Rah-e-Farda",

@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-04T09:24:53.335511+00:00",
+  "generated_utc": "2026-10-05T10:05:24.305148+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-10-04"
+    "last_updated": "2026-10-05"
   },
   "satellite": {
     "id": "thor_1w",
@@ -13,11 +13,11 @@
   },
   "counts": {
     "transponders": 70,
-    "channels": 844,
-    "tv": 777,
+    "channels": 846,
+    "tv": 779,
     "radio": 67,
     "sd": 411,
-    "hd": 276,
+    "hd": 278,
     "uhd_4k": 3,
     "unknown_quality": 87
   },
@@ -878,8 +878,8 @@
       "network": "M7 Group",
       "nid": 1536,
       "tid": 705,
-      "channel_count": 15,
-      "tv_count": 15,
+      "channel_count": 17,
+      "tv_count": 17,
       "radio_count": 0,
       "source_transponder_id": 7506
     },
@@ -16020,17 +16020,17 @@
       "country_code": "",
       "beam": "K2",
       "provider": "M7 Group",
-      "package": "Focus Sat / Digi TV / Direct One",
+      "package": "Focus Sat / DIGI RO / Direct One",
       "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 151,
-      "audio": "0 / hun",
+      "audio": "168 / hun",
       "nid": 1536,
       "tid": 705,
       "source_channel_id": 91836,
       "source_transponder_id": 7506,
-      "updated": "2026-07-24",
+      "updated": "2026-10-05",
       "tp_id": "thor_1w:12034:V:30000"
     },
     {
@@ -16082,7 +16082,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "M7 Group",
-      "package": "Focus Sat / Digi TV / Slovak Telekom / Direct One / freeSAT",
+      "package": "Focus Sat / DIGI RO / Slovak Telekom / Direct One / freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -16092,7 +16092,7 @@
       "tid": 705,
       "source_channel_id": 76260,
       "source_transponder_id": 7506,
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "tp_id": "thor_1w:12034:V:30000"
     },
     {
@@ -16220,7 +16220,7 @@
       "tp_id": "thor_1w:12034:V:30000"
     },
     {
-      "name": "Love Nature",
+      "name": "Love Nature HD",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
@@ -16237,7 +16237,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "M7 Group",
-      "package": "freeSAT",
+      "package": "Focus Sat / Slovak Telekom / freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -16247,7 +16247,7 @@
       "tid": 705,
       "source_channel_id": 152825,
       "source_transponder_id": 7506,
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "tp_id": "thor_1w:12034:V:30000"
     },
     {
@@ -16313,6 +16313,37 @@
       "tp_id": "thor_1w:12034:V:30000"
     },
     {
+      "name": "M5 HD",
+      "type": "TV",
+      "quality": "HD",
+      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "spacecraft": "Thor 6",
+      "position": "0.8W",
+      "frequency": 12034,
+      "polarization": "V",
+      "symbol_rate": 30000,
+      "fec": "3/4",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 30522,
+      "country": "",
+      "country_code": "",
+      "beam": "K2",
+      "provider": "M7 Group",
+      "package": "Direct One",
+      "encryption": "Conax / Cryptoworks / Irdeto / Nagravision 3",
+      "free_to_air": false,
+      "compression": "MPEG-4",
+      "vpid": 1151,
+      "audio": "1168 / hun",
+      "nid": 1536,
+      "tid": 705,
+      "source_channel_id": 170140,
+      "source_transponder_id": 7506,
+      "updated": "2026-10-05",
+      "tp_id": "thor_1w:12034:V:30000"
+    },
+    {
       "name": "FilmBox+ Emotion HD",
       "type": "TV",
       "quality": "HD",
@@ -16344,6 +16375,37 @@
       "tp_id": "thor_1w:12034:V:30000"
     },
     {
+      "name": "M2 HD (SVT)",
+      "type": "TV",
+      "quality": "HD",
+      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "spacecraft": "Thor 6",
+      "position": "0.8W",
+      "frequency": 12034,
+      "polarization": "V",
+      "symbol_rate": 30000,
+      "fec": "3/4",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 30525,
+      "country": "",
+      "country_code": "",
+      "beam": "K2",
+      "provider": "M7 Group",
+      "package": "Slovak Telekom",
+      "encryption": "Nagravision 3",
+      "free_to_air": false,
+      "compression": "MPEG-4",
+      "vpid": 151,
+      "audio": "168 / hun",
+      "nid": 1536,
+      "tid": 705,
+      "source_channel_id": 170135,
+      "source_transponder_id": 7506,
+      "updated": "2026-10-05",
+      "tp_id": "thor_1w:12034:V:30000"
+    },
+    {
       "name": "TVR 1 HD",
       "type": "TV",
       "quality": "HD",
@@ -16361,8 +16423,8 @@
       "country_code": "",
       "beam": "K2",
       "provider": "M7 Group",
-      "package": "Focus Sat / Digi TV",
-      "encryption": "Conax",
+      "package": "Focus Sat / DIGI RO",
+      "encryption": "Conax / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1351,
@@ -16371,7 +16433,7 @@
       "tid": 705,
       "source_channel_id": 122407,
       "source_transponder_id": 7506,
-      "updated": "2026-07-24",
+      "updated": "2026-10-05",
       "tp_id": "thor_1w:12034:V:30000"
     },
     {
@@ -16423,7 +16485,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "M7 Group",
-      "package": "freeSAT",
+      "package": "Slovak Telekom / freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -16433,7 +16495,7 @@
       "tid": 705,
       "source_channel_id": 162823,
       "source_transponder_id": 7506,
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "tp_id": "thor_1w:12034:V:30000"
     },
     {

@@ -1,26 +1,136 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-10-04T18:34:00.492329+00:00",
+  "olusturma_zamani_utc": "2026-10-05T10:05:24.480790+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 843,
-    "yeni_kanal": 843,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 845,
+    "eklenen_kanal": 2,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 5,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "M5 HD",
+      "frekans": 12034,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1151",
+      "ses_pid": "1168 / hun",
+      "uydu": "Thor 6",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "30522",
+      "paket": "Direct One",
+      "tp_id": "thor_1w:12034:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "M2 HD (SVT)",
+      "frekans": 12034,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "151",
+      "ses_pid": "168 / hun",
+      "uydu": "Thor 6",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "30525",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:12034:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30502",
+      "kanal_adi": "M2/Petofi TV HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / hun",
+          "yeni": "168 / hun"
+        },
+        "paket": {
+          "onceki": "Focus Sat / Digi TV / Direct One",
+          "yeni": "Focus Sat / DIGI RO / Direct One"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30504",
+      "kanal_adi": "RTL HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Focus Sat / Digi TV / Slovak Telekom / Direct One / freeSAT",
+          "yeni": "Focus Sat / DIGI RO / Slovak Telekom / Direct One / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30516",
+      "kanal_adi": "Love Nature HD",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Love Nature",
+          "yeni": "Love Nature HD"
+        },
+        "paket": {
+          "onceki": "freeSAT",
+          "yeni": "Focus Sat / Slovak Telekom / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30526",
+      "kanal_adi": "TVR 1 HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Focus Sat / Digi TV",
+          "yeni": "Focus Sat / DIGI RO"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30529",
+      "kanal_adi": "Nat Geo Wild Hungary",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "freeSAT",
+          "yeni": "Slovak Telekom / freeSAT"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "thor_1w:12034:V:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 15,
+          "yeni": 17
+        },
+        "tv_sayisi": {
+          "onceki": 15,
+          "yeni": 17
+        }
+      }
+    }
+  ]
 }
