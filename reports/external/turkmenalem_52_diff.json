@@ -1,15 +1,15 @@
 {
   "uydu_id": "turkmenalem_52",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "olusturma_zamani_utc": "2026-10-05T10:05:27.935708+00:00",
+  "olusturma_zamani_utc": "2026-10-05T21:52:09.656757+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 414,
     "yeni_kanal": 414,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 1,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 24,
     "yeni_tp": 24,
@@ -19,18 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "turkmenalem_52|turkmenalem_52:10887:V:27500|sid:20",
-      "kanal_adi": "Radio Shemroon",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Project Leon",
-          "yeni": "Radio Shemroon"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
