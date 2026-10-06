@@ -1,199 +1,26 @@
 {
   "uydu_id": "turkmenalem_52",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "olusturma_zamani_utc": "2026-10-06T09:50:35.434317+00:00",
+  "olusturma_zamani_utc": "2026-10-06T20:01:02.195774+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 414,
+    "onceki_kanal": 421,
     "yeni_kanal": 421,
-    "eklenen_kanal": 7,
+    "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 1,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 24,
     "yeni_tp": 24,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 2
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "Iran National Revolution TV",
-      "frekans": 11420,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "1901",
-      "ses_pid": "1902 / per",
-      "uydu": "TurkmenAlem",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "19",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:11420:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "East"
-    },
-    {
-      "kanal_adi": "Project Leon",
-      "frekans": 11420,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2001",
-      "ses_pid": "2002 / fas",
-      "uydu": "TurkmenAlem",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "20",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:11420:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "East"
-    },
-    {
-      "kanal_adi": "Radio Shemroon",
-      "frekans": 11420,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2101",
-      "ses_pid": "2102 / per",
-      "uydu": "TurkmenAlem",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "21",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:11420:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "East"
-    },
-    {
-      "kanal_adi": "Supermovies",
-      "frekans": 12475,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "None",
-      "video_pid": "7041",
-      "ses_pid": "",
-      "uydu": "TurkmenAlem",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "704",
-      "paket": "MMB",
-      "tp_id": "turkmenalem_52:12475:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "MENA"
-    },
-    {
-      "kanal_adi": "Supermovies Action",
-      "frekans": 12475,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "None",
-      "video_pid": "7161",
-      "ses_pid": "",
-      "uydu": "TurkmenAlem",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "716",
-      "paket": "MMB",
-      "tp_id": "turkmenalem_52:12475:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "MENA"
-    },
-    {
-      "kanal_adi": "Dom Kino International",
-      "frekans": 12475,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "None",
-      "video_pid": "7171",
-      "ses_pid": "7172 / rus",
-      "uydu": "TurkmenAlem",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "717",
-      "paket": "MMB",
-      "tp_id": "turkmenalem_52:12475:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "MENA"
-    },
-    {
-      "kanal_adi": "Karusel International",
-      "frekans": 12475,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "None",
-      "video_pid": "7181",
-      "ses_pid": "7182 / rus",
-      "uydu": "TurkmenAlem",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "718",
-      "paket": "MMB",
-      "tp_id": "turkmenalem_52:12475:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "MENA"
-    }
-  ],
+  "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "turkmenalem_52|turkmenalem_52:12437:H:29900|sid:619",
-      "kanal_adi": "ReelMX Vibes",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Vibes TV",
-          "yeni": "ReelMX Vibes"
-        },
-        "ses_pid": {
-          "onceki": "6192 / eng",
-          "yeni": ""
-        },
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "SD"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "turkmenalem_52:11420:H:27500",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 17,
-          "yeni": 20
-        },
-        "tv_sayisi": {
-          "onceki": 17,
-          "yeni": 20
-        }
-      }
-    },
-    {
-      "anahtar": "turkmenalem_52:12475:H:27500",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 13,
-          "yeni": 17
-        },
-        "tv_sayisi": {
-          "onceki": 13,
-          "yeni": 17
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }
