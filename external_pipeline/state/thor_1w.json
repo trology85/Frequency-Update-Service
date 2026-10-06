@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-05T10:05:24.305148+00:00",
+  "generated_utc": "2026-10-06T09:50:31.979715+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
@@ -16237,7 +16237,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "M7 Group",
-      "package": "Focus Sat / Slovak Telekom / freeSAT",
+      "package": "Focus Sat / Magenta TV Sat / Slovak Telekom / freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -16485,7 +16485,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "M7 Group",
-      "package": "Slovak Telekom / freeSAT",
+      "package": "Magenta TV Sat / Slovak Telekom / freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
