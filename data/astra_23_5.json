@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-10-04T09:24:38.403966+00:00",
+  "guncelleme_tarihi": "2026-10-07T20:26:58.919765+00:00",
   "uydu_adi": "Astra 3B/3C 23.5°E",
   "toplam_kanal": 641,
   "toplam_tp": 33,
@@ -540,6 +540,24 @@
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "15608",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "",
+      "uydu": "Astra 3B",
+      "kalite": "Bilinmeyen",
+      "tur": "TV",
+      "sid": "15608",
+      "paket": "M7 Group",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "SpotME"
     },
     {
       "kanal_adi": "15613",
@@ -10188,24 +10206,6 @@
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "European"
-    },
-    {
-      "kanal_adi": "Story 4 Czechia",
-      "frekans": 12110,
-      "polarizasyon": "H",
-      "sembol_orani": 29900,
-      "fec": "3/4",
-      "video_pid": "1801",
-      "ses_pid": "1811 / cze / 1812 / hun",
-      "uydu": "Astra 3B",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "15608",
-      "paket": "M7 Group",
-      "tp_id": "astra_23_5:12110:H:29900",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
     },
     {
       "kanal_adi": "Story4",

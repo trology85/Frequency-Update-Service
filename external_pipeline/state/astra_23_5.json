@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-04T09:24:38.403966+00:00",
+  "generated_utc": "2026-10-07T20:26:58.919765+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=23E",
-    "last_updated": "2026-10-02"
+    "last_updated": "2026-10-07"
   },
   "satellite": {
     "id": "astra_23_5",
@@ -17,9 +17,9 @@
     "tv": 532,
     "radio": 109,
     "sd": 358,
-    "hd": 156,
+    "hd": 155,
     "uhd_4k": 0,
-    "unknown_quality": 18
+    "unknown_quality": 19
   },
   "transponders": [
     {
@@ -6422,9 +6422,9 @@
       "tp_id": "astra_23_5:12110:H:29900"
     },
     {
-      "name": "Story 4 Czechia",
+      "name": "15608",
       "type": "TV",
-      "quality": "HD",
+      "quality": "UNKNOWN",
       "satellite_group": "Astra 3B/3C 23.5°E",
       "spacecraft": "Astra 3B",
       "position": "23.5E",
@@ -6439,17 +6439,17 @@
       "country_code": "",
       "beam": "SpotME",
       "provider": "M7 Group",
-      "package": "M7 Group",
-      "encryption": "Conax / Irdeto / Nagravision / Viaccess",
-      "free_to_air": false,
-      "compression": "MPEG-4",
-      "vpid": 1801,
-      "audio": "1811 / cze / 1812 / hun",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "",
+      "vpid": 0,
+      "audio": "",
       "nid": null,
       "tid": null,
       "source_channel_id": 162642,
       "source_transponder_id": 13936,
-      "updated": "2025-09-17",
+      "updated": "2026-10-07",
       "tp_id": "astra_23_5:12110:H:29900"
     },
     {

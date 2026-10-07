@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_23_5",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "olusturma_zamani_utc": "2026-10-07T09:55:30.860642+00:00",
+  "olusturma_zamani_utc": "2026-10-07T20:26:59.056455+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 635,
     "yeni_kanal": 635,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 1,
     "tur_degisen_kanal": 0,
     "onceki_tp": 33,
     "yeni_tp": 33,
@@ -19,7 +19,30 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15608",
+      "kanal_adi": "15608",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Story 4 Czechia",
+          "yeni": "15608"
+        },
+        "video_pid": {
+          "onceki": "1801",
+          "yeni": "0"
+        },
+        "ses_pid": {
+          "onceki": "1811 / cze / 1812 / hun",
+          "yeni": ""
+        },
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
