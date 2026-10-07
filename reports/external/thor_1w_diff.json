@@ -1,26 +1,138 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-10-06T20:00:58.742728+00:00",
+  "olusturma_zamani_utc": "2026-10-07T09:55:46.382098+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 845,
-    "yeni_kanal": 845,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 846,
+    "eklenen_kanal": 1,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 7,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Kuukaunden kanava",
+      "frekans": 10934,
+      "polarizasyon": "V",
+      "sembol_orani": 25000,
+      "fec": "3/4",
+      "video_pid": "1538",
+      "ses_pid": "3572 / swe",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "17084",
+      "paket": "Allente",
+      "tp_id": "thor_1w:10934:V:25000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K1"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:11261:H:25000|sid:17084",
+      "kanal_adi": "17084",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Kuukauden Kanava",
+          "yeni": "17084"
+        },
+        "ses_pid": {
+          "onceki": "3060 / eng",
+          "yeni": ""
+        },
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "Bilinmeyen"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1018",
+      "kanal_adi": "Prima HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Magenta TV Sat",
+          "yeni": "Magenta TV Sat / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1024",
+      "kanal_adi": "Nova HD",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Magenta TV Sat",
+          "yeni": "Magenta TV Sat / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6017",
+      "kanal_adi": "JOJ Family",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Magenta TV Sat / Telly",
+          "yeni": "Magenta TV Sat / Telly / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6027",
+      "kanal_adi": "FILMBOX+ Comedy",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6029",
+      "kanal_adi": "Lála TV",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6032",
+      "kanal_adi": "Nova Šport 6",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "thor_1w:10934:V:25000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 11,
+          "yeni": 12
+        },
+        "tv_sayisi": {
+          "onceki": 11,
+          "yeni": 12
+        }
+      }
+    }
+  ]
 }

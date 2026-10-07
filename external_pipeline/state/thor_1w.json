@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-06T09:50:31.979715+00:00",
+  "generated_utc": "2026-10-07T09:55:46.199892+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-10-05"
+    "last_updated": "2026-10-06"
   },
   "satellite": {
     "id": "thor_1w",
@@ -13,13 +13,13 @@
   },
   "counts": {
     "transponders": 70,
-    "channels": 846,
-    "tv": 779,
+    "channels": 847,
+    "tv": 780,
     "radio": 67,
     "sd": 411,
     "hd": 278,
     "uhd_4k": 3,
-    "unknown_quality": 87
+    "unknown_quality": 88
   },
   "transponders": [
     {
@@ -311,8 +311,8 @@
       "network": "Telenor",
       "nid": 70,
       "tid": 10,
-      "channel_count": 11,
-      "tv_count": 11,
+      "channel_count": 12,
+      "tv_count": 12,
       "radio_count": 0,
       "source_transponder_id": 7128
     },
@@ -6021,6 +6021,37 @@
       "tp_id": "thor_1w:10934:V:25000"
     },
     {
+      "name": "Kuukaunden kanava",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "spacecraft": "Thor 6",
+      "position": "0.8W",
+      "frequency": 10934,
+      "polarization": "V",
+      "symbol_rate": 25000,
+      "fec": "3/4",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 17084,
+      "country": "",
+      "country_code": "",
+      "beam": "K1",
+      "provider": "Telenor",
+      "package": "Allente",
+      "encryption": "Videoguard / Conax / Nagravision 3",
+      "free_to_air": false,
+      "compression": "MPEG-4",
+      "vpid": 1538,
+      "audio": "3572 / swe",
+      "nid": 70,
+      "tid": 10,
+      "source_channel_id": 170164,
+      "source_transponder_id": 7128,
+      "updated": "2026-10-06",
+      "tp_id": "thor_1w:10934:V:25000"
+    },
+    {
       "name": "DR2 HD",
       "type": "TV",
       "quality": "HD",
@@ -7323,9 +7354,9 @@
       "tp_id": "thor_1w:11261:H:25000"
     },
     {
-      "name": "Kuukauden Kanava",
+      "name": "17084",
       "type": "TV",
-      "quality": "SD",
+      "quality": "UNKNOWN",
       "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "spacecraft": "Thor 5",
       "position": "0.8W",
@@ -7340,17 +7371,17 @@
       "country_code": "",
       "beam": "T1Nordic",
       "provider": "Allente",
-      "package": "Allente",
-      "encryption": "Videoguard / Conax / Nagravision 3",
-      "free_to_air": false,
-      "compression": "MPEG-4",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "",
       "vpid": 1130,
-      "audio": "3060 / eng",
+      "audio": "",
       "nid": 70,
       "tid": 33,
       "source_channel_id": 169786,
       "source_transponder_id": 6490,
-      "updated": "2026-09-09",
+      "updated": "2026-10-06",
       "tp_id": "thor_1w:11261:H:25000"
     },
     {
@@ -16733,7 +16764,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "Magenta TV Sat",
+      "package": "Magenta TV Sat / Telly",
       "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -16743,7 +16774,7 @@
       "tid": 2801,
       "source_channel_id": 81209,
       "source_transponder_id": 7219,
-      "updated": "2026-09-08",
+      "updated": "2026-10-06",
       "tp_id": "thor_1w:12054:H:30000"
     },
     {
@@ -16826,7 +16857,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "Magenta TV Sat",
+      "package": "Magenta TV Sat / Telly",
       "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -16836,7 +16867,7 @@
       "tid": 2801,
       "source_channel_id": 81868,
       "source_transponder_id": 7219,
-      "updated": "2026-09-08",
+      "updated": "2026-10-06",
       "tp_id": "thor_1w:12054:H:30000"
     },
     {
@@ -23336,7 +23367,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "Magenta TV Sat / Telly",
+      "package": "Magenta TV Sat / Telly / freeSAT",
       "encryption": "Conax / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -23346,7 +23377,7 @@
       "tid": 2806,
       "source_channel_id": 149550,
       "source_transponder_id": 11832,
-      "updated": "2026-09-20",
+      "updated": "2026-10-06",
       "tp_id": "thor_1w:12380:V:30000"
     },
     {
@@ -23646,8 +23677,8 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "",
-      "encryption": "Conax / Irdeto / Nagravision 3",
+      "package": "Magenta TV Sat / Slovak Telekom / freeSAT",
+      "encryption": "Conax / Cryptoworks / Irdeto / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 2702,
@@ -23656,7 +23687,7 @@
       "tid": 2806,
       "source_channel_id": 170074,
       "source_transponder_id": 11832,
-      "updated": "2026-10-01",
+      "updated": "2026-10-06",
       "tp_id": "thor_1w:12380:V:30000"
     },
     {
@@ -23708,7 +23739,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "",
+      "package": "Magenta TV Sat / Slovak Telekom / Telly",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -23718,7 +23749,7 @@
       "tid": 2806,
       "source_channel_id": 170075,
       "source_transponder_id": 11832,
-      "updated": "2026-10-01",
+      "updated": "2026-10-06",
       "tp_id": "thor_1w:12380:V:30000"
     },
     {
@@ -23801,7 +23832,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "",
+      "package": "Magenta TV Sat / Slovak Telekom / Telly",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -23811,7 +23842,7 @@
       "tid": 2806,
       "source_channel_id": 170076,
       "source_transponder_id": 11832,
-      "updated": "2026-10-01",
+      "updated": "2026-10-06",
       "tp_id": "thor_1w:12380:V:30000"
     },
     {

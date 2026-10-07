@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-02T19:46:51.131028+00:00",
+  "generated_utc": "2026-10-07T09:54:52.439265+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=19E",
-    "last_updated": "2026-10-02"
+    "last_updated": "2026-10-06"
   },
   "satellite": {
     "id": "astra_19_2",
@@ -13,11 +13,11 @@
   },
   "counts": {
     "transponders": 88,
-    "channels": 875,
-    "tv": 742,
+    "channels": 876,
+    "tv": 743,
     "radio": 133,
     "sd": 318,
-    "hd": 414,
+    "hd": 415,
     "uhd_4k": 10,
     "unknown_quality": 0
   },
@@ -1592,8 +1592,8 @@
       "network": "Canal+ France",
       "nid": 1,
       "tid": 1100,
-      "channel_count": 14,
-      "tv_count": 14,
+      "channel_count": 15,
+      "tv_count": 15,
       "radio_count": 0,
       "source_transponder_id": 1285
     },
@@ -25616,6 +25616,37 @@
       "source_channel_id": 157338,
       "source_transponder_id": 1285,
       "updated": "2026-01-24",
+      "tp_id": "astra_19_2:12402:V:29700"
+    },
+    {
+      "name": "RMC Šport 1 HD",
+      "type": "TV",
+      "quality": "HD",
+      "satellite_group": "Astra 19.2°E",
+      "spacecraft": "Astra 1N",
+      "position": "19.2E",
+      "frequency": 12402,
+      "polarization": "V",
+      "symbol_rate": 29700,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 10019,
+      "country": "",
+      "country_code": "",
+      "beam": "PE",
+      "provider": "Canal+ France",
+      "package": "Canal+ France",
+      "encryption": "Nagravision 3",
+      "free_to_air": false,
+      "compression": "HEVC (H.265)",
+      "vpid": 1910,
+      "audio": "1920 / fre",
+      "nid": 1,
+      "tid": 1100,
+      "source_channel_id": 170165,
+      "source_transponder_id": 1285,
+      "updated": "2026-10-06",
       "tp_id": "astra_19_2:12402:V:29700"
     },
     {

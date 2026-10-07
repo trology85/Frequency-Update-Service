@@ -1,13 +1,13 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-10-06T20:00:16.892017+00:00",
+  "olusturma_zamani_utc": "2026-10-07T09:54:52.636092+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 865,
-    "yeni_kanal": 865,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 866,
+    "eklenen_kanal": 1,
     "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
@@ -15,12 +15,45 @@
     "yeni_tp": 88,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "RMC Šport 1 HD",
+      "frekans": 12402,
+      "polarizasyon": "V",
+      "sembol_orani": 29700,
+      "fec": "2/3",
+      "video_pid": "1910",
+      "ses_pid": "1920 / fre",
+      "uydu": "Astra 1N",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "10019",
+      "paket": "Canal+ France",
+      "tp_id": "astra_19_2:12402:V:29700",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE"
+    }
+  ],
   "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "astra_19_2:12402:V:29700",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 14,
+          "yeni": 15
+        },
+        "tv_sayisi": {
+          "onceki": 14,
+          "yeni": 15
+        }
+      }
+    }
+  ]
 }
