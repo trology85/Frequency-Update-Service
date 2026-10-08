@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-10-07T20:26:52.988813+00:00",
+  "run_utc": "2026-10-08T10:07:03.789027+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-10-07T20:26:54.851789+00:00",
+  "run_utc": "2026-10-08T10:07:05.238339+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-23.5E",
       "title": "Astra 3B / Astra 3C (23.5°E) -  - Frekanslar - KingOfSat",
-      "bytes": 849338,
+      "bytes": 848614,
       "frequency_rows": 84,
-      "channel_rows": 657,
-      "advertised_records": 716,
+      "channel_rows": 656,
+      "advertised_records": 715,
       "block_markers": [],
       "raw_file": "raw/kingofsat/astra_23_5.html",
       "errors": []
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-10-07T20:26:57.839124+00:00",
+  "generated_utc": "2026-10-08T10:07:07.314115+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 0,
       "tv": 0,
       "radio": 0,
-      "source_updated": "2026-10-02"
+      "source_updated": "2026-10-08"
     }
   ]
 }
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-10-07T20:26:59.018366+00:00",
+  "run_utc": "2026-10-08T10:07:08.055029+00:00",
   "ok": true,
-  "should_publish": true,
+  "should_publish": false,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -125,12 +125,12 @@
       "missing_core_fields": 0,
       "duplicate_identities": 0,
       "candidate_hash": "7b4c7db44a872340c60852ef5d881b53caaf701c708ea4cc88b6230ae491b641",
-      "current_hash": "3a28734475e9c9fdec49aa49930be965bf74a931b25256c76b3890412bdfcd8a",
-      "changed": true,
+      "current_hash": "7b4c7db44a872340c60852ef5d881b53caaf701c708ea4cc88b6230ae491b641",
+      "changed": false,
       "added": 0,
       "removed": 0,
-      "updated": 1
+      "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=true
+SHOULD_PUBLISH=false
