@@ -1,69 +1,26 @@
 {
   "uydu_id": "turkmenalem_52",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "olusturma_zamani_utc": "2026-10-08T10:07:20.613442+00:00",
+  "olusturma_zamani_utc": "2026-10-08T20:32:13.668812+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 421,
     "yeni_kanal": 421,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 2,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 24,
     "yeni_tp": 24,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "turkmenalem_52|turkmenalem_52:10845:V:27500|sid:3",
-      "kanal_adi": "YourTime TV",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Your Time TV HD",
-          "yeni": "YourTime TV"
-        },
-        "ses_pid": {
-          "onceki": "302 / fas",
-          "yeni": "302 / per"
-        }
-      }
-    },
-    {
-      "anahtar": "turkmenalem_52|turkmenalem_52:10845:V:27500|sid:40",
-      "kanal_adi": "Pars TV (t6)",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Pars TV (PTN)",
-          "yeni": "Pars TV (t6)"
-        },
-        "ses_pid": {
-          "onceki": "",
-          "yeni": "4002 / per"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "turkmenalem_52:10845:V:27500",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 25,
-          "yeni": 28
-        },
-        "tv_sayisi": {
-          "onceki": 25,
-          "yeni": 28
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }
