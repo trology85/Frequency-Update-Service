@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-09-29T19:49:28.674372+00:00",
+  "guncelleme_tarihi": "2026-10-09T10:09:19.514688+00:00",
   "uydu_adi": "Astra 2E/2F/2G 28.2°E",
-  "toplam_kanal": 769,
+  "toplam_kanal": 775,
   "toplam_tp": 63,
   "transponderler": [
     {
@@ -265,8 +265,8 @@
       "fec": "2/3",
       "uydu": "Astra 2F",
       "kapsama": "Spot",
-      "kanal_sayisi": 12,
-      "tv_sayisi": 12,
+      "kanal_sayisi": 18,
+      "tv_sayisi": 18,
       "radyo_sayisi": 0,
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E"
@@ -4850,6 +4850,24 @@
       "kapsama": "WAfrica"
     },
     {
+      "kanal_adi": "Gem Collector (20-22)",
+      "frekans": 11307,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2324",
+      "ses_pid": "2325 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "53395",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:11307:V:27500",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Spot"
+    },
+    {
       "kanal_adi": "Gemporia",
       "frekans": 11553,
       "polarizasyon": "H",
@@ -5786,6 +5804,24 @@
       "kapsama": "Europe"
     },
     {
+      "kanal_adi": "HobbyMaker (13-20 & 23-08)",
+      "frekans": 11307,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2324",
+      "ses_pid": "2325 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "53395",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:11307:V:27500",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Spot"
+    },
+    {
       "kanal_adi": "Holiness TV",
       "frekans": 12605,
       "polarizasyon": "V",
@@ -6072,6 +6108,24 @@
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E",
       "kapsama": "Europe"
+    },
+    {
+      "kanal_adi": "Ideal World",
+      "frekans": 11307,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2316",
+      "ses_pid": "2321 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "53385",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:11307:V:27500",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Spot"
     },
     {
       "kanal_adi": "Imam Hussein TV 1",
@@ -8126,6 +8180,24 @@
       "kapsama": "Europe"
     },
     {
+      "kanal_adi": "Must Have Ideas",
+      "frekans": 11307,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2322",
+      "ses_pid": "2323 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "53390",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:11307:V:27500",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Spot"
+    },
+    {
       "kanal_adi": "Must have ideas TV",
       "frekans": 11082,
       "polarizasyon": "H",
@@ -9566,6 +9638,24 @@
       "kapsama": "WAfrica"
     },
     {
+      "kanal_adi": "Primal Living (22-23)",
+      "frekans": 11307,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2324",
+      "ses_pid": "2325 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "53395",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:11307:V:27500",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Spot"
+    },
+    {
       "kanal_adi": "Prime Video 1",
       "frekans": 11758,
       "polarizasyon": "H",
@@ -10554,6 +10644,24 @@
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E",
       "kapsama": "Europe"
+    },
+    {
+      "kanal_adi": "Sewing Street (08-13)",
+      "frekans": 11307,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2324",
+      "ses_pid": "2325 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "53395",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:11307:V:27500",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Spot"
     },
     {
       "kanal_adi": "Sharp TV",
