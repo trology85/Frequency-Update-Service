@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "08.10.2026 20:31:10",
+  "guncelleme_tarihi": "09.10.2026 10:08:24",
   "uydu_adi": "Türksat 42.0°E",
   "toplam_kanal": 743,
   "toplam_tp": 53,
@@ -12350,6 +12350,22 @@
       "konum_adi": "Türksat 42.0°E"
     },
     {
+      "kanal_adi": "KPEGAH TV",
+      "frekans": 18634,
+      "polarizasyon": "LHCP",
+      "kapsama": "Ka-West",
+      "sembol_orani": 22500,
+      "fec": "2/3",
+      "video_pid": "325",
+      "ses_pid": "354",
+      "uydu": "T4A",
+      "kalite": "SD",
+      "tur": "TV",
+      "tp_id": "18634_LHCP_22500",
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
       "kanal_adi": "LUMEN CHRİSTİ TV",
       "frekans": 18634,
       "polarizasyon": "LHCP",
@@ -12422,22 +12438,6 @@
       "fec": "2/3",
       "video_pid": "4113",
       "ses_pid": "4552",
-      "uydu": "T4A",
-      "kalite": "SD",
-      "tur": "TV",
-      "tp_id": "18634_LHCP_22500",
-      "konum_id": "turksat_42",
-      "konum_adi": "Türksat 42.0°E"
-    },
-    {
-      "kanal_adi": "SIRIUS TV",
-      "frekans": 18634,
-      "polarizasyon": "LHCP",
-      "kapsama": "Ka-West",
-      "sembol_orani": 22500,
-      "fec": "2/3",
-      "video_pid": "256",
-      "ses_pid": "257",
       "uydu": "T4A",
       "kalite": "SD",
       "tur": "TV",
