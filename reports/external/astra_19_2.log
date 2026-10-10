@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-10-09T20:00:56.580323+00:00",
+  "run_utc": "2026-10-10T09:30:05.157954+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-10-09T20:00:58.566139+00:00",
+  "run_utc": "2026-10-10T09:30:06.735547+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-19.2E",
       "title": "Astra 1M / Astra 1N / Astra 1P (19.2°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1296348,
+      "bytes": 1296412,
       "frequency_rows": 125,
       "channel_rows": 1013,
       "advertised_records": 1045,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-10-09T20:01:03.254059+00:00",
+  "generated_utc": "2026-10-10T09:30:10.695520+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 0,
       "tv": 0,
       "radio": 0,
-      "source_updated": "2026-10-08"
+      "source_updated": "2026-10-10"
     }
   ]
 }
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-10-09T20:01:05.594895+00:00",
+  "run_utc": "2026-10-10T09:30:13.063921+00:00",
   "ok": true,
   "should_publish": false,
   "source": "Satbeams API",
