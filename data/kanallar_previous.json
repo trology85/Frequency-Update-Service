@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "09.10.2026 10:08:24",
+  "guncelleme_tarihi": "09.10.2026 20:00:43",
   "uydu_adi": "Türksat 42.0°E",
-  "toplam_kanal": 743,
+  "toplam_kanal": 745,
   "toplam_tp": 53,
   "transponderler": [
     {
@@ -587,9 +587,9 @@
       "fec": "2/3",
       "uydu": "T4A",
       "kapsama": "Batı",
-      "kanal_sayisi": 15,
+      "kanal_sayisi": 14,
       "tv_sayisi": 12,
-      "radyo_sayisi": 3,
+      "radyo_sayisi": 2,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
     },
@@ -699,9 +699,9 @@
       "fec": "2/3",
       "uydu": "T3A",
       "kapsama": "Batı",
-      "kanal_sayisi": 4,
+      "kanal_sayisi": 3,
       "tv_sayisi": 0,
-      "radyo_sayisi": 4,
+      "radyo_sayisi": 3,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
     },
@@ -727,8 +727,8 @@
       "fec": "2/3",
       "uydu": "T4A",
       "kapsama": "Ka-West",
-      "kanal_sayisi": 21,
-      "tv_sayisi": 21,
+      "kanal_sayisi": 25,
+      "tv_sayisi": 25,
       "radyo_sayisi": 0,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -10078,22 +10078,6 @@
       "konum_adi": "Türksat 42.0°E"
     },
     {
-      "kanal_adi": "RADIOSPUTNIK",
-      "frekans": 12423,
-      "polarizasyon": "V",
-      "kapsama": "Batı",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "",
-      "ses_pid": "5933",
-      "uydu": "T4A",
-      "kalite": "Bilinmeyen",
-      "tur": "RADYO",
-      "tp_id": "12423_V_27500",
-      "konum_id": "turksat_42",
-      "konum_adi": "Türksat 42.0°E"
-    },
-    {
       "kanal_adi": "RADYO SPOR",
       "frekans": 12423,
       "polarizasyon": "V",
@@ -12046,22 +12030,6 @@
       "konum_adi": "Türksat 42.0°E"
     },
     {
-      "kanal_adi": "RADIOSPUTNIK",
-      "frekans": 12685,
-      "polarizasyon": "V",
-      "kapsama": "Batı",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "",
-      "ses_pid": "5944",
-      "uydu": "T3A",
-      "kalite": "Bilinmeyen",
-      "tur": "RADYO",
-      "tp_id": "12685_V_30000",
-      "konum_id": "turksat_42",
-      "konum_adi": "Türksat 42.0°E"
-    },
-    {
       "kanal_adi": "RADYO 7",
       "frekans": 12685,
       "polarizasyon": "V",
@@ -12302,6 +12270,22 @@
       "konum_adi": "Türksat 42.0°E"
     },
     {
+      "kanal_adi": "FOOTPRINT TV",
+      "frekans": 18634,
+      "polarizasyon": "LHCP",
+      "kapsama": "Ka-West",
+      "sembol_orani": 22500,
+      "fec": "2/3",
+      "video_pid": "1940",
+      "ses_pid": "1950",
+      "uydu": "T4A",
+      "kalite": "SD",
+      "tur": "TV",
+      "tp_id": "18634_LHCP_22500",
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
       "kanal_adi": "GHC",
       "frekans": 18634,
       "polarizasyon": "LHCP",
@@ -12382,6 +12366,22 @@
       "konum_adi": "Türksat 42.0°E"
     },
     {
+      "kanal_adi": "MAX TV",
+      "frekans": 18634,
+      "polarizasyon": "LHCP",
+      "kapsama": "Ka-West",
+      "sembol_orani": 22500,
+      "fec": "2/3",
+      "video_pid": "544",
+      "ses_pid": "800",
+      "uydu": "T4A",
+      "kalite": "SD",
+      "tur": "TV",
+      "tp_id": "18634_LHCP_22500",
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
       "kanal_adi": "MBC 2",
       "frekans": 18634,
       "polarizasyon": "LHCP",
@@ -12414,6 +12414,22 @@
       "konum_adi": "Türksat 42.0°E"
     },
     {
+      "kanal_adi": "MX24 TV",
+      "frekans": 18634,
+      "polarizasyon": "LHCP",
+      "kapsama": "Ka-West",
+      "sembol_orani": 22500,
+      "fec": "2/3",
+      "video_pid": "528",
+      "ses_pid": "784",
+      "uydu": "T4A",
+      "kalite": "SD",
+      "tur": "TV",
+      "tp_id": "18634_LHCP_22500",
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
       "kanal_adi": "PROPERTY TV",
       "frekans": 18634,
       "polarizasyon": "LHCP",
@@ -12438,6 +12454,22 @@
       "fec": "2/3",
       "video_pid": "4113",
       "ses_pid": "4552",
+      "uydu": "T4A",
+      "kalite": "SD",
+      "tur": "TV",
+      "tp_id": "18634_LHCP_22500",
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
+      "kanal_adi": "SIRIUS TV",
+      "frekans": 18634,
+      "polarizasyon": "LHCP",
+      "kapsama": "Ka-West",
+      "sembol_orani": 22500,
+      "fec": "2/3",
+      "video_pid": "256",
+      "ses_pid": "257",
       "uydu": "T4A",
       "kalite": "SD",
       "tur": "TV",
