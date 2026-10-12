@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "11.10.2026 19:21:55",
+  "guncelleme_tarihi": "12.10.2026 10:19:12",
   "uydu_adi": "Türksat 42.0°E",
-  "toplam_kanal": 745,
+  "toplam_kanal": 743,
   "toplam_tp": 53,
   "transponderler": [
     {
@@ -419,8 +419,8 @@
       "fec": "3/4",
       "uydu": "T6A",
       "kapsama": "Batı",
-      "kanal_sayisi": 13,
-      "tv_sayisi": 12,
+      "kanal_sayisi": 12,
+      "tv_sayisi": 11,
       "radyo_sayisi": 1,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -503,8 +503,8 @@
       "fec": "3/4",
       "uydu": "T4A",
       "kapsama": "Batı",
-      "kanal_sayisi": 38,
-      "tv_sayisi": 26,
+      "kanal_sayisi": 37,
+      "tv_sayisi": 25,
       "radyo_sayisi": 12,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -6622,22 +6622,6 @@
       "konum_adi": "Türksat 42.0°E"
     },
     {
-      "kanal_adi": "NEO",
-      "frekans": 12111,
-      "polarizasyon": "V",
-      "kapsama": "Batı",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "5558",
-      "ses_pid": "5658",
-      "uydu": "T6A",
-      "kalite": "SD",
-      "tur": "TV",
-      "tp_id": "12111_V_27500",
-      "konum_id": "turksat_42",
-      "konum_adi": "Türksat 42.0°E"
-    },
-    {
       "kanal_adi": "RADYO 7",
       "frekans": 12111,
       "polarizasyon": "V",
@@ -9270,22 +9254,6 @@
       "fec": "3/4",
       "video_pid": "3458",
       "ses_pid": "3558",
-      "uydu": "T4A",
-      "kalite": "SD",
-      "tur": "TV",
-      "tp_id": "12265_V_27500",
-      "konum_id": "turksat_42",
-      "konum_adi": "Türksat 42.0°E"
-    },
-    {
-      "kanal_adi": "İKRA TV",
-      "frekans": 12265,
-      "polarizasyon": "V",
-      "kapsama": "Batı",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "3471",
-      "ses_pid": "3571",
       "uydu": "T4A",
       "kalite": "SD",
       "tur": "TV",
