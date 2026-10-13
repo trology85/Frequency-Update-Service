@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-10-13T10:10:24.632804+00:00",
+  "olusturma_zamani_utc": "2026-10-13T20:32:01.589581+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 830,
     "yeni_kanal": 830,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 5,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
@@ -19,74 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "thor_1w|thor_1w:12092:H:28000|sid:1250",
-      "kanal_adi": "Rádio Vocea Sperantej",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "",
-          "yeni": "1252 / rum"
-        },
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "Focus Sat / DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12092:H:28000|sid:2520",
-      "kanal_adi": "Kiss FM",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12092:H:28000|sid:2896",
-      "kanal_adi": "Romania TV",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "",
-          "yeni": "876 / rum"
-        },
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "Focus Sat / DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12092:H:28000|sid:3100",
-      "kanal_adi": "SuperOne HD",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "",
-          "yeni": "3202 / eng"
-        },
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "DIGI RO"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12092:H:28000|sid:3110",
-      "kanal_adi": "Pro tv International",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "",
-          "yeni": "3112 / rum"
-        },
-        "paket": {
-          "onceki": "Digi TV",
-          "yeni": "Focus Sat / DIGI RO"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

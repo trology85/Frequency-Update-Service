@@ -1,13 +1,13 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-10-13T10:09:43.594411+00:00",
+  "olusturma_zamani_utc": "2026-10-13T20:31:20.449658+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 866,
+    "onceki_kanal": 867,
     "yeni_kanal": 867,
-    "eklenen_kanal": 1,
+    "eklenen_kanal": 0,
     "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
@@ -15,45 +15,12 @@
     "yeni_tp": 88,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "CNN International",
-      "frekans": 12344,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "9/10",
-      "video_pid": "1791",
-      "ses_pid": "1795 / eng",
-      "uydu": "Astra 1P",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "2060",
-      "paket": "Sky Germany",
-      "tp_id": "astra_19_2:12344:H:27500",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE2"
-    }
-  ],
+  "eklenen_kanallar": [],
   "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "astra_19_2:12344:H:27500",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 9,
-          "yeni": 10
-        },
-        "tv_sayisi": {
-          "onceki": 9,
-          "yeni": 10
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }
