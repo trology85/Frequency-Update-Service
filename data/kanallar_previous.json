@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "12.10.2026 10:19:12",
+  "guncelleme_tarihi": "12.10.2026 22:24:30",
   "uydu_adi": "Türksat 42.0°E",
-  "toplam_kanal": 743,
+  "toplam_kanal": 744,
   "toplam_tp": 53,
   "transponderler": [
     {
@@ -503,8 +503,8 @@
       "fec": "3/4",
       "uydu": "T4A",
       "kapsama": "Batı",
-      "kanal_sayisi": 37,
-      "tv_sayisi": 25,
+      "kanal_sayisi": 38,
+      "tv_sayisi": 26,
       "radyo_sayisi": 12,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -9254,6 +9254,22 @@
       "fec": "3/4",
       "video_pid": "3458",
       "ses_pid": "3558",
+      "uydu": "T4A",
+      "kalite": "SD",
+      "tur": "TV",
+      "tp_id": "12265_V_27500",
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
+      "kanal_adi": "İKRA TV",
+      "frekans": 12265,
+      "polarizasyon": "V",
+      "kapsama": "Batı",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "3471",
+      "ses_pid": "3571",
       "uydu": "T4A",
       "kalite": "SD",
       "tur": "TV",
