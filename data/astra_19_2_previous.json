@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-10-02T19:46:51.131028+00:00",
+  "guncelleme_tarihi": "2026-10-07T09:54:52.439265+00:00",
   "uydu_adi": "Astra 19.2°E",
-  "toplam_kanal": 875,
+  "toplam_kanal": 876,
   "toplam_tp": 88,
   "transponderler": [
     {
@@ -1049,8 +1049,8 @@
       "fec": "2/3",
       "uydu": "Astra 1N",
       "kapsama": "PE",
-      "kanal_sayisi": 14,
-      "tv_sayisi": 14,
+      "kanal_sayisi": 15,
+      "tv_sayisi": 15,
       "radyo_sayisi": 0,
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E"
@@ -12722,6 +12722,24 @@
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E",
       "kapsama": "PE2"
+    },
+    {
+      "kanal_adi": "RMC Šport 1 HD",
+      "frekans": 12402,
+      "polarizasyon": "V",
+      "sembol_orani": 29700,
+      "fec": "2/3",
+      "video_pid": "1910",
+      "ses_pid": "1920 / fre",
+      "uydu": "Astra 1N",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "10019",
+      "paket": "Canal+ France",
+      "tp_id": "astra_19_2:12402:V:29700",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE"
     },
     {
       "kanal_adi": "Rock Antenne",
