@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-09T10:09:19.514688+00:00",
+  "generated_utc": "2026-10-17T17:48:02.878952+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=28E",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-17"
   },
   "satellite": {
     "id": "astra_28_2",
@@ -1375,7 +1375,7 @@
       "tid": null,
       "source_channel_id": 169442,
       "source_transponder_id": 1393,
-      "updated": "2026-08-18",
+      "updated": "2026-10-17",
       "tp_id": "astra_28_2:10773:H:23000"
     },
     {
