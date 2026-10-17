@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-13T10:09:43.446553+00:00",
+  "generated_utc": "2026-10-17T07:34:15.903406+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=19E",
-    "last_updated": "2026-10-12"
+    "last_updated": "2026-10-16"
   },
   "satellite": {
     "id": "astra_19_2",
@@ -15409,14 +15409,14 @@
       "package": "",
       "encryption": "",
       "free_to_air": true,
-      "compression": "MPEG-2",
+      "compression": "MPEG-4",
       "vpid": 2559,
       "audio": "2560 / ger",
       "nid": 1,
       "tid": 1031,
       "source_channel_id": 158319,
       "source_transponder_id": 8567,
-      "updated": "2025-01-26",
+      "updated": "2026-10-16",
       "tp_id": "astra_19_2:11671:H:22000"
     },
     {
@@ -15440,14 +15440,14 @@
       "package": "",
       "encryption": "",
       "free_to_air": true,
-      "compression": "MPEG-2",
+      "compression": "MPEG-4",
       "vpid": 2815,
       "audio": "2816 / ger",
       "nid": 1,
       "tid": 1031,
       "source_channel_id": 85379,
       "source_transponder_id": 8567,
-      "updated": "2014-06-18",
+      "updated": "2026-10-16",
       "tp_id": "astra_19_2:11671:H:22000"
     },
     {
@@ -15471,14 +15471,14 @@
       "package": "",
       "encryption": "",
       "free_to_air": true,
-      "compression": "MPEG-2",
+      "compression": "MPEG-4",
       "vpid": 3071,
       "audio": "3072 / ger",
       "nid": 1,
       "tid": 1031,
       "source_channel_id": 85380,
       "source_transponder_id": 8567,
-      "updated": "2014-06-18",
+      "updated": "2026-10-16",
       "tp_id": "astra_19_2:11671:H:22000"
     },
     {
@@ -15502,14 +15502,14 @@
       "package": "",
       "encryption": "",
       "free_to_air": true,
-      "compression": "MPEG-2",
+      "compression": "MPEG-4",
       "vpid": 3327,
       "audio": "3328 / ger",
       "nid": 1,
       "tid": 1031,
       "source_channel_id": 158320,
       "source_transponder_id": 8567,
-      "updated": "2025-01-26",
+      "updated": "2026-10-16",
       "tp_id": "astra_19_2:11671:H:22000"
     },
     {
