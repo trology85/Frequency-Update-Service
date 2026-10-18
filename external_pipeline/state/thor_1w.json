@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-18T07:50:12.370467+00:00",
+  "generated_utc": "2026-10-18T17:53:00.740588+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-10-17"
+    "last_updated": "2026-10-18"
   },
   "satellite": {
     "id": "thor_1w",
@@ -16424,16 +16424,16 @@
       "beam": "K2",
       "provider": "M7 Group",
       "package": "Focus Sat / Direct One",
-      "encryption": "Cryptoworks / Irdeto 2 / Nagravision 3",
+      "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1201,
-      "audio": "1210 / hun / 1211 / cze",
+      "audio": "1210 / hun",
       "nid": 1536,
       "tid": 705,
       "source_channel_id": 94217,
       "source_transponder_id": 7506,
-      "updated": "2026-07-24",
+      "updated": "2026-10-18",
       "tp_id": "thor_1w:12034:V:30000"
     },
     {

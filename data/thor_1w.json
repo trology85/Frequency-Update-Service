@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-10-18T07:50:12.370467+00:00",
+  "guncelleme_tarihi": "2026-10-18T17:53:00.740588+00:00",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
   "toplam_kanal": 848,
   "toplam_tp": 70,
@@ -5170,7 +5170,7 @@
       "sembol_orani": 30000,
       "fec": "3/4",
       "video_pid": "1201",
-      "ses_pid": "1210 / hun / 1211 / cze",
+      "ses_pid": "1210 / hun",
       "uydu": "Thor 6",
       "kalite": "HD",
       "tur": "TV",

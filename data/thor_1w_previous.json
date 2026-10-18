@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-10-13T10:10:24.494996+00:00",
+  "guncelleme_tarihi": "2026-10-18T07:50:12.370467+00:00",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "toplam_kanal": 846,
+  "toplam_kanal": 848,
   "toplam_tp": 70,
   "transponderler": [
     {
@@ -545,8 +545,8 @@
       "fec": "3/4",
       "uydu": "Thor 6",
       "kapsama": "K2",
-      "kanal_sayisi": 16,
-      "tv_sayisi": 16,
+      "kanal_sayisi": 18,
+      "tv_sayisi": 18,
       "radyo_sayisi": 0,
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
@@ -711,8 +711,8 @@
       "polarizasyon": "H",
       "sembol_orani": 30000,
       "fec": "3/4",
-      "uydu": "Thor 7",
-      "kapsama": "CEE",
+      "uydu": "Thor 6",
+      "kapsama": "K1",
       "kanal_sayisi": 23,
       "tv_sayisi": 23,
       "radyo_sayisi": 0,
@@ -1641,17 +1641,17 @@
       "polarizasyon": "H",
       "sembol_orani": 30000,
       "fec": "3/4",
-      "video_pid": "0",
-      "ses_pid": "",
-      "uydu": "Thor 7",
+      "video_pid": "3002",
+      "ses_pid": "3003 / cze",
+      "uydu": "Thor 6",
       "kalite": "HD",
       "tur": "TV",
       "sid": "4030",
-      "paket": "Slovak Telekom",
+      "paket": "Slovak Telekom / freeSAT",
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "AMC SK HD",
@@ -1935,7 +1935,7 @@
       "kalite": "SD",
       "tur": "TV",
       "sid": "2026",
-      "paket": "Slovak Telekom",
+      "paket": "Magenta TV Sat / Slovak Telekom / Telly",
       "tp_id": "thor_1w:11977:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
@@ -2075,7 +2075,7 @@
       "fec": "3/4",
       "video_pid": "1402",
       "ses_pid": "1403 / cze",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "SD",
       "tur": "TV",
       "sid": "4014",
@@ -2083,7 +2083,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "Bartok Radio",
@@ -2871,7 +2871,7 @@
       "kalite": "SD",
       "tur": "TV",
       "sid": "2027",
-      "paket": "Slovak Telekom",
+      "paket": "Magenta TV Sat / Slovak Telekom",
       "tp_id": "thor_1w:11977:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
@@ -2957,7 +2957,7 @@
       "fec": "3/4",
       "video_pid": "2902",
       "ses_pid": "2903 / cze",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "HD",
       "tur": "TV",
       "sid": "4029",
@@ -2965,7 +2965,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "Comedy Central Romania",
@@ -3123,7 +3123,7 @@
       "kalite": "SD",
       "tur": "TV",
       "sid": "2028",
-      "paket": "Slovak Telekom",
+      "paket": "Magenta TV Sat / Slovak Telekom / Telly",
       "tp_id": "thor_1w:11977:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
@@ -3191,7 +3191,7 @@
       "fec": "3/4",
       "video_pid": "2402",
       "ses_pid": "0 / cze",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "HD",
       "tur": "TV",
       "sid": "4024",
@@ -3199,7 +3199,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "CT :D/CT Art HD",
@@ -4109,7 +4109,7 @@
       "fec": "3/4",
       "video_pid": "1902",
       "ses_pid": "221 / cze",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "SD",
       "tur": "TV",
       "sid": "4019",
@@ -4117,7 +4117,25 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
+    },
+    {
+      "kanal_adi": "DVTV EXTRA SK",
+      "frekans": 11977,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "2502",
+      "ses_pid": "221 / slo",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "2025",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:11977:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
     },
     {
       "kanal_adi": "DW English HD",
@@ -5045,7 +5063,7 @@
       "fec": "3/4",
       "video_pid": "0",
       "ses_pid": "",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "SD",
       "tur": "TV",
       "sid": "4031",
@@ -5053,7 +5071,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "Film+ SK",
@@ -5139,7 +5157,7 @@
       "kalite": "SD",
       "tur": "TV",
       "sid": "6026",
-      "paket": "Slovak Telekom",
+      "paket": "Magenta TV Sat / Slovak Telekom / freeSAT",
       "tp_id": "thor_1w:12380:V:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
@@ -5351,7 +5369,7 @@
       "fec": "3/4",
       "video_pid": "2702",
       "ses_pid": "2703 / cze / 2704 / eng",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "SD",
       "tur": "TV",
       "sid": "4027",
@@ -5359,7 +5377,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "Food Network",
@@ -5585,7 +5603,7 @@
       "fec": "3/4",
       "video_pid": "1602",
       "ses_pid": "1603 / cze / 1604 / eng / 1605 / hun",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "HD",
       "tur": "TV",
       "sid": "4016",
@@ -5593,7 +5611,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "HBO 3 HD",
@@ -5603,7 +5621,7 @@
       "fec": "3/4",
       "video_pid": "2102",
       "ses_pid": "2103 / cze / 2104 / eng / 2105 / hun",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "HD",
       "tur": "TV",
       "sid": "4021",
@@ -5611,7 +5629,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "HBO 3 HU Central Europe",
@@ -6377,7 +6395,7 @@
       "fec": "3/4",
       "video_pid": "1802",
       "ses_pid": "1803 / slo",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "HD",
       "tur": "TV",
       "sid": "4018",
@@ -6385,7 +6403,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "JOJ Šport HD (SVT)",
@@ -6431,7 +6449,7 @@
       "fec": "3/4",
       "video_pid": "2302",
       "ses_pid": "2304 / 000 / 2303 / slo",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "SD",
       "tur": "TV",
       "sid": "4023",
@@ -6439,7 +6457,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "Kanal 10 Norge",
@@ -6845,7 +6863,7 @@
       "fec": "3/4",
       "video_pid": "1502",
       "ses_pid": "1503 / cze",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "SD",
       "tur": "TV",
       "sid": "4015",
@@ -6853,7 +6871,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "Kinohit",
@@ -7540,6 +7558,24 @@
       "kapsama": "CEE"
     },
     {
+      "kanal_adi": "Markíza Klasik",
+      "frekans": 11977,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "2002",
+      "ses_pid": "2003 / slo",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "2020",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:11977:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
       "kanal_adi": "Markíza Krimi",
       "frekans": 12245,
       "polarizasyon": "H",
@@ -7547,7 +7583,7 @@
       "fec": "3/4",
       "video_pid": "1302",
       "ses_pid": "1303 / slo",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "SD",
       "tur": "TV",
       "sid": "4013",
@@ -7555,7 +7591,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "Match 4",
@@ -9041,7 +9077,7 @@
       "fec": "3/4",
       "video_pid": "2602",
       "ses_pid": "2603 / cze / 2604 / eng",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "HD",
       "tur": "TV",
       "sid": "4026",
@@ -9049,7 +9085,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "Nova Sport 4",
@@ -10085,7 +10121,7 @@
       "fec": "3/4",
       "video_pid": "2802",
       "ses_pid": "2803 / cze / 2804 / eng",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "HD",
       "tur": "TV",
       "sid": "4028",
@@ -10093,7 +10129,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "Premiér Sport 1 CZ HD",
@@ -10103,7 +10139,7 @@
       "fec": "3/4",
       "video_pid": "2002",
       "ses_pid": "2003 / cze / 2004 / eng",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "HD",
       "tur": "TV",
       "sid": "4020",
@@ -10111,7 +10147,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "Prima COOL",
@@ -10229,7 +10265,7 @@
       "fec": "3/4",
       "video_pid": "1202",
       "ses_pid": "1203 / cze",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "HD",
       "tur": "TV",
       "sid": "4012",
@@ -10237,7 +10273,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "PRIMA KRIMI SK",
@@ -11597,7 +11633,7 @@
       "fec": "3/4",
       "video_pid": "0",
       "ses_pid": "",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "HD",
       "tur": "TV",
       "sid": "4032",
@@ -11605,7 +11641,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "Spektrum SK HD",
@@ -11921,7 +11957,7 @@
       "fec": "3/4",
       "video_pid": "2502",
       "ses_pid": "2503 / slo",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "SD",
       "tur": "TV",
       "sid": "4025",
@@ -11929,7 +11965,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "STVR :24",
@@ -12767,7 +12803,7 @@
       "fec": "3/4",
       "video_pid": "3302",
       "ses_pid": "3303 / cze / 3304 / eng / 3305 / hun",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "SD",
       "tur": "TV",
       "sid": "4033",
@@ -12775,7 +12811,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "TLC Pan Regional",
@@ -13599,7 +13635,7 @@
       "kalite": "SD",
       "tur": "TV",
       "sid": "9031",
-      "paket": "Slovak Telekom",
+      "paket": "freeSAT",
       "tp_id": "thor_1w:12456:V:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
@@ -13631,7 +13667,7 @@
       "fec": "3/4",
       "video_pid": "1702",
       "ses_pid": "1703 / slo",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "SD",
       "tur": "TV",
       "sid": "4017",
@@ -13639,7 +13675,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "TV Lux",
@@ -15611,7 +15647,7 @@
       "fec": "3/4",
       "video_pid": "2202",
       "ses_pid": "2203 / cze / 2204 / eng / 2205 / hun",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "HD",
       "tur": "TV",
       "sid": "4022",
@@ -15619,7 +15655,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "Viasat History",
@@ -15971,7 +16007,7 @@
       "fec": "3/4",
       "video_pid": "1102",
       "ses_pid": "1103 / cze / 1104 / eng",
-      "uydu": "Thor 7",
+      "uydu": "Thor 6",
       "kalite": "SD",
       "tur": "TV",
       "sid": "4011",
@@ -15979,7 +16015,7 @@
       "tp_id": "thor_1w:12245:H:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
+      "kapsama": "K1"
     },
     {
       "kanal_adi": "Warner TV Romania",
