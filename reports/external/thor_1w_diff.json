@@ -1,26 +1,383 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-10-17T17:48:12.017992+00:00",
+  "olusturma_zamani_utc": "2026-10-18T07:50:12.519942+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 830,
-    "yeni_kanal": 830,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 832,
+    "eklenen_kanal": 2,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 28,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 2
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Markíza Klasik",
+      "frekans": 11977,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "2002",
+      "ses_pid": "2003 / slo",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "2020",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:11977:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "DVTV EXTRA SK",
+      "frekans": 11977,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "2502",
+      "ses_pid": "221 / slo",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "2025",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:11977:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:11977:H:30000|sid:2026",
+      "kanal_adi": "Auto Motor Šport",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11977:H:30000|sid:2027",
+      "kanal_adi": "CNN International",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11977:H:30000|sid:2028",
+      "kanal_adi": "CS Film/CS Horror",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom / Telly"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4011",
+      "kanal_adi": "Warner TV Czech",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4012",
+      "kanal_adi": "Prima KRIMI HD",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4013",
+      "kanal_adi": "Markíza Krimi",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4014",
+      "kanal_adi": "Barandov Krimi",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4015",
+      "kanal_adi": "Kino Barandov",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4016",
+      "kanal_adi": "HBO 2 HD",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4017",
+      "kanal_adi": "TV Folklorika",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4018",
+      "kanal_adi": "JOJ Svet HD",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4019",
+      "kanal_adi": "DVTV EXTRA",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4020",
+      "kanal_adi": "Premiér Sport 1 CZ HD",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4021",
+      "kanal_adi": "HBO 3 HD",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4022",
+      "kanal_adi": "Viasat Explore HD",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4023",
+      "kanal_adi": "Kanal 1 Slovakia",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4024",
+      "kanal_adi": "CT 24",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4025",
+      "kanal_adi": "Strike TV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4026",
+      "kanal_adi": "Nova Sport 3 HD",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4027",
+      "kanal_adi": "Food Network",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4028",
+      "kanal_adi": "Premier Sport 3",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4029",
+      "kanal_adi": "CNN Prima News HD",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4030",
+      "kanal_adi": "AMC SK HD",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "0",
+          "yeni": "3002"
+        },
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3003 / cze"
+        },
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Slovak Telekom / freeSAT"
+        },
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4031",
+      "kanal_adi": "Film+ SK",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4032",
+      "kanal_adi": "Spektrum SK HD",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4033",
+      "kanal_adi": "TLC Pan Regional",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6026",
+      "kanal_adi": "FILMBOX+ Emotion",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Magenta TV Sat / Slovak Telekom / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9031",
+      "kanal_adi": "TV Barandov",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "freeSAT"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "thor_1w:11977:H:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 16,
+          "yeni": 18
+        },
+        "tv_sayisi": {
+          "onceki": 16,
+          "yeni": 18
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:12245:H:30000",
+      "degisiklikler": {
+        "uydu": {
+          "onceki": "Thor 7",
+          "yeni": "Thor 6"
+        },
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "K1"
+        }
+      }
+    }
+  ]
 }

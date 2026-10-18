@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-10-17T17:47:56.457997+00:00",
+  "run_utc": "2026-10-18T07:50:00.857332+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-10-17T17:47:58.307503+00:00",
+  "run_utc": "2026-10-18T07:50:02.486546+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-28.2E",
       "title": "Astra 2E / Astra 2F / Astra 2G (28.2°E) -  - Frekanslar - KingOfSat",
-      "bytes": 965491,
-      "frequency_rows": 159,
+      "bytes": 943838,
+      "frequency_rows": 158,
       "channel_rows": 608,
-      "advertised_records": 718,
+      "advertised_records": 717,
       "block_markers": [],
       "raw_file": "raw/kingofsat/astra_28_2.html",
       "errors": []
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-10-17T17:48:01.538246+00:00",
+  "generated_utc": "2026-10-18T07:50:05.080036+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 0,
       "tv": 0,
       "radio": 0,
-      "source_updated": "2026-10-16"
+      "source_updated": "2026-10-18"
     }
   ]
 }
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-10-17T17:48:02.989573+00:00",
+  "run_utc": "2026-10-18T07:50:05.989631+00:00",
   "ok": true,
-  "should_publish": true,
+  "should_publish": false,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -125,12 +125,12 @@
       "missing_core_fields": 0,
       "duplicate_identities": 0,
       "candidate_hash": "9ce2ca8b3f87270862507a34915352c9ae878fd7b04640a238a8ce6e37e6a1dc",
-      "current_hash": "a82c7b6426815d43e2e897720dc658407579cd46ea46350cbe629e3263b80062",
-      "changed": true,
+      "current_hash": "9ce2ca8b3f87270862507a34915352c9ae878fd7b04640a238a8ce6e37e6a1dc",
+      "changed": false,
       "added": 0,
       "removed": 0,
-      "updated": 1
+      "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=true
+SHOULD_PUBLISH=false

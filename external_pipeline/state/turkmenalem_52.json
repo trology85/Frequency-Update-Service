@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-08T10:07:20.520568+00:00",
+  "generated_utc": "2026-10-18T07:50:16.701374+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=52E",
-    "last_updated": "2026-10-07"
+    "last_updated": "2026-10-17"
   },
   "satellite": {
     "id": "turkmenalem_52",
@@ -13660,8 +13660,8 @@
       "beam": "MENA",
       "provider": "MMB",
       "package": "",
-      "encryption": "",
-      "free_to_air": true,
+      "encryption": "Conax",
+      "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 7151,
       "audio": "",
@@ -13669,7 +13669,7 @@
       "tid": null,
       "source_channel_id": 168405,
       "source_transponder_id": 13328,
-      "updated": "2026-07-24",
+      "updated": "2026-10-17",
       "tp_id": "turkmenalem_52:12475:H:27500"
     },
     {
