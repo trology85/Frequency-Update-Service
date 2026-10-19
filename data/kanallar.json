@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "19.10.2026 08:32:34",
+  "guncelleme_tarihi": "19.10.2026 20:24:07",
   "uydu_adi": "Türksat 42.0°E",
-  "toplam_kanal": 747,
+  "toplam_kanal": 746,
   "toplam_tp": 53,
   "transponderler": [
     {
@@ -419,8 +419,8 @@
       "fec": "3/4",
       "uydu": "T6A",
       "kapsama": "Batı",
-      "kanal_sayisi": 12,
-      "tv_sayisi": 11,
+      "kanal_sayisi": 11,
+      "tv_sayisi": 10,
       "radyo_sayisi": 1,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -6554,22 +6554,6 @@
       "kalite": "Bilinmeyen",
       "tur": "RADYO",
       "tp_id": "12092_H_27500",
-      "konum_id": "turksat_42",
-      "konum_adi": "Türksat 42.0°E"
-    },
-    {
-      "kanal_adi": "ALİKHBARİA TV",
-      "frekans": 12111,
-      "polarizasyon": "V",
-      "kapsama": "Batı",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "5559",
-      "ses_pid": "5659",
-      "uydu": "T6A",
-      "kalite": "HD",
-      "tur": "TV",
-      "tp_id": "12111_V_27500",
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
     },
