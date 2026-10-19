@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-10-18T17:53:00.917662+00:00",
+  "olusturma_zamani_utc": "2026-10-19T08:33:46.761446+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 832,
     "yeni_kanal": 832,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
-    "degisen_kanal": 1,
+    "eklenen_kanal": 2,
+    "silinen_kanal": 2,
+    "degisen_kanal": 6,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
@@ -17,16 +17,176 @@
     "silinen_tp": 0,
     "degisen_tp": 0
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Love Nature HD",
+      "frekans": 12034,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "701",
+      "ses_pid": "710 / slo",
+      "uydu": "Thor 6",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "30528",
+      "paket": "M7 Group",
+      "tp_id": "thor_1w:12034:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "Viasat Film",
+      "frekans": 12265,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "1351",
+      "ses_pid": "1360 / hun",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30924",
+      "paket": "Digi TV",
+      "tp_id": "thor_1w:12265:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    }
+  ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "Joj Sport",
+      "frekans": 12034,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "701",
+      "ses_pid": "710 / slo",
+      "uydu": "Thor 6",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "30513",
+      "paket": "M7 Group",
+      "tp_id": "thor_1w:12034:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "Extreme Sports Channel",
+      "frekans": 12265,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "201",
+      "ses_pid": "210 / hun / 211 / eng",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30903",
+      "paket": "M7 Group",
+      "tp_id": "thor_1w:12265:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    }
+  ],
   "degisen_kanallar": [
     {
-      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30523",
-      "kanal_adi": "FilmBox+ Emotion HD",
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4031",
+      "kanal_adi": "Film+ SK",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "0",
+          "yeni": "3102"
+        },
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3103 / ces"
+        },
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Slovak Telekom / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4032",
+      "kanal_adi": "Spektrum SK HD",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "0",
+          "yeni": "3202"
+        },
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3203 / cze / 3204 / hun"
+        },
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Slovak Telekom / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12265:V:28000|sid:30913",
+      "kanal_adi": "Viasat 2",
       "degisiklikler": {
         "ses_pid": {
-          "onceki": "1210 / hun / 1211 / cze",
-          "yeni": "1210 / hun"
+          "onceki": "1310 / hun",
+          "yeni": "1310 / hun / 1311 / eng"
+        },
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "Direct One"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12265:V:28000|sid:30917",
+      "kanal_adi": "Viasat 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "1310 / hun"
+        },
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "Digi TV"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12265:V:28000|sid:30936",
+      "kanal_adi": "Moziklub",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Mezzo",
+          "yeni": "Moziklub"
+        },
+        "video_pid": {
+          "onceki": "2151",
+          "yeni": "2401"
+        },
+        "ses_pid": {
+          "onceki": "2160 / fre",
+          "yeni": "2410 / hun"
+        },
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "Direct One"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6021",
+      "kanal_adi": "Prima SK",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom",
+          "yeni": "Slovak Telekom / freeSAT"
         }
       }
     }
