@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-19T08:33:46.580815+00:00",
+  "generated_utc": "2026-10-20T08:14:43.365533+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-10-18"
+    "last_updated": "2026-10-19"
   },
   "satellite": {
     "id": "thor_1w",
@@ -16,10 +16,10 @@
     "channels": 848,
     "tv": 781,
     "radio": 67,
-    "sd": 398,
+    "sd": 399,
     "hd": 278,
     "uhd_4k": 3,
-    "unknown_quality": 102
+    "unknown_quality": 101
   },
   "transponders": [
     {
@@ -8999,7 +8999,7 @@
     {
       "name": "HirTV",
       "type": "TV",
-      "quality": "UNKNOWN",
+      "quality": "SD",
       "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "spacecraft": "Thor 6",
       "position": "0.8W",
@@ -9014,7 +9014,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "M7 Group",
-      "package": "Focus Sat / Direct One",
+      "package": "Focus Sat / Direct One / freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -9024,7 +9024,7 @@
       "tid": 701,
       "source_channel_id": 32064,
       "source_transponder_id": 7034,
-      "updated": "2021-03-30",
+      "updated": "2026-10-19",
       "tp_id": "thor_1w:11727:V:28000"
     },
     {
@@ -9541,7 +9541,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "M7 Group",
-      "package": "M7 Group",
+      "package": "freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -9551,7 +9551,7 @@
       "tid": 701,
       "source_channel_id": 162794,
       "source_transponder_id": 7034,
-      "updated": "2025-09-30",
+      "updated": "2026-10-19",
       "tp_id": "thor_1w:11727:V:28000"
     },
     {
@@ -12021,7 +12021,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Digi TV",
-      "package": "Focus Sat / DIGI RO / Slovak Telekom",
+      "package": "Focus Sat / DIGI RO / Slovak Telekom / freeSAT",
       "encryption": "",
       "free_to_air": true,
       "compression": "MPEG-2",
@@ -12031,7 +12031,7 @@
       "tid": 12,
       "source_channel_id": 11605,
       "source_transponder_id": 6502,
-      "updated": "2026-09-22",
+      "updated": "2026-10-19",
       "tp_id": "thor_1w:11900:H:28000"
     },
     {
@@ -12176,7 +12176,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Digi TV",
-      "package": "DIGI RO / Slovak Telekom",
+      "package": "DIGI RO / Slovak Telekom / freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -12186,7 +12186,7 @@
       "tid": 12,
       "source_channel_id": 169713,
       "source_transponder_id": 6502,
-      "updated": "2026-09-22",
+      "updated": "2026-10-19",
       "tp_id": "thor_1w:11900:H:28000"
     },
     {
@@ -14160,7 +14160,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "M7 Group",
-      "package": "",
+      "package": "freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -14170,7 +14170,7 @@
       "tid": null,
       "source_channel_id": 157583,
       "source_transponder_id": 4034,
-      "updated": "2024-12-02",
+      "updated": "2026-10-19",
       "tp_id": "thor_1w:11958:V:28000"
     },
     {
@@ -14377,7 +14377,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "M7 Group",
-      "package": "",
+      "package": "freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -14387,7 +14387,7 @@
       "tid": null,
       "source_channel_id": 157579,
       "source_transponder_id": 4034,
-      "updated": "2024-12-02",
+      "updated": "2026-10-19",
       "tp_id": "thor_1w:11958:V:28000"
     },
     {
@@ -14408,7 +14408,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "M7 Group",
-      "package": "",
+      "package": "freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -14418,7 +14418,7 @@
       "tid": null,
       "source_channel_id": 157589,
       "source_transponder_id": 4034,
-      "updated": "2024-12-02",
+      "updated": "2026-10-19",
       "tp_id": "thor_1w:11958:V:28000"
     },
     {
@@ -14470,7 +14470,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "M7 Group",
-      "package": "",
+      "package": "freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -14480,7 +14480,7 @@
       "tid": null,
       "source_channel_id": 157591,
       "source_transponder_id": 4034,
-      "updated": "2024-12-02",
+      "updated": "2026-10-19",
       "tp_id": "thor_1w:11958:V:28000"
     },
     {
@@ -18965,7 +18965,7 @@
       "country_code": "",
       "beam": "T2",
       "provider": "DIGI HU",
-      "package": "Digi TV / Slovak Telekom / Direct One",
+      "package": "Digi TV / Slovak Telekom / Direct One / freeSAT",
       "encryption": "",
       "free_to_air": true,
       "compression": "MPEG-2",
@@ -18975,7 +18975,7 @@
       "tid": 3,
       "source_channel_id": 149121,
       "source_transponder_id": 12824,
-      "updated": "2026-08-08",
+      "updated": "2026-10-19",
       "tp_id": "thor_1w:12130:H:28000"
     },
     {
@@ -21724,7 +21724,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "M7 Group",
-      "package": "Focus Sat / Slovak Telekom",
+      "package": "Focus Sat / Slovak Telekom / freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -21734,7 +21734,7 @@
       "tid": 709,
       "source_channel_id": 34857,
       "source_transponder_id": 6507,
-      "updated": "2026-09-30",
+      "updated": "2026-10-19",
       "tp_id": "thor_1w:12265:V:28000"
     },
     {
