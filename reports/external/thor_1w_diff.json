@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-10-20T18:58:23.003659+00:00",
+  "olusturma_zamani_utc": "2026-10-21T08:19:21.996412+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 832,
     "yeni_kanal": 832,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 9,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
@@ -19,7 +19,98 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:11938:H:28000|sid:30708",
+      "kanal_adi": "Story4 HU",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Focus Sat / Direct One",
+          "yeni": "Focus Sat / Direct One / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31321",
+      "kanal_adi": "*",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31401",
+      "kanal_adi": "Sport 2 Czechia",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Canal+ Magyarország",
+          "yeni": "freeSAT / Canal+ Magyarország"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31404",
+      "kanal_adi": "Story 4",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Canal+ Magyarország",
+          "yeni": "freeSAT / Canal+ Magyarország"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31405",
+      "kanal_adi": "Joj Sport",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Canal+ Magyarország",
+          "yeni": "freeSAT / Canal+ Magyarország"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31407",
+      "kanal_adi": "Bloomberg TV Europe",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Canal+ Magyarország",
+          "yeni": "freeSAT / Canal+ Magyarország"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31413",
+      "kanal_adi": "FilmBox+ One",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Magenta TV Sat / Slovak Telekom / Canal+ Magyarország",
+          "yeni": "Magenta TV Sat / Slovak Telekom / freeSAT / Canal+ Magyarország"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31414",
+      "kanal_adi": "TV Paprika Czechia",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom / Canal+ Magyarország",
+          "yeni": "Slovak Telekom / freeSAT / Canal+ Magyarország"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31415",
+      "kanal_adi": "Sport 1 Czechia",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Slovak Telekom / Canal+ Magyarország",
+          "yeni": "Slovak Telekom / freeSAT / Canal+ Magyarország"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

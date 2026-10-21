@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-20T08:14:43.365533+00:00",
+  "generated_utc": "2026-10-21T08:19:21.850559+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-10-19"
+    "last_updated": "2026-10-20"
   },
   "satellite": {
     "id": "thor_1w",
@@ -10223,7 +10223,7 @@
       "country_code": "",
       "beam": "K2",
       "provider": "Slovak Telekom",
-      "package": "",
+      "package": "Slovak Telekom",
       "encryption": "Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -10233,7 +10233,7 @@
       "tid": null,
       "source_channel_id": 170069,
       "source_transponder_id": 6474,
-      "updated": "2026-10-01",
+      "updated": "2026-10-20",
       "tp_id": "thor_1w:11747:H:30000"
     },
     {
@@ -13757,7 +13757,7 @@
       "country_code": "",
       "beam": "T1Nordic",
       "provider": "M7 Group",
-      "package": "Focus Sat / Direct One",
+      "package": "Focus Sat / Direct One / freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-2",
@@ -13767,7 +13767,7 @@
       "tid": null,
       "source_channel_id": 147794,
       "source_transponder_id": 8564,
-      "updated": "2026-09-09",
+      "updated": "2026-10-20",
       "tp_id": "thor_1w:11938:H:28000"
     },
     {
@@ -18283,7 +18283,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "",
+      "package": "freeSAT",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -18293,7 +18293,7 @@
       "tid": null,
       "source_channel_id": 152153,
       "source_transponder_id": 9428,
-      "updated": "2023-11-28",
+      "updated": "2026-10-20",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
@@ -19058,7 +19058,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "Canal+ Magyarország",
+      "package": "freeSAT / Canal+ Magyarország",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -19068,7 +19068,7 @@
       "tid": null,
       "source_channel_id": 152172,
       "source_transponder_id": 11794,
-      "updated": "2026-01-11",
+      "updated": "2026-10-20",
       "tp_id": "thor_1w:12149:V:30000"
     },
     {
@@ -19089,7 +19089,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "Canal+ Magyarország",
+      "package": "freeSAT / Canal+ Magyarország",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -19099,7 +19099,7 @@
       "tid": null,
       "source_channel_id": 152175,
       "source_transponder_id": 11794,
-      "updated": "2026-01-11",
+      "updated": "2026-10-20",
       "tp_id": "thor_1w:12149:V:30000"
     },
     {
@@ -19120,7 +19120,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "Canal+ Magyarország",
+      "package": "freeSAT / Canal+ Magyarország",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -19130,7 +19130,7 @@
       "tid": null,
       "source_channel_id": 152187,
       "source_transponder_id": 11794,
-      "updated": "2026-01-11",
+      "updated": "2026-10-20",
       "tp_id": "thor_1w:12149:V:30000"
     },
     {
@@ -19151,7 +19151,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "Canal+ Magyarország",
+      "package": "freeSAT / Canal+ Magyarország",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -19161,7 +19161,7 @@
       "tid": null,
       "source_channel_id": 152188,
       "source_transponder_id": 11794,
-      "updated": "2026-01-11",
+      "updated": "2026-10-20",
       "tp_id": "thor_1w:12149:V:30000"
     },
     {
@@ -19244,7 +19244,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "Magenta TV Sat / Slovak Telekom / Canal+ Magyarország",
+      "package": "Magenta TV Sat / Slovak Telekom / freeSAT / Canal+ Magyarország",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -19254,7 +19254,7 @@
       "tid": null,
       "source_channel_id": 152176,
       "source_transponder_id": 11794,
-      "updated": "2026-09-05",
+      "updated": "2026-10-20",
       "tp_id": "thor_1w:12149:V:30000"
     },
     {
@@ -19275,7 +19275,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "Slovak Telekom / Canal+ Magyarország",
+      "package": "Slovak Telekom / freeSAT / Canal+ Magyarország",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -19285,7 +19285,7 @@
       "tid": null,
       "source_channel_id": 152183,
       "source_transponder_id": 11794,
-      "updated": "2026-09-04",
+      "updated": "2026-10-20",
       "tp_id": "thor_1w:12149:V:30000"
     },
     {
@@ -19306,7 +19306,7 @@
       "country_code": "",
       "beam": "CEE",
       "provider": "M7 Group",
-      "package": "Slovak Telekom / Canal+ Magyarország",
+      "package": "Slovak Telekom / freeSAT / Canal+ Magyarország",
       "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -19316,7 +19316,7 @@
       "tid": null,
       "source_channel_id": 152178,
       "source_transponder_id": 11794,
-      "updated": "2026-09-04",
+      "updated": "2026-10-20",
       "tp_id": "thor_1w:12149:V:30000"
     },
     {
