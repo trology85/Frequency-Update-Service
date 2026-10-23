@@ -1,15 +1,15 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-10-22T19:05:14.732808+00:00",
+  "olusturma_zamani_utc": "2026-10-23T08:18:11.443156+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 832,
     "yeni_kanal": 832,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "eklenen_kanal": 1,
+    "silinen_kanal": 1,
+    "degisen_kanal": 4,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
@@ -17,9 +17,92 @@
     "silinen_tp": 0,
     "degisen_tp": 0
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Minimax HU",
+      "frekans": 11958,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "2401",
+      "ses_pid": "2410 / hun",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "31240",
+      "paket": "Focus Sat",
+      "tp_id": "thor_1w:11958:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    }
+  ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "Minimax Czechia",
+      "frekans": 11958,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "501",
+      "ses_pid": "510 / hun / 511 / cze / 514 / slo",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "31209",
+      "paket": "M7 Group",
+      "tp_id": "thor_1w:11958:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    }
+  ],
+  "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:11958:V:28000|sid:31205",
+      "kanal_adi": "JimJam Romania",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "Focus Sat"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11958:V:28000|sid:31231",
+      "kanal_adi": "BBC Earth Romania",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "Focus Sat"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11958:V:28000|sid:31241",
+      "kanal_adi": "ATV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2460 / hun"
+        },
+        "paket": {
+          "onceki": "freeSAT",
+          "yeni": "Focus Sat / freeSAT"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11958:V:28000|sid:31243",
+      "kanal_adi": "Film+ CZE SVT",
+      "degisiklikler": {
+        "paket": {
+          "onceki": "Magenta TV Sat",
+          "yeni": "Magenta TV Sat / Telly"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
