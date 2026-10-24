@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-04T09:24:13.698096+00:00",
+  "generated_utc": "2026-10-24T07:55:55.124731+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=13E",
-    "last_updated": "2026-09-29"
+    "last_updated": "2026-10-23"
   },
   "satellite": {
     "id": "hotbird_13",
@@ -16,8 +16,8 @@
     "channels": 1132,
     "tv": 1032,
     "radio": 100,
-    "sd": 458,
-    "hd": 552,
+    "sd": 459,
+    "hd": 551,
     "uhd_4k": 5,
     "unknown_quality": 17
   },
@@ -7453,7 +7453,7 @@
       "fec": "2/3",
       "system": "DVB-S",
       "modulation": "QPSK",
-      "sid": 8517,
+      "sid": 8518,
       "country": "",
       "country_code": "",
       "beam": "Wide",
@@ -7468,7 +7468,7 @@
       "tid": 12400,
       "source_channel_id": 130801,
       "source_transponder_id": 3397,
-      "updated": "2020-12-22",
+      "updated": "2026-10-23",
       "tp_id": "hotbird_13:10992:V:27500"
     },
     {
@@ -7503,7 +7503,7 @@
       "tp_id": "hotbird_13:10992:V:27500"
     },
     {
-      "name": "Rai Scuola",
+      "name": "Italiana",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Hot Bird 13.0°E",
@@ -7530,7 +7530,7 @@
       "tid": 12400,
       "source_channel_id": 130805,
       "source_transponder_id": 3397,
-      "updated": "2020-12-22",
+      "updated": "2026-10-23",
       "tp_id": "hotbird_13:10992:V:27500"
     },
     {
@@ -8402,9 +8402,9 @@
       "tp_id": "hotbird_13:11013:H:29900"
     },
     {
-      "name": "Rai 5 HD",
+      "name": "Rai News 24",
       "type": "TV",
-      "quality": "HD",
+      "quality": "SD",
       "satellite_group": "Hot Bird 13.0°E",
       "spacecraft": "Eutelsat Hot Bird 13G",
       "position": "13.0E",
@@ -8420,16 +8420,16 @@
       "beam": "Wide",
       "provider": "RAI",
       "package": "",
-      "encryption": "Nagravision 3",
-      "free_to_air": false,
+      "encryption": "",
+      "free_to_air": true,
       "compression": "MPEG-4",
       "vpid": 1810,
-      "audio": "1811 / ita / 0 / ita",
+      "audio": "1811 / ita",
       "nid": 318,
       "tid": 12500,
       "source_channel_id": 99208,
       "source_transponder_id": 11218,
-      "updated": "2025-10-18",
+      "updated": "2026-10-23",
       "tp_id": "hotbird_13:11013:H:29900"
     },
     {
@@ -8451,8 +8451,8 @@
       "beam": "Wide",
       "provider": "RAI",
       "package": "",
-      "encryption": "Nagravision 3",
-      "free_to_air": false,
+      "encryption": "",
+      "free_to_air": true,
       "compression": "MPEG-4",
       "vpid": 1820,
       "audio": "1821 / ita / 0 / ita",
@@ -8460,7 +8460,7 @@
       "tid": 12500,
       "source_channel_id": 94847,
       "source_transponder_id": 11218,
-      "updated": "2025-10-18",
+      "updated": "2026-10-23",
       "tp_id": "hotbird_13:11013:H:29900"
     },
     {

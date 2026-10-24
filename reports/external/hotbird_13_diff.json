@@ -1,15 +1,15 @@
 {
   "uydu_id": "hotbird_13",
   "uydu_adi": "Hot Bird 13.0°E",
-  "olusturma_zamani_utc": "2026-10-23T18:54:37.788433+00:00",
+  "olusturma_zamani_utc": "2026-10-24T07:55:55.315302+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 1020,
     "yeni_kanal": 1020,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "eklenen_kanal": 1,
+    "silinen_kanal": 1,
+    "degisen_kanal": 2,
     "tur_degisen_kanal": 0,
     "onceki_tp": 82,
     "yeni_tp": 82,
@@ -17,9 +17,76 @@
     "silinen_tp": 0,
     "degisen_tp": 0
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Rai Storia",
+      "frekans": 10992,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "518",
+      "ses_pid": "658 / ita",
+      "uydu": "Eutelsat Hot Bird 13F",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "8518",
+      "paket": "RAI",
+      "tp_id": "hotbird_13:10992:V:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    }
+  ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "Rai Storia",
+      "frekans": 10992,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "518",
+      "ses_pid": "658 / ita",
+      "uydu": "Eutelsat Hot Bird 13F",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "8517",
+      "paket": "RAI",
+      "tp_id": "hotbird_13:10992:V:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    }
+  ],
+  "degisen_kanallar": [
+    {
+      "anahtar": "hotbird_13|hotbird_13:10992:V:27500|sid:8521",
+      "kanal_adi": "Italiana",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Rai Scuola",
+          "yeni": "Italiana"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11013:H:29900|sid:17711",
+      "kanal_adi": "Rai News 24",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Rai 5 HD",
+          "yeni": "Rai News 24"
+        },
+        "ses_pid": {
+          "onceki": "1811 / ita / 0 / ita",
+          "yeni": "1811 / ita"
+        },
+        "kalite": {
+          "onceki": "HD",
+          "yeni": "SD"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
