@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-10-07T09:54:52.439265+00:00",
+  "guncelleme_tarihi": "2026-10-13T10:09:43.446553+00:00",
   "uydu_adi": "Astra 19.2°E",
-  "toplam_kanal": 876,
+  "toplam_kanal": 877,
   "toplam_tp": 88,
   "transponderler": [
     {
@@ -1007,8 +1007,8 @@
       "fec": "9/10",
       "uydu": "Astra 1P",
       "kapsama": "PE2",
-      "kanal_sayisi": 9,
-      "tv_sayisi": 9,
+      "kanal_sayisi": 10,
+      "tv_sayisi": 10,
       "radyo_sayisi": 0,
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E"
@@ -4064,6 +4064,24 @@
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E",
       "kapsama": "PE"
+    },
+    {
+      "kanal_adi": "CNN International",
+      "frekans": 12344,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "9/10",
+      "video_pid": "1791",
+      "ses_pid": "1795 / eng",
+      "uydu": "Astra 1P",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "2060",
+      "paket": "Sky Germany",
+      "tp_id": "astra_19_2:12344:H:27500",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
     },
     {
       "kanal_adi": "CNN International Europe",

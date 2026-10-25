@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-17T07:34:15.903406+00:00",
+  "generated_utc": "2026-10-25T08:09:39.940694+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=19E",
-    "last_updated": "2026-10-16"
+    "last_updated": "2026-10-24"
   },
   "satellite": {
     "id": "astra_19_2",
@@ -13,10 +13,10 @@
   },
   "counts": {
     "transponders": 88,
-    "channels": 877,
-    "tv": 744,
+    "channels": 878,
+    "tv": 745,
     "radio": 133,
-    "sd": 319,
+    "sd": 320,
     "hd": 415,
     "uhd_4k": 10,
     "unknown_quality": 0
@@ -1361,8 +1361,8 @@
       "network": "BetaDigital",
       "nid": 133,
       "tid": 7,
-      "channel_count": 9,
-      "tv_count": 5,
+      "channel_count": 10,
+      "tv_count": 6,
       "radio_count": 4,
       "source_transponder_id": 1276
     },
@@ -20502,6 +20502,37 @@
       "source_transponder_id": 12170,
       "updated": "2025-08-05",
       "tp_id": "astra_19_2:12110:H:27500"
+    },
+    {
+      "name": ".",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 19.2°E",
+      "spacecraft": "Astra 1N",
+      "position": "19.2E",
+      "frequency": 12148,
+      "polarization": "H",
+      "symbol_rate": 27500,
+      "fec": "3/4",
+      "system": "DVB-S",
+      "modulation": "QPSK",
+      "sid": 61,
+      "country": "",
+      "country_code": "",
+      "beam": "PE",
+      "provider": "BetaDigital",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-2",
+      "vpid": 1791,
+      "audio": "1792 / deu",
+      "nid": 133,
+      "tid": 7,
+      "source_channel_id": 170448,
+      "source_transponder_id": 1276,
+      "updated": "2026-10-24",
+      "tp_id": "astra_19_2:12148:H:27500"
     },
     {
       "name": "Deluxe Music",

@@ -1,13 +1,13 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-10-24T17:53:13.108880+00:00",
+  "olusturma_zamani_utc": "2026-10-25T08:09:40.121161+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 867,
-    "yeni_kanal": 867,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 868,
+    "eklenen_kanal": 1,
     "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
@@ -15,12 +15,45 @@
     "yeni_tp": 88,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": ".",
+      "frekans": 12148,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "1791",
+      "ses_pid": "1792 / deu",
+      "uydu": "Astra 1N",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "61",
+      "paket": "BetaDigital",
+      "tp_id": "astra_19_2:12148:H:27500",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE"
+    }
+  ],
   "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "astra_19_2:12148:H:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 9,
+          "yeni": 10
+        },
+        "tv_sayisi": {
+          "onceki": 5,
+          "yeni": 6
+        }
+      }
+    }
+  ]
 }
