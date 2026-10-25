@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-10-25T08:09:39.940694+00:00",
+  "guncelleme_tarihi": "2026-10-25T18:11:37.390236+00:00",
   "uydu_adi": "Astra 19.2°E",
-  "toplam_kanal": 878,
+  "toplam_kanal": 877,
   "toplam_tp": 88,
   "transponderler": [
     {
@@ -1077,8 +1077,8 @@
       "fec": "3/4",
       "uydu": "Astra 1N",
       "kapsama": "PE",
-      "kanal_sayisi": 11,
-      "tv_sayisi": 9,
+      "kanal_sayisi": 10,
+      "tv_sayisi": 8,
       "radyo_sayisi": 2,
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E"
@@ -6023,24 +6023,6 @@
       "sid": "13141",
       "paket": "ORF Digital",
       "tp_id": "astra_19_2:12663:H:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE"
-    },
-    {
-      "kanal_adi": "EWTN katholisches TV",
-      "frekans": 12460,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "1023",
-      "ses_pid": "1024 / ger / 1025 / eng",
-      "uydu": "Astra 1N",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "62",
-      "paket": "BetaDigital",
-      "tp_id": "astra_19_2:12460:H:27500",
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E",
       "kapsama": "PE"

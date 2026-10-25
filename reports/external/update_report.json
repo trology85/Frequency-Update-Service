@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-10-25T08:09:31.515773+00:00",
+  "run_utc": "2026-10-25T18:11:28.802154+00:00",
   "ok": true,
   "successful": 9,
   "failed": 0,
@@ -9,7 +9,7 @@
       "name": "Astra 19.2°E",
       "ok": true,
       "errors": [],
-      "channels": 878,
+      "channels": 877,
       "transponders": 88,
       "changed": true,
       "diff": "reports/external/astra_19_2_diff.json",
