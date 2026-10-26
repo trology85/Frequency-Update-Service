@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-10-08T10:07:20.520568+00:00",
+  "guncelleme_tarihi": "2026-10-26T08:35:42.646837+00:00",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "toplam_kanal": 427,
+  "toplam_kanal": 428,
   "toplam_tp": 24,
   "transponderler": [
     {
@@ -97,8 +97,8 @@
       "fec": "2/3",
       "uydu": "TurkmenAlem",
       "kapsama": "East",
-      "kanal_sayisi": 23,
-      "tv_sayisi": 23,
+      "kanal_sayisi": 24,
+      "tv_sayisi": 24,
       "radyo_sayisi": 0,
       "konum_id": "turkmenalem_52",
       "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E"
@@ -3690,6 +3690,24 @@
       "konum_id": "turkmenalem_52",
       "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
       "kapsama": "West"
+    },
+    {
+      "kanal_adi": "Mozhda TV",
+      "frekans": 10887,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "5401",
+      "ses_pid": "5402 / 000",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "54",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:10887:V:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
     },
     {
       "kanal_adi": "MTC",
