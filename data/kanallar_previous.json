@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "25.10.2026 18:11:17",
+  "guncelleme_tarihi": "26.10.2026 08:34:34",
   "uydu_adi": "Türksat 42.0°E",
-  "toplam_kanal": 743,
+  "toplam_kanal": 742,
   "toplam_tp": 53,
   "transponderler": [
     {
@@ -489,8 +489,8 @@
       "fec": "5/6",
       "uydu": "T4A",
       "kapsama": "TR",
-      "kanal_sayisi": 17,
-      "tv_sayisi": 17,
+      "kanal_sayisi": 16,
+      "tv_sayisi": 16,
       "radyo_sayisi": 0,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -8454,22 +8454,6 @@
       "fec": "5/6",
       "video_pid": "153",
       "ses_pid": "253",
-      "uydu": "T4A",
-      "kalite": "HD",
-      "tur": "TV",
-      "tp_id": "12245_H_27500",
-      "konum_id": "turksat_42",
-      "konum_adi": "Türksat 42.0°E"
-    },
-    {
-      "kanal_adi": "DREAM TÜRK HD",
-      "frekans": 12245,
-      "polarizasyon": "H",
-      "kapsama": "TR",
-      "sembol_orani": 27500,
-      "fec": "5/6",
-      "video_pid": "105",
-      "ses_pid": "205",
       "uydu": "T4A",
       "kalite": "HD",
       "tur": "TV",
