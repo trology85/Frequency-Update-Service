@@ -1,149 +1,337 @@
 {
   "uydu_id": "turkmenalem_52",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "olusturma_zamani_utc": "2026-10-27T08:42:30.902695+00:00",
+  "olusturma_zamani_utc": "2026-10-27T19:52:34.225542+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
-    "onceki_kanal": 422,
+    "onceki_kanal": 428,
     "yeni_kanal": 428,
-    "eklenen_kanal": 6,
+    "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 31,
     "tur_degisen_kanal": 0,
     "onceki_tp": 24,
     "yeni_tp": 24,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "Persiana Comedy",
-      "frekans": 11344,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2201",
-      "ses_pid": "2202 / per",
-      "uydu": "TurkmenAlem",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "22",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:11344:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "MENA"
-    },
-    {
-      "kanal_adi": "Persiana Voyage",
-      "frekans": 11344,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2301",
-      "ses_pid": "2302 / per",
-      "uydu": "TurkmenAlem",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "23",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:11344:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "MENA"
-    },
-    {
-      "kanal_adi": "Persiana Rap",
-      "frekans": 11344,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2401",
-      "ses_pid": "2402 / per",
-      "uydu": "TurkmenAlem",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "24",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:11344:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "MENA"
-    },
-    {
-      "kanal_adi": "Persiana China (t1)",
-      "frekans": 11344,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2501",
-      "ses_pid": "2502 / per",
-      "uydu": "TurkmenAlem",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "25",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:11344:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "MENA"
-    },
-    {
-      "kanal_adi": "Persiana Podcast",
-      "frekans": 11344,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2601",
-      "ses_pid": "2602 / per",
-      "uydu": "TurkmenAlem",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "26",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:11344:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "MENA"
-    },
-    {
-      "kanal_adi": "Persiana Medical",
-      "frekans": 11344,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2701",
-      "ses_pid": "2702 / per",
-      "uydu": "TurkmenAlem",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "27",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:11344:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "MENA"
-    }
-  ],
+  "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
-  "eklenen_transponderler": [],
-  "silinen_transponderler": [],
-  "degisen_transponderler": [
+  "degisen_kanallar": [
     {
-      "anahtar": "turkmenalem_52:11344:H:27500",
+      "anahtar": "turkmenalem_52|turkmenalem_52:10762:H:30000|sid:35",
+      "kanal_adi": "Sun Music TV",
       "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 19,
-          "yeni": 25
-        },
-        "tv_sayisi": {
-          "onceki": 19,
-          "yeni": 25
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3502"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10762:H:30000|sid:8",
+      "kanal_adi": "Afghanistan International",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10804:H:27500|sid:1",
+      "kanal_adi": "Persiana 1 Family",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10804:H:27500|sid:3",
+      "kanal_adi": "Persiana Cinema",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10804:H:27500|sid:7",
+      "kanal_adi": "Persiana Comedy",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:825",
+      "kanal_adi": "Red Music",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:826",
+      "kanal_adi": "Red Music Retro",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:827",
+      "kanal_adi": "Red Premium",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:828",
+      "kanal_adi": "Red Docu",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:829",
+      "kanal_adi": "Red Junior",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:830",
+      "kanal_adi": "Red Thriller",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:V:27500|sid:21",
+      "kanal_adi": "AVA Series",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2102"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:V:27500|sid:29",
+      "kanal_adi": "Solhsports",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2902"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:V:27500|sid:4",
+      "kanal_adi": "[Haray Radio info card]",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "402"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:V:27500|sid:41",
+      "kanal_adi": "Honarmandan TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:V:27500|sid:711",
+      "kanal_adi": "Eslah TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "7112"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:V:27500|sid:808",
+      "kanal_adi": "Dunya naw TV Farah",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "8082"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:V:27500|sid:817",
+      "kanal_adi": "AVA Family HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "8172"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:V:27500|sid:21",
+      "kanal_adi": "Rah-e-Farda TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:V:27500|sid:5",
+      "kanal_adi": "SL 1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "502"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:11205:H:2500|sid:140",
+      "kanal_adi": "Sahar Afghanistan",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "1401"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:11221:V:27500|sid:26",
+      "kanal_adi": "Meraj TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:11221:V:27500|sid:60",
+      "kanal_adi": "Afghanistan International",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:11221:V:27500|sid:61",
+      "kanal_adi": "Afghanistan International",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:11221:V:27500|sid:62",
+      "kanal_adi": "[Afghanistan International Radio info card]",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:11420:V:27500|sid:15",
+      "kanal_adi": "Zed TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2502"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:12264:V:27500|sid:204",
+      "kanal_adi": "Turkmenistan",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "120 / tuk / 121 / eng / 122 / rus / 123 / fre / 124 / chi / 125 / ara",
+          "yeni": "120 / tuk / 121 / eng / 122 / rus / 123 / fre / 124 / chi / 125 / ara / 126"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:12264:V:27500|sid:309",
+      "kanal_adi": "Owaz",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "131"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:12303:V:27500|sid:1",
+      "kanal_adi": "Turkmen Radio",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "256 / mul / 257 / mis",
+          "yeni": "256 / mul / 257 / mis / 258 / 259"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:12341:V:28000|sid:629",
+      "kanal_adi": "STS Kids",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4325 / rus",
+          "yeni": "4325 / rus / 4375"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:12475:H:27500|sid:714",
+      "kanal_adi": "TV Monaco",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7142 / fre",
+          "yeni": "7142 / fre / 0"
         }
       }
     }
-  ]
+  ],
+  "eklenen_transponderler": [],
+  "silinen_transponderler": [],
+  "degisen_transponderler": []
 }

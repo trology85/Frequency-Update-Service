@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_23_5",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "olusturma_zamani_utc": "2026-10-27T08:42:15.394942+00:00",
+  "olusturma_zamani_utc": "2026-10-27T19:52:16.809475+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 638,
     "yeni_kanal": 638,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 134,
     "tur_degisen_kanal": 0,
     "onceki_tp": 33,
     "yeni_tp": 33,
@@ -19,7 +19,1348 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "astra_23_5|astra_23_5:11739:V:29900|sid:6030",
+      "kanal_adi": "Star Channel",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11739:V:29900|sid:6095",
+      "kanal_adi": "CANAL+ Akcion",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0 / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11739:V:29900|sid:6114",
+      "kanal_adi": "Vixen HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11739:V:29900|sid:6119",
+      "kanal_adi": "M4",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11739:V:29900|sid:6191",
+      "kanal_adi": "FunX",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11739:V:29900|sid:6192",
+      "kanal_adi": "L1 Radio",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11739:V:29900|sid:6193",
+      "kanal_adi": "Rádio Veronika De Beste 80s",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11856:V:29900|sid:7166",
+      "kanal_adi": "Penthouse Gold",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11856:V:29900|sid:7167",
+      "kanal_adi": "Penthouse Reality TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11856:V:29900|sid:7180",
+      "kanal_adi": "Penthouse Gold CZ",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11856:V:29900|sid:7181",
+      "kanal_adi": "Penthouse Reality TV CZ",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11856:V:29900|sid:7184",
+      "kanal_adi": "M4 Sport +",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11914:H:30000|sid:20099",
+      "kanal_adi": "RTS Svet HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11934:V:29900|sid:14054",
+      "kanal_adi": "Nova Sport 3 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0 / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11934:V:29900|sid:14055",
+      "kanal_adi": "Nova Sport 4 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0 / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11934:V:29900|sid:14060",
+      "kanal_adi": "Prima Krimi HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11934:V:29900|sid:14061",
+      "kanal_adi": "Prima Star",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11934:V:29900|sid:14062",
+      "kanal_adi": "Prima Show",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11934:V:29900|sid:14066",
+      "kanal_adi": "FilmBox+ One SK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11934:V:29900|sid:14070",
+      "kanal_adi": "Spektrum Home",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11934:V:29900|sid:14072",
+      "kanal_adi": "Film+SK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11934:V:29900|sid:14076",
+      "kanal_adi": "Disney Channel CZ/SK.",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7620 / cze / 7621 / eng",
+          "yeni": "7620 / cze / 7621 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11934:V:29900|sid:14081",
+      "kanal_adi": "JOJ Svet CZ",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0 / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11973:V:29900|sid:14110",
+      "kanal_adi": "Nova Sport 2 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1020 / cze / 1021 / 000",
+          "yeni": "1020 / cze / 1021 / 000 / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11973:V:29900|sid:14115",
+      "kanal_adi": "Nova Lady",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12012:V:29900|sid:15403",
+      "kanal_adi": "Markíza Klasik",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12012:V:29900|sid:15406",
+      "kanal_adi": "Filmbox+ Emotion HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12012:V:29900|sid:15420",
+      "kanal_adi": "Jednotka",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0 / 0 / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12012:V:29900|sid:15421",
+      "kanal_adi": "Dvojka",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0 / 0 / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12012:V:29900|sid:15423",
+      "kanal_adi": "RTVS Sport",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0 / 0 / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12032:H:27500|sid:6105",
+      "kanal_adi": "Rádio Nacional",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12070:H:27500|sid:13134",
+      "kanal_adi": "Slager Originál",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12070:H:27500|sid:13135",
+      "kanal_adi": "JOJ KRIMI",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12070:H:27500|sid:13136",
+      "kanal_adi": "JOJ Family",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12070:H:27500|sid:13147",
+      "kanal_adi": "Seznam.cz HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12090:V:29900|sid:772",
+      "kanal_adi": "National Geographic Wild HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1102 / eng / 1104 / cze / 7617 / dut / 7618 / hun / 7619 / heb",
+          "yeni": "1102 / eng / 1104 / cze / 7616 / 7617 / dut / 7618 / hun / 7619 / heb"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12090:V:29900|sid:776",
+      "kanal_adi": "Prima KRIMI SK HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12090:V:29900|sid:780",
+      "kanal_adi": "JOJ Šport 2 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12090:V:29900|sid:783",
+      "kanal_adi": "Love Nature HD CZ",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0 / 0 / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12090:V:29900|sid:785",
+      "kanal_adi": "Golf Channel",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12090:V:29900|sid:793",
+      "kanal_adi": "FEM3",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15600",
+      "kanal_adi": "Viasat History HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0 / 0 / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15601",
+      "kanal_adi": "Viasat Nature East",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1111 / cze / 1112 / hun",
+          "yeni": "1111 / cze / 1112 / hun / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15605",
+      "kanal_adi": "FilmBox+ Hits HD Czechia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "1002"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15612",
+      "kanal_adi": "Leo TV (22-6)",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21124",
+      "kanal_adi": "Mán-X",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21235",
+      "kanal_adi": "Muzsika TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21270",
+      "kanal_adi": "Nova Sport 5",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "171 / cze / 370 / cze",
+          "yeni": "171 / cze / 0 / 370 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21271",
+      "kanal_adi": "Docubox",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12168:V:27500|sid:5245",
+      "kanal_adi": "RTL Rádio Letzebuerg",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12168:V:27500|sid:5286",
+      "kanal_adi": "SBN International",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12187:H:29900|sid:21138",
+      "kanal_adi": "TV Oranje",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12187:H:29900|sid:21151",
+      "kanal_adi": "RTL HAROM",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0 / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12187:H:29900|sid:21152",
+      "kanal_adi": "RTL KETTO",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0 / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12187:H:29900|sid:21153",
+      "kanal_adi": "Sorozat+",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0 / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12187:H:29900|sid:21169",
+      "kanal_adi": "Story4",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12246:V:30000|sid:20133",
+      "kanal_adi": "NickToons Adria",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "1332"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12246:V:30000|sid:20169",
+      "kanal_adi": "Cartoonito",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "1692"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12246:V:30000|sid:20283",
+      "kanal_adi": "EuroNews Montenegro",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2832"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12246:V:30000|sid:20284",
+      "kanal_adi": "Dokumentarna TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2842"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12266:H:29900|sid:13203",
+      "kanal_adi": "Nova Sport 1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7042 / cze / 7043 / cze",
+          "yeni": "7044 / 7042 / cze / 7043 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12266:H:29900|sid:13207",
+      "kanal_adi": "TV Dajto",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7122 / slo",
+          "yeni": "7122 / slo / 7123"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12266:H:29900|sid:13208",
+      "kanal_adi": "TV Joj",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7142 / slo",
+          "yeni": "7142 / slo / 7143"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12266:H:29900|sid:13209",
+      "kanal_adi": "Joj Plus",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7162 / slo",
+          "yeni": "7162 / slo / 7163"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12266:H:29900|sid:13214",
+      "kanal_adi": "Joj Sport",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7262 / slo",
+          "yeni": "7262 / slo / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12266:H:29900|sid:13215",
+      "kanal_adi": "Markíza Krimi",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7282 / slo",
+          "yeni": "7282 / slo / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8010",
+      "kanal_adi": "CT 1 SVC HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8012",
+      "kanal_adi": "CT 1 JZC HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8014",
+      "kanal_adi": "TV Lux HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8017",
+      "kanal_adi": "M5",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8062",
+      "kanal_adi": "CRo BRNO",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8063",
+      "kanal_adi": "CRo C.BODEJOVICE",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8064",
+      "kanal_adi": "CRo H .KRALOVE",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8065",
+      "kanal_adi": "CRo .KARLOVY VARY",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8066",
+      "kanal_adi": "CRo LIBEREC",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8068",
+      "kanal_adi": "CRo PARDUBICE",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8069",
+      "kanal_adi": "CRo PLZEN",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8070",
+      "kanal_adi": "CRo OLOMOUC",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8071",
+      "kanal_adi": "CRo OSTRAVA",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8072",
+      "kanal_adi": "CRo SEVER",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8073",
+      "kanal_adi": "CRo ZLIN",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4921",
+      "kanal_adi": "Slovensko",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4922",
+      "kanal_adi": "ReginaBA",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4923",
+      "kanal_adi": "ReginaBB",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4924",
+      "kanal_adi": "ReginaKE",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4925",
+      "kanal_adi": "Devín",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4926",
+      "kanal_adi": "Radio FM",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4928",
+      "kanal_adi": "Litera",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4929",
+      "kanal_adi": "Junior",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4930",
+      "kanal_adi": "PatriaFM",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4931",
+      "kanal_adi": "PatriaRD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4932",
+      "kanal_adi": "Slovakia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4933",
+      "kanal_adi": "Melody Z",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4934",
+      "kanal_adi": "Melody S",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4935",
+      "kanal_adi": "Melody V",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4936",
+      "kanal_adi": "Rádio Lumen",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4937",
+      "kanal_adi": "ROCK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4938",
+      "kanal_adi": "Patria",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4939",
+      "kanal_adi": "PROSTOR",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4940",
+      "kanal_adi": "BEAT",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4941",
+      "kanal_adi": "BEAT JM",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4942",
+      "kanal_adi": "BEAT SM",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4943",
+      "kanal_adi": "BEAT JZ",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4944",
+      "kanal_adi": "BEAT SV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4945",
+      "kanal_adi": "COUNTRY JM",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4946",
+      "kanal_adi": "COUNTRY JZ",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4947",
+      "kanal_adi": "COUNTRY SV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4950",
+      "kanal_adi": "BEAT V",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4951",
+      "kanal_adi": "Expres Z",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4952",
+      "kanal_adi": "Expres S",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4953",
+      "kanal_adi": "Expres V",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4954",
+      "kanal_adi": "Európa 2 Z",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4955",
+      "kanal_adi": "Európa 2 S",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4956",
+      "kanal_adi": "Európa 2 V",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4957",
+      "kanal_adi": "FUNRADIO Z",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4958",
+      "kanal_adi": "FUNRADIO S",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4959",
+      "kanal_adi": "FUNRADIO V",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:5159",
+      "kanal_adi": "VLNA ZS",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:5160",
+      "kanal_adi": "VLNA SS",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:5161",
+      "kanal_adi": "VLNA VS",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12402:V:30000|sid:20144",
+      "kanal_adi": "RTL Hrvatska",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12402:V:30000|sid:20152",
+      "kanal_adi": "Pink Hits 1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "1522"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12422:H:30000|sid:20245",
+      "kanal_adi": "RTL 2 Hrvatska",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20279",
+      "kanal_adi": "Nat Geo Channel Adria",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2792"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20282",
+      "kanal_adi": "Arena Sport 9 Hrvatska",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2822"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12460:H:30000|sid:20040",
+      "kanal_adi": "HRT 1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12460:H:30000|sid:20041",
+      "kanal_adi": "HRT 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12460:H:30000|sid:20043",
+      "kanal_adi": "HRT 3",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12480:V:30000|sid:20087",
+      "kanal_adi": "K1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "872"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12480:V:30000|sid:20089",
+      "kanal_adi": "Kazbuka",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "892"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12480:V:30000|sid:20112",
+      "kanal_adi": "BHTV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "1122"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12480:V:30000|sid:20113",
+      "kanal_adi": "Federalna TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "1132"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12480:V:30000|sid:20203",
+      "kanal_adi": "Arena Sport 6 Hrvatska",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12480:V:30000|sid:20204",
+      "kanal_adi": "Arena Sport 7 Hrvatska",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

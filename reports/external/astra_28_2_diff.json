@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_28_2",
   "uydu_adi": "Astra 2E/2F/2G 28.2°E",
-  "olusturma_zamani_utc": "2026-10-27T08:42:20.347458+00:00",
+  "olusturma_zamani_utc": "2026-10-27T19:52:22.603670+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 752,
     "yeni_kanal": 752,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 64,
     "tur_degisen_kanal": 0,
     "onceki_tp": 62,
     "yeni_tp": 62,
@@ -19,7 +19,648 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "astra_28_2|astra_28_2:10773:H:23000|sid:6371",
+      "kanal_adi": "BBC One Yorkshire",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10788:V:22000|sid:10310",
+      "kanal_adi": "BBC One Channel Islands",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10788:V:22000|sid:10331",
+      "kanal_adi": "BBC One West",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10788:V:22000|sid:10335",
+      "kanal_adi": "BBC Scotland",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10788:V:22000|sid:10341",
+      "kanal_adi": "BBC One South West",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10788:V:22000|sid:10363",
+      "kanal_adi": "BBC One London",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10818:V:22000|sid:10355",
+      "kanal_adi": "BBC Scotland",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10818:V:22000|sid:10364",
+      "kanal_adi": "BBC Two Wales",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10818:V:22000|sid:10365",
+      "kanal_adi": "BBC Four",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10818:V:22000|sid:10366",
+      "kanal_adi": "CBeebies UK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10818:V:22000|sid:10373",
+      "kanal_adi": "BBC One",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10818:V:22000|sid:10374",
+      "kanal_adi": "BBC One East Midlands",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10847:V:23000|sid:6911",
+      "kanal_adi": "BBC One East Yorkshire & Lincolnshire",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10847:V:23000|sid:6940",
+      "kanal_adi": "BBC Two HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10847:V:23000|sid:6941",
+      "kanal_adi": "BBC One HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10847:V:23000|sid:6943",
+      "kanal_adi": "BBC One Northern Ireland HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10847:V:23000|sid:6945",
+      "kanal_adi": "BBC One London",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10906:V:22000|sid:10202",
+      "kanal_adi": "ITV 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2348 / eng",
+          "yeni": "2348 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10906:V:22000|sid:10250",
+      "kanal_adi": "ITV Central West",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2325 / eng",
+          "yeni": "2325 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10906:V:22000|sid:20235",
+      "kanal_adi": "ITV Meridian South East +1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2336 / eng",
+          "yeni": "2336 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10936:V:23000|sid:8367",
+      "kanal_adi": "E4 Extra",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2350 / eng",
+          "yeni": "2350 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10936:V:23000|sid:8368",
+      "kanal_adi": "4Seven",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2356 / eng",
+          "yeni": "2356 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10936:V:23000|sid:8380",
+      "kanal_adi": "E4 UK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2371 / eng",
+          "yeni": "2371 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10936:V:23000|sid:8382",
+      "kanal_adi": "Film 4 UK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2376 / eng",
+          "yeni": "2376 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:10936:V:23000|sid:8383",
+      "kanal_adi": "More 4 UK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2380 / eng",
+          "yeni": "2380 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11023:H:23000|sid:8926",
+      "kanal_adi": "BBC Alba",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11112:H:22000|sid:50486",
+      "kanal_adi": "Hobby Maker",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11141:H:22000|sid:51081",
+      "kanal_adi": "Nick Jr UK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2318 / eng",
+          "yeni": "2318 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11265:V:27500|sid:52138",
+      "kanal_adi": "Akaal Channel",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11306:H:27500|sid:2101",
+      "kanal_adi": "Channel 5 UK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "5011 / eng",
+          "yeni": "5011 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11306:H:27500|sid:2104",
+      "kanal_adi": "5 star",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "5311 / eng",
+          "yeni": "5311 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11306:H:27500|sid:2105",
+      "kanal_adi": "5Select",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "5411 / eng",
+          "yeni": "5411 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11306:H:27500|sid:2106",
+      "kanal_adi": "5 star +1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "5511 / eng",
+          "yeni": "5511 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11306:H:27500|sid:2107",
+      "kanal_adi": "Channel 5 +1 (Region 1)",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "5611 / eng",
+          "yeni": "5611 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11306:H:27500|sid:2108",
+      "kanal_adi": "Channel 5 UK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / 0 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11306:H:27500|sid:2109",
+      "kanal_adi": "5 Action",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "5811 / eng",
+          "yeni": "5811 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11306:H:27500|sid:2110",
+      "kanal_adi": "Nick Jr Too UK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2361 / eng",
+          "yeni": "2361 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11344:V:27500|sid:55208",
+      "kanal_adi": "True Crime Xtra Ireland",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2310"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11387:V:29500|sid:20810",
+      "kanal_adi": "Ulster TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11387:V:29500|sid:20820",
+      "kanal_adi": "ITV 1 Yorkshire East",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11387:V:29500|sid:20825",
+      "kanal_adi": "ITV 4",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / 0 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11387:V:29500|sid:20830",
+      "kanal_adi": "ITV 1 London",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2340 / eng",
+          "yeni": "2340 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11387:V:29500|sid:20840",
+      "kanal_adi": "ITV 1 Anglia East",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / 0 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11523:H:23000|sid:7605",
+      "kanal_adi": "Politics Punjab TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2322"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11538:V:22000|sid:22604",
+      "kanal_adi": "Politics Punjab TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2312"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11597:V:22000|sid:53275",
+      "kanal_adi": "TNT Sports Mosaic",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2361 / 2362 / 2363 / 2364 / 2365 / 2366 / 2367 / 2368"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11597:V:22000|sid:53285",
+      "kanal_adi": "TNT Sports 4",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2317 / eng",
+          "yeni": "2317 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11656:V:22000|sid:54060",
+      "kanal_adi": "Sangat TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2328"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11758:H:27500|sid:6250",
+      "kanal_adi": "Channel 4 Ireland",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / 0 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11758:H:27500|sid:6810",
+      "kanal_adi": "W UK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11934:V:27500|sid:5281",
+      "kanal_adi": "Sky Showcase",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "655 / eng",
+          "yeni": "655 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11934:V:27500|sid:6402",
+      "kanal_adi": "Sky Max UK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "642 / eng",
+          "yeni": "642 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12012:V:27500|sid:5275",
+      "kanal_adi": "Sky Showcase",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "648 / eng",
+          "yeni": "648 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12110:H:27500|sid:3273",
+      "kanal_adi": "Sky Sports Mix",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "646 / eng",
+          "yeni": "645 / 646 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12110:H:27500|sid:3878",
+      "kanal_adi": "Sky Sports Cricket",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "644 / eng",
+          "yeni": "644 / eng / 642"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12129:V:27500|sid:25122",
+      "kanal_adi": "U&W Ireland",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2622 / eng",
+          "yeni": "2622 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12226:H:27500|sid:6818",
+      "kanal_adi": "RTÉ One",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12266:H:27500|sid:4036",
+      "kanal_adi": "SkySp News HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12362:V:27500|sid:5270",
+      "kanal_adi": "RTÉ 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12382:H:27500|sid:2910",
+      "kanal_adi": "Food Network UK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2353"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12382:H:27500|sid:2930",
+      "kanal_adi": "DMAX Ireland",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2334 / eng",
+          "yeni": "2334 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12382:H:27500|sid:2935",
+      "kanal_adi": "TLC UK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "0 / eng / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12382:H:27500|sid:2940",
+      "kanal_adi": "TLC UK +1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2374 / eng",
+          "yeni": "0 / 2374 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12382:H:27500|sid:2945",
+      "kanal_adi": "TLC Ireland",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2418 / eng",
+          "yeni": "2418 / eng / 0"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

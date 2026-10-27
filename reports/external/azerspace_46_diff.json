@@ -1,15 +1,15 @@
 {
   "uydu_id": "azerspace_46",
   "uydu_adi": "Azerspace-1 46.0°E",
-  "olusturma_zamani_utc": "2026-10-27T08:42:05.152195+00:00",
+  "olusturma_zamani_utc": "2026-10-27T19:52:05.582629+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 135,
     "yeni_kanal": 135,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 4,
     "tur_degisen_kanal": 0,
     "onceki_tp": 25,
     "yeni_tp": 25,
@@ -19,7 +19,48 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "azerspace_46|azerspace_46:3730:V:30000|sid:1",
+      "kanal_adi": "test card",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3001"
+        }
+      }
+    },
+    {
+      "anahtar": "azerspace_46|azerspace_46:3730:V:30000|sid:2",
+      "kanal_adi": "RRSat promo",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3002"
+        }
+      }
+    },
+    {
+      "anahtar": "azerspace_46|azerspace_46:4142:V:1250|sid:257",
+      "kanal_adi": "DM Broadcast",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "4112"
+        }
+      }
+    },
+    {
+      "anahtar": "azerspace_46|azerspace_46:4160:R:16325|sid:470",
+      "kanal_adi": "Tumaini TV Tanzania",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3470"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

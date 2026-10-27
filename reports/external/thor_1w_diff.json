@@ -1,114 +1,247 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-10-27T08:42:26.809584+00:00",
+  "olusturma_zamani_utc": "2026-10-27T19:52:29.711599+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
-    "onceki_kanal": 834,
+    "onceki_kanal": 838,
     "yeni_kanal": 838,
-    "eklenen_kanal": 4,
+    "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 22,
     "tur_degisen_kanal": 0,
-    "onceki_tp": 69,
+    "onceki_tp": 70,
     "yeni_tp": 70,
-    "eklenen_tp": 1,
+    "eklenen_tp": 0,
     "silinen_tp": 0,
     "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "NBC 1",
-      "frekans": 3977,
-      "polarizasyon": "L",
-      "sembol_orani": 17777,
-      "fec": "3/4",
-      "video_pid": "32",
-      "ses_pid": "33 / eng",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "1",
-      "paket": "NBC",
-      "tp_id": "thor_1w:3977:L:17777",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "SEZone"
-    },
-    {
-      "kanal_adi": "NBC 1",
-      "frekans": 3977,
-      "polarizasyon": "L",
-      "sembol_orani": 17777,
-      "fec": "3/4",
-      "video_pid": "81",
-      "ses_pid": "82 / eng",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "64",
-      "paket": "NBC",
-      "tp_id": "thor_1w:3977:L:17777",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "SEZone"
-    },
-    {
-      "kanal_adi": "NBC 2",
-      "frekans": 3977,
-      "polarizasyon": "L",
-      "sembol_orani": 17777,
-      "fec": "3/4",
-      "video_pid": "83",
-      "ses_pid": "84 / eng",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "65",
-      "paket": "NBC",
-      "tp_id": "thor_1w:3977:L:17777",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "SEZone"
-    },
-    {
-      "kanal_adi": "NBC 3",
-      "frekans": 3977,
-      "polarizasyon": "L",
-      "sembol_orani": 17777,
-      "fec": "3/4",
-      "video_pid": "85",
-      "ses_pid": "86 / eng",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "66",
-      "paket": "NBC",
-      "tp_id": "thor_1w:3977:L:17777",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "SEZone"
-    }
-  ],
+  "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
-  "eklenen_transponderler": [
+  "degisen_kanallar": [
     {
-      "tp_id": "thor_1w:3977:L:17777",
-      "frekans": 3977,
-      "polarizasyon": "L",
-      "sembol_orani": 17777,
-      "fec": "3/4",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kapsama": "SEZone",
-      "kanal_sayisi": 4,
-      "tv_sayisi": 4,
-      "radyo_sayisi": 0,
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
+      "anahtar": "thor_1w|thor_1w:10809:H:5632|sid:7433",
+      "kanal_adi": "V Sport Premier League",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:10809:V:25000|sid:7426",
+      "kanal_adi": "V Sport+",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11325:H:25000|sid:7916",
+      "kanal_adi": "Cartoon Network Nordic",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31142",
+      "kanal_adi": "M4 Sport+/ Duna World",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11958:V:28000|sid:31238",
+      "kanal_adi": "ATV Extra",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11958:V:28000|sid:31239",
+      "kanal_adi": "Film+ Czeh",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11996:V:28000|sid:30436",
+      "kanal_adi": "Film Mania",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "1160 / 1161"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12073:V:28000|sid:30633",
+      "kanal_adi": "Nickleodeon Czechia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1461 / cze / 1462 / eng / 1463 / hun / 1464 / slv / 1465 / srp / 0 / ukr",
+          "yeni": "1461 / cze / 1462 / eng / 1463 / hun / 1464 / slv / 1465 / srp / 0 / ukr / 1467"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12073:V:28000|sid:30640",
+      "kanal_adi": "Nickelodeon Romania",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2062 / eng / 2067 / est / 2064 / hun / 2060 / rum / 2065 / rus / 2068 / tur",
+          "yeni": "0 / 2062 / eng / 2067 / est / 2064 / hun / 2060 / rum / 2065 / rus / 2068 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12073:V:28000|sid:30643",
+      "kanal_adi": "Nickelodeon",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2762 / eng / 2763 / rus / 2764 / tur",
+          "yeni": "0 / 2762 / eng / 2763 / rus / 2764 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12226:V:27500|sid:501",
+      "kanal_adi": "Nickelodeon Europe",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng / 5014 / tur",
+          "yeni": "0 / eng / 0 / 5014 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12226:V:27500|sid:530",
+      "kanal_adi": "Nick Jr Rumunsko",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0 / 0 / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12226:V:27500|sid:531",
+      "kanal_adi": "Nicktoons Hungary",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0 / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12265:V:28000|sid:30912",
+      "kanal_adi": "Prime",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12322:H:30000|sid:7286",
+      "kanal_adi": "Telenor promo",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3002"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12322:H:30000|sid:7459",
+      "kanal_adi": "Telenor promo",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3150"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12360:H:30000|sid:13009",
+      "kanal_adi": "Telenor promo card",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3150"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:0",
+      "kanal_adi": "Magio Infokanal",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "5002"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12399:H:30000|sid:13008",
+      "kanal_adi": "Telenor test card",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3150"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12418:V:28000|sid:13005",
+      "kanal_adi": "Test 13005",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3150"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9018",
+      "kanal_adi": "Joj Sport 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12476:H:30000|sid:7430",
+      "kanal_adi": "YLE TV 1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / fin",
+          "yeni": "0 / fin / 0"
+        }
+      }
     }
   ],
+  "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
 }

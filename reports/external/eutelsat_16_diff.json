@@ -1,15 +1,15 @@
 {
   "uydu_id": "eutelsat_16",
   "uydu_adi": "Eutelsat 16A 16.0°E",
-  "olusturma_zamani_utc": "2026-10-27T08:42:10.548176+00:00",
+  "olusturma_zamani_utc": "2026-10-27T19:52:11.578705+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 733,
     "yeni_kanal": 733,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 54,
     "tur_degisen_kanal": 0,
     "onceki_tp": 49,
     "yeni_tp": 49,
@@ -19,7 +19,548 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10721:H:30000|sid:1503",
+      "kanal_adi": "Arena Sport 3 Srbija",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "39 / srp",
+          "yeni": "39 / srp / 40"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10804:H:30000|sid:640",
+      "kanal_adi": "Voxafrica Afrique",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "6402"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10928:H:30000|sid:1101",
+      "kanal_adi": "Viasat Nature East",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1116 / rus / 1117 / hun / 1118 / cze",
+          "yeni": "0 / 1116 / rus / 1117 / hun / 1118 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10928:H:30000|sid:1102",
+      "kanal_adi": "Viasat Explore East",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1211 / bul / 1216 / rus / 1217 / hun / 1218 / cze / 1219 / tur",
+          "yeni": "0 / 1211 / bul / 1216 / rus / 1217 / hun / 1218 / cze / 1219 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10928:H:30000|sid:1103",
+      "kanal_adi": "Viasat History",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1316 / rus / 1317 / hun / 1318 / cze / 1319 / tur",
+          "yeni": "0 / 1316 / rus / 1317 / hun / 1318 / cze / 1319 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10928:H:30000|sid:1104",
+      "kanal_adi": "TV 1000 Balkan",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2602"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11055:V:27500|sid:1151",
+      "kanal_adi": "AMC Central Europe",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / cze",
+          "yeni": "0 / cze / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11055:V:27500|sid:1157",
+      "kanal_adi": "Arena Sport 1 Slovakia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1702 / slo",
+          "yeni": "1702 / slo / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11055:V:27500|sid:1168",
+      "kanal_adi": "Trojka",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / slo",
+          "yeni": "0 / slo / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11092:V:27500|sid:1205",
+      "kanal_adi": "RTVS 24",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / slo",
+          "yeni": "0 / slo / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11262:H:30000|sid:0",
+      "kanal_adi": "TVR International",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11283:V:30000|sid:2730",
+      "kanal_adi": "Ultra",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3602"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11366:V:30000|sid:106",
+      "kanal_adi": "Arena Sport 10 Srbija",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11366:V:30000|sid:116",
+      "kanal_adi": "HRT 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11366:V:30000|sid:121",
+      "kanal_adi": "Klasik TV Hrv",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11366:V:30000|sid:129",
+      "kanal_adi": "Dokumentarna TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "1292"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11387:H:32000|sid:1651",
+      "kanal_adi": "Fight Channel",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11387:H:32000|sid:1669",
+      "kanal_adi": "CineStar Comedy",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3691"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11387:H:32000|sid:1674",
+      "kanal_adi": "Sport Klub 3 Srbija",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3741 / srp",
+          "yeni": "3741 / srp / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11512:H:30000|sid:47",
+      "kanal_adi": "Cinestar Fantasy.",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2571"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11512:H:30000|sid:60",
+      "kanal_adi": "Epic Drama.",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2581"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11512:H:30000|sid:82",
+      "kanal_adi": "AS8",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11512:H:30000|sid:95",
+      "kanal_adi": "SportKlub 2 HD.",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2595"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11554:V:30000|sid:1808",
+      "kanal_adi": "Arena Sport 2 Hrvatska",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11554:V:30000|sid:1816",
+      "kanal_adi": "Arena Sport 4 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11554:V:30000|sid:1817",
+      "kanal_adi": "Arena Sport 6 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11554:V:30000|sid:1819",
+      "kanal_adi": "Cinestar Action & Thriller",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2902"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11554:V:30000|sid:1820",
+      "kanal_adi": "Animal Planet Europe",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3002"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11554:V:30000|sid:1822",
+      "kanal_adi": "Cinestar TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3202"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11554:V:30000|sid:1824",
+      "kanal_adi": "Viasat Explorer",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3402"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11554:V:30000|sid:1829",
+      "kanal_adi": "OK Bambino",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "3902"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11595:H:30000|sid:127",
+      "kanal_adi": "Arena 6 HD.",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2594"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11595:H:30000|sid:156",
+      "kanal_adi": "Radio CG.",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2641"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11595:H:30000|sid:201",
+      "kanal_adi": "Otvoreni.",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2572"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11595:H:30000|sid:202",
+      "kanal_adi": "Narodni.",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2573"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11595:H:30000|sid:203",
+      "kanal_adi": "Antena Zagreb.",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2574"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11595:H:30000|sid:211",
+      "kanal_adi": "R.Marija.",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2582"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11595:H:30000|sid:218",
+      "kanal_adi": "R. Mediaservis",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2586"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11595:H:30000|sid:219",
+      "kanal_adi": "Enter ZG.",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2587"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11595:V:30000|sid:1358",
+      "kanal_adi": "MRT Sobraniski kanal",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3581 / mac",
+          "yeni": "3581 / mac / 3582"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11595:V:30000|sid:1360",
+      "kanal_adi": "NickToons Adria",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3604 / eng / 3601 / srp / 3603 / slo",
+          "yeni": "0 / 3604 / eng / 3601 / srp / 3603 / slo"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11595:V:30000|sid:1361",
+      "kanal_adi": "CineStar TV Hrvatska",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11637:H:30000|sid:1901",
+      "kanal_adi": "CroTV HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11637:H:30000|sid:1912",
+      "kanal_adi": "Arena Sport 10 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11637:H:30000|sid:1915",
+      "kanal_adi": "Zapad TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11678:H:30000|sid:2021",
+      "kanal_adi": "María+Visión Medjugorje",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11678:H:30000|sid:215",
+      "kanal_adi": "Laudato TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "0"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11678:H:30000|sid:68",
+      "kanal_adi": "TV Koper-Capodistria",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2661"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11678:V:30000|sid:1454",
+      "kanal_adi": "HBO Adria",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3543 / slo / 3545 / mac / 3541 / srp / 3544 / eng",
+          "yeni": "0 / 3543 / slo / 3545 / mac / 3541 / srp / 3544 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11678:V:30000|sid:1455",
+      "kanal_adi": "HBO 2 Central Europe",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3553 / slo / 3555 / mac / 3551 / srp / 3554 / eng",
+          "yeni": "0 / 3553 / slo / 3555 / mac / 3551 / srp / 3554 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:12687:H:30000|sid:650",
+      "kanal_adi": "LXP (Loveworld XP)",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "6502"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:12687:H:30000|sid:673",
+      "kanal_adi": "Sunna TV 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "6732"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:12687:H:30000|sid:674",
+      "kanal_adi": "Sunna TV Togo",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "6742"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:12719:H:5000|sid:11",
+      "kanal_adi": "National FMx",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "259"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
