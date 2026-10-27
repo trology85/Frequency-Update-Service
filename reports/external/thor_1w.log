@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-10-26T20:20:45.325944+00:00",
+  "run_utc": "2026-10-27T08:42:20.431486+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -11,9 +11,9 @@
       "ok": true,
       "errors": [],
       "pages": 2,
-      "transponders": 97,
-      "channels": 895,
-      "raw_channel_rows": 895,
+      "transponders": 98,
+      "channels": 899,
+      "raw_channel_rows": 899,
       "raw_file": "raw/satbeams/thor_1w.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-10-26T20:20:47.158624+00:00",
+  "run_utc": "2026-10-27T08:42:22.032656+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-0.8W",
       "title": "Intelsat 10-02 / Thor 5 / Thor 6 / Thor 7 (0.8°W) -  - Frekanslar - KingOfSat",
-      "bytes": 1362474,
+      "bytes": 1362417,
       "frequency_rows": 152,
       "channel_rows": 1049,
       "advertised_records": 1140,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-10-26T20:20:51.066272+00:00",
+  "generated_utc": "2026-10-27T08:42:25.283865+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -67,12 +67,12 @@
     {
       "id": "thor_1w",
       "ok": true,
-      "transponders": 70,
-      "channels": 850,
-      "tv": 783,
+      "transponders": 71,
+      "channels": 854,
+      "tv": 787,
       "radio": 67,
-      "sd": 402,
-      "hd": 278,
+      "sd": 403,
+      "hd": 281,
       "uhd_4k": 3,
       "unknown_quality": 100,
       "candidate": "candidate/satbeams/thor_1w.json"
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-10-26T20:20:53.179231+00:00",
+  "run_utc": "2026-10-27T08:42:26.759188+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -113,24 +113,24 @@
       "ok": true,
       "errors": [],
       "warnings": [],
-      "transponders": 70,
-      "channels": 850,
-      "tv": 783,
+      "transponders": 71,
+      "channels": 854,
+      "tv": 787,
       "radio": 67,
-      "sd": 402,
-      "hd": 278,
+      "sd": 403,
+      "hd": 281,
       "uhd_4k": 3,
       "unknown_quality": 100,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "ee3ce4beb50f116745a6bc5fcff2faf994a261fefb431e47c95062ca728f6d13",
+      "candidate_hash": "5f7c16175eda5a7f066ac5ec043059b49369e25f42cd4af97853d21f1f1115a9",
       "current_hash": "ee3ce4beb50f116745a6bc5fcff2faf994a261fefb431e47c95062ca728f6d13",
-      "changed": false,
-      "added": 0,
+      "changed": true,
+      "added": 4,
       "removed": 0,
       "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true

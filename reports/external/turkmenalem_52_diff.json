@@ -1,13 +1,13 @@
 {
   "uydu_id": "turkmenalem_52",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "olusturma_zamani_utc": "2026-10-26T20:20:58.299272+00:00",
+  "olusturma_zamani_utc": "2026-10-27T08:42:30.902695+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 422,
-    "yeni_kanal": 422,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 428,
+    "eklenen_kanal": 6,
     "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
@@ -15,12 +15,135 @@
     "yeni_tp": 24,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Persiana Comedy",
+      "frekans": 11344,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2201",
+      "ses_pid": "2202 / per",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "22",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11344:H:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "MENA"
+    },
+    {
+      "kanal_adi": "Persiana Voyage",
+      "frekans": 11344,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2301",
+      "ses_pid": "2302 / per",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "23",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11344:H:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "MENA"
+    },
+    {
+      "kanal_adi": "Persiana Rap",
+      "frekans": 11344,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2401",
+      "ses_pid": "2402 / per",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "24",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11344:H:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "MENA"
+    },
+    {
+      "kanal_adi": "Persiana China (t1)",
+      "frekans": 11344,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2501",
+      "ses_pid": "2502 / per",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "25",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11344:H:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "MENA"
+    },
+    {
+      "kanal_adi": "Persiana Podcast",
+      "frekans": 11344,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2601",
+      "ses_pid": "2602 / per",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "26",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11344:H:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "MENA"
+    },
+    {
+      "kanal_adi": "Persiana Medical",
+      "frekans": 11344,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2701",
+      "ses_pid": "2702 / per",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "27",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11344:H:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "MENA"
+    }
+  ],
   "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "turkmenalem_52:11344:H:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 19,
+          "yeni": 25
+        },
+        "tv_sayisi": {
+          "onceki": 19,
+          "yeni": 25
+        }
+      }
+    }
+  ]
 }
