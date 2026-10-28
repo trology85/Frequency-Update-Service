@@ -1,15 +1,15 @@
 {
   "uydu_id": "hellas_39",
   "uydu_adi": "Hellas Sat 39.0°E",
-  "olusturma_zamani_utc": "2026-10-27T19:52:01.892421+00:00",
+  "olusturma_zamani_utc": "2026-10-28T09:22:06.267104+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 564,
     "yeni_kanal": 564,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 4,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 30,
     "yeni_tp": 30,
@@ -19,48 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:1",
-      "kanal_adi": "RIK Sat",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "102 / gre",
-          "yeni": "102 / gre / 672"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:15",
-      "kanal_adi": "Eurobet 15",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "",
-          "yeni": "0"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:119",
-      "kanal_adi": "Box TV",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "",
-          "yeni": "2902"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:722",
-      "kanal_adi": "TV-AS",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "",
-          "yeni": "54"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
