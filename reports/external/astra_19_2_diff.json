@@ -1,26 +1,324 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-10-30T19:52:16.502357+00:00",
+  "olusturma_zamani_utc": "2026-10-31T09:20:14.354579+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 867,
-    "yeni_kanal": 867,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 876,
+    "eklenen_kanal": 9,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 12,
     "tur_degisen_kanal": 0,
     "onceki_tp": 88,
     "yeni_tp": 88,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Sexy Girls TV",
+      "frekans": 12604,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "239",
+      "ses_pid": "339 / ger",
+      "uydu": "Astra 1N",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "28537",
+      "paket": "SES Astra",
+      "tp_id": "astra_19_2:12604:H:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE"
+    },
+    {
+      "kanal_adi": "Heisse Dátes TV",
+      "frekans": 12604,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "239",
+      "ses_pid": "339 / ger",
+      "uydu": "Astra 1N",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "7300",
+      "paket": "SES Astra",
+      "tp_id": "astra_19_2:12604:H:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE"
+    },
+    {
+      "kanal_adi": "Hot Babes TV",
+      "frekans": 12604,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "226",
+      "ses_pid": "326 / ger",
+      "uydu": "Astra 1N",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "7301",
+      "paket": "SES Astra",
+      "tp_id": "astra_19_2:12604:H:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE"
+    },
+    {
+      "kanal_adi": "Mobile Sex",
+      "frekans": 12604,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "226",
+      "ses_pid": "326 / ger",
+      "uydu": "Astra 1N",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "7302",
+      "paket": "SES Astra",
+      "tp_id": "astra_19_2:12604:H:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE"
+    },
+    {
+      "kanal_adi": "Sex-Kontakte",
+      "frekans": 12604,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "226",
+      "ses_pid": "326 / ger",
+      "uydu": "Astra 1N",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "7303",
+      "paket": "SES Astra",
+      "tp_id": "astra_19_2:12604:H:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE"
+    },
+    {
+      "kanal_adi": "Babestation24",
+      "frekans": 12604,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "239",
+      "ses_pid": "339 / ger",
+      "uydu": "Astra 1N",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "7304",
+      "paket": "SES Astra",
+      "tp_id": "astra_19_2:12604:H:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE"
+    },
+    {
+      "kanal_adi": "EROTIKA TV - Neu",
+      "frekans": 12604,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "239",
+      "ses_pid": "339 / ger",
+      "uydu": "Astra 1N",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "7305",
+      "paket": "SES Astra",
+      "tp_id": "astra_19_2:12604:H:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE"
+    },
+    {
+      "kanal_adi": "Sexy Treff TV",
+      "frekans": 12604,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "226",
+      "ses_pid": "326 / ger",
+      "uydu": "Astra 1N",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "7306",
+      "paket": "SES Astra",
+      "tp_id": "astra_19_2:12604:H:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE"
+    },
+    {
+      "kanal_adi": "TeleSex TV",
+      "frekans": 12604,
+      "polarizasyon": "H",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "239",
+      "ses_pid": "339 / ger",
+      "uydu": "Astra 1N",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "7307",
+      "paket": "SES Astra",
+      "tp_id": "astra_19_2:12604:H:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "astra_19_2|astra_19_2:10788:V:22000|sid:30359",
+      "kanal_adi": "Nick Jr. España",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "98 / spa / 99 / 000",
+          "yeni": "98 / spa / 99 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:10979:V:22000|sid:30657",
+      "kanal_adi": "BBC DRAMA",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "104 / spa / 105 / 000",
+          "yeni": "104 / spa / 105 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11038:V:22000|sid:30407",
+      "kanal_adi": "TCM España",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "108 / spa / 109 / 000",
+          "yeni": "108 / spa / 109 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11038:V:22000|sid:30408",
+      "kanal_adi": "Comedy Central España",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "124 / spa / 125 / 000",
+          "yeni": "124 / spa / 125 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11097:V:22000|sid:30075",
+      "kanal_adi": "Movistar Liga de Campeones",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4091 / spa / 4092 / 000",
+          "yeni": "4091 / spa / 4092 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11303:H:22000|sid:4912",
+      "kanal_adi": "ORF2 W HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2921 / ger / 2922 / 000",
+          "yeni": "2921 / ger / 2922 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11778:V:29500|sid:5701",
+      "kanal_adi": "TVMonako",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "121 / fre / 122 / 000 / 123 / 000",
+          "yeni": "121 / fre / 122 / 000,qaa,qad / 123 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:12012:V:29700|sid:8801",
+      "kanal_adi": "Canal+ HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "82 / fre / 83 / 000",
+          "yeni": "82 / fre / 83 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:12012:V:29700|sid:8803",
+      "kanal_adi": "Canal+ Cinema HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "90 / fre / 91 / 000",
+          "yeni": "90 / fre / 91 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:12012:V:29700|sid:8804",
+      "kanal_adi": "Canal+ Sport HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "94 / fre / 95 / 000",
+          "yeni": "94 / fre / 95 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:12012:V:29700|sid:8805",
+      "kanal_adi": "Canal+ kids",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "98 / fre / 99 / 000",
+          "yeni": "98 / fre / 99 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:12383:H:27500|sid:259",
+      "kanal_adi": "Sky Sport Austria 4 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "6402 / ger / 6404 / 000",
+          "yeni": "6402 / ger / 6404 / 000,qaa,qad"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "astra_19_2:12604:H:22000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 5,
+          "yeni": 14
+        },
+        "tv_sayisi": {
+          "onceki": 3,
+          "yeni": 12
+        }
+      }
+    }
+  ]
 }

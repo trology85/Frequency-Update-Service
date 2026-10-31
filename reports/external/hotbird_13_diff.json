@@ -1,15 +1,15 @@
 {
   "uydu_id": "hotbird_13",
   "uydu_adi": "Hot Bird 13.0°E",
-  "olusturma_zamani_utc": "2026-10-30T19:52:25.631888+00:00",
+  "olusturma_zamani_utc": "2026-10-31T09:20:24.719644+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 1042,
     "yeni_kanal": 1042,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 60,
     "tur_degisen_kanal": 0,
     "onceki_tp": 82,
     "yeni_tp": 82,
@@ -19,7 +19,608 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "hotbird_13|hotbird_13:10758:V:27500|sid:17037",
+      "kanal_adi": "4Fun.TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "521 / pol / 0 / 000",
+          "yeni": "521 / pol / 0 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:10758:V:27500|sid:17038",
+      "kanal_adi": "4Fun Kids",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "532 / pol / 0 / 000",
+          "yeni": "532 / pol / 0 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:10758:V:27500|sid:17039",
+      "kanal_adi": "4Fun Dance",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "536 / pol / 0 / 000",
+          "yeni": "536 / pol / 0 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:10796:V:27500|sid:15710",
+      "kanal_adi": "Puls 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "116 / pol / 117 / 000",
+          "yeni": "116 / pol / 117 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:10796:V:27500|sid:15714",
+      "kanal_adi": "FilmBox Family",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "132 / pol / 133 / cze / 134 / hun / 135 / 000",
+          "yeni": "132 / pol / 133 / cze / 134 / hun / 135 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:10892:H:27500|sid:301",
+      "kanal_adi": "TF1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "512 / 000 / 513",
+          "yeni": "512 / 000,qaa,qad / 513"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:10892:H:27500|sid:307",
+      "kanal_adi": "Arte Français",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "572 / fre / 573 / 000 / 574 / 000 / 577 / ger",
+          "yeni": "572 / fre / 573 / 000,qaa,qad / 574 / 000,qaa,qad / 577 / ger"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:10971:H:29700|sid:17201",
+      "kanal_adi": "SRF 1 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "503 / ger / 504 / eng / 0 / 000",
+          "yeni": "503 / ger / 504 / eng / 0 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:10971:H:29700|sid:17202",
+      "kanal_adi": "SRF zwei HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "513 / ger / 514 / eng / 0 / 000",
+          "yeni": "513 / ger / 514 / eng / 0 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:10971:H:29700|sid:17203",
+      "kanal_adi": "RTS Un HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "533 / fre / 534 / eng / 0 / 000",
+          "yeni": "533 / fre / 534 / eng / 0 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:10971:H:29700|sid:17204",
+      "kanal_adi": "RTS Deux HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "543 / fre / 544 / eng / 0 / 000",
+          "yeni": "543 / fre / 544 / eng / 0 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:10992:V:27500|sid:8522",
+      "kanal_adi": "Rai Premium",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "662 / ita / 772 / 000 / 792 / eng",
+          "yeni": "662 / ita / 772 / 000,qaa,qad / 792 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11013:H:29900|sid:17716",
+      "kanal_adi": "Rai 5",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1861 / ita / 1864 / eng / 0 / 000",
+          "yeni": "1861 / ita / 1864 / eng / 0 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11117:V:27500|sid:1801",
+      "kanal_adi": "Polsat Sport Premium 1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "513 / pol / 769 / 000",
+          "yeni": "513 / pol / 769 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11117:V:27500|sid:1802",
+      "kanal_adi": "Polsat Sport Premium 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "514 / pol / 770 / 000",
+          "yeni": "514 / pol / 770 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11278:V:27500|sid:13022",
+      "kanal_adi": "Canal + Sport Polska",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "384 / pol / 385 / 000",
+          "yeni": "384 / pol / 385 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11278:V:27500|sid:13024",
+      "kanal_adi": "MiniMini+ HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "392 / pol / 393 / 000 / 394 / pol",
+          "yeni": "392 / pol / 393 / 000,qaa,qad / 394 / pol"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11393:V:27500|sid:4323",
+      "kanal_adi": "Puls 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "770 / pol / 771 / 000",
+          "yeni": "770 / pol / 771 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11393:V:27500|sid:4331",
+      "kanal_adi": "HGTV Polska",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "850 / pol / 851 / 000",
+          "yeni": "850 / pol / 851 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11432:V:29900|sid:124",
+      "kanal_adi": "Iris HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / ita / 0 / 000",
+          "yeni": "0 / ita / 0 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11432:V:29900|sid:135",
+      "kanal_adi": "27Twentyseven HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / ita / 0 / 000",
+          "yeni": "0 / ita / 0 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11449:H:27500|sid:15005",
+      "kanal_adi": "TVP Dokument",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "98 / pol / 96 / pol / 97 / 000",
+          "yeni": "98 / pol / 96 / pol / 97 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11449:H:27500|sid:15031",
+      "kanal_adi": "AMC Polska",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "628 / 000 / 728 / pol",
+          "yeni": "628 / 000,qaa,qad / 728 / pol"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11449:H:27500|sid:15038",
+      "kanal_adi": "Romance TV Polska",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "635 / pol / 735 / 000",
+          "yeni": "635 / pol / 735 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11508:V:27500|sid:15821",
+      "kanal_adi": "TVN HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "820 / pol / 821 / 000",
+          "yeni": "820 / pol / 821 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11508:V:27500|sid:15822",
+      "kanal_adi": "TVN Style HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "830 / pol / 0 / 000",
+          "yeni": "830 / pol / 0 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11508:V:27500|sid:15824",
+      "kanal_adi": "TVN Turbo HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "840 / pol / 841 / 000",
+          "yeni": "840 / pol / 841 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11508:V:27500|sid:15826",
+      "kanal_adi": "TVN 24",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "850 / 000",
+          "yeni": "850 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11508:V:27500|sid:15832",
+      "kanal_adi": "Travel Channel HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "900 / pol / 901 / 000",
+          "yeni": "900 / pol / 901 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11508:V:27500|sid:15833",
+      "kanal_adi": "Food HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "910 / pol / 911 / 000",
+          "yeni": "910 / pol / 911 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11662:V:27500|sid:16952",
+      "kanal_adi": "Tele Padre Pio",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "652 / ita / 457 / 000",
+          "yeni": "652 / ita / 457 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11681:H:27500|sid:301",
+      "kanal_adi": "TF1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "512 / fre / 513 / 000",
+          "yeni": "512 / fre / 513 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11681:H:27500|sid:322",
+      "kanal_adi": "6ter",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "692 / fre / 694 / 000",
+          "yeni": "692 / fre / 694 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11823:H:27500|sid:323",
+      "kanal_adi": "Novasports 7",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "720 / gre / 721 / 000",
+          "yeni": "720 / gre / 721 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11900:H:27500|sid:1418",
+      "kanal_adi": "GULLI",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "782 / fre / 784 / 000",
+          "yeni": "782 / fre / 784 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11900:H:27500|sid:1451",
+      "kanal_adi": "RTL 9",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "201 / fre / 301 / 000",
+          "yeni": "201 / fre / 301 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11900:H:27500|sid:1452",
+      "kanal_adi": "AB 1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "202 / fre / 302 / 000 / 602 / 000",
+          "yeni": "202 / fre / 302 / 000,qaa,qad / 602 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11900:H:27500|sid:1453",
+      "kanal_adi": "AUTOMOTO la chaine",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "203 / fre / 303 / 000",
+          "yeni": "203 / fre / 303 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11900:H:27500|sid:1456",
+      "kanal_adi": "TV BREIZH",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "206 / fre / 306 / 000",
+          "yeni": "206 / fre / 306 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11900:H:27500|sid:1457",
+      "kanal_adi": "CRIME DISTRICT",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "207 / fre / 307 / 000",
+          "yeni": "207 / fre / 307 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11900:H:27500|sid:1461",
+      "kanal_adi": "ACTION",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "211 / fre / 311 / 000 / 611 / 000",
+          "yeni": "211 / fre / 311 / 000,qaa,qad / 611 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11900:H:27500|sid:1462",
+      "kanal_adi": "MANGAS",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "212 / fre / 312 / 000",
+          "yeni": "212 / fre / 312 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11900:H:27500|sid:1466",
+      "kanal_adi": "Teva",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "216 / fre / 316 / 000",
+          "yeni": "216 / fre / 316 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11900:H:27500|sid:1468",
+      "kanal_adi": "XXL",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "218 / 000",
+          "yeni": "218 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7109",
+      "kanal_adi": "Novasports 6",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "710 / gre / 711 / 000",
+          "yeni": "710 / gre / 711 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11958:V:27500|sid:14226",
+      "kanal_adi": "Sky Atlantic HD Italia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "478 / ita / 479 / 000",
+          "yeni": "478 / ita / 479 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12034:V:29900|sid:11101",
+      "kanal_adi": "Sky Cinema 1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "400 / ita / 401 / 000",
+          "yeni": "400 / ita / 401 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12034:V:29900|sid:11109",
+      "kanal_adi": "Sky Cinema Classics",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "420 / ita / 421 / 000",
+          "yeni": "420 / ita / 421 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12034:V:29900|sid:11115",
+      "kanal_adi": "Sky Cinema Max",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "428 / ita / 429 / 000",
+          "yeni": "428 / ita / 429 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12034:V:29900|sid:11121",
+      "kanal_adi": "Discovery Channel Italia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "455 / ita / 456 / 000",
+          "yeni": "455 / ita / 456 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12034:V:29900|sid:11123",
+      "kanal_adi": "Sky Cinema Passion",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "404 / ita / 405 / 000",
+          "yeni": "404 / ita / 405 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12034:V:29900|sid:11132",
+      "kanal_adi": "Disney Junior Italia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "416 / ita / 417 / 000",
+          "yeni": "416 / ita / 417 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12034:V:29900|sid:11207",
+      "kanal_adi": "Eurosport 2 Italia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "440 / ita / 441 / 000",
+          "yeni": "440 / ita / 441 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:354",
+      "kanal_adi": "Novasports 4",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "690 / gre / 691 / 000",
+          "yeni": "690 / gre / 691 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12188:V:27500|sid:7362",
+      "kanal_adi": "Discovery Science Polska",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "612 / pol / 712 / 000",
+          "yeni": "612 / pol / 712 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12265:V:27500|sid:3106",
+      "kanal_adi": "TVP 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1544 / pol / 1541 / 000 / 1540 / pol",
+          "yeni": "1544 / pol / 1541 / 000,qaa,qad / 1540 / pol"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12284:H:27500|sid:10513",
+      "kanal_adi": "Polsat Sport Fight",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "214 / pol / 313 / 000",
+          "yeni": "214 / pol / 313 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12284:H:27500|sid:10515",
+      "kanal_adi": "Polsat Sport 3",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "215 / pol / 315 / 000",
+          "yeni": "215 / pol / 315 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12303:V:27500|sid:3501",
+      "kanal_adi": "TVE Internacional",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / spa / 0 / 000",
+          "yeni": "0 / spa / 0 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12303:V:27500|sid:3502",
+      "kanal_adi": "Canal 24 Horas HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / spa / 0 / 000",
+          "yeni": "0 / spa / 0 / 000,qaa,qad"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

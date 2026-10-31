@@ -1,15 +1,15 @@
 {
   "uydu_id": "hellas_39",
   "uydu_adi": "Hellas Sat 39.0°E",
-  "olusturma_zamani_utc": "2026-10-30T19:52:30.566176+00:00",
+  "olusturma_zamani_utc": "2026-10-31T09:20:30.463919+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 564,
     "yeni_kanal": 564,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 7,
     "tur_degisen_kanal": 0,
     "onceki_tp": 30,
     "yeni_tp": 30,
@@ -19,7 +19,78 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "hellas_39|hellas_39:10890:H:30000|sid:3210",
+      "kanal_adi": "Tring Sport 5",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3222 / alb / 3223 / 000",
+          "yeni": "3222 / alb / 3223 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:206",
+      "kanal_adi": "Viasat Epic Drama HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / bul / 0 / 000",
+          "yeni": "0 / bul / 0 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:211",
+      "kanal_adi": "FilmBox Extra HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / 000",
+          "yeni": "0 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:215",
+      "kanal_adi": "STAR Channel Bulgaria",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / bul / 0 / 000",
+          "yeni": "0 / bul / 0 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:701",
+      "kanal_adi": "Diema Sport HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "371 / bul / 471 / 000",
+          "yeni": "371 / bul / 471 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:702",
+      "kanal_adi": "Diema Sport 2 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "372 / bul / 472 / 000",
+          "yeni": "372 / bul / 472 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12688:V:30000|sid:331",
+      "kanal_adi": "Bollywood Clasic",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "433 / 000",
+          "yeni": "433 / 000,qaa,qad"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

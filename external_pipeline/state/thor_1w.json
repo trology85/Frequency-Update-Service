@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-10-27T19:52:29.565690+00:00",
+  "generated_utc": "2026-10-31T09:21:01.427683+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
@@ -13,13 +13,13 @@
   },
   "counts": {
     "transponders": 71,
-    "channels": 854,
-    "tv": 787,
+    "channels": 853,
+    "tv": 786,
     "radio": 67,
     "sd": 403,
     "hd": 281,
     "uhd_4k": 3,
-    "unknown_quality": 100
+    "unknown_quality": 99
   },
   "transponders": [
     {
@@ -752,8 +752,8 @@
       "network": "Digi TV",
       "nid": 1,
       "tid": 7,
-      "channel_count": 17,
-      "tv_count": 15,
+      "channel_count": 16,
+      "tv_count": 14,
       "radio_count": 2,
       "source_transponder_id": 7117
     },
@@ -11591,37 +11591,6 @@
       "tp_id": "thor_1w:11842:H:30000"
     },
     {
-      "name": "1004",
-      "type": "TV",
-      "quality": "UNKNOWN",
-      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "spacecraft": "Thor 5",
-      "position": "0.8W",
-      "frequency": 11862,
-      "polarization": "H",
-      "symbol_rate": 28000,
-      "fec": "7/8",
-      "system": "DVB-S",
-      "modulation": "QPSK",
-      "sid": 0,
-      "country": "",
-      "country_code": "",
-      "beam": "T2",
-      "provider": "Digi TV",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "",
-      "vpid": 0,
-      "audio": "",
-      "nid": 1,
-      "tid": 7,
-      "source_channel_id": 149683,
-      "source_transponder_id": 7117,
-      "updated": "2026-10-08",
-      "tp_id": "thor_1w:11862:H:28000"
-    },
-    {
       "name": "113",
       "type": "TV",
       "quality": "UNKNOWN",
@@ -11740,9 +11709,9 @@
       "audio": "",
       "nid": 1,
       "tid": 7,
-      "source_channel_id": 113241,
+      "source_channel_id": 149686,
       "source_transponder_id": 7117,
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "tp_id": "thor_1w:11862:H:28000"
     },
     {
@@ -11771,9 +11740,9 @@
       "audio": "",
       "nid": 1,
       "tid": 7,
-      "source_channel_id": 149686,
+      "source_channel_id": 113241,
       "source_transponder_id": 7117,
-      "updated": "2026-10-09",
+      "updated": "2026-10-08",
       "tp_id": "thor_1w:11862:H:28000"
     },
     {
@@ -15767,7 +15736,7 @@
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 451,
-      "audio": "463 / 000",
+      "audio": "463 / 000,qaa,qad",
       "nid": 1536,
       "tid": 704,
       "source_channel_id": 34889,
@@ -16883,7 +16852,7 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1702,
-      "audio": "1703 / slo / 0 / 000",
+      "audio": "1703 / slo / 0 / 000,qaa,qad",
       "nid": 187,
       "tid": 2801,
       "source_channel_id": 82015,
@@ -21378,7 +21347,7 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 2302,
-      "audio": "2304 / 000 / 2303 / slo",
+      "audio": "2304 / 000,qaa,qad / 2303 / slo",
       "nid": 187,
       "tid": 2804,
       "source_channel_id": 162654,
@@ -27733,7 +27702,7 @@
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 533,
-      "audio": "683 / 000 / 8181 / zxx",
+      "audio": "683 / 000,qaa,qad / 8181 / zxx",
       "nid": 1,
       "tid": 2,
       "source_channel_id": 11767,

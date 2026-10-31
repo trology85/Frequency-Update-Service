@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_28_2",
   "uydu_adi": "Astra 2E/2F/2G 28.2°E",
-  "olusturma_zamani_utc": "2026-10-30T19:52:49.891430+00:00",
+  "olusturma_zamani_utc": "2026-10-31T09:20:53.757286+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 752,
     "yeni_kanal": 752,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 6,
     "tur_degisen_kanal": 0,
     "onceki_tp": 62,
     "yeni_tp": 62,
@@ -19,7 +19,68 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "astra_28_2|astra_28_2:11141:H:22000|sid:51082",
+      "kanal_adi": "NickToons Ireland",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2364 / eng / 2365 / 000",
+          "yeni": "2364 / eng / 2365 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12129:V:27500|sid:6505",
+      "kanal_adi": "Yesterday",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2334 / eng / 2336 / 000",
+          "yeni": "2334 / eng / 2336 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12129:V:27500|sid:6520",
+      "kanal_adi": "Watch",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2365 / eng / 2347 / 000",
+          "yeni": "2365 / eng / 2347 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12129:V:27500|sid:6521",
+      "kanal_adi": "Alibi",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2324 / eng / 2326 / 000",
+          "yeni": "2324 / eng / 2326 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12129:V:27500|sid:6523",
+      "kanal_adi": "Really",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2368 / eng / 2369 / 000",
+          "yeni": "2368 / eng / 2369 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12129:V:27500|sid:7650",
+      "kanal_adi": "Yesterday +1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2339 / 000 / 2340 / eng",
+          "yeni": "2339 / 000,qaa,qad / 2340 / eng"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

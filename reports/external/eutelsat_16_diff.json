@@ -1,15 +1,15 @@
 {
   "uydu_id": "eutelsat_16",
   "uydu_adi": "Eutelsat 16A 16.0°E",
-  "olusturma_zamani_utc": "2026-10-30T19:52:39.765591+00:00",
+  "olusturma_zamani_utc": "2026-10-31T09:20:41.189440+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 733,
     "yeni_kanal": 733,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 10,
     "tur_degisen_kanal": 0,
     "onceki_tp": 49,
     "yeni_tp": 49,
@@ -19,7 +19,108 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10762:H:30000|sid:1040",
+      "kanal_adi": "Bang Bang",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1042 / alb / 1043 / 000",
+          "yeni": "1042 / alb / 1043 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10762:H:30000|sid:1060",
+      "kanal_adi": "Explorer Shkencë",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1062 / alb / 1063 / 000",
+          "yeni": "1062 / alb / 1063 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10804:H:29950|sid:2140",
+      "kanal_adi": "Explorer Histori",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2142 / alb / 2143 / 000",
+          "yeni": "2142 / alb / 2143 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10845:H:30000|sid:1003",
+      "kanal_adi": "Family Channel HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1032 / alb / 1033 / 000",
+          "yeni": "1032 / alb / 1033 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10845:H:30000|sid:1004",
+      "kanal_adi": "SuperSport HD 1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1042 / alb / 1043 / 000",
+          "yeni": "1042 / alb / 1043 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10845:H:30000|sid:1005",
+      "kanal_adi": "SuperSport HD 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1052 / alb / 1053 / 000",
+          "yeni": "1052 / alb / 1053 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10928:H:30000|sid:1112",
+      "kanal_adi": "Epic Drama",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2202 / 000 / 2203 / lit / 2204 / bul / 2205 / tur / 2206 / cze / 2207 / hun / 2208 / rus",
+          "yeni": "2202 / 000,qaa,qad / 2203 / lit / 2204 / bul / 2205 / tur / 2206 / cze / 2207 / hun / 2208 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10928:H:30000|sid:1114",
+      "kanal_adi": "Viasat Nature CEE HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2402 / 000 / 2403 / rus / 2404 / cze / 2405 / hun",
+          "yeni": "2402 / 000,qaa,qad / 2403 / rus / 2404 / cze / 2405 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10928:H:30000|sid:1115",
+      "kanal_adi": "Viasat Explore CEE HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2502 / 000 / 2503 / rus / 2504 / tur / 2505 / cze / 2506 / hun / 2507 / bul",
+          "yeni": "2502 / 000,qaa,qad / 2503 / rus / 2504 / tur / 2505 / cze / 2506 / hun / 2507 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:10928:H:30000|sid:1116",
+      "kanal_adi": "Viasat History HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2602 / 000 / 2603 / swe / 2604 / nor / 2605 / dan / 2606 / cze / 2607 / rus / 2608 / tur / 2609 / hun",
+          "yeni": "2602 / 000,qaa,qad / 2603 / swe / 2604 / nor / 2605 / dan / 2606 / cze / 2607 / rus / 2608 / tur / 2609 / hun"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

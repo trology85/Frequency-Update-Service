@@ -1,15 +1,15 @@
 {
   "uydu_id": "turkmenalem_52",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "olusturma_zamani_utc": "2026-10-30T19:53:00.510975+00:00",
+  "olusturma_zamani_utc": "2026-10-31T09:21:06.060082+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 426,
     "yeni_kanal": 426,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 7,
     "tur_degisen_kanal": 0,
     "onceki_tp": 24,
     "yeni_tp": 24,
@@ -19,7 +19,78 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:818",
+      "kanal_adi": "TV XXI",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1602 / rus / 1603 / 000",
+          "yeni": "1602 / rus / 1603 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:V:27500|sid:54",
+      "kanal_adi": "Mozhda TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "5402 / 000",
+          "yeni": "5402 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:11382:V:27500|sid:5",
+      "kanal_adi": "Iran Wire",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "502 / 000",
+          "yeni": "502 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:11420:H:27500|sid:1",
+      "kanal_adi": "AVA Family",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "102 / 000",
+          "yeni": "102 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:11420:H:27500|sid:15",
+      "kanal_adi": "DW International",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1502 / 000",
+          "yeni": "1502 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:11420:H:27500|sid:16",
+      "kanal_adi": "TBS TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1602 / 000",
+          "yeni": "1602 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:11420:H:27500|sid:17",
+      "kanal_adi": "Tigrai TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1702 / 000",
+          "yeni": "1702 / 000,qaa,qad"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

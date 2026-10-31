@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-10-30T19:52:16.608536+00:00",
+  "run_utc": "2026-10-31T09:20:14.474082+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-10-30T19:52:18.280814+00:00",
+  "run_utc": "2026-10-31T09:20:16.518324+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-13E",
       "title": "Hot Bird 13F / Hot Bird 13G (13°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1805233,
+      "bytes": 1799038,
       "frequency_rows": 166,
-      "channel_rows": 1468,
-      "advertised_records": 1556,
+      "channel_rows": 1469,
+      "advertised_records": 1557,
       "block_markers": [],
       "raw_file": "raw/kingofsat/hotbird_13.html",
       "errors": []
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-10-30T19:52:22.495562+00:00",
+  "generated_utc": "2026-10-31T09:20:21.511806+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 0,
       "tv": 0,
       "radio": 0,
-      "source_updated": "2026-10-30"
+      "source_updated": "2026-10-31"
     }
   ]
 }
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-10-30T19:52:25.567339+00:00",
+  "run_utc": "2026-10-31T09:20:24.658433+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -124,13 +124,13 @@
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "dc248b1834997832055f6fc23dd330fec2de17b886d4af42b88a385ca0610c40",
+      "candidate_hash": "cc7dd60ccc4b85eb4b3b95863eb4721f59a17762fcc67b9831de7f16067900b1",
       "current_hash": "dc248b1834997832055f6fc23dd330fec2de17b886d4af42b88a385ca0610c40",
-      "changed": false,
+      "changed": true,
       "added": 0,
       "removed": 0,
-      "updated": 0
+      "updated": 60
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true

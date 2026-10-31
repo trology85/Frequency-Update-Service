@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_23_5",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "olusturma_zamani_utc": "2026-10-30T19:52:44.887088+00:00",
+  "olusturma_zamani_utc": "2026-10-31T09:20:47.292690+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 638,
     "yeni_kanal": 638,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 15,
     "tur_degisen_kanal": 0,
     "onceki_tp": 33,
     "yeni_tp": 33,
@@ -19,7 +19,158 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "astra_23_5|astra_23_5:11934:V:29900|sid:14075",
+      "kanal_adi": "AMC Central Europe",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7520 / cze / 7521 / 000",
+          "yeni": "7520 / cze / 7521 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11973:V:29900|sid:14110",
+      "kanal_adi": "Nova Sport 2 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1020 / cze / 1021 / 000 / 0",
+          "yeni": "1020 / cze / 1021 / 000,qaa,qad / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11973:V:29900|sid:14129",
+      "kanal_adi": "Markíza HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2920 / slo / 2921 / 000",
+          "yeni": "2920 / slo / 2921 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11973:V:29900|sid:14130",
+      "kanal_adi": "Doma HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3020 / slo / 3021 / 000",
+          "yeni": "3020 / slo / 3021 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12012:V:29900|sid:15407",
+      "kanal_adi": "Viasat Explore",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1711 / cze / 1712 / hun / 1713 / 000",
+          "yeni": "1711 / cze / 1712 / hun / 1713 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12012:V:29900|sid:15412",
+      "kanal_adi": "Filmbox+ Comedy",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2211 / cze / 2212 / 000 / 2213 / hun",
+          "yeni": "2211 / cze / 2212 / 000,qaa,qad / 2213 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12070:H:27500|sid:13145",
+      "kanal_adi": "JOJ Cinema HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3920 / slo / 3921 / 000",
+          "yeni": "3920 / slo / 3921 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12090:V:29900|sid:775",
+      "kanal_adi": "HBO HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / cze / 7114 / 000",
+          "yeni": "0 / cze / 7114 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12090:V:29900|sid:777",
+      "kanal_adi": "Ócko Star",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3111 / 000",
+          "yeni": "3111 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12090:V:29900|sid:786",
+      "kanal_adi": "Nova Sport 6 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7142 / cze / 0 / cze / 7144 / 000",
+          "yeni": "7142 / cze / 0 / cze / 7144 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8001",
+      "kanal_adi": "CT 1 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1120 / cze / 1121 / 000 / 0 / cze / 1123 / cze",
+          "yeni": "1120 / cze / 1121 / 000,qaa,qad / 0 / cze / 1123 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8002",
+      "kanal_adi": "CT 2 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1220 / cze / 1221 / 000 / 0 / cze / 1223 / cze",
+          "yeni": "1220 / cze / 1221 / 000,qaa,qad / 0 / cze / 1223 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8005",
+      "kanal_adi": "CT art HD (20-06 CET)",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1520 / cze / 1521 / 000 / 0 / cze / 1523 / cze",
+          "yeni": "1520 / cze / 1521 / 000,qaa,qad / 0 / cze / 1523 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8007",
+      "kanal_adi": "CT 1 SM HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1120 / cze / 1121 / 000 / 1123 / cze / 0 / cze",
+          "yeni": "1120 / cze / 1121 / 000,qaa,qad / 1123 / cze / 0 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12343:H:29900|sid:8008",
+      "kanal_adi": "CT 1 JM HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1120 / cze / 1121 / 000 / 1123 / cze / 0 / cze",
+          "yeni": "1120 / cze / 1121 / 000,qaa,qad / 1123 / cze / 0 / cze"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
