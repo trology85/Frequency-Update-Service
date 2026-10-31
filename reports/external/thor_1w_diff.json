@@ -1,81 +1,78 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-10-31T09:21:01.598058+00:00",
+  "olusturma_zamani_utc": "2026-10-31T19:08:52.620788+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 838,
-    "yeni_kanal": 838,
+    "yeni_kanal": 836,
     "eklenen_kanal": 0,
-    "silinen_kanal": 0,
-    "degisen_kanal": 4,
+    "silinen_kanal": 2,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 70,
-    "yeni_tp": 70,
+    "yeni_tp": 69,
     "eklenen_tp": 0,
-    "silinen_tp": 0,
-    "degisen_tp": 1
+    "silinen_tp": 1,
+    "degisen_tp": 0
   },
   "eklenen_kanallar": [],
-  "silinen_kanallar": [],
-  "degisen_kanallar": [
+  "silinen_kanallar": [
     {
-      "anahtar": "thor_1w|thor_1w:11996:V:28000|sid:30408",
-      "kanal_adi": "AMC Romania",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "463 / 000",
-          "yeni": "463 / 000,qaa,qad"
-        }
-      }
+      "kanal_adi": "A",
+      "frekans": 11862,
+      "polarizasyon": "H",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "515",
+      "ses_pid": "",
+      "uydu": "Thor 5",
+      "kalite": "Bilinmeyen",
+      "tur": "TV",
+      "sid": "0",
+      "paket": "Digi TV",
+      "tp_id": "thor_1w:11862:H:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T2"
     },
     {
-      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1017",
-      "kanal_adi": "Dajto HD",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "1703 / slo / 0 / 000",
-          "yeni": "1703 / slo / 0 / 000,qaa,qad"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4023",
-      "kanal_adi": "Kanal 1 Slovakia",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2304 / 000 / 2303 / slo",
-          "yeni": "2304 / 000,qaa,qad / 2303 / slo"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12723:H:27500|sid:1033",
-      "kanal_adi": "SuperOne",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "683 / 000 / 8181 / zxx",
-          "yeni": "683 / 000,qaa,qad / 8181 / zxx"
-        }
-      }
+      "kanal_adi": "3350",
+      "frekans": 11862,
+      "polarizasyon": "H",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "0",
+      "ses_pid": "",
+      "uydu": "Thor 5",
+      "kalite": "Bilinmeyen",
+      "tur": "TV",
+      "sid": "3350",
+      "paket": "Digi TV",
+      "tp_id": "thor_1w:11862:H:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T2"
     }
   ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
-  "silinen_transponderler": [],
-  "degisen_transponderler": [
+  "silinen_transponderler": [
     {
-      "anahtar": "thor_1w:11862:H:28000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 17,
-          "yeni": 16
-        },
-        "tv_sayisi": {
-          "onceki": 15,
-          "yeni": 14
-        }
-      }
+      "tp_id": "thor_1w:11862:H:28000",
+      "frekans": 11862,
+      "polarizasyon": "H",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "uydu": "Thor 5",
+      "kapsama": "T2",
+      "kanal_sayisi": 16,
+      "tv_sayisi": 14,
+      "radyo_sayisi": 2,
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
     }
-  ]
+  ],
+  "degisen_transponderler": []
 }
