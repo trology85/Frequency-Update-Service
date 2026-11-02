@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-02T10:40:10.850743+00:00",
+  "run_utc": "2026-11-02T23:00:56.762123+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -12,8 +12,8 @@
       "errors": [],
       "pages": 2,
       "transponders": 24,
-      "channels": 432,
-      "raw_channel_rows": 432,
+      "channels": 433,
+      "raw_channel_rows": 433,
       "raw_file": "raw/satbeams/turkmenalem_52.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-02T10:40:12.251993+00:00",
+  "run_utc": "2026-11-02T23:00:58.545929+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-52E",
       "title": "TurkmenÄlem / MonacoSat (52°E) -  - Frekanslar - KingOfSat",
-      "bytes": 478666,
-      "frequency_rows": 61,
+      "bytes": 483565,
+      "frequency_rows": 63,
       "channel_rows": 370,
-      "advertised_records": 413,
+      "advertised_records": 415,
       "block_markers": [],
       "raw_file": "raw/kingofsat/turkmenalem_52.html",
       "errors": []
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-02T10:40:13.899268+00:00",
+  "generated_utc": "2026-11-02T23:01:00.192087+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -68,11 +68,11 @@
       "id": "turkmenalem_52",
       "ok": true,
       "transponders": 24,
-      "channels": 432,
-      "tv": 426,
+      "channels": 433,
+      "tv": 427,
       "radio": 6,
       "sd": 174,
-      "hd": 252,
+      "hd": 253,
       "uhd_4k": 0,
       "unknown_quality": 0,
       "candidate": "candidate/satbeams/turkmenalem_52.json"
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-02T10:40:14.673524+00:00",
+  "run_utc": "2026-11-02T23:01:00.620947+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -114,23 +114,23 @@
       "errors": [],
       "warnings": [],
       "transponders": 24,
-      "channels": 432,
-      "tv": 426,
+      "channels": 433,
+      "tv": 427,
       "radio": 6,
       "sd": 174,
-      "hd": 252,
+      "hd": 253,
       "uhd_4k": 0,
       "unknown_quality": 0,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "9100f92c528fe3900cb9f4ede8a0d22f42d67a488cb15b3f6e24c53b2e5cc4ef",
+      "candidate_hash": "cd43a89b08f4db23535b42eab642cdac486918217fa19f58c67ce8543756400c",
       "current_hash": "9100f92c528fe3900cb9f4ede8a0d22f42d67a488cb15b3f6e24c53b2e5cc4ef",
-      "changed": false,
-      "added": 0,
-      "removed": 0,
+      "changed": true,
+      "added": 4,
+      "removed": 3,
       "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true

@@ -1,26 +1,168 @@
 {
   "uydu_id": "turkmenalem_52",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "olusturma_zamani_utc": "2026-11-02T10:40:14.699290+00:00",
+  "olusturma_zamani_utc": "2026-11-02T23:01:00.640714+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 426,
-    "yeni_kanal": 426,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
+    "yeni_kanal": 427,
+    "eklenen_kanal": 4,
+    "silinen_kanal": 3,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 24,
     "yeni_tp": 24,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "4 Kurd",
+      "frekans": 11382,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "1001",
+      "ses_pid": "1002 / kur",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "10",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11382:V:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Balochistan TV",
+      "frekans": 11382,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "1101",
+      "ses_pid": "",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "11",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11382:V:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Kurd Channel",
+      "frekans": 11382,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "801",
+      "ses_pid": "802 / kur",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "8",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11382:V:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Komala TV",
+      "frekans": 11382,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "901",
+      "ses_pid": "902 / kur",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "9",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11382:V:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    }
+  ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "FX 2 Cartoon",
+      "frekans": 11382,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "401",
+      "ses_pid": "402 / per",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11382:V:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Dej TV",
+      "frekans": 11382,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "601",
+      "ses_pid": "602 / per",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "6",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11382:V:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Setareh TV",
+      "frekans": 11382,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "701",
+      "ses_pid": "702 / per",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11382:V:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    }
+  ],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "turkmenalem_52:11382:V:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 5,
+          "yeni": 6
+        },
+        "tv_sayisi": {
+          "onceki": 5,
+          "yeni": 6
+        }
+      }
+    }
+  ]
 }

@@ -1,26 +1,1568 @@
 {
   "uydu_id": "hotbird_13",
   "uydu_adi": "Hot Bird 13.0°E",
-  "olusturma_zamani_utc": "2026-11-02T10:39:37.665272+00:00",
+  "olusturma_zamani_utc": "2026-11-02T23:00:26.272044+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 1042,
-    "yeni_kanal": 1042,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 1044,
+    "eklenen_kanal": 2,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 140,
     "tur_degisen_kanal": 0,
     "onceki_tp": 82,
     "yeni_tp": 82,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 11
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Aljazeera Alan",
+      "frekans": 12577,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "6021",
+      "ses_pid": "6022 / ara",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1602",
+      "paket": "Eutelsat",
+      "tp_id": "hotbird_13:12577:H:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "Aljazeera Mubasher",
+      "frekans": 12577,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "6031",
+      "ses_pid": "6032 / ara",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1603",
+      "paket": "Eutelsat",
+      "tp_id": "hotbird_13:12577:H:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "hotbird_13|hotbird_13:11804:V:29700|sid:403",
+      "kanal_adi": "Cosmote Sport Highlights",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11804:V:29700|sid:404",
+      "kanal_adi": "Travel Channel Europe",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11804:V:29700|sid:405",
+      "kanal_adi": "Nat Geo Wild Europe",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11804:V:29700|sid:406",
+      "kanal_adi": "MTV Greece",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11804:V:29700|sid:408",
+      "kanal_adi": "Novasports Extra 2",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11804:V:29700|sid:409",
+      "kanal_adi": "Novasports 6",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11804:V:29700|sid:411",
+      "kanal_adi": "Novasports Start",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11804:V:29700|sid:413",
+      "kanal_adi": "IDJ Kids",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11804:V:29700|sid:414",
+      "kanal_adi": "Disney Junior Greece",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11804:V:29700|sid:415",
+      "kanal_adi": "Novastars",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11804:V:29700|sid:416",
+      "kanal_adi": "Novasports 5",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11804:V:29700|sid:417",
+      "kanal_adi": "Disney Channel Greece",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11804:V:29700|sid:418",
+      "kanal_adi": "Animal Planet Africa",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11804:V:29700|sid:420",
+      "kanal_adi": "Novasports Prime",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11804:V:29700|sid:423",
+      "kanal_adi": "Smile TV Greece",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7101",
+      "kanal_adi": "ERT News",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7102",
+      "kanal_adi": "Novasports Extra 4",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7103",
+      "kanal_adi": "Viasat True Crime",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7104",
+      "kanal_adi": "Duck TV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7106",
+      "kanal_adi": "Nova Cinema 3",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7107",
+      "kanal_adi": "Mega TV Greece",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7108",
+      "kanal_adi": "Novasports News",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7109",
+      "kanal_adi": "Novasports 6",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7112",
+      "kanal_adi": "Novasports Extra 3 HD",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7113",
+      "kanal_adi": "Mega News",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7114",
+      "kanal_adi": "Nova Cinema 2 HD",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7115",
+      "kanal_adi": "Cosmote Sport 4",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7116",
+      "kanal_adi": "Cosmote Sport 5",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7118",
+      "kanal_adi": "Cosmote Sport 6",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7122",
+      "kanal_adi": "Cartoonito Central & Eastern Europe",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11938:H:30000|sid:7123",
+      "kanal_adi": "Cosmote Sport 2",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15501",
+      "kanal_adi": "Nova Cinema HD",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15502",
+      "kanal_adi": "Nova Summer",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15503",
+      "kanal_adi": "Baby TV Europe",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15504",
+      "kanal_adi": "Novasports 2",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15505",
+      "kanal_adi": "Star Greece",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15506",
+      "kanal_adi": "TLC Pan Regional",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15507",
+      "kanal_adi": "Cosmote Sport 7",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15508",
+      "kanal_adi": "Cosmote Sport 8",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15510",
+      "kanal_adi": "Cosmote Sport 9",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15511",
+      "kanal_adi": "E! Europe",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15512",
+      "kanal_adi": "Attica TV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15514",
+      "kanal_adi": "Food Network HD",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15515",
+      "kanal_adi": "Novasports 3",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15516",
+      "kanal_adi": "EuroNews Ellinika",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15517",
+      "kanal_adi": "Cosmote Sport 1",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15518",
+      "kanal_adi": "Marquee TV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12130:H:30000|sid:15519",
+      "kanal_adi": "Blue Sky TV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:351",
+      "kanal_adi": "Discovery Channel Europe",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:352",
+      "kanal_adi": "Naftemporiki",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:354",
+      "kanal_adi": "Novasports 4",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:357",
+      "kanal_adi": "Cosmote Sport 3",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:358",
+      "kanal_adi": "Open Beyond",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:361",
+      "kanal_adi": "Novasports Extra 1",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:362",
+      "kanal_adi": "History Europe",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:363",
+      "kanal_adi": "Kontra Channel",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:366",
+      "kanal_adi": "Nova Cinema 4",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:368",
+      "kanal_adi": "Novalife",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:370",
+      "kanal_adi": "Hits GR",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:371",
+      "kanal_adi": "Lounge TV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:372",
+      "kanal_adi": "Ellinika Agapmena",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:373",
+      "kanal_adi": "Rebetiko",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:374",
+      "kanal_adi": "Elliniko Rok",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:377",
+      "kanal_adi": "Mad TV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:378",
+      "kanal_adi": "ERT 1",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:381",
+      "kanal_adi": "Novasports Extra 3",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:383",
+      "kanal_adi": "SKAÏ",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:387",
+      "kanal_adi": "ERT 3",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12169:H:30000|sid:389",
+      "kanal_adi": "ERT 2",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:101",
+      "kanal_adi": "Travel Channel Europe",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:103",
+      "kanal_adi": "BNT 1",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:104",
+      "kanal_adi": "Dizi",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:111",
+      "kanal_adi": "Balkanika Music TV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:113",
+      "kanal_adi": "Investigation Discovery Europe",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:114",
+      "kanal_adi": "BNT 2",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:117",
+      "kanal_adi": "Diema Family",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:121",
+      "kanal_adi": "Viasat History",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:122",
+      "kanal_adi": "Epic Drama",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:126",
+      "kanal_adi": "Viasat Kino Balkan",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:128",
+      "kanal_adi": "Nickelodeon Europe",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:130",
+      "kanal_adi": "Disney Channel Romania & Bulgaria",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:131",
+      "kanal_adi": "Disney Junior Romania & Bulgaria",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:134",
+      "kanal_adi": "Vivacom Arena",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:135",
+      "kanal_adi": "Dom Kino Premium International",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:136",
+      "kanal_adi": "KinoNova",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:139",
+      "kanal_adi": "Chasse & Peche",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:142",
+      "kanal_adi": "Peretz International",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:146",
+      "kanal_adi": "Nova News",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:147",
+      "kanal_adi": "CineStar TV Bulgaria",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:148",
+      "kanal_adi": "CineStar TV Action & Thriller Bulgaria",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:226",
+      "kanal_adi": "Cinemax Central Europe",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:229",
+      "kanal_adi": "HBO Adria",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:230",
+      "kanal_adi": "HBO 2 Central Europe",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:601",
+      "kanal_adi": "Arena Life",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:602",
+      "kanal_adi": "Arena Comedy",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12616:H:30000|sid:603",
+      "kanal_adi": "Arena Action",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12635:V:30000|sid:29",
+      "kanal_adi": "Telemedia Bulgaria",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12635:V:30000|sid:32",
+      "kanal_adi": "Star Channel Bulgaria",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12635:V:30000|sid:33",
+      "kanal_adi": "BNT 4",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12635:V:30000|sid:34",
+      "kanal_adi": "Bulgaria On Air",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12635:V:30000|sid:35",
+      "kanal_adi": "Bloomberg TV Bulgaria",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12635:V:30000|sid:36",
+      "kanal_adi": "National Geographic Bulgaria",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12635:V:30000|sid:41",
+      "kanal_adi": "Plovdivska Pravoslavna TV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12635:V:30000|sid:42",
+      "kanal_adi": "Nat Geo Wild Bulgaria",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12635:V:30000|sid:43",
+      "kanal_adi": "Bulgarska Khristiyanska TV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12635:V:30000|sid:8",
+      "kanal_adi": "City TV Bulgaria",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12654:H:30000|sid:0",
+      "kanal_adi": "Viasat Nature East",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12654:H:30000|sid:106",
+      "kanal_adi": "DSTV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12654:H:30000|sid:250",
+      "kanal_adi": "Kanal 3",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12654:H:30000|sid:269",
+      "kanal_adi": "History Bulgaria",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:213",
+      "kanal_adi": "RTG TV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:222",
+      "kanal_adi": "FightKlub",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:304",
+      "kanal_adi": "Diema Sport",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:308",
+      "kanal_adi": "SkyShowtime 1",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:309",
+      "kanal_adi": "SkyShowtime 2",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:311",
+      "kanal_adi": "HGTV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:312",
+      "kanal_adi": "BNT 3",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:313",
+      "kanal_adi": "Max Sport 3",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:315",
+      "kanal_adi": "Nat Geo Wild Bulgaria",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:316",
+      "kanal_adi": "National Geographic Bulgaria",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:317",
+      "kanal_adi": "Planeta",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:318",
+      "kanal_adi": "bTV Bulgaria",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:319",
+      "kanal_adi": "bTV Action",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:320",
+      "kanal_adi": "Ring",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:325",
+      "kanal_adi": "Diema Sport 3",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:326",
+      "kanal_adi": "Domashnij Telekanal International",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:327",
+      "kanal_adi": "STS Kids International",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12672:V:30000|sid:330",
+      "kanal_adi": "Diema Sport 2",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12713:V:30000|sid:0",
+      "kanal_adi": "Yaban TV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12713:V:30000|sid:5045",
+      "kanal_adi": "Daystar TV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12731:H:30000|sid:601",
+      "kanal_adi": "FX Life Greece",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12731:H:30000|sid:602",
+      "kanal_adi": "FX Greece",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12731:H:30000|sid:603",
+      "kanal_adi": "MyZen TV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12731:H:30000|sid:604",
+      "kanal_adi": "Number 1 Greek",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12731:H:30000|sid:605",
+      "kanal_adi": "Inplus",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12731:H:30000|sid:606",
+      "kanal_adi": "Crime + Investigation UK",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12731:H:30000|sid:607",
+      "kanal_adi": "National Geographic Ellada",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12731:H:30000|sid:608",
+      "kanal_adi": "Viasat History",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12731:H:30000|sid:609",
+      "kanal_adi": "Viasat Nature",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:12731:H:30000|sid:610",
+      "kanal_adi": "Viasat Explore",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "hotbird_13:11804:V:29700",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13:11938:H:30000",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13:12130:H:30000",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13:12169:H:30000",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13:12577:H:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 6,
+          "yeni": 8
+        },
+        "tv_sayisi": {
+          "onceki": 6,
+          "yeni": 8
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13:12616:H:30000",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13:12635:V:30000",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13:12654:H:30000",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13:12672:V:30000",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13:12713:V:30000",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13:12731:H:30000",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "Wide",
+          "yeni": "SouthEast"
+        }
+      }
+    }
+  ]
 }

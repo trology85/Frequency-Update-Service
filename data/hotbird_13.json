@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-10-31T09:20:24.541236+00:00",
+  "guncelleme_tarihi": "2026-11-02T23:00:26.142626+00:00",
   "uydu_adi": "Hot Bird 13.0°E",
-  "toplam_kanal": 1155,
+  "toplam_kanal": 1157,
   "toplam_tp": 83,
   "transponderler": [
     {
@@ -600,7 +600,7 @@
       "sembol_orani": 29700,
       "fec": "3/4",
       "uydu": "Eutelsat Hot Bird 13F",
-      "kapsama": "Wide",
+      "kapsama": "SouthEast",
       "kanal_sayisi": 16,
       "tv_sayisi": 16,
       "radyo_sayisi": 0,
@@ -712,7 +712,7 @@
       "sembol_orani": 30000,
       "fec": "5/6",
       "uydu": "Eutelsat Hot Bird 13F",
-      "kapsama": "Wide",
+      "kapsama": "SouthEast",
       "kanal_sayisi": 16,
       "tv_sayisi": 16,
       "radyo_sayisi": 0,
@@ -838,7 +838,7 @@
       "sembol_orani": 30000,
       "fec": "5/6",
       "uydu": "Eutelsat Hot Bird 13F",
-      "kapsama": "Wide",
+      "kapsama": "SouthEast",
       "kanal_sayisi": 17,
       "tv_sayisi": 17,
       "radyo_sayisi": 0,
@@ -866,7 +866,7 @@
       "sembol_orani": 30000,
       "fec": "5/6",
       "uydu": "Eutelsat Hot Bird 13F",
-      "kapsama": "Wide",
+      "kapsama": "SouthEast",
       "kanal_sayisi": 21,
       "tv_sayisi": 16,
       "radyo_sayisi": 5,
@@ -1077,8 +1077,8 @@
       "fec": "3/4",
       "uydu": "Eutelsat Hot Bird 13G",
       "kapsama": "Wide",
-      "kanal_sayisi": 6,
-      "tv_sayisi": 6,
+      "kanal_sayisi": 8,
+      "tv_sayisi": 8,
       "radyo_sayisi": 0,
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E"
@@ -1090,7 +1090,7 @@
       "sembol_orani": 30000,
       "fec": "5/6",
       "uydu": "Eutelsat Hot Bird 13F",
-      "kapsama": "Wide",
+      "kapsama": "SouthEast",
       "kanal_sayisi": 27,
       "tv_sayisi": 27,
       "radyo_sayisi": 0,
@@ -1104,7 +1104,7 @@
       "sembol_orani": 30000,
       "fec": "5/6",
       "uydu": "Eutelsat Hot Bird 13F",
-      "kapsama": "Wide",
+      "kapsama": "SouthEast",
       "kanal_sayisi": 10,
       "tv_sayisi": 10,
       "radyo_sayisi": 0,
@@ -1118,7 +1118,7 @@
       "sembol_orani": 30000,
       "fec": "5/6",
       "uydu": "Eutelsat Hot Bird 13F",
-      "kapsama": "Wide",
+      "kapsama": "SouthEast",
       "kanal_sayisi": 46,
       "tv_sayisi": 46,
       "radyo_sayisi": 0,
@@ -1132,7 +1132,7 @@
       "sembol_orani": 30000,
       "fec": "5/6",
       "uydu": "Eutelsat Hot Bird 13F",
-      "kapsama": "Wide",
+      "kapsama": "SouthEast",
       "kanal_sayisi": 18,
       "tv_sayisi": 18,
       "radyo_sayisi": 0,
@@ -1146,7 +1146,7 @@
       "sembol_orani": 30000,
       "fec": "5/6",
       "uydu": "Eutelsat Hot Bird 13F",
-      "kapsama": "Wide",
+      "kapsama": "SouthEast",
       "kanal_sayisi": 35,
       "tv_sayisi": 35,
       "radyo_sayisi": 0,
@@ -1160,7 +1160,7 @@
       "sembol_orani": 30000,
       "fec": "5/6",
       "uydu": "Eutelsat Hot Bird 13F",
-      "kapsama": "Wide",
+      "kapsama": "SouthEast",
       "kanal_sayisi": 10,
       "tv_sayisi": 10,
       "radyo_sayisi": 0,
@@ -1437,7 +1437,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "8 Kanal International",
@@ -1761,7 +1761,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Al Aoula Inter",
@@ -2160,6 +2160,42 @@
       "kapsama": "Wide"
     },
     {
+      "kanal_adi": "Aljazeera Alan",
+      "frekans": 12577,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "6021",
+      "ses_pid": "6022 / ara",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1602",
+      "paket": "Eutelsat",
+      "tp_id": "hotbird_13:12577:H:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "Aljazeera Mubasher",
+      "frekans": 12577,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "3/4",
+      "video_pid": "6031",
+      "ses_pid": "6032 / ara",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1603",
+      "paket": "Eutelsat",
+      "tp_id": "hotbird_13:12577:H:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
       "kanal_adi": "Alkarma TV Middle East",
       "frekans": 11179,
       "polarizasyon": "H",
@@ -2229,7 +2265,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "AMC Polska",
@@ -2265,7 +2301,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "AnewZ",
@@ -2319,7 +2355,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Animal Planet Europe",
@@ -2337,7 +2373,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Animal Planet Polska",
@@ -2427,7 +2463,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Antena HD",
@@ -2463,7 +2499,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Arena Comedy",
@@ -2481,7 +2517,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Arena Life",
@@ -2499,7 +2535,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Arirang World",
@@ -2715,7 +2751,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Auftanken.TV",
@@ -2949,7 +2985,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Baby TV Europe",
@@ -2967,7 +3003,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Bahrain TV HD",
@@ -3003,7 +3039,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Bare Knuckles Fighting Championship",
@@ -3363,7 +3399,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "BeJoy.kids",
@@ -3453,7 +3489,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "BG+",
@@ -3471,7 +3507,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Bike Channel",
@@ -3525,7 +3561,7 @@
       "tp_id": "hotbird_13:12635:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Bloomberg TV Europe",
@@ -3579,7 +3615,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "blue Zoom D",
@@ -3633,7 +3669,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "BNT 2",
@@ -3651,7 +3687,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "BNT 3",
@@ -3669,7 +3705,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "BNT 4",
@@ -3705,7 +3741,7 @@
       "tp_id": "hotbird_13:12635:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "BogBlag TV",
@@ -3759,7 +3795,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Brazzers TV Europe",
@@ -3795,7 +3831,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "bTV Bulgaria",
@@ -3813,7 +3849,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Bulgaria 24",
@@ -3831,7 +3867,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Bulgaria On Air",
@@ -3849,7 +3885,7 @@
       "tp_id": "hotbird_13:12635:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Bulgarska Khristiyanska TV",
@@ -3867,7 +3903,7 @@
       "tp_id": "hotbird_13:12635:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "BVN TV Europa",
@@ -4407,7 +4443,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Cartoonito Central & Eastern Europe",
@@ -4425,7 +4461,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Cartoonito Central & Eastern Europe",
@@ -4443,7 +4479,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Cartoonito HD",
@@ -5271,7 +5307,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "CHASSE ET PECHE",
@@ -5415,7 +5451,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Cinemax 2 Central Europe",
@@ -5451,7 +5487,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Cinemax 2 Central Europe HD",
@@ -5487,7 +5523,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "CineStar TV Action & Thriller Bulgaria",
@@ -5505,7 +5541,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "CineStar TV Bulgaria",
@@ -5523,7 +5559,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "City TV Bulgaria",
@@ -5541,7 +5577,7 @@
       "tp_id": "hotbird_13:12635:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Class TV Moda",
@@ -5667,7 +5703,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Code Health TV",
@@ -5685,7 +5721,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Comedy Central HD",
@@ -5775,7 +5811,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Cosmote Sport 2",
@@ -5811,7 +5847,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Cosmote Sport 3",
@@ -5829,7 +5865,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Cosmote Sport 4",
@@ -5847,7 +5883,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Cosmote Sport 5",
@@ -5865,7 +5901,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Cosmote Sport 6",
@@ -5883,7 +5919,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Cosmote Sport 7",
@@ -5901,7 +5937,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Cosmote Sport 8",
@@ -5919,7 +5955,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Cosmote Sport 9",
@@ -5937,7 +5973,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Cosmote Sport Highlights",
@@ -5955,7 +5991,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Couleur 3",
@@ -6045,7 +6081,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Crime + Investigation UK",
@@ -6063,7 +6099,7 @@
       "tp_id": "hotbird_13:12731:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "CRIME DISTRICT",
@@ -6135,7 +6171,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Da Vinci Learning",
@@ -6243,7 +6279,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "DAZN 1 Italia",
@@ -6351,7 +6387,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Diema Sport",
@@ -6369,7 +6405,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Diema Sport 2",
@@ -6387,7 +6423,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Diema Sport 3",
@@ -6405,7 +6441,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Digiquest promo Ita",
@@ -6495,7 +6531,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Discovery Channel Europe",
@@ -6513,7 +6549,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Discovery Channel HD Polska",
@@ -6621,7 +6657,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Disney Channel Polska HD",
@@ -6657,7 +6693,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Disney Junior Greece",
@@ -6675,7 +6711,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Disney Junior Italia",
@@ -6729,7 +6765,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Disney XD",
@@ -6765,7 +6801,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Dla Abonentow",
@@ -6801,7 +6837,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "DMAX Italia",
@@ -6837,7 +6873,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Domashnij Telekanal International",
@@ -6855,7 +6891,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Domo+ HD",
@@ -6999,7 +7035,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "DTX Polska",
@@ -7053,7 +7089,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "DW English HD",
@@ -7107,7 +7143,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "E! Polska HD",
@@ -7179,7 +7215,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Eko TV",
@@ -7287,7 +7323,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Elliniko Rok",
@@ -7305,7 +7341,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "English Club TV",
@@ -7323,7 +7359,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Epic Drama",
@@ -7341,7 +7377,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Epic Drama HD",
@@ -7485,7 +7521,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "ERT 2",
@@ -7521,7 +7557,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "ERT 3",
@@ -7539,7 +7575,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "ERT News",
@@ -7557,7 +7593,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "ERT World Europe",
@@ -7683,7 +7719,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "EuroNews Ellinika",
@@ -7701,7 +7737,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "EuroNews HD",
@@ -7773,7 +7809,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Eurosport 1 Polska",
@@ -7809,7 +7845,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Eurosport 2 Italia",
@@ -7863,7 +7899,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "EWTN Europe",
@@ -7917,7 +7953,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Fen Folk TV",
@@ -7935,7 +7971,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Fen TV",
@@ -7953,7 +7989,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "FightBox",
@@ -7989,7 +8025,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "FightKlub Polska",
@@ -8061,7 +8097,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "FilmBox Arthouse Worldwide",
@@ -8079,7 +8115,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "FilmBox Central Europe",
@@ -8097,7 +8133,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "FilmBox Extra Bulgaria",
@@ -8115,7 +8151,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "FilmBox Extra HD",
@@ -8205,7 +8241,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "FilmBox+ Action",
@@ -8403,7 +8439,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Food HD",
@@ -8439,7 +8475,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Food Network HD",
@@ -8457,7 +8493,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Food Network HD EMEA",
@@ -8745,7 +8781,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "FreeSport",
@@ -8853,7 +8889,7 @@
       "tp_id": "hotbird_13:12731:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "FX Life Greece",
@@ -8871,7 +8907,7 @@
       "tp_id": "hotbird_13:12731:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "FX Polska",
@@ -9123,7 +9159,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Hadi TV 3",
@@ -9159,7 +9195,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "HBO 3 Central Europe",
@@ -9195,7 +9231,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "HBO Adria",
@@ -9213,7 +9249,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "HBO Polska",
@@ -9249,7 +9285,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "HGTV Polska",
@@ -9303,7 +9339,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "History Europe",
@@ -9321,7 +9357,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "History Europe",
@@ -9375,7 +9411,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Hits GR",
@@ -9393,7 +9429,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Home TV (Poland)",
@@ -9555,7 +9591,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "In Touch+",
@@ -9591,7 +9627,7 @@
       "tp_id": "hotbird_13:12731:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Inultra",
@@ -9627,7 +9663,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Investigation Discovery Poland HD",
@@ -10005,7 +10041,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Kanal 7 Avrupa",
@@ -10023,7 +10059,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Kanal Zero",
@@ -10221,7 +10257,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Kiss Kiss TV",
@@ -10257,7 +10293,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "KTV 1 (Kuwait)",
@@ -10545,7 +10581,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Love Nature 4K",
@@ -10743,7 +10779,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Magic TV Bulgaria",
@@ -10761,7 +10797,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "MAK TV",
@@ -10869,7 +10905,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Marquee TV",
@@ -10887,7 +10923,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Max Sport 1",
@@ -10905,7 +10941,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Max Sport 2",
@@ -10923,7 +10959,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Max Sport 3",
@@ -10941,7 +10977,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Max Sport 4",
@@ -10959,7 +10995,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "MBC FM",
@@ -11031,7 +11067,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Mediaset Italia2 HD",
@@ -11085,7 +11121,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Mega TV Greece",
@@ -11103,7 +11139,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Megaradio",
@@ -11229,7 +11265,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "MTA 2 Europe",
@@ -11283,7 +11319,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "MTV Greece",
@@ -11301,7 +11337,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "MTV Music Italia",
@@ -11409,7 +11445,7 @@
       "tp_id": "hotbird_13:12731:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "MyZen TV 4K",
@@ -11463,7 +11499,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nastoyashcheye Vremya",
@@ -11499,7 +11535,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nat Geo People HD",
@@ -11535,7 +11571,7 @@
       "tp_id": "hotbird_13:12635:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nat Geo Wild Bulgaria",
@@ -11553,7 +11589,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nat Geo Wild Europe",
@@ -11571,7 +11607,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nat Geo Wild Polska",
@@ -11625,7 +11661,7 @@
       "tp_id": "hotbird_13:12635:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "National Geographic Bulgaria",
@@ -11643,7 +11679,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "National Geographic Channel HD Polska",
@@ -11679,7 +11715,7 @@
       "tp_id": "hotbird_13:12731:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "New Life Radio",
@@ -11769,7 +11805,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nick Jr Italia",
@@ -11841,7 +11877,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "NickToons Bulgaria",
@@ -11859,7 +11895,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nicktoons Polska",
@@ -11895,7 +11931,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nour Kids",
@@ -11949,7 +11985,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nova Cinema 3",
@@ -11967,7 +12003,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nova Cinema 4",
@@ -11985,7 +12021,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nova Cinema 4 HD",
@@ -12021,7 +12057,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nova News",
@@ -12039,7 +12075,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nova News",
@@ -12057,7 +12093,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nova Sport Bulgaria",
@@ -12075,7 +12111,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nova Summer",
@@ -12093,7 +12129,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novalife",
@@ -12111,7 +12147,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novasports 2",
@@ -12129,7 +12165,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novasports 3",
@@ -12147,7 +12183,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novasports 3 HD",
@@ -12183,7 +12219,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novasports 5",
@@ -12201,7 +12237,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novasports 6",
@@ -12219,7 +12255,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novasports 6",
@@ -12237,7 +12273,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novasports 7",
@@ -12273,7 +12309,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novasports Extra 1",
@@ -12291,7 +12327,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novasports Extra 2",
@@ -12309,7 +12345,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novasports Extra 3",
@@ -12327,7 +12363,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novasports Extra 3 HD",
@@ -12345,7 +12381,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novasports Extra 4",
@@ -12363,7 +12399,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novasports News",
@@ -12381,7 +12417,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novasports Prime",
@@ -12399,7 +12435,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novasports Start",
@@ -12417,7 +12453,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novastars",
@@ -12435,7 +12471,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Novela TV",
@@ -12597,7 +12633,7 @@
       "tp_id": "hotbird_13:12731:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Nuta Gold",
@@ -12705,7 +12741,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Oman TV",
@@ -12777,7 +12813,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "ORF 1 Südtirol",
@@ -13101,7 +13137,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Pickbox TV Bulgaria",
@@ -13119,7 +13155,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Planeta",
@@ -13137,7 +13173,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Planeta Folk TV",
@@ -13155,7 +13191,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Planete+ HD Polska",
@@ -13191,7 +13227,7 @@
       "tp_id": "hotbird_13:12635:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Polo TV",
@@ -15801,7 +15837,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Redlight HD",
@@ -15927,7 +15963,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "RMC Découverte",
@@ -16089,7 +16125,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Romance TV",
@@ -16323,7 +16359,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "RTL 102.5 Caliente",
@@ -16485,7 +16521,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "RTL Plug",
@@ -16971,7 +17007,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Show Türk",
@@ -16989,7 +17025,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Silk Way",
@@ -17079,7 +17115,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "SKAÏ",
@@ -17097,7 +17133,7 @@
       "tp_id": "hotbird_13:12169:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "SKAÏ 100.3",
@@ -17997,7 +18033,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "SkyShowtime 1 Polska",
@@ -18033,7 +18069,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "SkyShowtime 2 Polska",
@@ -18069,7 +18105,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "SMTV (Supreme Master TV)",
@@ -18141,7 +18177,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Spike Italia",
@@ -18411,7 +18447,7 @@
       "tp_id": "hotbird_13:12635:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Star Greece",
@@ -18429,7 +18465,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Stars TV",
@@ -18483,7 +18519,7 @@
       "tp_id": "hotbird_13:12672:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "StudioMed TV",
@@ -19203,7 +19239,7 @@
       "tp_id": "hotbird_13:12635:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "TeleSardegna",
@@ -19473,7 +19509,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Tiankov Folk",
@@ -19491,7 +19527,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Tipik",
@@ -19545,7 +19581,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "TLC Pan Regional",
@@ -19563,7 +19599,7 @@
       "tp_id": "hotbird_13:12130:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "TLC Polska",
@@ -19743,7 +19779,7 @@
       "tp_id": "hotbird_13:11804:V:29700",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Travel Channel Europe",
@@ -19761,7 +19797,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Travel Channel HD",
@@ -19815,7 +19851,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "TRAVELXP 4K",
@@ -20193,7 +20229,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "TV5 Monde Europe",
@@ -20247,7 +20283,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "TV8 Italia",
@@ -20931,7 +20967,7 @@
       "tp_id": "hotbird_13:12731:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Viasat Explore Polsat HD",
@@ -20967,7 +21003,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Viasat History",
@@ -20985,7 +21021,7 @@
       "tp_id": "hotbird_13:12731:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Viasat History Polsat",
@@ -21021,7 +21057,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Viasat Kino World",
@@ -21039,7 +21075,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Viasat Nature",
@@ -21057,7 +21093,7 @@
       "tp_id": "hotbird_13:12731:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Viasat Nature East",
@@ -21075,7 +21111,7 @@
       "tp_id": "hotbird_13:12654:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Viasat Nature Polsat",
@@ -21147,7 +21183,7 @@
       "tp_id": "hotbird_13:11938:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "VideoLina",
@@ -21255,7 +21291,7 @@
       "tp_id": "hotbird_13:12616:H:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Vivacom Arena",
@@ -21273,7 +21309,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Vivid Red HD",
@@ -21651,7 +21687,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Wild TV",
@@ -21813,7 +21849,7 @@
       "tp_id": "hotbird_13:12713:V:30000",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
+      "kapsama": "SouthEast"
     },
     {
       "kanal_adi": "Yemen Radio",
