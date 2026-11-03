@@ -1,24 +1,10 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-10-27T19:52:05.513605+00:00",
+  "guncelleme_tarihi": "2026-11-03T10:30:46.192693+00:00",
   "uydu_adi": "Azerspace-1 46.0°E",
-  "toplam_kanal": 142,
-  "toplam_tp": 25,
+  "toplam_kanal": 136,
+  "toplam_tp": 23,
   "transponderler": [
-    {
-      "tp_id": "azerspace_46:3730:V:30000",
-      "frekans": 3730,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "uydu": "Africasat 1",
-      "kapsama": "C",
-      "kanal_sayisi": 5,
-      "tv_sayisi": 5,
-      "radyo_sayisi": 0,
-      "konum_id": "azerspace_46",
-      "konum_adi": "Azerspace-1 46.0°E"
-    },
     {
       "tp_id": "azerspace_46:3817:H:3333",
       "frekans": 3817,
@@ -111,20 +97,6 @@
       "fec": "2/3",
       "uydu": "Azerspace",
       "kapsama": "AfricaEurope",
-      "kanal_sayisi": 1,
-      "tv_sayisi": 1,
-      "radyo_sayisi": 0,
-      "konum_id": "azerspace_46",
-      "konum_adi": "Azerspace-1 46.0°E"
-    },
-    {
-      "tp_id": "azerspace_46:4027:V:1200",
-      "frekans": 4027,
-      "polarizasyon": "V",
-      "sembol_orani": 1200,
-      "fec": "3/4",
-      "uydu": "Africasat 1",
-      "kapsama": "C",
       "kanal_sayisi": 1,
       "tv_sayisi": 1,
       "radyo_sayisi": 0,
@@ -1006,24 +978,6 @@
       "kapsama": "AfricaEurope"
     },
     {
-      "kanal_adi": "Champions of Fire TV",
-      "frekans": 4027,
-      "polarizasyon": "V",
-      "sembol_orani": 1200,
-      "fec": "3/4",
-      "video_pid": "33",
-      "ses_pid": "36 / eng",
-      "uydu": "Africasat 1",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "1",
-      "paket": "",
-      "tp_id": "azerspace_46:4027:V:1200",
-      "konum_id": "azerspace_46",
-      "konum_adi": "Azerspace-1 46.0°E",
-      "kapsama": "C"
-    },
-    {
       "kanal_adi": "Channel Ten",
       "frekans": 4112,
       "polarizasyon": "V",
@@ -1870,24 +1824,6 @@
       "kapsama": "Europe"
     },
     {
-      "kanal_adi": "Nat Geo Gold",
-      "frekans": 3730,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "video_pid": "2006",
-      "ses_pid": "3006 / eng",
-      "uydu": "Africasat 1",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "6",
-      "paket": "RRSat",
-      "tp_id": "azerspace_46:3730:V:30000",
-      "konum_id": "azerspace_46",
-      "konum_adi": "Azerspace-1 46.0°E",
-      "kapsama": "C"
-    },
-    {
       "kanal_adi": "Nat Geo Wild",
       "frekans": 4180,
       "polarizasyon": "R",
@@ -1922,24 +1858,6 @@
       "konum_id": "azerspace_46",
       "konum_adi": "Azerspace-1 46.0°E",
       "kapsama": "AfricaEurope"
-    },
-    {
-      "kanal_adi": "National Geographic Channel France",
-      "frekans": 3730,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "video_pid": "2003",
-      "ses_pid": "3003 / fre",
-      "uydu": "Africasat 1",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "3",
-      "paket": "RRSat",
-      "tp_id": "azerspace_46:3730:V:30000",
-      "konum_id": "azerspace_46",
-      "konum_adi": "Azerspace-1 46.0°E",
-      "kapsama": "C"
     },
     {
       "kanal_adi": "Naxçivan TV",
@@ -2284,24 +2202,6 @@
       "kapsama": "AfricaEurope"
     },
     {
-      "kanal_adi": "RRSat promo",
-      "frekans": 3730,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "video_pid": "2002",
-      "ses_pid": "3002",
-      "uydu": "Africasat 1",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "2",
-      "paket": "RRSat",
-      "tp_id": "azerspace_46:3730:V:30000",
-      "konum_id": "azerspace_46",
-      "konum_adi": "Azerspace-1 46.0°E",
-      "kapsama": "C"
-    },
-    {
       "kanal_adi": "Rustavi 2",
       "frekans": 11094,
       "polarizasyon": "H",
@@ -2536,24 +2436,6 @@
       "kapsama": "AfricaEurope"
     },
     {
-      "kanal_adi": "test card",
-      "frekans": 3730,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "video_pid": "2001",
-      "ses_pid": "3001",
-      "uydu": "Africasat 1",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "1",
-      "paket": "RRSat",
-      "tp_id": "azerspace_46:3730:V:30000",
-      "konum_id": "azerspace_46",
-      "konum_adi": "Azerspace-1 46.0°E",
-      "kapsama": "C"
-    },
-    {
       "kanal_adi": "Topaz 2",
       "frekans": 11094,
       "polarizasyon": "H",
@@ -2714,24 +2596,6 @@
       "konum_id": "azerspace_46",
       "konum_adi": "Azerspace-1 46.0°E",
       "kapsama": "AfricaEurope"
-    },
-    {
-      "kanal_adi": "Voyage",
-      "frekans": 3730,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "video_pid": "2004",
-      "ses_pid": "3004 / fre",
-      "uydu": "Africasat 1",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "4",
-      "paket": "RRSat",
-      "tp_id": "azerspace_46:3730:V:30000",
-      "konum_id": "azerspace_46",
-      "konum_adi": "Azerspace-1 46.0°E",
-      "kapsama": "C"
     },
     {
       "kanal_adi": "Wasafi TV",

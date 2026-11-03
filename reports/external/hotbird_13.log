@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-02T23:00:18.501721+00:00",
+  "run_utc": "2026-11-03T10:30:31.109688+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-02T23:00:20.406915+00:00",
+  "run_utc": "2026-11-03T10:30:32.882971+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-13E",
       "title": "Hot Bird 13F / Hot Bird 13G (13°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1790323,
+      "bytes": 1792424,
       "frequency_rows": 158,
-      "channel_rows": 1466,
-      "advertised_records": 1546,
+      "channel_rows": 1470,
+      "advertised_records": 1550,
       "block_markers": [],
       "raw_file": "raw/kingofsat/hotbird_13.html",
       "errors": []
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-02T23:00:24.165709+00:00",
+  "generated_utc": "2026-11-03T10:30:36.359595+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 0,
       "tv": 0,
       "radio": 0,
-      "source_updated": "2026-11-01"
+      "source_updated": "2026-11-03"
     }
   ]
 }
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-02T23:00:26.230962+00:00",
+  "run_utc": "2026-11-03T10:30:38.308148+00:00",
   "ok": true,
-  "should_publish": true,
+  "should_publish": false,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -125,12 +125,12 @@
       "missing_core_fields": 0,
       "duplicate_identities": 0,
       "candidate_hash": "a8d9fc063450d31859462c44bd6c58ff42d295eefd9bddb06dd8dc578e36e98b",
-      "current_hash": "cc7dd60ccc4b85eb4b3b95863eb4721f59a17762fcc67b9831de7f16067900b1",
-      "changed": true,
-      "added": 2,
+      "current_hash": "a8d9fc063450d31859462c44bd6c58ff42d295eefd9bddb06dd8dc578e36e98b",
+      "changed": false,
+      "added": 0,
       "removed": 0,
-      "updated": 216
+      "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=true
+SHOULD_PUBLISH=false
