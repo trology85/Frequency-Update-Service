@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-03T10:30:24.957218+00:00",
+  "run_utc": "2026-11-03T20:48:36.346497+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -12,8 +12,8 @@
       "errors": [],
       "pages": 2,
       "transponders": 86,
-      "channels": 896,
-      "raw_channel_rows": 896,
+      "channels": 899,
+      "raw_channel_rows": 899,
       "raw_file": "raw/satbeams/astra_19_2.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-03T10:30:26.722168+00:00",
+  "run_utc": "2026-11-03T20:48:38.400659+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-19.2E",
       "title": "Astra 1M / Astra 1N / Astra 1P (19.2°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1332470,
+      "bytes": 1331874,
       "frequency_rows": 133,
       "channel_rows": 1034,
       "advertised_records": 1075,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-03T10:30:29.632352+00:00",
+  "generated_utc": "2026-11-03T20:48:41.916692+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -68,11 +68,11 @@
       "id": "astra_19_2",
       "ok": true,
       "transponders": 86,
-      "channels": 884,
-      "tv": 751,
-      "radio": 133,
+      "channels": 887,
+      "tv": 753,
+      "radio": 134,
       "sd": 328,
-      "hd": 414,
+      "hd": 416,
       "uhd_4k": 9,
       "unknown_quality": 0,
       "candidate": "candidate/satbeams/astra_19_2.json"
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-03T10:30:30.991884+00:00",
+  "run_utc": "2026-11-03T20:48:43.568442+00:00",
   "ok": true,
   "should_publish": true,
   "source": "Satbeams API",
@@ -114,21 +114,21 @@
       "errors": [],
       "warnings": [],
       "transponders": 86,
-      "channels": 884,
-      "tv": 751,
-      "radio": 133,
+      "channels": 887,
+      "tv": 753,
+      "radio": 134,
       "sd": 328,
-      "hd": 414,
+      "hd": 416,
       "uhd_4k": 9,
       "unknown_quality": 0,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "a5e1e18acd2fae626241d73dcaceee6e1b3313e9acde997de3deb80d797f12ed",
-      "current_hash": "e900fb55a622ebbe975b46d726695aed793f13b8fc9b87f9049336198fda7b12",
+      "candidate_hash": "7d7c8eaf9f5ed28d29c2382862f7bac7b559955ab592e2ccf530fa0ef484f29f",
+      "current_hash": "a5e1e18acd2fae626241d73dcaceee6e1b3313e9acde997de3deb80d797f12ed",
       "changed": true,
-      "added": 0,
-      "removed": 2,
+      "added": 3,
+      "removed": 0,
       "updated": 0
     }
   ]

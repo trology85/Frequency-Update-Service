@@ -1,9 +1,9 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-10-31T09:20:14.186268+00:00",
+  "guncelleme_tarihi": "2026-11-03T10:30:30.891502+00:00",
   "uydu_adi": "Astra 19.2°E",
-  "toplam_kanal": 886,
-  "toplam_tp": 88,
+  "toplam_kanal": 884,
+  "toplam_tp": 86,
   "transponderler": [
     {
       "tp_id": "astra_19_2:10729:V:23500",
@@ -524,20 +524,6 @@
       "konum_adi": "Astra 19.2°E"
     },
     {
-      "tp_id": "astra_19_2:11391:H:22000",
-      "frekans": 11391,
-      "polarizasyon": "H",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "uydu": "Astra 1P",
-      "kapsama": "PE2",
-      "kanal_sayisi": 1,
-      "tv_sayisi": 1,
-      "radyo_sayisi": 0,
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E"
-    },
-    {
       "tp_id": "astra_19_2:11464:H:22000",
       "frekans": 11464,
       "polarizasyon": "H",
@@ -687,20 +673,6 @@
       "kapsama": "PE2",
       "kanal_sayisi": 7,
       "tv_sayisi": 7,
-      "radyo_sayisi": 0,
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E"
-    },
-    {
-      "tp_id": "astra_19_2:11817:V:31430",
-      "frekans": 11817,
-      "polarizasyon": "V",
-      "sembol_orani": 31430,
-      "fec": "3/5",
-      "uydu": "Astra 1M",
-      "kapsama": "1MWide",
-      "kanal_sayisi": 1,
-      "tv_sayisi": 1,
       "radyo_sayisi": 0,
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E"
@@ -10762,24 +10734,6 @@
       "kapsama": "PE2"
     },
     {
-      "kanal_adi": "NFL Network",
-      "frekans": 11817,
-      "polarizasyon": "V",
-      "sembol_orani": 31430,
-      "fec": "3/5",
-      "video_pid": "1001",
-      "ses_pid": "1002 / eng",
-      "uydu": "Astra 1M",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "1",
-      "paket": "NFL Network",
-      "tp_id": "astra_19_2:11817:V:31430",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "1MWide"
-    },
-    {
       "kanal_adi": "NHK World TV HD",
       "frekans": 11229,
       "polarizasyon": "V",
@@ -13136,24 +13090,6 @@
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E",
       "kapsama": "PE1"
-    },
-    {
-      "kanal_adi": "RTL UHD",
-      "frekans": 11391,
-      "polarizasyon": "H",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "video_pid": "2815",
-      "ses_pid": "0",
-      "uydu": "Astra 1P",
-      "kalite": "4K",
-      "tur": "TV",
-      "sid": "12410",
-      "paket": "MX1",
-      "tp_id": "astra_19_2:11391:H:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE2"
     },
     {
       "kanal_adi": "RTL Up",

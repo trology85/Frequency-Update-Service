@@ -1,199 +1,26 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-11-03T10:31:06.625850+00:00",
+  "olusturma_zamani_utc": "2026-11-03T20:49:25.155652+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 836,
+    "onceki_kanal": 842,
     "yeni_kanal": 842,
-    "eklenen_kanal": 7,
-    "silinen_kanal": 1,
+    "eklenen_kanal": 0,
+    "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 2
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "DR P2",
-      "frekans": 11278,
-      "polarizasyon": "V",
-      "sembol_orani": 25000,
-      "fec": "3/4",
-      "video_pid": "0",
-      "ses_pid": "3521 / dan",
-      "uydu": "Thor 5",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "1721",
-      "paket": "Allente",
-      "tp_id": "thor_1w:11278:V:25000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "T1Nordic"
-    },
-    {
-      "kanal_adi": "DR P4",
-      "frekans": 11278,
-      "polarizasyon": "V",
-      "sembol_orani": 25000,
-      "fec": "3/4",
-      "video_pid": "0",
-      "ses_pid": "3522 / dan",
-      "uydu": "Thor 5",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "1722",
-      "paket": "Allente",
-      "tp_id": "thor_1w:11278:V:25000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "T1Nordic"
-    },
-    {
-      "kanal_adi": "DR P1",
-      "frekans": 11278,
-      "polarizasyon": "V",
-      "sembol_orani": 25000,
-      "fec": "3/4",
-      "video_pid": "0",
-      "ses_pid": "3523 / dan",
-      "uydu": "Thor 5",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "1723",
-      "paket": "Allente",
-      "tp_id": "thor_1w:11278:V:25000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "T1Nordic"
-    },
-    {
-      "kanal_adi": "Bandit Classics",
-      "frekans": 11278,
-      "polarizasyon": "V",
-      "sembol_orani": 25000,
-      "fec": "3/4",
-      "video_pid": "0",
-      "ses_pid": "3538 / swe",
-      "uydu": "Thor 5",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "1738",
-      "paket": "Allente",
-      "tp_id": "thor_1w:11278:V:25000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "T1Nordic"
-    },
-    {
-      "kanal_adi": "Classic",
-      "frekans": 11278,
-      "polarizasyon": "V",
-      "sembol_orani": 25000,
-      "fec": "3/4",
-      "video_pid": "0",
-      "ses_pid": "3540 / swe",
-      "uydu": "Thor 5",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "1740",
-      "paket": "Allente",
-      "tp_id": "thor_1w:11278:V:25000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "T1Nordic"
-    },
-    {
-      "kanal_adi": "Bandit Rock",
-      "frekans": 11278,
-      "polarizasyon": "V",
-      "sembol_orani": 25000,
-      "fec": "3/4",
-      "video_pid": "0",
-      "ses_pid": "3546 / swe",
-      "uydu": "Thor 5",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "1746",
-      "paket": "Allente",
-      "tp_id": "thor_1w:11278:V:25000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "T1Nordic"
-    },
-    {
-      "kanal_adi": "Lugna Favoriter",
-      "frekans": 11278,
-      "polarizasyon": "V",
-      "sembol_orani": 25000,
-      "fec": "3/4",
-      "video_pid": "0",
-      "ses_pid": "3651 / swe",
-      "uydu": "Thor 5",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "1751",
-      "paket": "Allente",
-      "tp_id": "thor_1w:11278:V:25000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "T1Nordic"
-    }
-  ],
-  "silinen_kanallar": [
-    {
-      "kanal_adi": "Kuukaunden kanava",
-      "frekans": 10934,
-      "polarizasyon": "V",
-      "sembol_orani": 25000,
-      "fec": "3/4",
-      "video_pid": "1538",
-      "ses_pid": "3572 / swe",
-      "uydu": "Thor 6",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "17084",
-      "paket": "Allente",
-      "tp_id": "thor_1w:10934:V:25000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K1"
-    }
-  ],
+  "eklenen_kanallar": [],
+  "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "thor_1w:10934:V:25000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 12,
-          "yeni": 11
-        },
-        "tv_sayisi": {
-          "onceki": 12,
-          "yeni": 11
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w:11278:V:25000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 8,
-          "yeni": 15
-        },
-        "radyo_sayisi": {
-          "onceki": 1,
-          "yeni": 8
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }
