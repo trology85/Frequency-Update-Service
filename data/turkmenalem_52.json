@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-02T23:01:00.558047+00:00",
+  "guncelleme_tarihi": "2026-11-04T10:33:02.630377+00:00",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "toplam_kanal": 433,
+  "toplam_kanal": 436,
   "toplam_tp": 24,
   "transponderler": [
     {
@@ -195,8 +195,8 @@
       "fec": "2/3",
       "uydu": "TurkmenAlem",
       "kapsama": "East",
-      "kanal_sayisi": 20,
-      "tv_sayisi": 20,
+      "kanal_sayisi": 23,
+      "tv_sayisi": 23,
       "radyo_sayisi": 0,
       "konum_id": "turkmenalem_52",
       "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E"
@@ -1689,6 +1689,24 @@
       "sid": "26",
       "paket": "Wide Network Solutions",
       "tp_id": "turkmenalem_52:10762:V:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Dej TV",
+      "frekans": 11420,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2301",
+      "ses_pid": "2302 / fas",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "23",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11420:H:27500",
       "konum_id": "turkmenalem_52",
       "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
       "kapsama": "East"
@@ -3402,6 +3420,24 @@
       "konum_id": "turkmenalem_52",
       "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
       "kapsama": "West"
+    },
+    {
+      "kanal_adi": "MBC Persia",
+      "frekans": 11420,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2201",
+      "ses_pid": "2202 / per",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "22",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11420:H:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Mellig TV",
@@ -6678,6 +6714,24 @@
       "konum_id": "turkmenalem_52",
       "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
       "kapsama": "West"
+    },
+    {
+      "kanal_adi": "Setareh TV",
+      "frekans": 11420,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2501",
+      "ses_pid": "2502 / fas",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "25",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11420:H:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Seven",
