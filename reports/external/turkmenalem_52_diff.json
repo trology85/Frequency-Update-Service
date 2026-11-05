@@ -1,13 +1,13 @@
 {
   "uydu_id": "turkmenalem_52",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "olusturma_zamani_utc": "2026-11-04T21:05:19.658867+00:00",
+  "olusturma_zamani_utc": "2026-11-05T10:26:35.864282+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 430,
+    "onceki_kanal": 432,
     "yeni_kanal": 432,
-    "eklenen_kanal": 2,
+    "eklenen_kanal": 0,
     "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
@@ -15,63 +15,12 @@
     "yeni_tp": 24,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "Kalemeh TV",
-      "frekans": 11420,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2601",
-      "ses_pid": "2602 / fas",
-      "uydu": "TurkmenAlem",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "26",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:11420:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "East"
-    },
-    {
-      "kanal_adi": "Tibeb Ybrah",
-      "frekans": 11420,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2701",
-      "ses_pid": "2702 / fas",
-      "uydu": "TurkmenAlem",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "27",
-      "paket": "Wide Network Solutions",
-      "tp_id": "turkmenalem_52:11420:H:27500",
-      "konum_id": "turkmenalem_52",
-      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-      "kapsama": "East"
-    }
-  ],
+  "eklenen_kanallar": [],
   "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "turkmenalem_52:11420:H:27500",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 23,
-          "yeni": 25
-        },
-        "tv_sayisi": {
-          "onceki": 23,
-          "yeni": 25
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }

@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-04T21:05:08.935859+00:00",
+  "run_utc": "2026-11-05T10:26:24.121512+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-04T21:05:10.967773+00:00",
+  "run_utc": "2026-11-05T10:26:26.111569+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-0.8W",
       "title": "Intelsat 10-02 / Thor 5 / Thor 6 / Thor 7 (0.8°W) -  - Frekanslar - KingOfSat",
-      "bytes": 1390246,
+      "bytes": 1390411,
       "frequency_rows": 152,
       "channel_rows": 1051,
       "advertised_records": 1142,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-04T21:05:13.854966+00:00",
+  "generated_utc": "2026-11-05T10:26:29.423322+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-04T21:05:15.373927+00:00",
+  "run_utc": "2026-11-05T10:26:31.246725+00:00",
   "ok": true,
   "should_publish": false,
   "source": "Satbeams API",
