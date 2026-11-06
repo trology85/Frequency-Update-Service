@@ -1,26 +1,413 @@
 {
   "uydu_id": "astra_28_2",
   "uydu_adi": "Astra 2E/2F/2G 28.2°E",
-  "olusturma_zamani_utc": "2026-11-05T21:22:02.348858+00:00",
+  "olusturma_zamani_utc": "2026-11-06T10:27:52.006296+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 751,
-    "yeni_kanal": 751,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 766,
+    "eklenen_kanal": 15,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 5,
     "tur_degisen_kanal": 0,
     "onceki_tp": 62,
     "yeni_tp": 62,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 4
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Amazing Power TV",
+      "frekans": 11635,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "1375",
+      "ses_pid": "1376 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55635",
+      "paket": "SES",
+      "tp_id": "astra_28_2:11635:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
+    },
+    {
+      "kanal_adi": "Quest Red UK",
+      "frekans": 12382,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "5/6",
+      "video_pid": "2332",
+      "ses_pid": "2326 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "2914",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:12382:H:27500",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Spot"
+    },
+    {
+      "kanal_adi": "Food Network UK",
+      "frekans": 12382,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "5/6",
+      "video_pid": "2320",
+      "ses_pid": "2321 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "2946",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:12382:H:27500",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Spot"
+    },
+    {
+      "kanal_adi": "Game TV (Ghana)",
+      "frekans": 12725,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "1311",
+      "ses_pid": "1312 / eng",
+      "uydu": "Astra 2G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55733",
+      "paket": "HD+ Ghana",
+      "tp_id": "astra_28_2:12725:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
+    },
+    {
+      "kanal_adi": "CTM",
+      "frekans": 12725,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "863",
+      "ses_pid": "864 / 000,qaa,qad",
+      "uydu": "Astra 2G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55819",
+      "paket": "HD+ Ghana",
+      "tp_id": "astra_28_2:12725:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
+    },
+    {
+      "kanal_adi": "NorthCiti TV",
+      "frekans": 12725,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "895",
+      "ses_pid": "896 / eng",
+      "uydu": "Astra 2G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55820",
+      "paket": "HD+ Ghana",
+      "tp_id": "astra_28_2:12725:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
+    },
+    {
+      "kanal_adi": "Cheers TV",
+      "frekans": 12725,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "927",
+      "ses_pid": "928 / eng",
+      "uydu": "Astra 2G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55821",
+      "paket": "HD+ Ghana",
+      "tp_id": "astra_28_2:12725:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
+    },
+    {
+      "kanal_adi": "Tengmaal TV",
+      "frekans": 12725,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "959",
+      "ses_pid": "960 / eng",
+      "uydu": "Astra 2G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55822",
+      "paket": "HD+ Ghana",
+      "tp_id": "astra_28_2:12725:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
+    },
+    {
+      "kanal_adi": "Givers TV Prime",
+      "frekans": 12725,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "1023",
+      "ses_pid": "1024 / eng",
+      "uydu": "Astra 2G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55824",
+      "paket": "HD+ Ghana",
+      "tp_id": "astra_28_2:12725:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
+    },
+    {
+      "kanal_adi": "21st TV",
+      "frekans": 12725,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "1055",
+      "ses_pid": "1056 / eng",
+      "uydu": "Astra 2G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55825",
+      "paket": "HD+ Ghana",
+      "tp_id": "astra_28_2:12725:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
+    },
+    {
+      "kanal_adi": "Zahara TV",
+      "frekans": 12725,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "1087",
+      "ses_pid": "1088 / eng",
+      "uydu": "Astra 2G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55826",
+      "paket": "HD+ Ghana",
+      "tp_id": "astra_28_2:12725:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
+    },
+    {
+      "kanal_adi": "Righteous TV",
+      "frekans": 12725,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "1119",
+      "ses_pid": "1120 / eng",
+      "uydu": "Astra 2G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55827",
+      "paket": "HD+ Ghana",
+      "tp_id": "astra_28_2:12725:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
+    },
+    {
+      "kanal_adi": "Sompa TV",
+      "frekans": 12725,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "1183",
+      "ses_pid": "1184 / 000,qaa,qad",
+      "uydu": "Astra 2G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55829",
+      "paket": "HD+ Ghana",
+      "tp_id": "astra_28_2:12725:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
+    },
+    {
+      "kanal_adi": "Hi TV",
+      "frekans": 12725,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "1215",
+      "ses_pid": "1216 / eng",
+      "uydu": "Astra 2G",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "55830",
+      "paket": "HD+ Ghana",
+      "tp_id": "astra_28_2:12725:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
+    },
+    {
+      "kanal_adi": "Tera 1 TV",
+      "frekans": 12725,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "1247",
+      "ses_pid": "1248 / eng",
+      "uydu": "Astra 2G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "55831",
+      "paket": "HD+ Ghana",
+      "tp_id": "astra_28_2:12725:V:30000",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "WAfrica"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "astra_28_2|astra_28_2:11509:V:23000|sid:55403",
+      "kanal_adi": "Phoenix CNE",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / chi",
+          "yeni": "0 / chi,zho"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11553:H:22000|sid:55106",
+      "kanal_adi": "NTD (New Tang Dynasty)",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2307 / chi",
+          "yeni": "2307 / chi,zho"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11635:V:30000|sid:55633",
+      "kanal_adi": "No. 9 TV",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Righteous TV",
+          "yeni": "No. 9 TV"
+        },
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "HD"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:11641:H:23000|sid:7100",
+      "kanal_adi": "Phoenix CNE",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / chi",
+          "yeni": "0 / chi,zho"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2|astra_28_2:12725:V:30000|sid:55812",
+      "kanal_adi": "A1 TV",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Max TV (Ghana)",
+          "yeni": "A1 TV"
+        },
+        "video_pid": {
+          "onceki": "0",
+          "yeni": "639"
+        },
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "640 / 000,qaa,qad"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "astra_28_2:11635:V:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 34,
+          "yeni": 35
+        },
+        "tv_sayisi": {
+          "onceki": 34,
+          "yeni": 35
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2:12382:H:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 22,
+          "yeni": 24
+        },
+        "tv_sayisi": {
+          "onceki": 22,
+          "yeni": 24
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2:12605:V:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 31,
+          "yeni": 33
+        },
+        "tv_sayisi": {
+          "onceki": 31,
+          "yeni": 33
+        }
+      }
+    },
+    {
+      "anahtar": "astra_28_2:12725:V:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 15,
+          "yeni": 27
+        },
+        "tv_sayisi": {
+          "onceki": 15,
+          "yeni": 27
+        }
+      }
+    }
+  ]
 }

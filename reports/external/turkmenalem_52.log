@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-05T21:22:09.916484+00:00",
+  "run_utc": "2026-11-06T10:28:00.475272+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-05T21:22:11.228078+00:00",
+  "run_utc": "2026-11-06T10:28:02.413853+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-52E",
       "title": "TurkmenÄlem / MonacoSat (52°E) -  - Frekanslar - KingOfSat",
-      "bytes": 483473,
+      "bytes": 482720,
       "frequency_rows": 63,
-      "channel_rows": 370,
-      "advertised_records": 415,
+      "channel_rows": 369,
+      "advertised_records": 414,
       "block_markers": [],
       "raw_file": "raw/kingofsat/turkmenalem_52.html",
       "errors": []
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-05T21:22:12.998290+00:00",
+  "generated_utc": "2026-11-06T10:28:04.403717+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 0,
       "tv": 0,
       "radio": 0,
-      "source_updated": "2026-10-30"
+      "source_updated": "2026-11-05"
     }
   ]
 }
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-05T21:22:13.766904+00:00",
+  "run_utc": "2026-11-06T10:28:05.180319+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -124,13 +124,13 @@
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "0466b31916c63bfa7b8a3d4ef9085b71e31a8fccc22a9c15967bbb1663ade264",
+      "candidate_hash": "40b80d0cf39629e927b385aa2c8aa59c00eebbadfd9fc84ecd1f5a60766b6561",
       "current_hash": "0466b31916c63bfa7b8a3d4ef9085b71e31a8fccc22a9c15967bbb1663ade264",
-      "changed": false,
+      "changed": true,
       "added": 0,
       "removed": 0,
-      "updated": 0
+      "updated": 2
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true

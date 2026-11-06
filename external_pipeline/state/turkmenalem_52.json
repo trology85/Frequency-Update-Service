@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-04T21:05:19.564471+00:00",
+  "generated_utc": "2026-11-06T10:28:05.090189+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=52E",
@@ -10254,7 +10254,7 @@
       "free_to_air": true,
       "compression": "MPEG-4 AVC (H.264)",
       "vpid": 104,
-      "audio": "120 / tuk / 121 / eng / 122 / rus / 123 / fre / 124 / chi / 125 / ara / 126",
+      "audio": "120 / tuk / 121 / eng / 122 / rus / 123 / fre / 124 / chi,zho / 125 / ara / 126",
       "nid": 1,
       "tid": 1,
       "source_channel_id": 109487,
@@ -10502,7 +10502,7 @@
       "free_to_air": true,
       "compression": "MPEG-4",
       "vpid": 103,
-      "audio": "134 / tuk / 135 / eng / 136 / rus / 137 / fre / 138 / chi / 139 / ara / 140 / per",
+      "audio": "134 / tuk / 135 / eng / 136 / rus / 137 / fre / 138 / chi,zho / 139 / ara / 140 / per",
       "nid": 1,
       "tid": 1,
       "source_channel_id": 147152,

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-03T10:30:46.192693+00:00",
+  "generated_utc": "2026-11-06T10:27:31.400396+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=46E",
@@ -2328,7 +2328,7 @@
       "free_to_air": true,
       "compression": "HEVC (H.265)",
       "vpid": 2137,
-      "audio": "3137 / eng / 4137 / chi",
+      "audio": "3137 / eng / 4137 / chi,zho",
       "nid": null,
       "tid": null,
       "source_channel_id": 131877,

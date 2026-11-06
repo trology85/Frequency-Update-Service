@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-03T10:30:46.192693+00:00",
+  "guncelleme_tarihi": "2026-11-06T10:27:31.400396+00:00",
   "uydu_adi": "Azerspace-1 46.0°E",
   "toplam_kanal": 136,
   "toplam_tp": 23,
@@ -1578,7 +1578,7 @@
       "sembol_orani": 16325,
       "fec": "3/4",
       "video_pid": "2137",
-      "ses_pid": "3137 / eng / 4137 / chi",
+      "ses_pid": "3137 / eng / 4137 / chi,zho",
       "uydu": "Azerspace",
       "kalite": "SD",
       "tur": "TV",

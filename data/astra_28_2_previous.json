@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-10-31T09:20:53.616869+00:00",
+  "guncelleme_tarihi": "2026-11-04T21:05:08.711214+00:00",
   "uydu_adi": "Astra 2E/2F/2G 28.2°E",
-  "toplam_kanal": 775,
+  "toplam_kanal": 774,
   "toplam_tp": 63,
   "transponderler": [
     {
@@ -783,8 +783,8 @@
       "fec": "2/3",
       "uydu": "Astra 2F",
       "kapsama": "Europe",
-      "kanal_sayisi": 3,
-      "tv_sayisi": 3,
+      "kanal_sayisi": 2,
+      "tv_sayisi": 2,
       "radyo_sayisi": 0,
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E"
@@ -4413,24 +4413,6 @@
       "sid": "3918",
       "paket": "Sky UK",
       "tp_id": "astra_28_2:11856:V:27500",
-      "konum_id": "astra_28_2",
-      "konum_adi": "Astra 2E/2F/2G 28.2°E",
-      "kapsama": "Europe"
-    },
-    {
-      "kanal_adi": "Eurosport 8",
-      "frekans": 12324,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "517",
-      "ses_pid": "646 / eng",
-      "uydu": "Astra 2F",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "8602",
-      "paket": "Sky UK",
-      "tp_id": "astra_28_2:12324:V:27500",
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E",
       "kapsama": "Europe"
@@ -11330,24 +11312,6 @@
       "kapsama": "Europe"
     },
     {
-      "kanal_adi": "Sky Intro",
-      "frekans": 12324,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "512",
-      "ses_pid": "0 / eng",
-      "uydu": "Astra 2F",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "1002",
-      "paket": "Sky UK",
-      "tp_id": "astra_28_2:12324:V:27500",
-      "konum_id": "astra_28_2",
-      "konum_adi": "Astra 2E/2F/2G 28.2°E",
-      "kapsama": "Europe"
-    },
-    {
       "kanal_adi": "Sky Kids",
       "frekans": 11856,
       "polarizasyon": "V",
@@ -11888,6 +11852,24 @@
       "kapsama": "Spot"
     },
     {
+      "kanal_adi": "Sky Sports F1 (UK) (6)",
+      "frekans": 12324,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "0",
+      "ses_pid": "0 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "4K",
+      "tur": "TV",
+      "sid": "9802",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:12324:V:27500",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Europe"
+    },
+    {
       "kanal_adi": "Sky Sports Fball HD",
       "frekans": 12012,
       "polarizasyon": "V",
@@ -12279,6 +12261,24 @@
       "sid": "5284",
       "paket": "Sky UK",
       "tp_id": "astra_28_2:12188:H:27500",
+      "konum_id": "astra_28_2",
+      "konum_adi": "Astra 2E/2F/2G 28.2°E",
+      "kapsama": "Europe"
+    },
+    {
+      "kanal_adi": "Sky UHD 1",
+      "frekans": 12324,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "0",
+      "ses_pid": "0 / eng",
+      "uydu": "Astra 2F",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "5221",
+      "paket": "Sky UK",
+      "tp_id": "astra_28_2:12324:V:27500",
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E",
       "kapsama": "Europe"
@@ -14316,24 +14316,6 @@
       "konum_id": "astra_28_2",
       "konum_adi": "Astra 2E/2F/2G 28.2°E",
       "kapsama": "Spot"
-    },
-    {
-      "kanal_adi": "Ultra HD 2",
-      "frekans": 12324,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "522",
-      "ses_pid": "670 / eng",
-      "uydu": "Astra 2F",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "9009",
-      "paket": "Sky UK",
-      "tp_id": "astra_28_2:12324:V:27500",
-      "konum_id": "astra_28_2",
-      "konum_adi": "Astra 2E/2F/2G 28.2°E",
-      "kapsama": "Europe"
     },
     {
       "kanal_adi": "Unity TV (Ghana)",

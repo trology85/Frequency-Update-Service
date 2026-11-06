@@ -1,26 +1,80 @@
 {
   "uydu_id": "hotbird_13",
   "uydu_adi": "Hot Bird 13.0°E",
-  "olusturma_zamani_utc": "2026-11-05T21:21:36.483257+00:00",
+  "olusturma_zamani_utc": "2026-11-06T10:27:20.476203+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 1044,
-    "yeni_kanal": 1044,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 1045,
+    "eklenen_kanal": 1,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 2,
     "tur_degisen_kanal": 0,
     "onceki_tp": 82,
     "yeni_tp": 82,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Nova Sports 2 League",
+      "frekans": 11938,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "0",
+      "ses_pid": "0 / eng / 0 / grc",
+      "uydu": "Eutelsat Hot Bird 13F",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7110",
+      "paket": "Nova",
+      "tp_id": "hotbird_13:11938:H:30000",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "SouthEast"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "hotbird_13|hotbird_13:11585:V:27500|sid:871",
+      "kanal_adi": "CCTV 4 Europe HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "650 / chi",
+          "yeni": "650 / chi,zho"
+        }
+      }
+    },
+    {
+      "anahtar": "hotbird_13|hotbird_13:11623:V:27500|sid:871",
+      "kanal_adi": "CCTV 4 Europe",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "650 / chi",
+          "yeni": "650 / chi,zho"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "hotbird_13:11938:H:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 16,
+          "yeni": 17
+        },
+        "tv_sayisi": {
+          "onceki": 16,
+          "yeni": 17
+        }
+      }
+    }
+  ]
 }

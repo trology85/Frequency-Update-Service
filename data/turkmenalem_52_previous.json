@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-04T10:33:02.630377+00:00",
+  "guncelleme_tarihi": "2026-11-04T21:05:19.564471+00:00",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "toplam_kanal": 436,
+  "toplam_kanal": 438,
   "toplam_tp": 24,
   "transponderler": [
     {
@@ -195,8 +195,8 @@
       "fec": "2/3",
       "uydu": "TurkmenAlem",
       "kapsama": "East",
-      "kanal_sayisi": 23,
-      "tv_sayisi": 23,
+      "kanal_sayisi": 25,
+      "tv_sayisi": 25,
       "radyo_sayisi": 0,
       "konum_id": "turkmenalem_52",
       "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E"
@@ -2841,6 +2841,24 @@
       "sid": "1",
       "paket": "Wide Network Solutions",
       "tp_id": "turkmenalem_52:10845:V:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Kalemeh TV",
+      "frekans": 11420,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2601",
+      "ses_pid": "2602 / fas",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "26",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11420:H:27500",
       "konum_id": "turkmenalem_52",
       "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
       "kapsama": "East"
@@ -7326,6 +7344,24 @@
       "konum_id": "turkmenalem_52",
       "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
       "kapsama": "West"
+    },
+    {
+      "kanal_adi": "Tibeb Ybrah",
+      "frekans": 11420,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "2701",
+      "ses_pid": "2702 / fas",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "27",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:11420:H:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Tigrai TV",
