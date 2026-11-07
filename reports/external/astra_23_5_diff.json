@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_23_5",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "olusturma_zamani_utc": "2026-11-06T20:43:24.260863+00:00",
+  "olusturma_zamani_utc": "2026-11-07T09:40:45.254192+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 638,
     "yeni_kanal": 638,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 4,
     "tur_degisen_kanal": 0,
     "onceki_tp": 33,
     "yeni_tp": 33,
@@ -19,7 +19,48 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "astra_23_5|astra_23_5:12422:H:30000|sid:20227",
+      "kanal_adi": "Pro TV International",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2272 / rum",
+          "yeni": "2272 / rum,ron"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12422:H:30000|sid:20228",
+      "kanal_adi": "Informer TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2282 / rum",
+          "yeni": "2282 / rum,ron"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12422:H:30000|sid:20229",
+      "kanal_adi": "Trinitas TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2292 / rum",
+          "yeni": "2292 / rum,ron"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12422:H:30000|sid:20230",
+      "kanal_adi": "Etno TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2302 / rum",
+          "yeni": "2302 / rum,ron"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
