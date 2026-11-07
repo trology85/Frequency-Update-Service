@@ -1,168 +1,26 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-11-07T09:40:15.179405+00:00",
+  "olusturma_zamani_utc": "2026-11-07T19:16:34.658862+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 877,
+    "onceki_kanal": 878,
     "yeni_kanal": 878,
-    "eklenen_kanal": 4,
-    "silinen_kanal": 3,
+    "eklenen_kanal": 0,
+    "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 86,
     "yeni_tp": 86,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "CBNC EURÓPE",
-      "frekans": 11068,
-      "polarizasyon": "V",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "video_pid": "1061",
-      "ses_pid": "1062 / eng",
-      "uydu": "Astra 1P",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "31350",
-      "paket": "TSA",
-      "tp_id": "astra_19_2:11068:V:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE1"
-    },
-    {
-      "kanal_adi": "Daystar",
-      "frekans": 11068,
-      "polarizasyon": "V",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "video_pid": "1648",
-      "ses_pid": "1649 / spa",
-      "uydu": "Astra 1P",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "31351",
-      "paket": "TSA",
-      "tp_id": "astra_19_2:11068:V:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE1"
-    },
-    {
-      "kanal_adi": "Telesur English",
-      "frekans": 11068,
-      "polarizasyon": "V",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "video_pid": "1051",
-      "ses_pid": "1052 / eng",
-      "uydu": "Astra 1P",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "31352",
-      "paket": "TSA",
-      "tp_id": "astra_19_2:11068:V:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE1"
-    },
-    {
-      "kanal_adi": "NAIZ IRRATIA",
-      "frekans": 11068,
-      "polarizasyon": "V",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "video_pid": "0",
-      "ses_pid": "103 / ger",
-      "uydu": "Astra 1P",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "31353",
-      "paket": "TSA",
-      "tp_id": "astra_19_2:11068:V:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE1"
-    }
-  ],
-  "silinen_kanallar": [
-    {
-      "kanal_adi": "Telesur English",
-      "frekans": 11068,
-      "polarizasyon": "V",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "video_pid": "1051",
-      "ses_pid": "1052 / eng",
-      "uydu": "Astra 1P",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "31307",
-      "paket": "TSA",
-      "tp_id": "astra_19_2:11068:V:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE1"
-    },
-    {
-      "kanal_adi": "Daystar",
-      "frekans": 11068,
-      "polarizasyon": "V",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "video_pid": "1648",
-      "ses_pid": "1649 / spa",
-      "uydu": "Astra 1P",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "31310",
-      "paket": "TSA",
-      "tp_id": "astra_19_2:11068:V:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE1"
-    },
-    {
-      "kanal_adi": "NAIZ IRRATIA",
-      "frekans": 11068,
-      "polarizasyon": "V",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "video_pid": "0",
-      "ses_pid": "103 / ger",
-      "uydu": "Astra 1P",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "6390",
-      "paket": "TSA",
-      "tp_id": "astra_19_2:11068:V:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE1"
-    }
-  ],
+  "eklenen_kanallar": [],
+  "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "astra_19_2:11068:V:22000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 8,
-          "yeni": 9
-        },
-        "tv_sayisi": {
-          "onceki": 7,
-          "yeni": 8
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }
