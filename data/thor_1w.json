@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-07T09:40:57.584174+00:00",
+  "guncelleme_tarihi": "2026-11-10T10:50:09.562571+00:00",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "toplam_kanal": 849,
+  "toplam_kanal": 843,
   "toplam_tp": 70,
   "transponderler": [
     {
@@ -881,8 +881,8 @@
       "fec": "3/4",
       "uydu": "Intelsat 10-02 + MEV2",
       "kapsama": "Spot3",
-      "kanal_sayisi": 5,
-      "tv_sayisi": 5,
+      "kanal_sayisi": 2,
+      "tv_sayisi": 2,
       "radyo_sayisi": 0,
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
@@ -909,8 +909,8 @@
       "fec": "3/5",
       "uydu": "Intelsat 10-02 + MEV2",
       "kapsama": "Spot3",
-      "kanal_sayisi": 11,
-      "tv_sayisi": 11,
+      "kanal_sayisi": 8,
+      "tv_sayisi": 8,
       "radyo_sayisi": 0,
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
@@ -1328,24 +1328,6 @@
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "K1"
-    },
-    {
-      "kanal_adi": "AMC SK HD",
-      "frekans": 12527,
-      "polarizasyon": "H",
-      "sembol_orani": 28800,
-      "fec": "3/4",
-      "video_pid": "1402",
-      "ses_pid": "1403 / ces",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "8014",
-      "paket": "Slovak Telekom / freeSAT",
-      "tp_id": "thor_1w:12527:H:28800",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
     },
     {
       "kanal_adi": "Animal Planet Europe",
@@ -4840,24 +4822,6 @@
       "kapsama": "K1"
     },
     {
-      "kanal_adi": "Film+ SK",
-      "frekans": 12527,
-      "polarizasyon": "H",
-      "sembol_orani": 28800,
-      "fec": "3/4",
-      "video_pid": "1102",
-      "ses_pid": "1103 / cze",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "8011",
-      "paket": "Slovak Telekom / freeSAT",
-      "tp_id": "thor_1w:12527:H:28800",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    },
-    {
       "kanal_adi": "FilmBox+ Comedy",
       "frekans": 11727,
       "polarizasyon": "V",
@@ -4894,24 +4858,6 @@
       "kapsama": "K2"
     },
     {
-      "kanal_adi": "FilmBox+ comedy",
-      "frekans": 12607,
-      "polarizasyon": "V",
-      "sembol_orani": 28800,
-      "fec": "3/5",
-      "video_pid": "1702",
-      "ses_pid": "1703 / cze / 1704 / eng / 1705 / hun",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "11017",
-      "paket": "Magenta TV Sat / Slovak Telekom / freeSAT",
-      "tp_id": "thor_1w:12607:V:28800",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    },
-    {
       "kanal_adi": "FILMBOX+ Emotion",
       "frekans": 12380,
       "polarizasyon": "V",
@@ -4946,24 +4892,6 @@
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "K2"
-    },
-    {
-      "kanal_adi": "FilmBox+ Emotion HD",
-      "frekans": 12607,
-      "polarizasyon": "V",
-      "sembol_orani": 28800,
-      "fec": "3/5",
-      "video_pid": "1602",
-      "ses_pid": "1603 / cze / 1604 / eng / 1605 / hun",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "11016",
-      "paket": "Magenta TV Sat / Slovak Telekom / freeSAT",
-      "tp_id": "thor_1w:12607:V:28800",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
     },
     {
       "kanal_adi": "FilmBox+ Hits Hungary",
@@ -11572,24 +11500,6 @@
       "kapsama": "K1"
     },
     {
-      "kanal_adi": "Spektrum SK HD",
-      "frekans": 12527,
-      "polarizasyon": "H",
-      "sembol_orani": 28800,
-      "fec": "3/4",
-      "video_pid": "1302",
-      "ses_pid": "1303 / cze / 1340 / hun",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "8013",
-      "paket": "Slovak Telekom / freeSAT",
-      "tp_id": "thor_1w:12527:H:28800",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    },
-    {
       "kanal_adi": "Spiler 1",
       "frekans": 12130,
       "polarizasyon": "H",
@@ -13604,24 +13514,6 @@
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "K2"
-    },
-    {
-      "kanal_adi": "TV Barrandov",
-      "frekans": 12607,
-      "polarizasyon": "V",
-      "sembol_orani": 28800,
-      "fec": "3/5",
-      "video_pid": "1502",
-      "ses_pid": "1503 / cze",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "11015",
-      "paket": "Magenta TV Sat / Slovak Telekom / Telly / freeSAT",
-      "tp_id": "thor_1w:12607:V:28800",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
     },
     {
       "kanal_adi": "TV Folklorika",
