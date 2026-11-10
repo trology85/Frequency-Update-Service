@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-07T09:40:14.983524+00:00",
+  "generated_utc": "2026-11-10T21:13:30.249206+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=19E",
-    "last_updated": "2026-11-06"
+    "last_updated": "2026-11-10"
   },
   "satellite": {
     "id": "astra_19_2",
@@ -13,9 +13,9 @@
   },
   "counts": {
     "transponders": 86,
-    "channels": 888,
+    "channels": 887,
     "tv": 754,
-    "radio": 134,
+    "radio": 133,
     "sd": 328,
     "hd": 417,
     "uhd_4k": 9,
@@ -416,9 +416,9 @@
       "network": "ARD Digital",
       "nid": 1,
       "tid": 1039,
-      "channel_count": 49,
+      "channel_count": 48,
       "tv_count": 5,
-      "radio_count": 44,
+      "radio_count": 43,
       "source_transponder_id": 1330
     },
     {
@@ -7690,37 +7690,6 @@
       "tp_id": "astra_19_2:11053:H:22000"
     },
     {
-      "name": "BR SCHLAGER",
-      "type": "RADIO",
-      "quality": "RADIO",
-      "satellite_group": "Astra 19.2°E",
-      "spacecraft": "Astra 1P",
-      "position": "19.2E",
-      "frequency": 11053,
-      "polarization": "H",
-      "symbol_rate": 22000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 10406,
-      "country": "",
-      "country_code": "",
-      "beam": "PE1",
-      "provider": "ARD Digital",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "",
-      "vpid": 0,
-      "audio": "0",
-      "nid": 1,
-      "tid": 1039,
-      "source_channel_id": 158790,
-      "source_transponder_id": 1330,
-      "updated": "2025-02-19",
-      "tp_id": "astra_19_2:11053:H:22000"
-    },
-    {
       "name": "PULS",
       "type": "RADIO",
       "quality": "RADIO",
@@ -8797,12 +8766,12 @@
       "free_to_air": true,
       "compression": "",
       "vpid": 0,
-      "audio": "0",
+      "audio": "651 / ger",
       "nid": 1,
       "tid": 1039,
       "source_channel_id": 158957,
       "source_transponder_id": 1330,
-      "updated": "2025-02-27",
+      "updated": "2026-11-10",
       "tp_id": "astra_19_2:11053:H:22000"
     },
     {

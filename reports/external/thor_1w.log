@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-10T10:50:02.621224+00:00",
+  "run_utc": "2026-11-10T21:14:09.747476+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -11,9 +11,9 @@
       "ok": true,
       "errors": [],
       "pages": 2,
-      "transponders": 98,
-      "channels": 883,
-      "raw_channel_rows": 883,
+      "transponders": 97,
+      "channels": 882,
+      "raw_channel_rows": 882,
       "raw_file": "raw/satbeams/thor_1w.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-10T10:50:04.522227+00:00",
+  "run_utc": "2026-11-10T21:14:11.492115+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-0.8W",
       "title": "Intelsat 10-02 / Thor 5 / Thor 6 / Thor 7 (0.8°W) -  - Frekanslar - KingOfSat",
-      "bytes": 1387926,
-      "frequency_rows": 155,
+      "bytes": 1392497,
+      "frequency_rows": 156,
       "channel_rows": 1048,
-      "advertised_records": 1142,
+      "advertised_records": 1143,
       "block_markers": [],
       "raw_file": "raw/kingofsat/thor_1w.html",
       "errors": []
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-10T10:50:08.038972+00:00",
+  "generated_utc": "2026-11-10T21:14:15.399670+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -67,12 +67,12 @@
     {
       "id": "thor_1w",
       "ok": true,
-      "transponders": 70,
-      "channels": 843,
-      "tv": 766,
+      "transponders": 69,
+      "channels": 842,
+      "tv": 765,
       "radio": 77,
       "sd": 398,
-      "hd": 280,
+      "hd": 279,
       "uhd_4k": 3,
       "unknown_quality": 85,
       "candidate": "candidate/satbeams/thor_1w.json"
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-10T10:50:09.665652+00:00",
+  "run_utc": "2026-11-10T21:14:17.842765+00:00",
   "ok": true,
   "should_publish": true,
   "source": "Satbeams API",
@@ -113,23 +113,23 @@
       "ok": true,
       "errors": [],
       "warnings": [],
-      "transponders": 70,
-      "channels": 843,
-      "tv": 766,
+      "transponders": 69,
+      "channels": 842,
+      "tv": 765,
       "radio": 77,
       "sd": 398,
-      "hd": 280,
+      "hd": 279,
       "uhd_4k": 3,
       "unknown_quality": 85,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "bcb7540f498310f0fdc06d19da0c62df5eceb3f60e2b1649d0f712f2b4830535",
-      "current_hash": "7dd7569c87ee0f43bf45ed3d1ab78f09b11c0e821583bc55faa0adab48a70c1f",
+      "candidate_hash": "52087abc11dea6c7f7254ad031ed519092c5878322db222c63adb1ad6e7b607d",
+      "current_hash": "bcb7540f498310f0fdc06d19da0c62df5eceb3f60e2b1649d0f712f2b4830535",
       "changed": true,
-      "added": 0,
-      "removed": 6,
-      "updated": 0
+      "added": 2,
+      "removed": 3,
+      "updated": 1
     }
   ]
 }

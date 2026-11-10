@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-07T09:40:14.983524+00:00",
+  "guncelleme_tarihi": "2026-11-10T21:13:30.249206+00:00",
   "uydu_adi": "Astra 19.2°E",
-  "toplam_kanal": 888,
+  "toplam_kanal": 887,
   "toplam_tp": 86,
   "transponderler": [
     {
@@ -265,9 +265,9 @@
       "fec": "2/3",
       "uydu": "Astra 1P",
       "kapsama": "PE1",
-      "kanal_sayisi": 49,
+      "kanal_sayisi": 48,
       "tv_sayisi": 5,
-      "radyo_sayisi": 44,
+      "radyo_sayisi": 43,
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E"
     },
@@ -2922,24 +2922,6 @@
       "kapsama": "PE1"
     },
     {
-      "kanal_adi": "BR SCHLAGER",
-      "frekans": 11053,
-      "polarizasyon": "H",
-      "sembol_orani": 22000,
-      "fec": "2/3",
-      "video_pid": "0",
-      "ses_pid": "0",
-      "uydu": "Astra 1P",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "10406",
-      "paket": "ARD Digital",
-      "tp_id": "astra_19_2:11053:H:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE1"
-    },
-    {
       "kanal_adi": "BR24",
       "frekans": 11053,
       "polarizasyon": "H",
@@ -4242,7 +4224,7 @@
       "sembol_orani": 22000,
       "fec": "2/3",
       "video_pid": "0",
-      "ses_pid": "0",
+      "ses_pid": "651 / ger",
       "uydu": "Astra 1P",
       "kalite": "",
       "tur": "RADYO",

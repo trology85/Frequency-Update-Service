@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-03T20:48:43.441223+00:00",
+  "guncelleme_tarihi": "2026-11-07T09:40:14.983524+00:00",
   "uydu_adi": "Astra 19.2°E",
-  "toplam_kanal": 887,
+  "toplam_kanal": 888,
   "toplam_tp": 86,
   "transponderler": [
     {
@@ -279,8 +279,8 @@
       "fec": "5/6",
       "uydu": "Astra 1P",
       "kapsama": "PE1",
-      "kanal_sayisi": 8,
-      "tv_sayisi": 7,
+      "kanal_sayisi": 9,
+      "tv_sayisi": 8,
       "radyo_sayisi": 1,
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E"
@@ -3714,6 +3714,24 @@
       "kapsama": "PE1"
     },
     {
+      "kanal_adi": "CBNC EURÓPE",
+      "frekans": 11068,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "1061",
+      "ses_pid": "1062 / eng",
+      "uydu": "Astra 1P",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "31350",
+      "paket": "TSA",
+      "tp_id": "astra_19_2:11068:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE1"
+    },
+    {
       "kanal_adi": "CCN INT",
       "frekans": 11739,
       "polarizasyon": "V",
@@ -4444,7 +4462,7 @@
       "uydu": "Astra 1P",
       "kalite": "HD",
       "tur": "TV",
-      "sid": "31310",
+      "sid": "31351",
       "paket": "TSA",
       "tp_id": "astra_19_2:11068:V:22000",
       "konum_id": "astra_19_2",
@@ -10384,7 +10402,7 @@
       "uydu": "Astra 1P",
       "kalite": "",
       "tur": "RADYO",
-      "sid": "6390",
+      "sid": "31353",
       "paket": "TSA",
       "tp_id": "astra_19_2:11068:V:22000",
       "konum_id": "astra_19_2",
@@ -15658,7 +15676,7 @@
       "uydu": "Astra 1P",
       "kalite": "HD",
       "tur": "TV",
-      "sid": "31307",
+      "sid": "31352",
       "paket": "TSA",
       "tp_id": "astra_19_2:11068:V:22000",
       "konum_id": "astra_19_2",
