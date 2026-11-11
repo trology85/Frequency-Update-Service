@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-11-11T10:25:24.403366+00:00",
+  "olusturma_zamani_utc": "2026-11-11T21:51:01.826786+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 877,
     "yeni_kanal": 877,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 2,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 86,
     "yeni_tp": 86,
@@ -19,28 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "astra_19_2|astra_19_2:11053:H:22000|sid:10457",
-      "kanal_adi": "1LIVE DIGGI",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "0",
-          "yeni": "661 / ger"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:11053:H:22000|sid:10458",
-      "kanal_adi": "DIE MAUS",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "0",
-          "yeni": "671 / ger"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
