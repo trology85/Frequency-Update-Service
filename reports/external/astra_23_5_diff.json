@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_23_5",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "olusturma_zamani_utc": "2026-11-10T21:14:03.785100+00:00",
+  "olusturma_zamani_utc": "2026-11-11T10:26:00.198728+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 638,
     "yeni_kanal": 638,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 23,
     "tur_degisen_kanal": 0,
     "onceki_tp": 33,
     "yeni_tp": 33,
@@ -19,7 +19,238 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "astra_23_5|astra_23_5:11934:V:29900|sid:14065",
+      "kanal_adi": "Senzi",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "6520 / slo",
+          "yeni": "6520 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11973:V:29900|sid:14112",
+      "kanal_adi": "Markiza International",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1220 / slo",
+          "yeni": "1220 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11973:V:29900|sid:14116",
+      "kanal_adi": "Kanál 1 Xtra Slovakia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1620 / slo",
+          "yeni": "1620 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11973:V:29900|sid:14129",
+      "kanal_adi": "Markíza HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2920 / slo / 2921 / 000,qaa,qad",
+          "yeni": "2920 / slo,slk / 2921 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11973:V:29900|sid:14130",
+      "kanal_adi": "Doma HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3020 / slo / 3021 / 000,qaa,qad",
+          "yeni": "3020 / slo,slk / 3021 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:11973:V:29900|sid:14132",
+      "kanal_adi": "Canal+ Sport Slovakia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3220 / slo",
+          "yeni": "3220 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12012:V:29900|sid:15401",
+      "kanal_adi": "Kanal1 Sport Slovakia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1111 / slo / 1112 / eng",
+          "yeni": "1111 / slo,slk / 1112 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12012:V:29900|sid:15402",
+      "kanal_adi": "LALA TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1211 / cze / 1212 / slo",
+          "yeni": "1211 / cze / 1212 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12012:V:29900|sid:15408",
+      "kanal_adi": "Sport 1 Czechia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1811 / cze / 1812 / slo",
+          "yeni": "1811 / cze / 1812 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12012:V:29900|sid:15416",
+      "kanal_adi": "Canal+ Sport 2 Slovakia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2611 / slo",
+          "yeni": "2611 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12070:H:27500|sid:13131",
+      "kanal_adi": "Sport 1 Czechia HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2720 / cze / 2721 / slo",
+          "yeni": "2720 / cze / 2721 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12070:H:27500|sid:13145",
+      "kanal_adi": "JOJ Cinema HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3920 / slo / 3921 / 000,qaa,qad",
+          "yeni": "3920 / slo,slk / 3921 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12090:V:29900|sid:792",
+      "kanal_adi": "Sport 2 Czechia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7162 / cze / 7163 / slo",
+          "yeni": "7162 / cze / 7163 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21272",
+      "kanal_adi": "TV8",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "173 / slo",
+          "yeni": "173 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12187:H:29900|sid:21272",
+      "kanal_adi": "TV 8",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "173 / slo",
+          "yeni": "173 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12266:H:29900|sid:13207",
+      "kanal_adi": "TV Dajto",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7122 / slo / 7123",
+          "yeni": "7122 / slo,slk / 7123"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12266:H:29900|sid:13208",
+      "kanal_adi": "TV Joj",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7142 / slo / 7143",
+          "yeni": "7142 / slo,slk / 7143"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12266:H:29900|sid:13209",
+      "kanal_adi": "Joj Plus",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7162 / slo / 7163",
+          "yeni": "7162 / slo,slk / 7163"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12266:H:29900|sid:13210",
+      "kanal_adi": "Jojko",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7182 / slo",
+          "yeni": "7182 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12266:H:29900|sid:13214",
+      "kanal_adi": "Joj Sport",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7262 / slo / 0",
+          "yeni": "7262 / slo,slk / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12266:H:29900|sid:13215",
+      "kanal_adi": "Markíza Krimi",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7282 / slo / 0",
+          "yeni": "7282 / slo,slk / 0"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12266:H:29900|sid:13216",
+      "kanal_adi": "Joj 24",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "7302 / slo",
+          "yeni": "7302 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12363:V:29500|sid:4904",
+      "kanal_adi": "TA 3",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "5024 / slo",
+          "yeni": "5024 / slo,slk"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

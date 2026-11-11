@@ -1,96 +1,1908 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-11-10T21:14:17.905101+00:00",
+  "olusturma_zamani_utc": "2026-11-11T10:26:15.322177+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
-    "onceki_kanal": 842,
-    "yeni_kanal": 841,
-    "eklenen_kanal": 1,
-    "silinen_kanal": 2,
-    "degisen_kanal": 2,
+    "onceki_kanal": 841,
+    "yeni_kanal": 915,
+    "eklenen_kanal": 75,
+    "silinen_kanal": 1,
+    "degisen_kanal": 147,
     "tur_degisen_kanal": 0,
-    "onceki_tp": 69,
-    "yeni_tp": 68,
-    "eklenen_tp": 0,
-    "silinen_tp": 1,
-    "degisen_tp": 1
+    "onceki_tp": 68,
+    "yeni_tp": 69,
+    "eklenen_tp": 1,
+    "silinen_tp": 0,
+    "degisen_tp": 12
   },
   "eklenen_kanallar": [
     {
-      "kanal_adi": "Film Mania RO",
+      "kanal_adi": "National Geographic",
+      "frekans": 11919,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "251",
+      "ses_pid": "260 / hun / 261 / cze / 262 / eng / 263 / hun",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "31127",
+      "paket": "M7 Group",
+      "tp_id": "thor_1w:11919:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "FILMBOX+ One RO",
+      "frekans": 11938,
+      "polarizasyon": "H",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "1851",
+      "ses_pid": "1862 / eng / 1863 / bul",
+      "uydu": "Thor 5",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30714",
+      "paket": "M7 Group",
+      "tp_id": "thor_1w:11938:H:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T1Nordic"
+    },
+    {
+      "kanal_adi": "FILMBOX+ Hits RO",
+      "frekans": 11938,
+      "polarizasyon": "H",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "1901",
+      "ses_pid": "1911 / eng",
+      "uydu": "Thor 5",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30715",
+      "paket": "M7 Group",
+      "tp_id": "thor_1w:11938:H:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T1Nordic"
+    },
+    {
+      "kanal_adi": "History Hungary",
+      "frekans": 11938,
+      "polarizasyon": "H",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "2001",
+      "ses_pid": "2011 / hun / 2012 / eng",
+      "uydu": "Thor 5",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30734",
+      "paket": "M7 Group",
+      "tp_id": "thor_1w:11938:H:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T1Nordic"
+    },
+    {
+      "kanal_adi": "History Pan Euro",
+      "frekans": 11938,
+      "polarizasyon": "H",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "2051",
+      "ses_pid": "2061 / cze / 2062 / eng / 2063 / hun / 2064 / rus / 2065 / tur",
+      "uydu": "Thor 5",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30735",
+      "paket": "M7 Group",
+      "tp_id": "thor_1w:11938:H:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T1Nordic"
+    },
+    {
+      "kanal_adi": "BBC Earth HD",
+      "frekans": 11938,
+      "polarizasyon": "H",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "2151",
+      "ses_pid": "2161 / eng / 2162 / eng / 2163 / cze / 2164 / hun / 2165 / tur / 2166 / gre,ell",
+      "uydu": "Thor 5",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "30738",
+      "paket": "M7 Group",
+      "tp_id": "thor_1w:11938:H:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "T1Nordic"
+    },
+    {
+      "kanal_adi": "BBC Earth HU",
+      "frekans": 11958,
+      "polarizasyon": "V",
+      "sembol_orani": 28000,
+      "fec": "7/8",
+      "video_pid": "2651",
+      "ses_pid": "2660 / hun / 2661 / eng",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "31245",
+      "paket": "M7 Group",
+      "tp_id": "thor_1w:11958:V:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "RTL OTTHON",
       "frekans": 11996,
       "polarizasyon": "V",
       "sembol_orani": 28000,
       "fec": "7/8",
-      "video_pid": "1150",
-      "ses_pid": "1160 / rum,ron",
+      "video_pid": "7051",
+      "ses_pid": "7060 / hun",
       "uydu": "Thor 6",
       "kalite": "SD",
       "tur": "TV",
-      "sid": "30437",
-      "paket": "DIGI RO",
+      "sid": "30405",
+      "paket": "M7 Group",
       "tp_id": "thor_1w:11996:V:28000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "K2"
-    }
-  ],
-  "silinen_kanallar": [
+    },
     {
-      "kanal_adi": "Prima COOL SK",
+      "kanal_adi": "Nickelodeon Hungary",
+      "frekans": 12226,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "5/6",
+      "video_pid": "5051",
+      "ses_pid": "5056 / hun / 5052 / eng / 6053 / ukr",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "525",
+      "paket": "Viacom Media Networks",
+      "tp_id": "thor_1w:12226:V:27500",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "Nickelodeon Czech",
+      "frekans": 12226,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "5/6",
+      "video_pid": "5051",
+      "ses_pid": "5054 / cze / 5052 / eng / 5056 / hun / 6053 / ukr / 6057 / eng",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "526",
+      "paket": "Viacom Media Networks",
+      "tp_id": "thor_1w:12226:V:27500",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "Nickelodeon Romania",
+      "frekans": 12226,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "5/6",
+      "video_pid": "5051",
+      "ses_pid": "5053 / rum,ron / 5052 / eng / 5056 / hun",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "527",
+      "paket": "Viacom Media Networks",
+      "tp_id": "thor_1w:12226:V:27500",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "Nick Junior Hungary",
+      "frekans": 12226,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "5/6",
+      "video_pid": "5121",
+      "ses_pid": "5129 / hun / 5122 / eng",
+      "uydu": "Thor 6",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "528",
+      "paket": "Viacom Media Networks",
+      "tp_id": "thor_1w:12226:V:27500",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "NRK1 HD (AC3)",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1065",
+      "ses_pid": "4035 / nor / 3175 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1039",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK2 HD (AC3)",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1117",
+      "ses_pid": "4116 / nor / 3112 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1040",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK Super / NRK3 HD (AAC)",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1118",
+      "ses_pid": "3113 / nor / 4124 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1041",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK1 lydtekst",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1065",
+      "ses_pid": "4412 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "18012",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK2 lydtekst",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1117",
+      "ses_pid": "4413 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "18013",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK Super / NRK3 lydtekst",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1118",
+      "ses_pid": "4414 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "18014",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK1 Nordnytt",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1856",
+      "ses_pid": "3856 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7856",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK1 Nordland",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1857",
+      "ses_pid": "3857 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7857",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK1 Midtnytt",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1858",
+      "ses_pid": "3858 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7858",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK1 More og Romsdal",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1859",
+      "ses_pid": "3859 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7859",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK1 Vestlandsrevyen",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1860",
+      "ses_pid": "3860 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7860",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK1 Rogaland",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1861",
+      "ses_pid": "3861 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7861",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK1 Sorlandet",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1862",
+      "ses_pid": "3862 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7862",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK1 Vestfold og Telemark",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1863",
+      "ses_pid": "3863 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7863",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK1 Innlandet",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1864",
+      "ses_pid": "3864 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7864",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK Tegnsprak",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1866",
+      "ses_pid": "3866 / nor",
+      "uydu": "Thor 7",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "7866",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1 Stor-Oslo",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3867 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7867",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1 Troms",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3868 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7868",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1 Finnmark",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3869 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7869",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1 Nordland",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3870 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7870",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1 Trondelag",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3871 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7871",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1 More og Romsdal",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3872 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7872",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1 Sogn og Fjordane",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3873 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7873",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1 Hordaland",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3874 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7874",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1 Rogaland",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3875 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7875",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1 Sorlandet",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3876 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7876",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1 Telemark",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3877 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7877",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1 Vestfold",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3878 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7878",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1 Buskerud",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3879 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7879",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1 Innlandet",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3880 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7880",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1 Ostfold",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3881 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7881",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P2",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3882 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7882",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P3",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3883 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7883",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK Klassisk",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3884 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7884",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK Sami Radio",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3885 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7885",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK mP3",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3886 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7886",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK Nyheter",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3887 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7887",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P3 Musikk",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3888 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7888",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK V?ret til sjos",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3889 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7889",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK Super",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3890 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7890",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK P1+",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3891 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7891",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK Jazz",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3892 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7892",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK Sport",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3893 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7893",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "NRK Folkemusikk",
+      "frekans": 12360,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "3894 / nor",
+      "uydu": "Thor 7",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "7894",
+      "paket": "Telenor",
+      "tp_id": "thor_1w:12360:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "REX HD",
+      "frekans": 12399,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "1005",
+      "ses_pid": "3357 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1061",
+      "paket": "Allente",
+      "tp_id": "thor_1w:12399:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "Kanal 5 Undertekster horeh.",
+      "frekans": 12399,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "1318",
+      "ses_pid": "3311 / dan",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "17924",
+      "paket": "Allente",
+      "tp_id": "thor_1w:12399:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "Kanal 5 Synstolkning",
+      "frekans": 12399,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "1318",
+      "ses_pid": "4257 / dan",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "18004",
+      "paket": "Allente",
+      "tp_id": "thor_1w:12399:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "Kanal 5 Text horselskadade",
+      "frekans": 12399,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "1255",
+      "ses_pid": "3255 / swe",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "18055",
+      "paket": "Allente",
+      "tp_id": "thor_1w:12399:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "Kanal 5 HD (D)",
+      "frekans": 12399,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "1318",
+      "ses_pid": "3311 / dan",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "2924",
+      "paket": "Allente",
+      "tp_id": "thor_1w:12399:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "TVNorge HD",
+      "frekans": 12399,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "1073",
+      "ses_pid": "3067 / nor",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4103",
+      "paket": "Allente",
+      "tp_id": "thor_1w:12399:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "6`eren HD",
+      "frekans": 12399,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "1339",
+      "ses_pid": "3287 / dan",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4807",
+      "paket": "Allente",
+      "tp_id": "thor_1w:12399:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "Kanal 5 HD (S)",
+      "frekans": 12399,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "1255",
+      "ses_pid": "3255 / swe",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "6801",
+      "paket": "Allente",
+      "tp_id": "thor_1w:12399:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "Kanal 9 HD",
+      "frekans": 12399,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "1424",
+      "ses_pid": "3391 / swe",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7160",
+      "paket": "Allente",
+      "tp_id": "thor_1w:12399:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "Test Service",
+      "frekans": 12456,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "2502",
+      "ses_pid": "302 / cze",
+      "uydu": "Thor 6",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "9025",
+      "paket": "Slovak Telekom",
+      "tp_id": "thor_1w:12456:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "liv HD",
+      "frekans": 12476,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1513",
+      "ses_pid": "3180 / fin",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7364",
+      "paket": "Allente",
+      "tp_id": "thor_1w:12476:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "Nelonen HD",
+      "frekans": 12476,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1512",
+      "ses_pid": "3277 / fin",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7512",
+      "paket": "Allente",
+      "tp_id": "thor_1w:12476:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "JIM HD",
+      "frekans": 12476,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1514",
+      "ses_pid": "3213 / fin",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "7513",
+      "paket": "Allente",
+      "tp_id": "thor_1w:12476:H:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "Film+ SK",
       "frekans": 12527,
       "polarizasyon": "H",
       "sembol_orani": 28800,
-      "fec": "3/4",
-      "video_pid": "1202",
-      "ses_pid": "1203 / cze",
+      "fec": "3/5",
+      "video_pid": "1102",
+      "ses_pid": "49 / eng / 50 / eng",
       "uydu": "Intelsat 10-02 + MEV2",
       "kalite": "SD",
       "tur": "TV",
-      "sid": "8012",
-      "paket": "Slovak Telekom",
+      "sid": "8011",
+      "paket": "Slovak Telekom / freeSAT",
       "tp_id": "thor_1w:12527:H:28800",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "Spot3"
     },
     {
-      "kanal_adi": "Nova Šport 6 HD",
+      "kanal_adi": "Spektrum SK HD",
       "frekans": 12527,
       "polarizasyon": "H",
       "sembol_orani": 28800,
-      "fec": "3/4",
-      "video_pid": "1502",
-      "ses_pid": "1503 / cze",
+      "fec": "3/5",
+      "video_pid": "1302",
+      "ses_pid": "51 / eng / 52 / eng / 304 / eng",
       "uydu": "Intelsat 10-02 + MEV2",
       "kalite": "HD",
       "tur": "TV",
-      "sid": "8015",
-      "paket": "Magenta TV Sat / Slovak Telekom / Telly",
+      "sid": "8013",
+      "paket": "Slovak Telekom / freeSAT",
       "tp_id": "thor_1w:12527:H:28800",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "Spot3"
+    },
+    {
+      "kanal_adi": "AMC SK HD",
+      "frekans": 12527,
+      "polarizasyon": "H",
+      "sembol_orani": 28800,
+      "fec": "3/5",
+      "video_pid": "1402",
+      "ses_pid": "221 / eng / 302 / eng / 308 / eng",
+      "uydu": "Intelsat 10-02 + MEV2",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "8014",
+      "paket": "Slovak Telekom / freeSAT",
+      "tp_id": "thor_1w:12527:H:28800",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "Spot3"
+    },
+    {
+      "kanal_adi": "TV Barrandov",
+      "frekans": 12607,
+      "polarizasyon": "V",
+      "sembol_orani": 28800,
+      "fec": "3/5",
+      "video_pid": "1502",
+      "ses_pid": "1503 / cze",
+      "uydu": "Intelsat 10-02 + MEV2",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "11015",
+      "paket": "Magenta TV Sat / Slovak Telekom / Telly / freeSAT",
+      "tp_id": "thor_1w:12607:V:28800",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "Spot3"
+    },
+    {
+      "kanal_adi": "FilmBox+ Emotion HD",
+      "frekans": 12607,
+      "polarizasyon": "V",
+      "sembol_orani": 28800,
+      "fec": "3/5",
+      "video_pid": "1602",
+      "ses_pid": "1603 / cze",
+      "uydu": "Intelsat 10-02 + MEV2",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "11016",
+      "paket": "Magenta TV Sat / Slovak Telekom / freeSAT",
+      "tp_id": "thor_1w:12607:V:28800",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "Spot3"
+    },
+    {
+      "kanal_adi": "FilmBox+ comedy",
+      "frekans": 12607,
+      "polarizasyon": "V",
+      "sembol_orani": 28800,
+      "fec": "3/5",
+      "video_pid": "1702",
+      "ses_pid": "1703 / cze",
+      "uydu": "Intelsat 10-02 + MEV2",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "11017",
+      "paket": "Magenta TV Sat / Slovak Telekom / freeSAT",
+      "tp_id": "thor_1w:12607:V:28800",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "Spot3"
     }
   ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "Pro FM Bucuresti",
+      "frekans": 11900,
+      "polarizasyon": "H",
+      "sembol_orani": 28000,
+      "fec": "5/6",
+      "video_pid": "0",
+      "ses_pid": "768 / rum,ron",
+      "uydu": "Thor 6",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "4150",
+      "paket": "Digi TV",
+      "tp_id": "thor_1w:11900:H:28000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "K2"
+    }
+  ],
   "degisen_kanallar": [
+    {
+      "anahtar": "thor_1w|thor_1w:11727:V:28000|sid:30105",
+      "kanal_adi": "M1 (Magyar 1)",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "Bilinmeyen",
+          "yeni": "SD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11727:V:28000|sid:30106",
+      "kanal_adi": "M2 (Magyar 2)",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "Bilinmeyen",
+          "yeni": "SD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11727:V:28000|sid:30111",
+      "kanal_adi": "Spektrum CZ",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "610 / hun / 611 / cze / 614 / slo",
+          "yeni": "610 / hun / 611 / cze / 612 / cze"
+        },
+        "kalite": {
+          "onceki": "Bilinmeyen",
+          "yeni": "SD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11727:V:28000|sid:30112",
+      "kanal_adi": "TV Paprika HU",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "660 / hun / 661 / cze / 664 / slo",
+          "yeni": "660 / hun / 661 / cze / 662 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11727:V:28000|sid:30128",
+      "kanal_adi": "Spiler2",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "Bilinmeyen",
+          "yeni": "SD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11727:V:28000|sid:30139",
+      "kanal_adi": "Film Café",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2660 / hun",
+          "yeni": "2660 / hun / 2661 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11727:V:28000|sid:30141",
+      "kanal_adi": "Film Cafe",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2660 / hun",
+          "yeni": "2660 / hun / 2661 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11727:V:28000|sid:30142",
+      "kanal_adi": "Film+",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "1801",
+          "yeni": "2701"
+        },
+        "ses_pid": {
+          "onceki": "1810 / hun",
+          "yeni": "2710 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7019",
+      "kanal_adi": "TA 3",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1903 / slo",
+          "yeni": "1903 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11747:H:30000|sid:7028",
+      "kanal_adi": "SPORT",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2803 / slo",
+          "yeni": "2803 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11785:H:28000|sid:1390",
+      "kanal_adi": "Minimax",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "732 / hun / 2003 / ces",
+          "yeni": "732 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11785:H:28000|sid:2700",
+      "kanal_adi": "M2/Petofi TV",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "M2",
+          "yeni": "M2/Petofi TV"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31104",
+      "kanal_adi": "National Geographic Hungary & Czechia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "260 / hun / 261 / cze / 262 / eng",
+          "yeni": "260 / hun / 261 / cze / 262 / eng / 263 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31105",
+      "kanal_adi": "AMC Hungary",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "310 / hun / 312 / eng",
+          "yeni": "310 / hun / 312 / eng / 313 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31107",
+      "kanal_adi": "AMC Cesko",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "411 / cze / 412 / eng",
+          "yeni": "411 / cze / 412 / eng / 413 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31112",
+      "kanal_adi": "AXN Black",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "651",
+          "yeni": "2201"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31115",
+      "kanal_adi": "Disney Channel Romania",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "813 / rum,ron",
+          "yeni": "811 / eng / 813 / rum,ron / 814 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31142",
+      "kanal_adi": "M4 Sport+/ Duna World",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0",
+          "yeni": "2410 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11919:V:28000|sid:31143",
+      "kanal_adi": "Filmbox+ Love & Crime",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2460 / hun / 2470 / rum,ron",
+          "yeni": "2460 / hun / 2461 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11938:H:28000|sid:30703",
+      "kanal_adi": "Disney Channel",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "210 / hun / 211 / cze / 212 / eng / 214 / slo",
+          "yeni": "210 / hun / 211 / cze / 212 / eng / 214 / slo,slk / 215 / hun / 216 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11938:H:28000|sid:30709",
+      "kanal_adi": "Cinemax",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "510 / hun / 511 / cze / 512 / eng / 0 / rum,ron",
+          "yeni": "510 / hun / 511 / cze / 512 / eng / 513 / rum,ron"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11938:H:28000|sid:30710",
+      "kanal_adi": "Cartoonito",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "560 / hun / 562 / eng / 563 / rum,ron / 564 / pol / 566 / cze / 565 / rus",
+          "yeni": "560 / hun / 562 / eng / 563 / rum,ron / 564 / pol / 565 / rus / 566 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11938:H:28000|sid:30711",
+      "kanal_adi": "Nat Geo Wild",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "610 / hun / 611 / cze / 612 / eng",
+          "yeni": "610 / hun / 611 / cze / 612 / eng / 613 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11938:H:28000|sid:30712",
+      "kanal_adi": "Spektrum",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "660 / hun",
+          "yeni": "660 / hun / 661 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11938:H:28000|sid:30713",
+      "kanal_adi": "Ducktv",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "714 / slo",
+          "yeni": "714 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11938:H:28000|sid:30716",
+      "kanal_adi": "ducktv (SVT )",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "714 / slo",
+          "yeni": "714 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11938:H:28000|sid:30721",
+      "kanal_adi": "Disney Channel (SVT)",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "210 / hun / 211 / ces / 212 / eng / 214 / slo",
+          "yeni": "210 / hun / 211 / ces / 212 / eng / 214 / slo,slk / 215 / hun / 216 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11938:H:28000|sid:30739",
+      "kanal_adi": "BBC Earth HD (SVT)",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2161 / eng / 2163 / cze / 2164 / hun",
+          "yeni": "2161 / eng / 2162 / eng / 2163 / cze / 2164 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11958:V:28000|sid:31202",
+      "kanal_adi": "Canal+ Action Hungary",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1460 / hun",
+          "yeni": "1460 / hun / 1461 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11958:V:28000|sid:31208",
+      "kanal_adi": "Antena 1",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "451",
+          "yeni": "1451"
+        },
+        "ses_pid": {
+          "onceki": "464 / rum,ron",
+          "yeni": "1460 / hun / 1461 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11958:V:28000|sid:31238",
+      "kanal_adi": "ATV Extra",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0",
+          "yeni": "2310 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11958:V:28000|sid:31239",
+      "kanal_adi": "Film+ Czeh",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0",
+          "yeni": "2360 / cze / 2361 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11958:V:28000|sid:31240",
+      "kanal_adi": "Minimax HU",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2410 / hun",
+          "yeni": "2410 / hun / 2411 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11958:V:28000|sid:31243",
+      "kanal_adi": "Film+ CZE SVT",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2360 / cze",
+          "yeni": "2360 / cze / 2361 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11977:H:30000|sid:2016",
+      "kanal_adi": "Eurosport 2 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1603 / cze / 1604 / eng / 1605 / hun",
+          "yeni": "1603 / cze / 1604 / eng / 1605 / hun / 1606 / rum,ron"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11977:H:30000|sid:2020",
+      "kanal_adi": "Markíza Klasik",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2003 / slo",
+          "yeni": "2003 / slo,slk / 2004 / mul"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11977:H:30000|sid:2024",
+      "kanal_adi": "CT :D/CT Art HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2403 / cze",
+          "yeni": "2403 / cze / 2404 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11977:H:30000|sid:2025",
+      "kanal_adi": "DVTV EXTRA SK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "221 / slo",
+          "yeni": "221 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11977:H:30000|sid:2028",
+      "kanal_adi": "CS Film/CS Horror",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2803 / cze",
+          "yeni": "2803 / cze / 2804 / mul"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11996:V:28000|sid:30401",
+      "kanal_adi": "Antena 3",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "Bilinmeyen",
+          "yeni": "SD"
+        }
+      }
+    },
     {
       "anahtar": "thor_1w|thor_1w:11996:V:28000|sid:30406",
       "kanal_adi": "E! Entertainment",
       "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Prima TV",
-          "yeni": "E! Entertainment"
-        },
         "video_pid": {
-          "onceki": "351",
-          "yeni": "350"
-        },
+          "onceki": "350",
+          "yeni": "351"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11996:V:28000|sid:30408",
+      "kanal_adi": "AMC Romania",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "Bilinmeyen",
+          "yeni": "SD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11996:V:28000|sid:30410",
+      "kanal_adi": "Favorit TV",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "Bilinmeyen",
+          "yeni": "SD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11996:V:28000|sid:30411",
+      "kanal_adi": "Film Cafe",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "Bilinmeyen",
+          "yeni": "SD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11996:V:28000|sid:30412",
+      "kanal_adi": "Antena 1",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "Bilinmeyen",
+          "yeni": "SD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11996:V:28000|sid:30413",
+      "kanal_adi": "Minimax Romania",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "Bilinmeyen",
+          "yeni": "SD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11996:V:28000|sid:30414",
+      "kanal_adi": "Happy Channel",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "Bilinmeyen",
+          "yeni": "SD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11996:V:28000|sid:30415",
+      "kanal_adi": "Film Mania",
+      "degisiklikler": {
         "ses_pid": {
-          "onceki": "363 / rum,ron",
-          "yeni": "361 / eng / 362 / hun"
+          "onceki": "810 / hun",
+          "yeni": "810 / hun / 811 / 000,qaa,qad"
+        },
+        "kalite": {
+          "onceki": "Bilinmeyen",
+          "yeni": "SD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11996:V:28000|sid:30418",
+      "kanal_adi": "Antena Stars",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "Bilinmeyen",
+          "yeni": "SD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11996:V:28000|sid:30419",
+      "kanal_adi": "TVR 3",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "Bilinmeyen",
+          "yeni": "SD"
         }
       }
     },
@@ -99,44 +1911,1163 @@
       "kanal_adi": "Film Mania",
       "degisiklikler": {
         "ses_pid": {
-          "onceki": "1160 / 1161",
-          "yeni": "1160 / rum,ron"
+          "onceki": "1160 / rum,ron",
+          "yeni": "1160 / rum,ron / 1161 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:11996:V:28000|sid:30437",
+      "kanal_adi": "Film Mania RO",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "1150",
+          "yeni": "1151"
         },
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "Focus Sat"
+        "ses_pid": {
+          "onceki": "1160 / rum,ron",
+          "yeni": "1160 / rum,ron / 1161 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30507",
+      "kanal_adi": "FilmBox+ Hits Hungary",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "451",
+          "yeni": "401"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30511",
+      "kanal_adi": "TV2 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "610 / hun / 611 / eng",
+          "yeni": "610 / hun / 611 / eng / 612 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30523",
+      "kanal_adi": "FilmBox+ Emotion HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1210 / hun",
+          "yeni": "1210 / hun / 1212 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30527",
+      "kanal_adi": "TV2 HD (SVT)",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "610 / hun / 611 / eng",
+          "yeni": "610 / hun / 611 / eng / 612 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12034:V:30000|sid:30528",
+      "kanal_adi": "Love Nature HD",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "701",
+          "yeni": "1501"
+        },
+        "ses_pid": {
+          "onceki": "710 / slo",
+          "yeni": "1510 / eng / 1511 / cze / 1512 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1011",
+      "kanal_adi": "Jednotka HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1103 / slo",
+          "yeni": "1103 / slo,slk / 1104 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1012",
+      "kanal_adi": "Dvojka HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1203 / slo",
+          "yeni": "1203 / slo,slk / 1204 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1013",
+      "kanal_adi": "Markiza HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1303 / slo",
+          "yeni": "1303 / slo,slk / 1304 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1014",
+      "kanal_adi": "STVR :24",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1403 / slo",
+          "yeni": "1403 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1015",
+      "kanal_adi": "JOJ HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1503 / slo",
+          "yeni": "1503 / slo,slk / 1504 / mul"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1016",
+      "kanal_adi": "Plus HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1603 / slo",
+          "yeni": "1603 / slo,slk / 1604 / mul"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12054:H:30000|sid:1017",
+      "kanal_adi": "Dajto HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1703 / slo / 0 / 000,qaa,qad",
+          "yeni": "1703 / slo,slk / 1704 / mul"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31302",
+      "kanal_adi": "TV8",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1111 / slo",
+          "yeni": "1111 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31303",
+      "kanal_adi": "Lala TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1211 / cze / 1212 / slo",
+          "yeni": "1211 / cze / 1212 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31305",
+      "kanal_adi": "Markíza International",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1411 / slo",
+          "yeni": "1411 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31306",
+      "kanal_adi": "TA 3",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1511 / slo",
+          "yeni": "1511 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31312",
+      "kanal_adi": "*",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "HD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31314",
+      "kanal_adi": "Senzi",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2311 / slo",
+          "yeni": "2311 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31316",
+      "kanal_adi": "TV Lux",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2511 / slo",
+          "yeni": "2511 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31319",
+      "kanal_adi": "Canal+ Action Hungary",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2811 / hun",
+          "yeni": "2811 / hun / 2812 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31323",
+      "kanal_adi": "JimJam Europe",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3211 / hun / 3212 / cze / 3213 / eng / 3214 / rum,ron / 3215 / slo",
+          "yeni": "3211 / hun / 3212 / cze / 3213 / eng / 3214 / rum,ron / 3215 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31325",
+      "kanal_adi": "Senzi ( SVT )",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2311 / slo",
+          "yeni": "2311 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31327",
+      "kanal_adi": "JimJam ( SVT)",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3211 / hun / 3212 / cze / 3213 / eng / 3214 / rum,ron / 3215 / slo",
+          "yeni": "3211 / hun / 3212 / cze / 3213 / eng / 3214 / rum,ron / 3215 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31331",
+      "kanal_adi": "National Geographic Hungary",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4011 / eng / 4012 / hun",
+          "yeni": "4011 / eng / 4012 / hun / 4013 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31332",
+      "kanal_adi": "Šport 1 HD CZ",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4111 / cze / 4112 / slo",
+          "yeni": "4111 / cze / 4112 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12130:H:28000|sid:1190",
+      "kanal_adi": "Hír TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "688 / hun",
+          "yeni": "668 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12130:H:28000|sid:1510",
+      "kanal_adi": "RTL",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "690 / hun",
+          "yeni": "690 / hun / 695"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31401",
+      "kanal_adi": "Sport 2 Czechia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1011 / cze / 1012 / slo",
+          "yeni": "1011 / cze / 1012 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31405",
+      "kanal_adi": "Joj Sport",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1411 / slo",
+          "yeni": "1411 / slo,slk / 1412 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31409",
+      "kanal_adi": "Arena 4",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "HD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31414",
+      "kanal_adi": "TV Paprika Czechia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2311 / cze",
+          "yeni": "2311 / cze / 2312 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31415",
+      "kanal_adi": "Sport 1 Czechia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2411 / cze / 2412 / slo",
+          "yeni": "2411 / cze / 2412 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31422",
+      "kanal_adi": "Šport 2 HD (SVT)",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1011 / cze",
+          "yeni": "1011 / cze / 1012 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31423",
+      "kanal_adi": "JOJ Šport HD (SVT)",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1411 / slo",
+          "yeni": "1411 / slo,slk / 1412 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31425",
+      "kanal_adi": "Spektrum Home",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3411 / cze / 3413 / slo",
+          "yeni": "3411 / cze / 3412 / cze / 3413 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31426",
+      "kanal_adi": "Minimax CZ",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3511 / hun / 3512 / cze / 3514 / slo",
+          "yeni": "3511 / hun / 3512 / cze / 3513 / cze / 3514 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31427",
+      "kanal_adi": "Spektrum Home SVT",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3411 / cze",
+          "yeni": "3411 / cze / 3413 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12149:V:30000|sid:31428",
+      "kanal_adi": "Minimax (SVT)",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3511 / hun / 3512 / ces / 3514 / slo",
+          "yeni": "3511 / hun / 3512 / ces / 3514 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12169:H:30000|sid:7035",
+      "kanal_adi": "BEST FM",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3435 / slo",
+          "yeni": "3435 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12188:V:28000|sid:1220",
+      "kanal_adi": "HBO 3 HU Central Europe",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "655 / eng / 706 / hun / 714 / cze",
+          "yeni": "655 / eng / 704 / hun / 714 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12226:V:27500|sid:501",
+      "kanal_adi": "Nickelodeon Europe",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / eng / 0 / 5014 / tur",
+          "yeni": "5012 / eng / 5013 / hrv / 5014 / tur / 5015 / rum,ron / 5016 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12226:V:27500|sid:502",
+      "kanal_adi": "Comedy Central Romania",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "5022 / eng",
+          "yeni": "5022 / eng / 5023 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12226:V:27500|sid:504",
+      "kanal_adi": "Nicktoons Global",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "5042 / eng / 5043 / hrv / 5044 / srp / 5045 / slv / 5046 / rus",
+          "yeni": "5042 / eng / 5043 / hrv / 5044 / srp / 5045 / slv / 5046 / rus / 5047 / eng / 5048 / rum,ron / 6042 / hun / 6043 / cze / 6044 / est / 6045 / lit / 6046 / lav / 6048 / bul"
+        },
+        "kalite": {
+          "onceki": "Bilinmeyen",
+          "yeni": "SD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12226:V:27500|sid:505",
+      "kanal_adi": "Nickelodeon Europe",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "5052 / eng / 5053 / rum,ron / 5054 / cze / 5055 / rus / 5056 / hun / 5057 / hrv / 5058 / slv / 6052 / srp / 6053 / bul / 6054 / est / 6055 / lit / 6056 / lav",
+          "yeni": "5052 / eng / 5053 / rum,ron / 5054 / cze / 5055 / rus / 5056 / hun / 5057 / hrv / 5058 / slv / 6052 / srp / 6053 / bul / 6054 / est / 6055 / lit / 6056 / lav / 6057 / eng / 6058 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12226:V:27500|sid:512",
+      "kanal_adi": "Nick Jr Europe",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "5122 / eng / 5123 / lit / 5124 / rus / 5125 / swe / 5126 / dan / 5127 / nor / 5128 / fin / 5129 / hun / 5130 / rum,ron / 5131 / hrv / 5132 / srp / 5133 / cze / 5134 / slv / 5135 / amh / 5136 / ukr",
+          "yeni": "5122 / eng / 5123 / lit / 5124 / rus / 5125 / swe / 5126 / dan / 5127 / nor / 5128 / fin / 5129 / hun / 5130 / rum,ron / 5131 / hrv / 5132 / srp / 5133 / cze / 5134 / slv / 5137 / bul / 5138 / lav / 5140 / est"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12226:V:27500|sid:529",
+      "kanal_adi": "Nick Jr Czech",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "5133 / cze / 5122 / eng / 5129 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12226:V:27500|sid:530",
+      "kanal_adi": "Nick Jr Rumunsko",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / 0 / 0",
+          "yeni": "5130 / rum,ron / 5122 / eng / 5129 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12226:V:27500|sid:531",
+      "kanal_adi": "Nicktoons Hungary",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / 0",
+          "yeni": "6042 / hun / 5042 / eng / 5047 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4013",
+      "kanal_adi": "Markíza Krimi",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1303 / slo",
+          "yeni": "1303 / slo,slk / 1304 / mul"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4017",
+      "kanal_adi": "TV Folklorika",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1703 / slo",
+          "yeni": "1703 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4018",
+      "kanal_adi": "JOJ Svet HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1803 / slo",
+          "yeni": "1803 / slo,slk / 1804 / mul"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4023",
+      "kanal_adi": "Kanal 1 Slovakia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2304 / 000,qaa,qad / 2303 / slo",
+          "yeni": "2303 / slo,slk / 2304 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4024",
+      "kanal_adi": "CT 24",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / cze",
+          "yeni": "2403 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4025",
+      "kanal_adi": "Strike TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2503 / slo",
+          "yeni": "2503 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4028",
+      "kanal_adi": "Premier Sport 3",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2803 / cze / 2804 / eng",
+          "yeni": "2803 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4030",
+      "kanal_adi": "AMC SK HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3003 / cze",
+          "yeni": "3003 / cze / 3004 / 000,qaa,qad / 3005 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4031",
+      "kanal_adi": "Film+ SK",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3103 / ces",
+          "yeni": "3103 / ces / 3104 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12245:H:30000|sid:4032",
+      "kanal_adi": "Spektrum SK HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3203 / cze / 3204 / hun",
+          "yeni": "3203 / cze / 3204 / hun / 3205 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12265:V:28000|sid:30908",
+      "kanal_adi": "National Geographic RO",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "460 / hun / 461 / cze / 462 / eng",
+          "yeni": "462 / eng / 463 / rum,ron"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12265:V:28000|sid:30912",
+      "kanal_adi": "Prime",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0",
+          "yeni": "660 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12265:V:28000|sid:30930",
+      "kanal_adi": "Filmbox+ One",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "610 / hun",
+          "yeni": "610 / hun / 611 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12265:V:28000|sid:30933",
+      "kanal_adi": "Arena 4",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2010 / hun / 2011 / eng",
+          "yeni": "2010 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12304:V:30000|sid:7019",
+      "kanal_adi": "TA 3 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1903 / slo",
+          "yeni": "1903 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12322:H:30000|sid:7459",
+      "kanal_adi": "Telenor promo",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3150",
+          "yeni": "3150 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6015",
+      "kanal_adi": "TV Lux HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1503 / slo",
+          "yeni": "1503 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6016",
+      "kanal_adi": "JOJ 24 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1603 / slo",
+          "yeni": "1603 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6023",
+      "kanal_adi": "Doma HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2303 / slo",
+          "yeni": "2303 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6024",
+      "kanal_adi": "JOJ KRIMI HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2403 / slo / 2404 / mul",
+          "yeni": "2403 / slo,slk / 2404 / mul"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6025",
+      "kanal_adi": "Joj Cinema",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2503 / slo",
+          "yeni": "2503 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12380:V:30000|sid:6029",
+      "kanal_adi": "Lála TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2903 / slo / 2904 / cze",
+          "yeni": "2903 / slo,slk / 2904 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12418:V:28000|sid:13005",
+      "kanal_adi": "Test 13005",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3150",
+          "yeni": "3150 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12437:H:30000|sid:17046",
+      "kanal_adi": "TV6 HD (S)",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3046 / swe",
+          "yeni": "3046 / swe / 4046"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9011",
+      "kanal_adi": "Kanál 1 Sport HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1103 / slo",
+          "yeni": "1103 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9017",
+      "kanal_adi": "Nova Sport 5 Slovakia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1703 / slo",
+          "yeni": "1703 / slo,slk / 1704 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9018",
+      "kanal_adi": "Joj Sport 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0",
+          "yeni": "1803 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9019",
+      "kanal_adi": "Prima STAR",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1903 / cze",
+          "yeni": "1903 / cze / 1904 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9021",
+      "kanal_adi": "TV Seznam",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / cze",
+          "yeni": "2103 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9026",
+      "kanal_adi": "RiK TV Slovakia",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2603 / slo",
+          "yeni": "2603 / slo,slk"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9027",
+      "kanal_adi": "Jojko",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2703 / slo",
+          "yeni": "2703 / slo,slk"
+        },
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "HD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12456:V:30000|sid:9028",
+      "kanal_adi": "HGTV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2802 / cze / 2803 / eng",
+          "yeni": "2803 / eng / 2804 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12476:H:30000|sid:17052",
+      "kanal_adi": "Yle Teema & Fem HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4549 / fin",
+          "yeni": "4549 / fin / 4550 / dut"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12476:H:30000|sid:7430",
+      "kanal_adi": "YLE TV 1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / fin / 0",
+          "yeni": "3550 / fin / 3000 / dut"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12476:H:30000|sid:7499",
+      "kanal_adi": "YLE TV 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4324 / fin / 0 / fin",
+          "yeni": "3028 / fin / 4251 / dut"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12476:H:30000|sid:7503",
+      "kanal_adi": "Yle Teema & Fem",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / swe / 4549 / swe",
+          "yeni": "3534 / fin / 4545 / dut"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12476:H:30000|sid:7504",
+      "kanal_adi": "MTV Juniori",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "HD"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12607:V:28800|sid:11014",
+      "kanal_adi": "Canal+ Sport HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1403 / slo",
+          "yeni": "1403 / slo,slk / 1404 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12607:V:28800|sid:11019",
+      "kanal_adi": "Canal+ Action HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1903 / cze / 1904 / eng / 1905 / hun",
+          "yeni": "1903 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12607:V:28800|sid:11020",
+      "kanal_adi": "Lala TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2003 / slo / 2004 / cze",
+          "yeni": "2003 / slo,slk / 2004 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12607:V:28800|sid:11021",
+      "kanal_adi": "CS Film",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2103 / cze",
+          "yeni": "2103 / cze / 2104 / mul"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1007",
+      "kanal_adi": "E! Europe",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "657 / eng / 8004 / hun",
+          "yeni": "657 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12687:H:27500|sid:1020",
+      "kanal_adi": "HBO 3 Romania",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "670 / rum,ron",
+          "yeni": "670 / rum,ron / 2005 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12723:H:27500|sid:1023",
+      "kanal_adi": "Cinemax Central Europe",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "673 / rum,ron / 789 / hun / 3004 / cze",
+          "yeni": "673 / rum,ron / 789 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12723:H:27500|sid:1030",
+      "kanal_adi": "Da Vinci Learning",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "6080 / eng / 6001 / hun",
+          "yeni": "680 / eng / 6001 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12723:H:27500|sid:1033",
+      "kanal_adi": "SuperOne",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "683 / 000,qaa,qad / 8181 / zxx",
+          "yeni": "683 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w|thor_1w:12723:H:27500|sid:3410",
+      "kanal_adi": "HGTV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4031 / eng",
+          "yeni": "4031 / eng / 4035 / hun"
         }
       }
     }
   ],
-  "eklenen_transponderler": [],
-  "silinen_transponderler": [
+  "eklenen_transponderler": [
     {
       "tp_id": "thor_1w:12527:H:28800",
       "frekans": 12527,
       "polarizasyon": "H",
       "sembol_orani": 28800,
-      "fec": "3/4",
+      "fec": "3/5",
       "uydu": "Intelsat 10-02 + MEV2",
       "kapsama": "Spot3",
-      "kanal_sayisi": 2,
-      "tv_sayisi": 2,
+      "kanal_sayisi": 3,
+      "tv_sayisi": 3,
       "radyo_sayisi": 0,
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
     }
   ],
+  "silinen_transponderler": [],
   "degisen_transponderler": [
     {
-      "anahtar": "thor_1w:11996:V:28000",
+      "anahtar": "thor_1w:11785:H:28000",
       "degisiklikler": {
         "kanal_sayisi": {
           "onceki": 19,
           "yeni": 20
         },
         "tv_sayisi": {
-          "onceki": 19,
-          "yeni": 20
+          "onceki": 15,
+          "yeni": 16
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:11900:H:28000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 28,
+          "yeni": 27
+        },
+        "radyo_sayisi": {
+          "onceki": 12,
+          "yeni": 11
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:11919:V:28000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 23,
+          "yeni": 24
+        },
+        "tv_sayisi": {
+          "onceki": 23,
+          "yeni": 24
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:11938:H:28000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 17,
+          "yeni": 22
+        },
+        "tv_sayisi": {
+          "onceki": 17,
+          "yeni": 22
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:11958:V:28000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 25,
+          "yeni": 26
+        },
+        "tv_sayisi": {
+          "onceki": 25,
+          "yeni": 26
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:11996:V:28000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 20,
+          "yeni": 21
+        },
+        "tv_sayisi": {
+          "onceki": 20,
+          "yeni": 21
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:12226:V:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 9,
+          "yeni": 13
+        },
+        "tv_sayisi": {
+          "onceki": 9,
+          "yeni": 13
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:12360:H:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 1,
+          "yeni": 45
+        },
+        "tv_sayisi": {
+          "onceki": 1,
+          "yeni": 17
+        },
+        "radyo_sayisi": {
+          "onceki": 0,
+          "yeni": 28
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:12399:H:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 3,
+          "yeni": 12
+        },
+        "tv_sayisi": {
+          "onceki": 3,
+          "yeni": 12
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:12456:V:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 20,
+          "yeni": 21
+        },
+        "tv_sayisi": {
+          "onceki": 20,
+          "yeni": 21
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:12476:H:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 7,
+          "yeni": 10
+        },
+        "tv_sayisi": {
+          "onceki": 7,
+          "yeni": 10
+        }
+      }
+    },
+    {
+      "anahtar": "thor_1w:12607:V:28800",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 8,
+          "yeni": 11
+        },
+        "tv_sayisi": {
+          "onceki": 8,
+          "yeni": 11
         }
       }
     }
