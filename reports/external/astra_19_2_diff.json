@@ -1,13 +1,13 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-11-12T10:42:14.750748+00:00",
+  "olusturma_zamani_utc": "2026-11-12T21:46:03.067344+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 877,
-    "yeni_kanal": 877,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 879,
+    "eklenen_kanal": 2,
     "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
@@ -15,12 +15,63 @@
     "yeni_tp": 86,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "LA 7 HD",
+      "frekans": 11288,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "2/3",
+      "video_pid": "2501",
+      "ses_pid": "2502 / spa",
+      "uydu": "Astra 1P",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4250",
+      "paket": "SES",
+      "tp_id": "astra_19_2:11288:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    },
+    {
+      "kanal_adi": "LA Septima",
+      "frekans": 11288,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "2/3",
+      "video_pid": "2551",
+      "ses_pid": "2552 / 007",
+      "uydu": "Astra 1P",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "4255",
+      "paket": "SES",
+      "tp_id": "astra_19_2:11288:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    }
+  ],
   "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "astra_19_2:11288:V:22000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 2,
+          "yeni": 4
+        },
+        "tv_sayisi": {
+          "onceki": 1,
+          "yeni": 3
+        }
+      }
+    }
+  ]
 }
