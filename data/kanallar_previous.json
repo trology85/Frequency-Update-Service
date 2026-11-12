@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "11.11.2026 10:24:59",
+  "guncelleme_tarihi": "11.11.2026 21:50:39",
   "uydu_adi": "Türksat 42.0°E",
-  "toplam_kanal": 727,
+  "toplam_kanal": 729,
   "toplam_tp": 53,
   "transponderler": [
     {
@@ -587,8 +587,8 @@
       "fec": "2/3",
       "uydu": "T4A",
       "kapsama": "Batı",
-      "kanal_sayisi": 12,
-      "tv_sayisi": 10,
+      "kanal_sayisi": 14,
+      "tv_sayisi": 12,
       "radyo_sayisi": 2,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -9694,6 +9694,22 @@
       "konum_adi": "Türksat 42.0°E"
     },
     {
+      "kanal_adi": "GÜNEYDOĞU TV",
+      "frekans": 12423,
+      "polarizasyon": "V",
+      "kapsama": "Batı",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "5802",
+      "ses_pid": "5902",
+      "uydu": "T4A",
+      "kalite": "SD",
+      "tur": "TV",
+      "tp_id": "12423_V_27500",
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
       "kanal_adi": "HRT TV",
       "frekans": 12423,
       "polarizasyon": "V",
@@ -9718,6 +9734,22 @@
       "fec": "2/3",
       "video_pid": "5803",
       "ses_pid": "5903",
+      "uydu": "T4A",
+      "kalite": "SD",
+      "tur": "TV",
+      "tp_id": "12423_V_27500",
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
+      "kanal_adi": "KADIRGA TV",
+      "frekans": 12423,
+      "polarizasyon": "V",
+      "kapsama": "Batı",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "5810",
+      "ses_pid": "5910",
       "uydu": "T4A",
       "kalite": "SD",
       "tur": "TV",
