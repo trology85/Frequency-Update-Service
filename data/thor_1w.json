@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-12T21:46:47.726326+00:00",
+  "guncelleme_tarihi": "2026-11-13T21:14:04.617887+00:00",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "toplam_kanal": 944,
+  "toplam_kanal": 946,
   "toplam_tp": 71,
   "transponderler": [
     {
@@ -671,8 +671,8 @@
       "fec": "3/4",
       "uydu": "Thor 7",
       "kapsama": "CEE",
-      "kanal_sayisi": 22,
-      "tv_sayisi": 22,
+      "kanal_sayisi": 24,
+      "tv_sayisi": 24,
       "radyo_sayisi": 0,
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
@@ -1288,6 +1288,24 @@
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "T2"
+    },
+    {
+      "kanal_adi": "AMC",
+      "frekans": 12149,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "1211 / cze / 1212 / eng",
+      "uydu": "Thor 7",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "31403",
+      "paket": "freeSAT",
+      "tp_id": "thor_1w:12149:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
     },
     {
       "kanal_adi": "AMC Cesko",
@@ -12718,6 +12736,24 @@
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "T1Nordic"
+    },
+    {
+      "kanal_adi": "Spektrum",
+      "frekans": 12149,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1110",
+      "ses_pid": "1113 / cze / 1111 / hun",
+      "uydu": "Thor 7",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "31402",
+      "paket": "freeSAT",
+      "tp_id": "thor_1w:12149:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
     },
     {
       "kanal_adi": "Spektrum CZ",
