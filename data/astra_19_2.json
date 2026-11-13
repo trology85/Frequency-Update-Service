@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-12T21:46:02.887315+00:00",
+  "guncelleme_tarihi": "2026-11-13T10:38:01.374935+00:00",
   "uydu_adi": "Astra 19.2°E",
-  "toplam_kanal": 889,
+  "toplam_kanal": 893,
   "toplam_tp": 86,
   "transponderler": [
     {
@@ -447,8 +447,8 @@
       "fec": "2/3",
       "uydu": "Astra 1P",
       "kapsama": "PE2",
-      "kanal_sayisi": 4,
-      "tv_sayisi": 3,
+      "kanal_sayisi": 8,
+      "tv_sayisi": 7,
       "radyo_sayisi": 1,
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E"
@@ -4036,6 +4036,24 @@
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E",
       "kapsama": "PE1"
+    },
+    {
+      "kanal_adi": "CMM TV",
+      "frekans": 11288,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "2/3",
+      "video_pid": "2541",
+      "ses_pid": "2542 / spa",
+      "uydu": "Astra 1P",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4254",
+      "paket": "SES",
+      "tp_id": "astra_19_2:11288:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
     },
     {
       "kanal_adi": "CNBC HD",
@@ -15648,6 +15666,24 @@
       "kapsama": "PE"
     },
     {
+      "kanal_adi": "TeleMadrid",
+      "frekans": 11288,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "2/3",
+      "video_pid": "2521",
+      "ses_pid": "2522 / spa",
+      "uydu": "Astra 1P",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4252",
+      "paket": "SES",
+      "tp_id": "astra_19_2:11288:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    },
+    {
       "kanal_adi": "TeleSex TV",
       "frekans": 12604,
       "polarizasyon": "H",
@@ -16080,6 +16116,24 @@
       "kapsama": "PE"
     },
     {
+      "kanal_adi": "TV 3 Cat",
+      "frekans": 11288,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "2/3",
+      "video_pid": "2511",
+      "ses_pid": "2512 / spa",
+      "uydu": "Astra 1P",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4251",
+      "paket": "SES",
+      "tp_id": "astra_19_2:11288:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    },
+    {
       "kanal_adi": "TV 5 Monde Europe",
       "frekans": 11538,
       "polarizasyon": "V",
@@ -16132,6 +16186,24 @@
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E",
       "kapsama": "PE"
+    },
+    {
+      "kanal_adi": "TV Canaria",
+      "frekans": 11288,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "2/3",
+      "video_pid": "2531",
+      "ses_pid": "2532 / spa",
+      "uydu": "Astra 1P",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4253",
+      "paket": "SES",
+      "tp_id": "astra_19_2:11288:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
     },
     {
       "kanal_adi": "TV ingolstadt",

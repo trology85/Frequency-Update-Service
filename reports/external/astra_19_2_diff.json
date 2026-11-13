@@ -1,13 +1,13 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-11-12T21:46:03.067344+00:00",
+  "olusturma_zamani_utc": "2026-11-13T10:38:01.551683+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
-    "onceki_kanal": 877,
-    "yeni_kanal": 879,
-    "eklenen_kanal": 2,
+    "onceki_kanal": 879,
+    "yeni_kanal": 883,
+    "eklenen_kanal": 4,
     "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
@@ -19,17 +19,17 @@
   },
   "eklenen_kanallar": [
     {
-      "kanal_adi": "LA 7 HD",
+      "kanal_adi": "TV 3 Cat",
       "frekans": 11288,
       "polarizasyon": "V",
       "sembol_orani": 22000,
       "fec": "2/3",
-      "video_pid": "2501",
-      "ses_pid": "2502 / spa",
+      "video_pid": "2511",
+      "ses_pid": "2512 / spa",
       "uydu": "Astra 1P",
       "kalite": "HD",
       "tur": "TV",
-      "sid": "4250",
+      "sid": "4251",
       "paket": "SES",
       "tp_id": "astra_19_2:11288:V:22000",
       "konum_id": "astra_19_2",
@@ -37,17 +37,53 @@
       "kapsama": "PE2"
     },
     {
-      "kanal_adi": "LA Septima",
+      "kanal_adi": "TeleMadrid",
       "frekans": 11288,
       "polarizasyon": "V",
       "sembol_orani": 22000,
       "fec": "2/3",
-      "video_pid": "2551",
-      "ses_pid": "2552 / 007",
+      "video_pid": "2521",
+      "ses_pid": "2522 / spa",
       "uydu": "Astra 1P",
-      "kalite": "SD",
+      "kalite": "HD",
       "tur": "TV",
-      "sid": "4255",
+      "sid": "4252",
+      "paket": "SES",
+      "tp_id": "astra_19_2:11288:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    },
+    {
+      "kanal_adi": "TV Canaria",
+      "frekans": 11288,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "2/3",
+      "video_pid": "2531",
+      "ses_pid": "2532 / spa",
+      "uydu": "Astra 1P",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4253",
+      "paket": "SES",
+      "tp_id": "astra_19_2:11288:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    },
+    {
+      "kanal_adi": "CMM TV",
+      "frekans": 11288,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "2/3",
+      "video_pid": "2541",
+      "ses_pid": "2542 / spa",
+      "uydu": "Astra 1P",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4254",
       "paket": "SES",
       "tp_id": "astra_19_2:11288:V:22000",
       "konum_id": "astra_19_2",
@@ -64,12 +100,12 @@
       "anahtar": "astra_19_2:11288:V:22000",
       "degisiklikler": {
         "kanal_sayisi": {
-          "onceki": 2,
-          "yeni": 4
+          "onceki": 4,
+          "yeni": 8
         },
         "tv_sayisi": {
-          "onceki": 1,
-          "yeni": 3
+          "onceki": 3,
+          "yeni": 7
         }
       }
     }

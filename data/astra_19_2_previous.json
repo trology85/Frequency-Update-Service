@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-11T10:25:24.212333+00:00",
+  "guncelleme_tarihi": "2026-11-12T21:46:02.887315+00:00",
   "uydu_adi": "Astra 19.2°E",
-  "toplam_kanal": 887,
+  "toplam_kanal": 889,
   "toplam_tp": 86,
   "transponderler": [
     {
@@ -447,8 +447,8 @@
       "fec": "2/3",
       "uydu": "Astra 1P",
       "kapsama": "PE2",
-      "kanal_sayisi": 2,
-      "tv_sayisi": 1,
+      "kanal_sayisi": 4,
+      "tv_sayisi": 3,
       "radyo_sayisi": 1,
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E"
@@ -8106,6 +8106,24 @@
       "kapsama": "PE1"
     },
     {
+      "kanal_adi": "LA 7 HD",
+      "frekans": 11288,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "2/3",
+      "video_pid": "2501",
+      "ses_pid": "2502 / spa",
+      "uydu": "Astra 1P",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4250",
+      "paket": "SES",
+      "tp_id": "astra_19_2:11288:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    },
+    {
       "kanal_adi": "La Chaîne Météo",
       "frekans": 12324,
       "polarizasyon": "V",
@@ -8122,6 +8140,24 @@
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E",
       "kapsama": "PE"
+    },
+    {
+      "kanal_adi": "LA Septima",
+      "frekans": 11288,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "2/3",
+      "video_pid": "2551",
+      "ses_pid": "2552 / 007",
+      "uydu": "Astra 1P",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "4255",
+      "paket": "SES",
+      "tp_id": "astra_19_2:11288:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
     },
     {
       "kanal_adi": "La Sexta",

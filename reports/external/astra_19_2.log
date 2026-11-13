@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-12T21:45:54.784834+00:00",
+  "run_utc": "2026-11-13T10:37:52.200882+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -12,8 +12,8 @@
       "errors": [],
       "pages": 2,
       "transponders": 86,
-      "channels": 901,
-      "raw_channel_rows": 901,
+      "channels": 905,
+      "raw_channel_rows": 905,
       "raw_file": "raw/satbeams/astra_19_2.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-12T21:45:56.271546+00:00",
+  "run_utc": "2026-11-13T10:37:54.196788+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-19.2E",
       "title": "Astra 1M / Astra 1N / Astra 1P (19.2°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1334200,
+      "bytes": 1337291,
       "frequency_rows": 133,
-      "channel_rows": 1037,
-      "advertised_records": 1078,
+      "channel_rows": 1039,
+      "advertised_records": 1080,
       "block_markers": [],
       "raw_file": "raw/kingofsat/astra_19_2.html",
       "errors": []
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-12T21:46:00.355706+00:00",
+  "generated_utc": "2026-11-13T10:37:58.872126+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 0,
       "tv": 0,
       "radio": 0,
-      "source_updated": "2026-11-09"
+      "source_updated": "2026-11-13"
     }
   ]
 }
@@ -68,11 +68,11 @@
       "id": "astra_19_2",
       "ok": true,
       "transponders": 86,
-      "channels": 889,
-      "tv": 756,
+      "channels": 893,
+      "tv": 760,
       "radio": 133,
       "sd": 329,
-      "hd": 418,
+      "hd": 422,
       "uhd_4k": 9,
       "unknown_quality": 0,
       "candidate": "candidate/satbeams/astra_19_2.json"
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-12T21:46:03.009950+00:00",
+  "run_utc": "2026-11-13T10:38:01.493210+00:00",
   "ok": true,
   "should_publish": true,
   "source": "Satbeams API",
@@ -114,20 +114,20 @@
       "errors": [],
       "warnings": [],
       "transponders": 86,
-      "channels": 889,
-      "tv": 756,
+      "channels": 893,
+      "tv": 760,
       "radio": 133,
       "sd": 329,
-      "hd": 418,
+      "hd": 422,
       "uhd_4k": 9,
       "unknown_quality": 0,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "962fb710d22b73335fbc53bc28cd202d2a6aa454368fd53999053380d623b522",
-      "current_hash": "6bea8b64e75061445d091b8375512985801dc997a6be20108b71dc9258cdc443",
+      "candidate_hash": "e299224609d0685d080d95c2533c953a66b407798b89626a87186b1d64ed78d3",
+      "current_hash": "962fb710d22b73335fbc53bc28cd202d2a6aa454368fd53999053380d623b522",
       "changed": true,
-      "added": 2,
+      "added": 4,
       "removed": 0,
       "updated": 0
     }
