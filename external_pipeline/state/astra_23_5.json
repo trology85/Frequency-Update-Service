@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-14T09:52:27.725791+00:00",
+  "generated_utc": "2026-11-14T19:45:29.844268+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=23E",
@@ -19309,12 +19309,12 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 571,
-      "audio": "",
+      "audio": "572 / hun",
       "nid": 3,
       "tid": 3240,
       "source_channel_id": 168107,
       "source_transponder_id": 12837,
-      "updated": "2026-07-24",
+      "updated": "2026-11-14",
       "tp_id": "astra_23_5:12480:V:30000"
     },
     {
@@ -19371,12 +19371,12 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 611,
-      "audio": "",
+      "audio": "612 / hun",
       "nid": 3,
       "tid": 3240,
       "source_channel_id": 167980,
       "source_transponder_id": 12837,
-      "updated": "2026-07-24",
+      "updated": "2026-11-14",
       "tp_id": "astra_23_5:12480:V:30000"
     },
     {
