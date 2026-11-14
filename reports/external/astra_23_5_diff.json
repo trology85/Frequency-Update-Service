@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_23_5",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "olusturma_zamani_utc": "2026-11-13T21:13:52.917530+00:00",
+  "olusturma_zamani_utc": "2026-11-14T09:52:27.841577+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 638,
     "yeni_kanal": 638,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 9,
     "tur_degisen_kanal": 0,
     "onceki_tp": 33,
     "yeni_tp": 33,
@@ -19,7 +19,122 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "astra_23_5|astra_23_5:12246:V:30000|sid:20034",
+      "kanal_adi": "NOVA S",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Pink Romance",
+          "yeni": "NOVA S"
+        },
+        "paket": {
+          "onceki": "MTS (Telekom Srbija)",
+          "yeni": "m:SAT TV"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12246:V:30000|sid:20133",
+      "kanal_adi": "NickToons Adria",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1332",
+          "yeni": "1332 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12246:V:30000|sid:20153",
+      "kanal_adi": "Pink n Roll",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "1532 / srp"
+        },
+        "paket": {
+          "onceki": "MTS (Telekom Srbija)",
+          "yeni": "m:SAT TV"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12246:V:30000|sid:20178",
+      "kanal_adi": "N1 Serbia",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Sci Fi Serbia",
+          "yeni": "N1 Serbia"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12246:V:30000|sid:20182",
+      "kanal_adi": "TV Lav Plus",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "1822 / srp"
+        },
+        "paket": {
+          "onceki": "MTS (Telekom Srbija)",
+          "yeni": "m:SAT TV"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12246:V:30000|sid:20186",
+      "kanal_adi": "HTV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "1862 / eng"
+        },
+        "paket": {
+          "onceki": "MTS (Telekom Srbija)",
+          "yeni": "m:SAT TV"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12246:V:30000|sid:20209",
+      "kanal_adi": "N1 BH",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Fashion TV Europe",
+          "yeni": "N1 BH"
+        },
+        "ses_pid": {
+          "onceki": "2092 / eng",
+          "yeni": "2092 / bos"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12246:V:30000|sid:20221",
+      "kanal_adi": "Bor TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2212 / eng"
+        },
+        "paket": {
+          "onceki": "MTS (Telekom Srbija)",
+          "yeni": "m:SAT TV"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20176",
+      "kanal_adi": "Insajder TV",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Eko Vizija",
+          "yeni": "Insajder TV"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-11T10:26:00.054329+00:00",
+  "generated_utc": "2026-11-14T09:52:27.725791+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=23E",
-    "last_updated": "2026-10-22"
+    "last_updated": "2026-11-14"
   },
   "satellite": {
     "id": "astra_23_5",
@@ -8995,7 +8995,7 @@
       "tp_id": "astra_23_5:12246:V:30000"
     },
     {
-      "name": "Pink Romance",
+      "name": "NOVA S",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 3B/3C 23.5°E",
@@ -9012,7 +9012,7 @@
       "country_code": "",
       "beam": "European",
       "provider": "m:SAT TV",
-      "package": "MTS (Telekom Srbija)",
+      "package": "m:SAT TV",
       "encryption": "Conax / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -9022,7 +9022,7 @@
       "tid": 3223,
       "source_channel_id": 162927,
       "source_transponder_id": 1263,
-      "updated": "2026-07-24",
+      "updated": "2026-11-14",
       "tp_id": "astra_23_5:12246:V:30000"
     },
     {
@@ -9265,12 +9265,12 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1331,
-      "audio": "1332",
+      "audio": "1332 / eng",
       "nid": null,
       "tid": 3223,
       "source_channel_id": 161507,
       "source_transponder_id": 1263,
-      "updated": "2025-07-19",
+      "updated": "2026-11-14",
       "tp_id": "astra_23_5:12246:V:30000"
     },
     {
@@ -9291,17 +9291,17 @@
       "country_code": "",
       "beam": "European",
       "provider": "m:SAT TV",
-      "package": "MTS (Telekom Srbija)",
+      "package": "m:SAT TV",
       "encryption": "Conax / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1531,
-      "audio": "",
+      "audio": "1532 / srp",
       "nid": null,
       "tid": 3223,
       "source_channel_id": 168247,
       "source_transponder_id": 1263,
-      "updated": "2026-07-24",
+      "updated": "2026-11-14",
       "tp_id": "astra_23_5:12246:V:30000"
     },
     {
@@ -9367,7 +9367,7 @@
       "tp_id": "astra_23_5:12246:V:30000"
     },
     {
-      "name": "Sci Fi Serbia",
+      "name": "N1 Serbia",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 3B/3C 23.5°E",
@@ -9394,7 +9394,7 @@
       "tid": 3223,
       "source_channel_id": 161506,
       "source_transponder_id": 1263,
-      "updated": "2025-07-19",
+      "updated": "2026-11-14",
       "tp_id": "astra_23_5:12246:V:30000"
     },
     {
@@ -9415,17 +9415,17 @@
       "country_code": "",
       "beam": "European",
       "provider": "m:SAT TV",
-      "package": "MTS (Telekom Srbija)",
+      "package": "m:SAT TV",
       "encryption": "Conax / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1821,
-      "audio": "",
+      "audio": "1822 / srp",
       "nid": null,
       "tid": 3223,
       "source_channel_id": 168248,
       "source_transponder_id": 1263,
-      "updated": "2026-07-24",
+      "updated": "2026-11-14",
       "tp_id": "astra_23_5:12246:V:30000"
     },
     {
@@ -9477,17 +9477,17 @@
       "country_code": "",
       "beam": "European",
       "provider": "m:SAT TV",
-      "package": "MTS (Telekom Srbija)",
+      "package": "m:SAT TV",
       "encryption": "Conax / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1861,
-      "audio": "",
+      "audio": "1862 / eng",
       "nid": null,
       "tid": 3223,
       "source_channel_id": 168038,
       "source_transponder_id": 1263,
-      "updated": "2026-07-24",
+      "updated": "2026-11-14",
       "tp_id": "astra_23_5:12246:V:30000"
     },
     {
@@ -9677,7 +9677,7 @@
       "tp_id": "astra_23_5:12246:V:30000"
     },
     {
-      "name": "Fashion TV Europe",
+      "name": "N1 BH",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 3B/3C 23.5°E",
@@ -9699,12 +9699,12 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 2091,
-      "audio": "2092 / eng",
+      "audio": "2092 / bos",
       "nid": null,
       "tid": 3223,
       "source_channel_id": 161511,
       "source_transponder_id": 1263,
-      "updated": "2025-07-19",
+      "updated": "2026-11-14",
       "tp_id": "astra_23_5:12246:V:30000"
     },
     {
@@ -9756,17 +9756,17 @@
       "country_code": "",
       "beam": "European",
       "provider": "m:SAT TV",
-      "package": "MTS (Telekom Srbija)",
+      "package": "m:SAT TV",
       "encryption": "Conax / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 2211,
-      "audio": "",
+      "audio": "2212 / eng",
       "nid": null,
       "tid": 3223,
       "source_channel_id": 168040,
       "source_transponder_id": 1263,
-      "updated": "2026-07-24",
+      "updated": "2026-11-14",
       "tp_id": "astra_23_5:12246:V:30000"
     },
     {
@@ -17334,7 +17334,7 @@
       "tp_id": "astra_23_5:12441:V:30000"
     },
     {
-      "name": "Eko Vizija",
+      "name": "Insajder TV",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 3B/3C 23.5°E",
@@ -17351,7 +17351,7 @@
       "country_code": "",
       "beam": "European",
       "provider": "m:SAT TV",
-      "package": "",
+      "package": "m:SAT TV",
       "encryption": "Conax / Nagravision",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -17361,7 +17361,7 @@
       "tid": 3238,
       "source_channel_id": 144589,
       "source_transponder_id": 14068,
-      "updated": "2022-11-14",
+      "updated": "2026-11-14",
       "tp_id": "astra_23_5:12441:V:30000"
     },
     {

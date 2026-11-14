@@ -1,13 +1,13 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-11-13T21:14:04.752043+00:00",
+  "olusturma_zamani_utc": "2026-11-14T09:52:40.186297+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 942,
+    "onceki_kanal": 944,
     "yeni_kanal": 944,
-    "eklenen_kanal": 2,
+    "eklenen_kanal": 0,
     "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
@@ -15,63 +15,12 @@
     "yeni_tp": 71,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "Spektrum",
-      "frekans": 12149,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "video_pid": "1110",
-      "ses_pid": "1113 / cze / 1111 / hun",
-      "uydu": "Thor 7",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "31402",
-      "paket": "freeSAT",
-      "tp_id": "thor_1w:12149:V:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
-    },
-    {
-      "kanal_adi": "AMC",
-      "frekans": 12149,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "video_pid": "0",
-      "ses_pid": "1211 / cze / 1212 / eng",
-      "uydu": "Thor 7",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "31403",
-      "paket": "freeSAT",
-      "tp_id": "thor_1w:12149:V:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "CEE"
-    }
-  ],
+  "eklenen_kanallar": [],
   "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "thor_1w:12149:V:30000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 22,
-          "yeni": 24
-        },
-        "tv_sayisi": {
-          "onceki": 22,
-          "yeni": 24
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }
