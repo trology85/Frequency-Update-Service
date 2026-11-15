@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-15T10:27:52.391174+00:00",
+  "run_utc": "2026-11-15T20:11:00.110704+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-15T10:27:53.896002+00:00",
+  "run_utc": "2026-11-15T20:11:02.014891+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-28.2E",
       "title": "Astra 2E / Astra 2F / Astra 2G (28.2°E) -  - Frekanslar - KingOfSat",
-      "bytes": 915250,
+      "bytes": 915247,
       "frequency_rows": 144,
       "channel_rows": 596,
       "advertised_records": 692,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-15T10:27:56.175151+00:00",
+  "generated_utc": "2026-11-15T20:11:04.618077+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-15T10:27:56.999416+00:00",
+  "run_utc": "2026-11-15T20:11:05.501734+00:00",
   "ok": true,
   "should_publish": false,
   "source": "Satbeams API",

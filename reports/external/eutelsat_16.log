@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-15T10:27:43.022215+00:00",
+  "run_utc": "2026-11-15T20:10:48.892195+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -11,9 +11,9 @@
       "ok": true,
       "errors": [],
       "pages": 2,
-      "transponders": 52,
-      "channels": 805,
-      "raw_channel_rows": 805,
+      "transponders": 56,
+      "channels": 977,
+      "raw_channel_rows": 977,
       "raw_file": "raw/satbeams/eutelsat_16.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-15T10:27:44.613766+00:00",
+  "run_utc": "2026-11-15T20:10:50.762619+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-16E",
       "title": "Eutelsat 16D (16°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1132454,
-      "frequency_rows": 199,
+      "bytes": 1138913,
+      "frequency_rows": 201,
       "channel_rows": 838,
-      "advertised_records": 987,
+      "advertised_records": 989,
       "block_markers": [],
       "raw_file": "raw/kingofsat/eutelsat_16.html",
       "errors": []
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-15T10:27:46.830725+00:00",
+  "generated_utc": "2026-11-15T20:10:53.571572+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -67,14 +67,14 @@
     {
       "id": "eutelsat_16",
       "ok": true,
-      "transponders": 51,
-      "channels": 801,
-      "tv": 760,
-      "radio": 41,
-      "sd": 528,
-      "hd": 218,
-      "uhd_4k": 0,
-      "unknown_quality": 14,
+      "transponders": 54,
+      "channels": 971,
+      "tv": 818,
+      "radio": 153,
+      "sd": 549,
+      "hd": 213,
+      "uhd_4k": 56,
+      "unknown_quality": 0,
       "candidate": "candidate/satbeams/eutelsat_16.json"
     }
   ]
@@ -86,7 +86,7 @@
   "satellites": [
     {
       "id": "eutelsat_16",
-      "unknown_before": 14,
+      "unknown_before": 0,
       "filled": 0,
       "filled_sd": 0,
       "filled_hd": 0,
@@ -94,8 +94,8 @@
       "filled_3d": 0,
       "ambiguous": 0,
       "name_mismatch": 0,
-      "not_found": 14,
-      "unknown_after": 14,
+      "not_found": 0,
+      "unknown_after": 0,
       "ok": true
     }
   ]
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-15T10:27:47.881188+00:00",
+  "run_utc": "2026-11-15T20:10:54.662636+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -113,24 +113,24 @@
       "ok": true,
       "errors": [],
       "warnings": [],
-      "transponders": 51,
-      "channels": 801,
-      "tv": 760,
-      "radio": 41,
-      "sd": 528,
-      "hd": 218,
-      "uhd_4k": 0,
-      "unknown_quality": 14,
+      "transponders": 54,
+      "channels": 971,
+      "tv": 818,
+      "radio": 153,
+      "sd": 549,
+      "hd": 213,
+      "uhd_4k": 56,
+      "unknown_quality": 0,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "0d6a01dedde5580840f1388385cab0c2b784b2443a293d5db61bbee1707d8258",
+      "candidate_hash": "5ccc6e743c60a57e2b85f6442070b37f43e74187c440a80b4c4b3ff6ee9672de",
       "current_hash": "0d6a01dedde5580840f1388385cab0c2b784b2443a293d5db61bbee1707d8258",
-      "changed": false,
-      "added": 0,
-      "removed": 0,
-      "updated": 0
+      "changed": true,
+      "added": 271,
+      "removed": 101,
+      "updated": 700
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true

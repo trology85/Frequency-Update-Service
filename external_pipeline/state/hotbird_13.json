@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-15T10:27:34.781932+00:00",
+  "generated_utc": "2026-11-15T20:10:39.924395+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=13E",
@@ -11986,7 +11986,7 @@
       "country_code": "",
       "beam": "Wide",
       "provider": "Arqiva",
-      "package": "Total TV",
+      "package": "EON Sat",
       "encryption": "Videoguard / Irdeto / Viaccess / Verimatrix",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -12017,7 +12017,7 @@
       "country_code": "",
       "beam": "Wide",
       "provider": "Arqiva",
-      "package": "Total TV",
+      "package": "EON Sat",
       "encryption": "Videoguard / Irdeto / Viaccess",
       "free_to_air": false,
       "compression": "MPEG-4",
@@ -23280,7 +23280,7 @@
       "tid": 7000,
       "source_channel_id": 26163,
       "source_transponder_id": 3483,
-      "updated": "2009-06-18",
+      "updated": "2026-11-15",
       "tp_id": "hotbird_13:12111:V:27500"
     },
     {
