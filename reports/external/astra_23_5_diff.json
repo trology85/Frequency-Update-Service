@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_23_5",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "olusturma_zamani_utc": "2026-11-15T20:11:00.025247+00:00",
+  "olusturma_zamani_utc": "2026-11-16T10:43:10.229114+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 638,
     "yeni_kanal": 638,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 13,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 33,
     "yeni_tp": 33,
@@ -19,138 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20261",
-      "kanal_adi": "MRT 1",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2612 / mac",
-          "yeni": "2612 / mac,mkd"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20264",
-      "kanal_adi": "MRT 3",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2642 / mac / 3643 / alb",
-          "yeni": "2642 / mac,mkd / 3643 / alb"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20265",
-      "kanal_adi": "MRT 4",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2652 / mac",
-          "yeni": "2652 / mac,mkd"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20266",
-      "kanal_adi": "MRT 5",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2662 / mac",
-          "yeni": "2662 / mac,mkd"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20267",
-      "kanal_adi": "MRT Sobraniski kanal",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2672 / mac / 2673 / alb",
-          "yeni": "2672 / mac,mkd / 2673 / alb"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20268",
-      "kanal_adi": "Nasa TV",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2682 / mac",
-          "yeni": "2682 / mac,mkd"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20269",
-      "kanal_adi": "RTV 21 Macedonia (TV21 Maqedoni)",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2692 / mac",
-          "yeni": "2692 / mac,mkd"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20270",
-      "kanal_adi": "TV 24 Macedonia",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2702 / mac",
-          "yeni": "2702 / mac,mkd"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20272",
-      "kanal_adi": "Sitel",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2722 / mac",
-          "yeni": "2722 / mac,mkd"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20273",
-      "kanal_adi": "Telma",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2732 / mac",
-          "yeni": "2732 / mac,mkd"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20274",
-      "kanal_adi": "Alfa TV Macedonia",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2742 / mac",
-          "yeni": "2742 / mac,mkd"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20275",
-      "kanal_adi": "Alsat-M",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2752 / mac",
-          "yeni": "2752 / mac,mkd"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12441:V:30000|sid:20276",
-      "kanal_adi": "Kanal 5 Macedonia",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2762 / mac",
-          "yeni": "2762 / mac,mkd"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

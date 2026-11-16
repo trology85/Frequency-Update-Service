@@ -1,15 +1,15 @@
 {
   "uydu_id": "hotbird_13",
   "uydu_adi": "Hot Bird 13.0°E",
-  "olusturma_zamani_utc": "2026-11-15T20:10:40.065158+00:00",
+  "olusturma_zamani_utc": "2026-11-16T10:42:50.576178+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 1008,
     "yeni_kanal": 1008,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 2,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 88,
     "yeni_tp": 88,
@@ -19,28 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "hotbird_13|hotbird_13:11334:H:27500|sid:752",
-      "kanal_adi": "Eurosport 1 Serbian HD",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Total TV",
-          "yeni": "EON Sat"
-        }
-      }
-    },
-    {
-      "anahtar": "hotbird_13|hotbird_13:11334:H:27500|sid:753",
-      "kanal_adi": "Eurosport 2 Serbian HD",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Total TV",
-          "yeni": "EON Sat"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []
