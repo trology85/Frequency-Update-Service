@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-19T11:12:54.769166+00:00",
+  "run_utc": "2026-11-19T22:36:36.064029+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -11,9 +11,9 @@
       "ok": true,
       "errors": [],
       "pages": 2,
-      "transponders": 98,
-      "channels": 978,
-      "raw_channel_rows": 978,
+      "transponders": 95,
+      "channels": 948,
+      "raw_channel_rows": 948,
       "raw_file": "raw/satbeams/thor_1w.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-19T11:12:56.243238+00:00",
+  "run_utc": "2026-11-19T22:36:37.460400+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-19T11:12:59.669724+00:00",
+  "generated_utc": "2026-11-19T22:36:41.073008+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -67,14 +67,14 @@
     {
       "id": "thor_1w",
       "ok": true,
-      "transponders": 70,
-      "channels": 935,
-      "tv": 824,
-      "radio": 111,
-      "sd": 417,
-      "hd": 401,
+      "transponders": 67,
+      "channels": 906,
+      "tv": 799,
+      "radio": 107,
+      "sd": 415,
+      "hd": 380,
       "uhd_4k": 0,
-      "unknown_quality": 6,
+      "unknown_quality": 4,
       "candidate": "candidate/satbeams/thor_1w.json"
     }
   ]
@@ -86,7 +86,7 @@
   "satellites": [
     {
       "id": "thor_1w",
-      "unknown_before": 6,
+      "unknown_before": 4,
       "filled": 0,
       "filled_sd": 0,
       "filled_hd": 0,
@@ -94,8 +94,8 @@
       "filled_3d": 0,
       "ambiguous": 0,
       "name_mismatch": 0,
-      "not_found": 6,
-      "unknown_after": 6,
+      "not_found": 4,
+      "unknown_after": 4,
       "ok": true
     }
   ]
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-19T11:13:02.029644+00:00",
+  "run_utc": "2026-11-19T22:36:43.463124+00:00",
   "ok": true,
   "should_publish": true,
   "source": "Satbeams API",
@@ -113,22 +113,22 @@
       "ok": true,
       "errors": [],
       "warnings": [],
-      "transponders": 70,
-      "channels": 935,
-      "tv": 824,
-      "radio": 111,
-      "sd": 417,
-      "hd": 401,
+      "transponders": 67,
+      "channels": 906,
+      "tv": 799,
+      "radio": 107,
+      "sd": 415,
+      "hd": 380,
       "uhd_4k": 0,
-      "unknown_quality": 6,
+      "unknown_quality": 4,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "1ada802c8e3d079c0fbd23fe5864b5c91ef9696efd504ce67b3f8355b5d6fe8f",
-      "current_hash": "7c243dc5cbc90a6961d3c16a5d280901bbc55ba1570b15fce533181811fb532e",
+      "candidate_hash": "f6bf162f652d32b49dcbfa538412deef97f437a754d9c332431c06e6d9dd4b22",
+      "current_hash": "1ada802c8e3d079c0fbd23fe5864b5c91ef9696efd504ce67b3f8355b5d6fe8f",
       "changed": true,
       "added": 0,
-      "removed": 11,
+      "removed": 29,
       "updated": 0
     }
   ]

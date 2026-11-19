@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-15T20:10:59.926133+00:00",
+  "guncelleme_tarihi": "2026-11-19T22:36:30.243951+00:00",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "toplam_kanal": 644,
+  "toplam_kanal": 645,
   "toplam_tp": 33,
   "transponderler": [
     {
@@ -265,8 +265,8 @@
       "fec": "2/3",
       "uydu": "Astra 3B",
       "kapsama": "SpotME",
-      "kanal_sayisi": 9,
-      "tv_sayisi": 9,
+      "kanal_sayisi": 10,
+      "tv_sayisi": 10,
       "radyo_sayisi": 0,
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E"
@@ -11934,6 +11934,24 @@
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "We Ukraine",
+      "frekans": 12285,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "1231",
+      "ses_pid": "1232 / ukr",
+      "uydu": "Astra 3B",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "7732",
+      "paket": "Ukrainian mux",
+      "tp_id": "astra_23_5:12285:V:30000",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "SpotME"
     },
     {
       "kanal_adi": "Ziggo Sport 2",

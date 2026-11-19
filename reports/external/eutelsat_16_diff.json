@@ -1,245 +1,26 @@
 {
   "uydu_id": "eutelsat_16",
   "uydu_adi": "Eutelsat 16A 16.0°E",
-  "olusturma_zamani_utc": "2026-11-19T11:12:43.979848+00:00",
+  "olusturma_zamani_utc": "2026-11-19T22:36:25.064210+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 903,
+    "onceki_kanal": 900,
     "yeni_kanal": 900,
-    "eklenen_kanal": 2,
-    "silinen_kanal": 5,
-    "degisen_kanal": 2,
+    "eklenen_kanal": 0,
+    "silinen_kanal": 0,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 52,
     "yeni_tp": 52,
-    "eklenen_tp": 1,
-    "silinen_tp": 1,
-    "degisen_tp": 3
+    "eklenen_tp": 0,
+    "silinen_tp": 0,
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "POL-141 ENC1",
-      "frekans": 10972,
-      "polarizasyon": "V",
-      "sembol_orani": 4800,
-      "fec": "3/4",
-      "video_pid": "121",
-      "ses_pid": "221 / pol / 222 / und",
-      "uydu": "Eutelsat 16D",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "141",
-      "paket": "EON Sat",
-      "tp_id": "eutelsat_16:10972:V:4800",
-      "konum_id": "eutelsat_16",
-      "konum_adi": "Eutelsat 16A 16.0°E",
-      "kapsama": "EUROPEB"
-    },
-    {
-      "kanal_adi": "Cinemax HD",
-      "frekans": 11637,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "5/6",
-      "video_pid": "3601",
-      "ses_pid": "3604 / cze",
-      "uydu": "Eutelsat 16D",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "1946",
-      "paket": "Orange Slovakia",
-      "tp_id": "eutelsat_16:11637:H:30000",
-      "konum_id": "eutelsat_16",
-      "konum_adi": "Eutelsat 16A 16.0°E",
-      "kapsama": "EUROPEB"
-    }
-  ],
-  "silinen_kanallar": [
-    {
-      "kanal_adi": "Film Autor",
-      "frekans": 10804,
-      "polarizasyon": "H",
-      "sembol_orani": 29950,
-      "fec": "2/3",
-      "video_pid": "2171",
-      "ses_pid": "2172 / eng / 2173 / ita",
-      "uydu": "Eutelsat 16D",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "2170",
-      "paket": "DigitAlb",
-      "tp_id": "eutelsat_16:10804:H:29950",
-      "konum_id": "eutelsat_16",
-      "konum_adi": "Eutelsat 16A 16.0°E",
-      "kapsama": "EUROPEB"
-    },
-    {
-      "kanal_adi": "MusicAl",
-      "frekans": 10804,
-      "polarizasyon": "H",
-      "sembol_orani": 29950,
-      "fec": "2/3",
-      "video_pid": "2241",
-      "ses_pid": "2242 / alb",
-      "uydu": "Eutelsat 16D",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "2240",
-      "paket": "DigitAlb",
-      "tp_id": "eutelsat_16:10804:H:29950",
-      "konum_id": "eutelsat_16",
-      "konum_adi": "Eutelsat 16A 16.0°E",
-      "kapsama": "EUROPEB"
-    },
-    {
-      "kanal_adi": "Radio Studio B",
-      "frekans": 10972,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "3/5",
-      "video_pid": "0",
-      "ses_pid": "3711 / srp",
-      "uydu": "Eutelsat 16D",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "1371",
-      "paket": "EON Sat",
-      "tp_id": "eutelsat_16:10972:V:27500",
-      "konum_id": "eutelsat_16",
-      "konum_adi": "Eutelsat 16A 16.0°E",
-      "kapsama": "EUROPEB"
-    },
-    {
-      "kanal_adi": "test 1",
-      "frekans": 10972,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "3/5",
-      "video_pid": "0",
-      "ses_pid": "3721 / srp",
-      "uydu": "Eutelsat 16D",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "1372",
-      "paket": "EON Sat",
-      "tp_id": "eutelsat_16:10972:V:27500",
-      "konum_id": "eutelsat_16",
-      "konum_adi": "Eutelsat 16A 16.0°E",
-      "kapsama": "EUROPEB"
-    },
-    {
-      "kanal_adi": "Disney Channel",
-      "frekans": 11554,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "5/6",
-      "video_pid": "3801",
-      "ses_pid": "3802 / eng",
-      "uydu": "Eutelsat 16D",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "1828",
-      "paket": "A1 Hrvatska",
-      "tp_id": "eutelsat_16:11554:V:30000",
-      "konum_id": "eutelsat_16",
-      "konum_adi": "Eutelsat 16A 16.0°E",
-      "kapsama": "EUROPEB"
-    }
-  ],
-  "degisen_kanallar": [
-    {
-      "anahtar": "eutelsat_16|eutelsat_16:11637:H:30000|sid:1924",
-      "kanal_adi": "HBO HD",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "3402 / hrv / 3404 / slv / 3405 / mac,mkd / 3406 / srp / 3421 / eng",
-          "yeni": "3402 / hrv / 3421 / eng / 3404 / slv / 3405 / mac,mkd / 3406 / srp"
-        }
-      }
-    },
-    {
-      "anahtar": "eutelsat_16|eutelsat_16:11637:H:30000|sid:1925",
-      "kanal_adi": "HBO 2 HD",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "3502 / hrv / 3504 / slv / 3505 / mac,mkd / 3506 / srp / 3521 / eng",
-          "yeni": "3502 / hrv / 3521 / eng / 3504 / slv / 3505 / mac,mkd / 3506 / srp"
-        }
-      }
-    }
-  ],
-  "eklenen_transponderler": [
-    {
-      "tp_id": "eutelsat_16:10972:V:4800",
-      "frekans": 10972,
-      "polarizasyon": "V",
-      "sembol_orani": 4800,
-      "fec": "3/4",
-      "uydu": "Eutelsat 16D",
-      "kapsama": "EUROPEB",
-      "kanal_sayisi": 1,
-      "tv_sayisi": 1,
-      "radyo_sayisi": 0,
-      "konum_id": "eutelsat_16",
-      "konum_adi": "Eutelsat 16A 16.0°E"
-    }
-  ],
-  "silinen_transponderler": [
-    {
-      "tp_id": "eutelsat_16:10972:V:27500",
-      "frekans": 10972,
-      "polarizasyon": "V",
-      "sembol_orani": 27500,
-      "fec": "3/5",
-      "uydu": "Eutelsat 16D",
-      "kapsama": "EUROPEB",
-      "kanal_sayisi": 2,
-      "tv_sayisi": 0,
-      "radyo_sayisi": 2,
-      "konum_id": "eutelsat_16",
-      "konum_adi": "Eutelsat 16A 16.0°E"
-    }
-  ],
-  "degisen_transponderler": [
-    {
-      "anahtar": "eutelsat_16:10804:H:29950",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 27,
-          "yeni": 25
-        },
-        "tv_sayisi": {
-          "onceki": 27,
-          "yeni": 25
-        }
-      }
-    },
-    {
-      "anahtar": "eutelsat_16:11554:V:30000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 30,
-          "yeni": 29
-        },
-        "tv_sayisi": {
-          "onceki": 30,
-          "yeni": 29
-        }
-      }
-    },
-    {
-      "anahtar": "eutelsat_16:11637:H:30000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 20,
-          "yeni": 21
-        },
-        "tv_sayisi": {
-          "onceki": 20,
-          "yeni": 21
-        }
-      }
-    }
-  ]
+  "eklenen_kanallar": [],
+  "silinen_kanallar": [],
+  "degisen_kanallar": [],
+  "eklenen_transponderler": [],
+  "silinen_transponderler": [],
+  "degisen_transponderler": []
 }

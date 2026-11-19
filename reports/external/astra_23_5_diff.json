@@ -1,13 +1,13 @@
 {
   "uydu_id": "astra_23_5",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "olusturma_zamani_utc": "2026-11-19T11:12:49.113464+00:00",
+  "olusturma_zamani_utc": "2026-11-19T22:36:30.384719+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 638,
-    "yeni_kanal": 638,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 639,
+    "eklenen_kanal": 1,
     "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
@@ -15,12 +15,45 @@
     "yeni_tp": 33,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "We Ukraine",
+      "frekans": 12285,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "1231",
+      "ses_pid": "1232 / ukr",
+      "uydu": "Astra 3B",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "7732",
+      "paket": "Ukrainian mux",
+      "tp_id": "astra_23_5:12285:V:30000",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "SpotME"
+    }
+  ],
   "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "astra_23_5:12285:V:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 9,
+          "yeni": 10
+        },
+        "tv_sayisi": {
+          "onceki": 9,
+          "yeni": 10
+        }
+      }
+    }
+  ]
 }

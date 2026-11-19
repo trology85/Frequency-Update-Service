@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-15T20:10:59.926133+00:00",
+  "generated_utc": "2026-11-19T22:36:30.243951+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=23E",
-    "last_updated": "2026-11-14"
+    "last_updated": "2026-11-19"
   },
   "satellite": {
     "id": "astra_23_5",
@@ -13,10 +13,10 @@
   },
   "counts": {
     "transponders": 33,
-    "channels": 644,
-    "tv": 535,
+    "channels": 645,
+    "tv": 536,
     "radio": 109,
-    "sd": 358,
+    "sd": 359,
     "hd": 159,
     "uhd_4k": 0,
     "unknown_quality": 18
@@ -416,8 +416,8 @@
       "network": "Ukrainian mux",
       "nid": null,
       "tid": null,
-      "channel_count": 9,
-      "tv_count": 9,
+      "channel_count": 10,
+      "tv_count": 10,
       "radio_count": 0,
       "source_transponder_id": 13935
     },
@@ -10604,6 +10604,37 @@
       "source_channel_id": 162165,
       "source_transponder_id": 13935,
       "updated": "2025-08-21",
+      "tp_id": "astra_23_5:12285:V:30000"
+    },
+    {
+      "name": "We Ukraine",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 3B/3C 23.5°E",
+      "spacecraft": "Astra 3B",
+      "position": "23.5E",
+      "frequency": 12285,
+      "polarization": "V",
+      "symbol_rate": 30000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 7732,
+      "country": "",
+      "country_code": "",
+      "beam": "SpotME",
+      "provider": "Ukrainian mux",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4",
+      "vpid": 1231,
+      "audio": "1232 / ukr",
+      "nid": null,
+      "tid": null,
+      "source_channel_id": 176190,
+      "source_transponder_id": 13935,
+      "updated": "2026-11-19",
       "tp_id": "astra_23_5:12285:V:30000"
     },
     {
