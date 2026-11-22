@@ -1,26 +1,4931 @@
 {
   "uydu_id": "hellas_39",
   "uydu_adi": "Hellas Sat 39.0°E",
-  "olusturma_zamani_utc": "2026-11-21T20:48:00.571222+00:00",
+  "olusturma_zamani_utc": "2026-11-22T10:47:05.918492+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 602,
-    "yeni_kanal": 602,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "yeni_kanal": 600,
+    "eklenen_kanal": 25,
+    "silinen_kanal": 27,
+    "degisen_kanal": 352,
     "tur_degisen_kanal": 0,
     "onceki_tp": 30,
-    "yeni_tp": 30,
-    "eklenen_tp": 0,
+    "yeni_tp": 36,
+    "eklenen_tp": 6,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 16
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
-  "degisen_kanallar": [],
-  "eklenen_transponderler": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Tring Sport 4 HD",
+      "frekans": 10890,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "3011",
+      "ses_pid": "3012 / alb",
+      "uydu": "HellasSat 4",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "3010",
+      "paket": "Tring Digital",
+      "tp_id": "hellas_39:10890:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    },
+    {
+      "kanal_adi": "Klan TV HD",
+      "frekans": 10930,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "4961",
+      "ses_pid": "4962",
+      "uydu": "HellasSat 4",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "4950",
+      "paket": "Tring Digital",
+      "tp_id": "hellas_39:10930:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    },
+    {
+      "kanal_adi": "SPORT 6 HD",
+      "frekans": 10930,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "6201",
+      "ses_pid": "6202",
+      "uydu": "HellasSat 4",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "6260",
+      "paket": "Tring Digital",
+      "tp_id": "hellas_39:10930:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    },
+    {
+      "kanal_adi": "SPORT 7 HD",
+      "frekans": 10930,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "6251",
+      "ses_pid": "6252",
+      "uydu": "HellasSat 4",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "6280",
+      "paket": "Tring Digital",
+      "tp_id": "hellas_39:10930:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    },
+    {
+      "kanal_adi": "BB VIP Kosova 1",
+      "frekans": 10930,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "6601",
+      "ses_pid": "6602",
+      "uydu": "HellasSat 4",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "6600",
+      "paket": "Tring Digital",
+      "tp_id": "hellas_39:10930:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    },
+    {
+      "kanal_adi": "BB VIP Kosova 2",
+      "frekans": 10930,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "6701",
+      "ses_pid": "6702",
+      "uydu": "HellasSat 4",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "6700",
+      "paket": "Tring Digital",
+      "tp_id": "hellas_39:10930:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    },
+    {
+      "kanal_adi": "EQUtv",
+      "frekans": 11139,
+      "polarizasyon": "V",
+      "sembol_orani": 1000,
+      "fec": "5/6",
+      "video_pid": "512",
+      "ses_pid": "513",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "7188",
+      "paket": "",
+      "tp_id": "hellas_39:11139:V:1000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "KUW-001 B",
+      "frekans": 11456,
+      "polarizasyon": "H",
+      "sembol_orani": 5000,
+      "fec": "3/4",
+      "video_pid": "512",
+      "ses_pid": "4112 / 4128 / 4144 / 4160",
+      "uydu": "HellasSat 3",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "",
+      "tp_id": "hellas_39:11456:H:5000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "KUW-003M",
+      "frekans": 11468,
+      "polarizasyon": "H",
+      "sembol_orani": 4999,
+      "fec": "3/4",
+      "video_pid": "512",
+      "ses_pid": "4112 / eng / 4128 / eng",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "",
+      "tp_id": "hellas_39:11468:H:4999",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "Trito Maestro",
+      "frekans": 12223,
+      "polarizasyon": "H",
+      "sembol_orani": 13381,
+      "fec": "3/4",
+      "video_pid": "156",
+      "ses_pid": "676 / gre,ell",
+      "uydu": "HellasSat 3",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "13",
+      "paket": "ERT",
+      "tp_id": "hellas_39:12223:H:13381",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "Deftero Paradosiaka",
+      "frekans": 12223,
+      "polarizasyon": "H",
+      "sembol_orani": 13381,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "677 / gre,ell",
+      "uydu": "HellasSat 3",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "14",
+      "paket": "ERT",
+      "tp_id": "hellas_39:12223:H:13381",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "ERT 2",
+      "frekans": 12223,
+      "polarizasyon": "H",
+      "sembol_orani": 13381,
+      "fec": "3/4",
+      "video_pid": "139",
+      "ses_pid": "660 / gre,ell",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "20",
+      "paket": "ERT",
+      "tp_id": "hellas_39:12223:H:13381",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "DefteroLaika",
+      "frekans": 12223,
+      "polarizasyon": "H",
+      "sembol_orani": 13381,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "675 / gre,ell",
+      "uydu": "HellasSat 3",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "23",
+      "paket": "ERT",
+      "tp_id": "hellas_39:12223:H:13381",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "Zeppelin",
+      "frekans": 12223,
+      "polarizasyon": "H",
+      "sembol_orani": 13381,
+      "fec": "3/4",
+      "video_pid": "157",
+      "ses_pid": "673 / gre,ell",
+      "uydu": "HellasSat 3",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "33",
+      "paket": "ERT",
+      "tp_id": "hellas_39:12223:H:13381",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "Kosmos Jazz",
+      "frekans": 12223,
+      "polarizasyon": "H",
+      "sembol_orani": 13381,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "674 / gre,ell",
+      "uydu": "HellasSat 3",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "34",
+      "paket": "ERT",
+      "tp_id": "hellas_39:12223:H:13381",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "Hustler TV",
+      "frekans": 12271,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "207",
+      "ses_pid": "308 / eng",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "522",
+      "paket": "Bulsatcom",
+      "tp_id": "hellas_39:12271:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "Private TV",
+      "frekans": 12271,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "236",
+      "ses_pid": "1336 / ita",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "805",
+      "paket": "Bulsatcom",
+      "tp_id": "hellas_39:12271:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "ALPHA HD",
+      "frekans": 12337,
+      "polarizasyon": "H",
+      "sembol_orani": 11569,
+      "fec": "2/3",
+      "video_pid": "1110",
+      "ses_pid": "1112 / gre,ell / 1113 / gre,ell",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1100",
+      "paket": "",
+      "tp_id": "hellas_39:12337:H:11569",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "SKAI HD",
+      "frekans": 12337,
+      "polarizasyon": "H",
+      "sembol_orani": 11569,
+      "fec": "2/3",
+      "video_pid": "1210",
+      "ses_pid": "1212 / gre,ell",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1200",
+      "paket": "",
+      "tp_id": "hellas_39:12337:H:11569",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "ANT1 HD",
+      "frekans": 12337,
+      "polarizasyon": "H",
+      "sembol_orani": 11569,
+      "fec": "2/3",
+      "video_pid": "1310",
+      "ses_pid": "1312 / gre,ell / 1313 / gre,ell",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1300",
+      "paket": "",
+      "tp_id": "hellas_39:12337:H:11569",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "OPEN BEYOND HD",
+      "frekans": 12337,
+      "polarizasyon": "H",
+      "sembol_orani": 11569,
+      "fec": "2/3",
+      "video_pid": "1410",
+      "ses_pid": "1412 / gre,ell",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1400",
+      "paket": "",
+      "tp_id": "hellas_39:12337:H:11569",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "STAR HD",
+      "frekans": 12352,
+      "polarizasyon": "H",
+      "sembol_orani": 11568,
+      "fec": "2/3",
+      "video_pid": "1510",
+      "ses_pid": "1512 / gre,ell / 1513 / gre,ell",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1500",
+      "paket": "",
+      "tp_id": "hellas_39:12352:H:11568",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "MEGA HD",
+      "frekans": 12352,
+      "polarizasyon": "H",
+      "sembol_orani": 11568,
+      "fec": "2/3",
+      "video_pid": "1610",
+      "ses_pid": "1612 / gre,ell / 1613 / gre,ell",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1600",
+      "paket": "",
+      "tp_id": "hellas_39:12352:H:11568",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "MAK TV HD",
+      "frekans": 12352,
+      "polarizasyon": "H",
+      "sembol_orani": 11568,
+      "fec": "2/3",
+      "video_pid": "1710",
+      "ses_pid": "1712 / gre,ell",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1700",
+      "paket": "",
+      "tp_id": "hellas_39:12352:H:11568",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "PATH HD4",
+      "frekans": 12647,
+      "polarizasyon": "V",
+      "sembol_orani": 7199,
+      "fec": "3/4",
+      "video_pid": "512",
+      "ses_pid": "4112 / eng / 4128 / eng",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "13",
+      "paket": "Orange Romania",
+      "tp_id": "hellas_39:12647:V:7199",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    }
+  ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "ATV Albania",
+      "frekans": 10890,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "1111",
+      "ses_pid": "1112 / alb",
+      "uydu": "HellasSat 4",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1110",
+      "paket": "Tring Digital",
+      "tp_id": "hellas_39:10890:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    },
+    {
+      "kanal_adi": "Tring Sport 4 HD",
+      "frekans": 10890,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "1028",
+      "ses_pid": "1029 / alb",
+      "uydu": "HellasSat 4",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "3000",
+      "paket": "Tring Digital",
+      "tp_id": "hellas_39:10890:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    },
+    {
+      "kanal_adi": "ABC News Albania",
+      "frekans": 10930,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "1451",
+      "ses_pid": "1452 / alb",
+      "uydu": "HellasSat 4",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1460",
+      "paket": "Tring Digital",
+      "tp_id": "hellas_39:10930:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    },
+    {
+      "kanal_adi": "Club TV",
+      "frekans": 10930,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "2601",
+      "ses_pid": "0 / alb",
+      "uydu": "HellasSat 4",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "2610",
+      "paket": "Tring Digital",
+      "tp_id": "hellas_39:10930:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    },
+    {
+      "kanal_adi": "Bizzare TV",
+      "frekans": 10930,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "3201",
+      "ses_pid": "3202 / alb",
+      "uydu": "HellasSat 4",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "3110",
+      "paket": "Tring Digital",
+      "tp_id": "hellas_39:10930:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    },
+    {
+      "kanal_adi": "Bunga Bubga",
+      "frekans": 10930,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "3101",
+      "ses_pid": "3102 / alb",
+      "uydu": "HellasSat 4",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "3210",
+      "paket": "Tring Digital",
+      "tp_id": "hellas_39:10930:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    },
+    {
+      "kanal_adi": "Neser TV",
+      "frekans": 10930,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "5/6",
+      "video_pid": "4001",
+      "ses_pid": "4002 / alb",
+      "uydu": "HellasSat 4",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "4000",
+      "paket": "Tring Digital",
+      "tp_id": "hellas_39:10930:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    },
+    {
+      "kanal_adi": "Epic Drama",
+      "frekans": 12156,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "227",
+      "ses_pid": "0 / bul",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "443",
+      "paket": "Bulsatcom",
+      "tp_id": "hellas_39:12156:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "TV1 Bulgaria",
+      "frekans": 12194,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "7/8",
+      "video_pid": "6101",
+      "ses_pid": "6102 / bul",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1151",
+      "paket": "Bulsatcom",
+      "tp_id": "hellas_39:12194:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "AXN White",
+      "frekans": 12194,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "7/8",
+      "video_pid": "261",
+      "ses_pid": "463 / bul",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "161",
+      "paket": "Bulsatcom",
+      "tp_id": "hellas_39:12194:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "AXN Black",
+      "frekans": 12194,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "7/8",
+      "video_pid": "262",
+      "ses_pid": "464 / bul",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "162",
+      "paket": "Bulsatcom",
+      "tp_id": "hellas_39:12194:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "Nat Geo Wild Bulgaria",
+      "frekans": 12194,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "7/8",
+      "video_pid": "860",
+      "ses_pid": "861 / bul / 863 / eng",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "46",
+      "paket": "Bulsatcom",
+      "tp_id": "hellas_39:12194:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "Max Sport 2",
+      "frekans": 12194,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "7/8",
+      "video_pid": "868",
+      "ses_pid": "869 / bul",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "48",
+      "paket": "Bulsatcom",
+      "tp_id": "hellas_39:12194:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "B1B Box",
+      "frekans": 12194,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "7/8",
+      "video_pid": "894",
+      "ses_pid": "895 / bul",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "56",
+      "paket": "Bulsatcom",
+      "tp_id": "hellas_39:12194:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "Nasul TV",
+      "frekans": 12328,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "611",
+      "ses_pid": "612 / rum,ron",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "324",
+      "paket": "Orange Romania",
+      "tp_id": "hellas_39:12328:V:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "iConcerts HD",
+      "frekans": 12328,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "767",
+      "ses_pid": "768 / eng",
+      "uydu": "HellasSat 3",
+      "kalite": "Bilinmeyen",
+      "tur": "TV",
+      "sid": "404",
+      "paket": "Orange Romania",
+      "tp_id": "hellas_39:12328:V:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "ATOMIC TV",
+      "frekans": 12328,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "46",
+      "ses_pid": "33 / rum,ron",
+      "uydu": "HellasSat 3",
+      "kalite": "Bilinmeyen",
+      "tur": "TV",
+      "sid": "525",
+      "paket": "Orange Romania",
+      "tp_id": "hellas_39:12328:V:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "Aleph News",
+      "frekans": 12367,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "101",
+      "ses_pid": "201 / rum,ron",
+      "uydu": "HellasSat 3",
+      "kalite": "Bilinmeyen",
+      "tur": "TV",
+      "sid": "334",
+      "paket": "Orange Romania",
+      "tp_id": "hellas_39:12367:V:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "Alfa Omega TV",
+      "frekans": 12405,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "7/8",
+      "video_pid": "1600",
+      "ses_pid": "1610 / eng",
+      "uydu": "HellasSat 3",
+      "kalite": "Bilinmeyen",
+      "tur": "TV",
+      "sid": "333",
+      "paket": "Orange Romania",
+      "tp_id": "hellas_39:12405:V:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "NKTV Evrokom",
+      "frekans": 12463,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "676",
+      "ses_pid": "677 / bul",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "130",
+      "paket": "Bulsatcom",
+      "tp_id": "hellas_39:12463:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "AMC Balkan",
+      "frekans": 12463,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "692",
+      "ses_pid": "693 / eng",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "134",
+      "paket": "Bulsatcom",
+      "tp_id": "hellas_39:12463:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "Magic TV",
+      "frekans": 12463,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "700",
+      "ses_pid": "701 / bul",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "136",
+      "paket": "Bulsatcom",
+      "tp_id": "hellas_39:12463:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "History Channel Bulgaria HD",
+      "frekans": 12463,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "531",
+      "ses_pid": "532 / bul",
+      "uydu": "HellasSat 3",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "208",
+      "paket": "Bulsatcom",
+      "tp_id": "hellas_39:12463:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "DocuBox",
+      "frekans": 12463,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "378",
+      "ses_pid": "478 / eng",
+      "uydu": "HellasSat 3",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "278",
+      "paket": "Bulsatcom",
+      "tp_id": "hellas_39:12463:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "CBS Reality",
+      "frekans": 12524,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "7/8",
+      "video_pid": "501",
+      "ses_pid": "511 / eng",
+      "uydu": "HellasSat 3",
+      "kalite": "Bilinmeyen",
+      "tur": "TV",
+      "sid": "199",
+      "paket": "Orange Romania",
+      "tp_id": "hellas_39:12524:V:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    },
+    {
+      "kanal_adi": "H!t Music Channel",
+      "frekans": 12524,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "7/8",
+      "video_pid": "504",
+      "ses_pid": "654 / rum,ron",
+      "uydu": "HellasSat 3",
+      "kalite": "Bilinmeyen",
+      "tur": "TV",
+      "sid": "313",
+      "paket": "Orange Romania",
+      "tp_id": "hellas_39:12524:V:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    },
+    {
+      "kanal_adi": "TVR FOLCLOR",
+      "frekans": 12565,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "7/8",
+      "video_pid": "1100",
+      "ses_pid": "1110 / rum,ron",
+      "uydu": "HellasSat 3",
+      "kalite": "Bilinmeyen",
+      "tur": "TV",
+      "sid": "287",
+      "paket": "Orange Romania",
+      "tp_id": "hellas_39:12565:V:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeFSS"
+    }
+  ],
+  "degisen_kanallar": [
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:0",
+      "kanal_adi": "RIK 3",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:1",
+      "kanal_adi": "RIK Sat",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:101",
+      "kanal_adi": "Pame Stoichima Virtual Sports 1",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:1012",
+      "kanal_adi": "4E",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:102",
+      "kanal_adi": "Pame Stoichima Virtual Sports 2",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:104",
+      "kanal_adi": "Pame Stoichima Racing",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:105",
+      "kanal_adi": "Pame Stoichima Lepto Pros Lepto",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:106",
+      "kanal_adi": "Pame Stoichima Virtual Sports Mpasket tests",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:11",
+      "kanal_adi": "Eurobet Canale Arancione",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:12",
+      "kanal_adi": "Eurobet Canale Rosso",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:13",
+      "kanal_adi": "Eurobet mosaic",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:14",
+      "kanal_adi": "Eurobet Canale Verde",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:15",
+      "kanal_adi": "Eurobet 15",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:2",
+      "kanal_adi": "RIK 2",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:3",
+      "kanal_adi": "RIK2",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:32",
+      "kanal_adi": "Voice of Greece",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:353",
+      "kanal_adi": "ERT World",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:36",
+      "kanal_adi": "Kanali 6",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:4",
+      "kanal_adi": "RIK3",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:5",
+      "kanal_adi": "RIK 4",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10730:H:30000|sid:7",
+      "kanal_adi": "Ellada FM",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10890:H:30000|sid:1460",
+      "kanal_adi": "ABC News Albania",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / alb",
+          "yeni": "1464 / alb"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10890:H:30000|sid:2060",
+      "kanal_adi": "3 Plus",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "2051",
+          "yeni": "1600"
+        },
+        "ses_pid": {
+          "onceki": "2052 / alb",
+          "yeni": "1610 / alb"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10890:H:30000|sid:2810",
+      "kanal_adi": "Tring Sport News",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2519 / alb / 2520 / eng",
+          "yeni": "2519 / alb"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10890:H:30000|sid:2860",
+      "kanal_adi": "Tring Sport 1 HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2526 / alb / 2527 / eng",
+          "yeni": "2526 / alb"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10890:H:30000|sid:2910",
+      "kanal_adi": "Tring Sport 2 HD",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "2801",
+          "yeni": "2911"
+        },
+        "ses_pid": {
+          "onceki": "2802 / alb / 2803 / eng",
+          "yeni": "2912 / alb"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10890:H:30000|sid:3160",
+      "kanal_adi": "Folk +",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "3151",
+          "yeni": "3161"
+        },
+        "ses_pid": {
+          "onceki": "3152 / alb",
+          "yeni": "3162 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10890:H:30000|sid:3410",
+      "kanal_adi": "RTSH 1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / alb",
+          "yeni": "3402 / alb"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10890:H:30000|sid:4710",
+      "kanal_adi": "Top Channel",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / alb",
+          "yeni": "4712 / alb"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10930:H:30000|sid:2660",
+      "kanal_adi": "Tring History",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2652 / alb / 0 / alb",
+          "yeni": "2652 / alb"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10930:H:30000|sid:4360",
+      "kanal_adi": "SuperSport 1",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "4360",
+          "yeni": "4361"
+        },
+        "ses_pid": {
+          "onceki": "4362 / alb",
+          "yeni": "4362 / 4363"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10930:H:30000|sid:4390",
+      "kanal_adi": "SuperSport 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4392 / alb",
+          "yeni": "4392 / 4393"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10930:H:30000|sid:4400",
+      "kanal_adi": "RTSH Sport",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / alb",
+          "yeni": "4412 / alb"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10930:H:30000|sid:4420",
+      "kanal_adi": "SuperSport 3",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4422 / alb",
+          "yeni": "4422 / 4423"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10930:H:30000|sid:4470",
+      "kanal_adi": "SuperSport 4",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4472 / alb",
+          "yeni": "4472 / 4473"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10930:H:30000|sid:4480",
+      "kanal_adi": "SuperSport 5",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4482 / alb",
+          "yeni": "4482 / 4483"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10930:H:30000|sid:4910",
+      "kanal_adi": "SuperSport 6",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4912 / alb",
+          "yeni": "4912 / 4913"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10930:H:30000|sid:4940",
+      "kanal_adi": "SuperSport 7",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4942 / alb",
+          "yeni": "4942 / 4943"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:10930:H:30000|sid:5050",
+      "kanal_adi": "Klan Kosova",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0 / alb",
+          "yeni": "5552 / alb"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:101",
+      "kanal_adi": "Max Sport 1 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:102",
+      "kanal_adi": "Max Sport 2 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:103",
+      "kanal_adi": "STS International",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:104",
+      "kanal_adi": "STS Kids",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:105",
+      "kanal_adi": "BNT 3 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:106",
+      "kanal_adi": "DocuBox HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:107",
+      "kanal_adi": "Fashion TV HD Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:108",
+      "kanal_adi": "Nashe Kino",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:109",
+      "kanal_adi": "Bez Bagahz",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:110",
+      "kanal_adi": "BNT 1 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:111",
+      "kanal_adi": "Nova TV Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:112",
+      "kanal_adi": "Max Sport 3 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:113",
+      "kanal_adi": "Diema",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:114",
+      "kanal_adi": "Max Sport 4 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:115",
+      "kanal_adi": "Eurosport 1",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:116",
+      "kanal_adi": "Homeys",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:117",
+      "kanal_adi": "Bloomberg TV Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:118",
+      "kanal_adi": "BNT 4",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:119",
+      "kanal_adi": "Box TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:120",
+      "kanal_adi": "bTV Cinema",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:121",
+      "kanal_adi": "bTV Comedy",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:122",
+      "kanal_adi": "bTV Lady",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:123",
+      "kanal_adi": "Discovery Channel Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:124",
+      "kanal_adi": "TV Tourism",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:125",
+      "kanal_adi": "NTV-Pravo",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:126",
+      "kanal_adi": "FilmBox Arthouse",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:127",
+      "kanal_adi": "FilmBox Plus",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:128",
+      "kanal_adi": "Magic UK",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:129",
+      "kanal_adi": "Planeta TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:130",
+      "kanal_adi": "Cubayo HD / Partys HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:131",
+      "kanal_adi": "The Voice Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:132",
+      "kanal_adi": "BNT 2",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:133",
+      "kanal_adi": "Bulgaria 24",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:134",
+      "kanal_adi": "Okhota i Rybalka",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:135",
+      "kanal_adi": "Al Jazeera English",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:136",
+      "kanal_adi": "Domashniy",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:137",
+      "kanal_adi": "Armenia TV Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:138",
+      "kanal_adi": "Nickelodeon Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:139",
+      "kanal_adi": "X**lus",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:140",
+      "kanal_adi": "Planeta Folk TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:141",
+      "kanal_adi": "FightBox",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:142",
+      "kanal_adi": "EuroNews Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:143",
+      "kanal_adi": "Tiankov Folk",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:144",
+      "kanal_adi": "Alfa Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:145",
+      "kanal_adi": "Eurosport 2",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:146",
+      "kanal_adi": "Zhivi!",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:147",
+      "kanal_adi": "Freedom",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12117:H:30000|sid:148",
+      "kanal_adi": "CNBC Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:201",
+      "kanal_adi": "Diema Sport 2 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:202",
+      "kanal_adi": "Diema Sport HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:203",
+      "kanal_adi": "Cinemax HD Central Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:204",
+      "kanal_adi": "Cinemax 2 HD Central Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:205",
+      "kanal_adi": "Viasat History HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:206",
+      "kanal_adi": "Viasat Epic Drama HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:207",
+      "kanal_adi": "TV 8 International",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:208",
+      "kanal_adi": "7/8 TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:209",
+      "kanal_adi": "Mediaset Italia",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:211",
+      "kanal_adi": "FilmBox Extra HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:212",
+      "kanal_adi": "Stingray Classica HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:213",
+      "kanal_adi": "bTV HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:214",
+      "kanal_adi": "bTV Action",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:215",
+      "kanal_adi": "STAR Channel Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:216",
+      "kanal_adi": "STAR Crime Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:217",
+      "kanal_adi": "STAR Life Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:218",
+      "kanal_adi": "Animal Planet Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:219",
+      "kanal_adi": "AXN Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:220",
+      "kanal_adi": "AXN Black",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:221",
+      "kanal_adi": "AXN White",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:222",
+      "kanal_adi": "Bulgaria On Air",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:223",
+      "kanal_adi": "Crime & Investigation",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:224",
+      "kanal_adi": "KinoNova",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:225",
+      "kanal_adi": "Super Toons",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:226",
+      "kanal_adi": "Code Health",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:227",
+      "kanal_adi": "Diema Family",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:228",
+      "kanal_adi": "Penthouse Passion",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:229",
+      "kanal_adi": "DW English",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:230",
+      "kanal_adi": "English Club",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:231",
+      "kanal_adi": "MyZen TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:232",
+      "kanal_adi": "History Channel Eastern Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:233",
+      "kanal_adi": "Reality Kings TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:234",
+      "kanal_adi": "TLC",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:235",
+      "kanal_adi": "Travelxp Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:236",
+      "kanal_adi": "Love Nature",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:237",
+      "kanal_adi": "Hit Mix",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:238",
+      "kanal_adi": "Cartoon Network Russia & South Eastern Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:240",
+      "kanal_adi": "DM Sat",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:241",
+      "kanal_adi": "Duck TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:242",
+      "kanal_adi": "EKids",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:243",
+      "kanal_adi": "France 24",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:245",
+      "kanal_adi": "TV 5 Monde Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:246",
+      "kanal_adi": "Fix & Foxi",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:247",
+      "kanal_adi": "Evrokom",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:248",
+      "kanal_adi": "Sky News",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:249",
+      "kanal_adi": "Nova News HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:250",
+      "kanal_adi": "BHTV (Bulgarska Khristiyanska TV)",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12137:V:30000|sid:251",
+      "kanal_adi": "Nicktoons",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:217",
+      "kanal_adi": "Code Health",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:433",
+      "kanal_adi": "Epic Drama",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:435",
+      "kanal_adi": "SkyShowtime 2",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:444",
+      "kanal_adi": "Dizi",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:609",
+      "kanal_adi": "NickToons Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:701",
+      "kanal_adi": "Diema Sport HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:702",
+      "kanal_adi": "Diema Sport 2 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:703",
+      "kanal_adi": "Max Sport 1 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:704",
+      "kanal_adi": "Max Sport 2 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:705",
+      "kanal_adi": "Max Sport 3 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:706",
+      "kanal_adi": "BNT 3 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:707",
+      "kanal_adi": "Max Sport 4 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:708",
+      "kanal_adi": "Love Nature HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:709",
+      "kanal_adi": "Travelxp HD Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:711",
+      "kanal_adi": "The Word Network",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:712",
+      "kanal_adi": "Food Network",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:713",
+      "kanal_adi": "Super Toons",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:719",
+      "kanal_adi": "ТВСБ",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:720",
+      "kanal_adi": "Bulgaria 24",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:721",
+      "kanal_adi": "History 2 Polska",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:722",
+      "kanal_adi": "HBO",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:723",
+      "kanal_adi": "HBO 2",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:724",
+      "kanal_adi": "HBO 3",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:729",
+      "kanal_adi": "BNT 4",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:751",
+      "kanal_adi": "Auto Motor und Sport",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12156:H:30000|sid:752",
+      "kanal_adi": "Chasse & Peche",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:109",
+      "kanal_adi": "MAX One HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:171",
+      "kanal_adi": "Bloomberg TV Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:219",
+      "kanal_adi": "Rodina TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:221",
+      "kanal_adi": "Arena Plus HD",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Vivacom Arena",
+          "yeni": "Arena Plus HD"
+        },
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:222",
+      "kanal_adi": "Pickbox TV Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:223",
+      "kanal_adi": "Viasat True Crime",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:224",
+      "kanal_adi": "Arena Comedy",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:225",
+      "kanal_adi": "Arena Life",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:226",
+      "kanal_adi": "The Voice",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:227",
+      "kanal_adi": "Fen TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:228",
+      "kanal_adi": "Balkanika Music TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:229",
+      "kanal_adi": "Planeta Folk TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:230",
+      "kanal_adi": "Folklor TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:231",
+      "kanal_adi": "Fen Folk TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:232",
+      "kanal_adi": "MagicTV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:233",
+      "kanal_adi": "Cartoon Network Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:234",
+      "kanal_adi": "Cartoonito Central & Eastern Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:235",
+      "kanal_adi": "Evrokom",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:236",
+      "kanal_adi": "SKAT",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:237",
+      "kanal_adi": "radio Vitosha E",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:238",
+      "kanal_adi": "radio Vitosha W",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:239",
+      "kanal_adi": "radio Veselina E",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:240",
+      "kanal_adi": "radio Veselina W",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:241",
+      "kanal_adi": "radio Magic FM",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:242",
+      "kanal_adi": "The Voice",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:243",
+      "kanal_adi": "radio Veselina N",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:244",
+      "kanal_adi": "radio Veselina S",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:32",
+      "kanal_adi": "7/8 TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:321",
+      "kanal_adi": "FilmBox",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:323",
+      "kanal_adi": "Peretz International",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:325",
+      "kanal_adi": "BHTV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:34",
+      "kanal_adi": "Animal Planet Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:35",
+      "kanal_adi": "France 24 English",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:36",
+      "kanal_adi": "24 Kitchen Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:37",
+      "kanal_adi": "History Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:38",
+      "kanal_adi": "Sport+",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:40",
+      "kanal_adi": "Arena Action",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:41",
+      "kanal_adi": "Bulgaria On Air",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:434",
+      "kanal_adi": "SkyShowtime 1",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:44",
+      "kanal_adi": "Dorcel TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:47",
+      "kanal_adi": "Tiankov TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:49",
+      "kanal_adi": "TV Evropa",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:50",
+      "kanal_adi": "Radio 1 Rock",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:51",
+      "kanal_adi": "NRJ",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:52",
+      "kanal_adi": "BG Radio",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:53",
+      "kanal_adi": "Darik Radio",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:54",
+      "kanal_adi": "Tangra MegaRock",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:55",
+      "kanal_adi": "Radio Payner",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:566",
+      "kanal_adi": "Marquee TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:57",
+      "kanal_adi": "PX(23-05 CET)",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12194:H:30000|sid:806",
+      "kanal_adi": "Vivid",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:1010",
+      "kanal_adi": "TV+",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:1011",
+      "kanal_adi": "Film+",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:1013",
+      "kanal_adi": "KinoNova",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:1016",
+      "kanal_adi": "Discovery Channel Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:1130",
+      "kanal_adi": "Diema",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:267",
+      "kanal_adi": "Crime + Investigation UK",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:288",
+      "kanal_adi": "Da Vinci",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:316",
+      "kanal_adi": "Travel TV Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:319",
+      "kanal_adi": "Travel Channel Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul",
+          "yeni": "332 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:320",
+      "kanal_adi": "HGTV Pan Regional",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul / 0 / eng",
+          "yeni": "333 / bul / 343 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:340",
+      "kanal_adi": "BG+",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul",
+          "yeni": "1337 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:342",
+      "kanal_adi": "Viasat History",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "929 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:343",
+      "kanal_adi": "Viasat Nature East",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "931 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:418",
+      "kanal_adi": "CineStar 1 Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "1518 / bul / 0 / bul",
+          "yeni": "1518 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:419",
+      "kanal_adi": "CineStar Action Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul / 0 / bul",
+          "yeni": "1519 / bul"
+        },
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "HD"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:501",
+      "kanal_adi": "Nova News",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:502",
+      "kanal_adi": "Eurosport 2",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Eurosport 2 North East Europe",
+          "yeni": "Eurosport 2"
+        },
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "HD"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:503",
+      "kanal_adi": "Nova Sport",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Nova Sport Bulgaria",
+          "yeni": "Nova Sport"
+        },
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "HD"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:504",
+      "kanal_adi": "Viasat Explore East",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul / 0 / eng",
+          "yeni": "601 / bul / 603 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:505",
+      "kanal_adi": "TLC Balkan",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul / 0 / eng",
+          "yeni": "921 / bul / 923 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:506",
+      "kanal_adi": "bTV Cinema",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:507",
+      "kanal_adi": "bTV Comedy",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul",
+          "yeni": "909 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:508",
+      "kanal_adi": "Investigation Discovery Xtra Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul / 0 / eng",
+          "yeni": "645 / bul / 647 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:509",
+      "kanal_adi": "Diema Family",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul",
+          "yeni": "61 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:510",
+      "kanal_adi": "Star Channel Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul / 0 / eng",
+          "yeni": "629 / bul / 1631 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:511",
+      "kanal_adi": "Star Life Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul",
+          "yeni": "1302 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:512",
+      "kanal_adi": "Star Crime Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul",
+          "yeni": "1402 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:513",
+      "kanal_adi": "bTV Story",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul",
+          "yeni": "657 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:514",
+      "kanal_adi": "City TV Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul",
+          "yeni": "681 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:515",
+      "kanal_adi": "Disney Channel Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul / 0 / eng",
+          "yeni": "605 / bul / 607 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:516",
+      "kanal_adi": "Nick Jr Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul / 0 / eng",
+          "yeni": "757 / bul / 759 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:517",
+      "kanal_adi": "Baby TV Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul",
+          "yeni": "409 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:518",
+      "kanal_adi": "Nickelodeon Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul / 0 / eng",
+          "yeni": "193 / bul / 195 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:519",
+      "kanal_adi": "Disney Junior Romania & Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul",
+          "yeni": "765 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:520",
+      "kanal_adi": "CNN International Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / eng",
+          "yeni": "339 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:521",
+      "kanal_adi": "BNT 2",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / bul",
+          "yeni": "337 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12271:H:30000|sid:574",
+      "kanal_adi": "DM Sat",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "ses_pid": {
+          "onceki": "0 / srp",
+          "yeni": "335 / bul"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1101",
+      "kanal_adi": "Agro TV Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1102",
+      "kanal_adi": "Antena 3",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1103",
+      "kanal_adi": "HBO 2 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1104",
+      "kanal_adi": "Max Sport 3 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1105",
+      "kanal_adi": "E",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1106",
+      "kanal_adi": "Kanal 4",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1107",
+      "kanal_adi": "Auto Motor und Sport HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1108",
+      "kanal_adi": "The World",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1109",
+      "kanal_adi": "Travel TV Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1110",
+      "kanal_adi": "SkyShowtime 1",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1111",
+      "kanal_adi": "VTK",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1112",
+      "kanal_adi": "BNT 1 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1113",
+      "kanal_adi": "Ring HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1114",
+      "kanal_adi": "Viasat Kino",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1115",
+      "kanal_adi": "National Geographic Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1116",
+      "kanal_adi": "Nat Geo Wild Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1117",
+      "kanal_adi": "24 Kitchen",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1118",
+      "kanal_adi": "AMC Balkan",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1119",
+      "kanal_adi": "Diema Sport 3",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1120",
+      "kanal_adi": "Soul & Pepper TV Channel",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1121",
+      "kanal_adi": "Bloomberg TV Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1122",
+      "kanal_adi": "Dizi",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1123",
+      "kanal_adi": "City TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1124",
+      "kanal_adi": "SkyShowtime 2",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1125",
+      "kanal_adi": "CNN International Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1126",
+      "kanal_adi": "BTV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1127",
+      "kanal_adi": "E",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1128",
+      "kanal_adi": "EuroNews English",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1129",
+      "kanal_adi": "Star Kids",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1130",
+      "kanal_adi": "TGCom24",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1131",
+      "kanal_adi": "Mezzo",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1132",
+      "kanal_adi": "Magic TV Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1133",
+      "kanal_adi": "Viasat Explore East",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1134",
+      "kanal_adi": "Fen Folk TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1135",
+      "kanal_adi": "Viasat Nature East",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1136",
+      "kanal_adi": "Wness TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1137",
+      "kanal_adi": "Baby TV Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1138",
+      "kanal_adi": "BBC World News",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1139",
+      "kanal_adi": "Boomerang Central & Eastern Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1140",
+      "kanal_adi": "France 24 English",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1141",
+      "kanal_adi": "JimJam Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1142",
+      "kanal_adi": "Nick Junior",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1143",
+      "kanal_adi": "Kanal 3 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1144",
+      "kanal_adi": "HBO HD",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "HBO Central Europe",
+          "yeni": "HBO HD"
+        },
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1145",
+      "kanal_adi": "Rodina TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1146",
+      "kanal_adi": "HBO 3 HD",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "HBO 3 Central Europe",
+          "yeni": "HBO 3 HD"
+        },
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1147",
+      "kanal_adi": "DSTV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1148",
+      "kanal_adi": "Folklor TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1149",
+      "kanal_adi": "TV Bulgare",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1150",
+      "kanal_adi": "8 Kanal International Russia",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12310:H:30000|sid:1151",
+      "kanal_adi": "TV1 Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:107",
+      "kanal_adi": "Hustler TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:116",
+      "kanal_adi": "Nicktoons",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:124",
+      "kanal_adi": "Kiss TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:157",
+      "kanal_adi": "Cinemax 2",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:161",
+      "kanal_adi": "AXN White",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:162",
+      "kanal_adi": "AXN Black",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:194",
+      "kanal_adi": "HBO 2",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:198",
+      "kanal_adi": "Nat Geo",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:204",
+      "kanal_adi": "Prima Sport 3",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:213",
+      "kanal_adi": "Sport Extra",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:214",
+      "kanal_adi": "FilmBox Premium",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:219",
+      "kanal_adi": "Magic TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:223",
+      "kanal_adi": "Warner TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:224",
+      "kanal_adi": "Cartoon Network",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:305",
+      "kanal_adi": "Penthouse Gold",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:335",
+      "kanal_adi": "Tra La La",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:512",
+      "kanal_adi": "Film Café",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:513",
+      "kanal_adi": "AMC",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:534",
+      "kanal_adi": "TVR CULTURAL",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12367:V:30000|sid:722",
+      "kanal_adi": "TV-AS",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12414:H:11570|sid:3100",
+      "kanal_adi": "Alpha",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3112 / gre,ell",
+          "yeni": "3112 / gre,ell / 3113 / gre,ell"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12414:H:11570|sid:3300",
+      "kanal_adi": "Ant1",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3312 / gre,ell",
+          "yeni": "3312 / gre,ell / 3313 / gre,ell"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12414:H:11570|sid:3500",
+      "kanal_adi": "Star",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3512 / gre,ell",
+          "yeni": "3512 / gre,ell / 3513 / gre,ell"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12414:H:11570|sid:3600",
+      "kanal_adi": "Mega",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3612 / gre,ell",
+          "yeni": "3612 / gre,ell / 3613 / gre,ell"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:101",
+      "kanal_adi": "BNT1 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:132",
+      "kanal_adi": "Ekids",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:133",
+      "kanal_adi": "Max Sport 3",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:137",
+      "kanal_adi": "bTV Action HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:138",
+      "kanal_adi": "FilmBox",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:204",
+      "kanal_adi": "National Geographic Bulgaria HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:205",
+      "kanal_adi": "Diema Sport 3",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:206",
+      "kanal_adi": "Planeta HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:207",
+      "kanal_adi": "BTV HD Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:210",
+      "kanal_adi": "NatGeo Wild HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:212",
+      "kanal_adi": "Nova TV HD Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:22",
+      "kanal_adi": "EuroSport 1 HD",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:251",
+      "kanal_adi": "Lovno Ribarski Club",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:279",
+      "kanal_adi": "Cinemax Central Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:280",
+      "kanal_adi": "Cinemax 2 Central Europe",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:415",
+      "kanal_adi": "Viasat Kino",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:416",
+      "kanal_adi": "AMC Balkan",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:421",
+      "kanal_adi": "FILMBOX+ love&crime",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:422",
+      "kanal_adi": "Movie Star",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12463:H:30000|sid:423",
+      "kanal_adi": "Nostalgia Bulgaria",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12601:V:19365|sid:7601",
+      "kanal_adi": "Pro TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "2/3"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12601:V:19365|sid:7602",
+      "kanal_adi": "Acasă TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "2/3"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12601:V:19365|sid:7603",
+      "kanal_adi": "Pro TV International",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "2/3"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12601:V:19365|sid:7604",
+      "kanal_adi": "Pro Cinema",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "2/3"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12601:V:19365|sid:7605",
+      "kanal_adi": "Pro Arena",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "2/3"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12601:V:19365|sid:7607",
+      "kanal_adi": "Acasa Gold",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "2/3"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12601:V:19365|sid:7608",
+      "kanal_adi": "TEST HD 2",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "2/3"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39|hellas_39:12601:V:19365|sid:7610",
+      "kanal_adi": "TEST",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "2/3"
+        }
+      }
+    }
+  ],
+  "eklenen_transponderler": [
+    {
+      "tp_id": "hellas_39:11139:V:1000",
+      "frekans": 11139,
+      "polarizasyon": "V",
+      "sembol_orani": 1000,
+      "fec": "5/6",
+      "uydu": "HellasSat 3",
+      "kapsama": "EuropeBSS",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E"
+    },
+    {
+      "tp_id": "hellas_39:11456:H:5000",
+      "frekans": 11456,
+      "polarizasyon": "H",
+      "sembol_orani": 5000,
+      "fec": "3/4",
+      "uydu": "HellasSat 3",
+      "kapsama": "EuropeBSS",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E"
+    },
+    {
+      "tp_id": "hellas_39:11468:H:4999",
+      "frekans": 11468,
+      "polarizasyon": "H",
+      "sembol_orani": 4999,
+      "fec": "3/4",
+      "uydu": "HellasSat 3",
+      "kapsama": "EuropeBSS",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E"
+    },
+    {
+      "tp_id": "hellas_39:12337:H:11569",
+      "frekans": 12337,
+      "polarizasyon": "H",
+      "sembol_orani": 11569,
+      "fec": "2/3",
+      "uydu": "HellasSat 3",
+      "kapsama": "EuropeBSS",
+      "kanal_sayisi": 4,
+      "tv_sayisi": 4,
+      "radyo_sayisi": 0,
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E"
+    },
+    {
+      "tp_id": "hellas_39:12352:H:11568",
+      "frekans": 12352,
+      "polarizasyon": "H",
+      "sembol_orani": 11568,
+      "fec": "2/3",
+      "uydu": "HellasSat 3",
+      "kapsama": "EuropeBSS",
+      "kanal_sayisi": 3,
+      "tv_sayisi": 3,
+      "radyo_sayisi": 0,
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E"
+    },
+    {
+      "tp_id": "hellas_39:12647:V:7199",
+      "frekans": 12647,
+      "polarizasyon": "V",
+      "sembol_orani": 7199,
+      "fec": "3/4",
+      "uydu": "HellasSat 3",
+      "kapsama": "EuropeBSS",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E"
+    }
+  ],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "hellas_39:10730:H:30000",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39:10890:H:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 38,
+          "yeni": 37
+        },
+        "tv_sayisi": {
+          "onceki": 37,
+          "yeni": 36
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39:12117:H:30000",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39:12137:V:30000",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39:12156:H:30000",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "5/6"
+        },
+        "kanal_sayisi": {
+          "onceki": 27,
+          "yeni": 26
+        },
+        "tv_sayisi": {
+          "onceki": 27,
+          "yeni": 26
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39:12194:H:30000",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "kanal_sayisi": {
+          "onceki": 58,
+          "yeni": 52
+        },
+        "tv_sayisi": {
+          "onceki": 44,
+          "yeni": 38
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39:12223:H:13381",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 11,
+          "yeni": 17
+        },
+        "tv_sayisi": {
+          "onceki": 5,
+          "yeni": 6
+        },
+        "radyo_sayisi": {
+          "onceki": 6,
+          "yeni": 11
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39:12271:H:30000",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "7/8",
+          "yeni": "5/6"
+        },
+        "kanal_sayisi": {
+          "onceki": 39,
+          "yeni": 41
+        },
+        "tv_sayisi": {
+          "onceki": 39,
+          "yeni": 41
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39:12310:H:30000",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "5/6",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39:12328:V:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 18,
+          "yeni": 15
+        },
+        "tv_sayisi": {
+          "onceki": 18,
+          "yeni": 15
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39:12367:V:30000",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "7/8"
+        },
+        "kanal_sayisi": {
+          "onceki": 21,
+          "yeni": 20
+        },
+        "tv_sayisi": {
+          "onceki": 21,
+          "yeni": 20
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39:12405:V:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 20,
+          "yeni": 19
+        },
+        "tv_sayisi": {
+          "onceki": 20,
+          "yeni": 19
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39:12463:H:30000",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "5/6"
+        },
+        "kanal_sayisi": {
+          "onceki": 25,
+          "yeni": 20
+        },
+        "tv_sayisi": {
+          "onceki": 25,
+          "yeni": 20
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39:12524:V:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 20,
+          "yeni": 18
+        },
+        "tv_sayisi": {
+          "onceki": 19,
+          "yeni": 17
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39:12565:V:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 20,
+          "yeni": 19
+        },
+        "tv_sayisi": {
+          "onceki": 20,
+          "yeni": 19
+        }
+      }
+    },
+    {
+      "anahtar": "hellas_39:12601:V:19365",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "2/3"
+        }
+      }
+    }
+  ]
 }

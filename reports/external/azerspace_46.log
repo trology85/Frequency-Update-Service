@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-21T20:48:00.655371+00:00",
+  "run_utc": "2026-11-22T10:47:06.050183+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -11,9 +11,9 @@
       "ok": true,
       "errors": [],
       "pages": 2,
-      "transponders": 31,
-      "channels": 144,
-      "raw_channel_rows": 144,
+      "transponders": 33,
+      "channels": 160,
+      "raw_channel_rows": 160,
       "raw_file": "raw/satbeams/azerspace_46.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-21T20:48:01.874597+00:00",
+  "run_utc": "2026-11-22T10:47:07.243754+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-46E",
       "title": "Azerspace-1 (46°E) -  - Frekanslar - KingOfSat",
-      "bytes": 331833,
+      "bytes": 329387,
       "frequency_rows": 103,
       "channel_rows": 177,
       "advertised_records": 248,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-21T20:48:03.140414+00:00",
+  "generated_utc": "2026-11-22T10:47:08.835616+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -67,12 +67,12 @@
     {
       "id": "azerspace_46",
       "ok": true,
-      "transponders": 23,
-      "channels": 136,
-      "tv": 122,
-      "radio": 14,
-      "sd": 80,
-      "hd": 42,
+      "transponders": 24,
+      "channels": 151,
+      "tv": 119,
+      "radio": 32,
+      "sd": 78,
+      "hd": 41,
       "uhd_4k": 0,
       "unknown_quality": 0,
       "candidate": "candidate/satbeams/azerspace_46.json"
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-21T20:48:03.528564+00:00",
+  "run_utc": "2026-11-22T10:47:09.410499+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -113,24 +113,24 @@
       "ok": true,
       "errors": [],
       "warnings": [],
-      "transponders": 23,
-      "channels": 136,
-      "tv": 122,
-      "radio": 14,
-      "sd": 80,
-      "hd": 42,
+      "transponders": 24,
+      "channels": 151,
+      "tv": 119,
+      "radio": 32,
+      "sd": 78,
+      "hd": 41,
       "uhd_4k": 0,
       "unknown_quality": 0,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "c60fbe7086b5bd3530d1a06c0c8d365ae217851a82bad5977d63cc87a82a8c84",
+      "candidate_hash": "7bf5c4db0717e751388d3ffb1b7edaf37f64cc3a4985ed6cac55da1224070983",
       "current_hash": "c60fbe7086b5bd3530d1a06c0c8d365ae217851a82bad5977d63cc87a82a8c84",
-      "changed": false,
-      "added": 0,
-      "removed": 0,
-      "updated": 0
+      "changed": true,
+      "added": 26,
+      "removed": 11,
+      "updated": 53
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true
