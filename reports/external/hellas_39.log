@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-22T10:47:00.675663+00:00",
+  "run_utc": "2026-11-22T20:57:09.987042+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-22T10:47:02.046555+00:00",
+  "run_utc": "2026-11-22T20:57:11.307305+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-39E",
       "title": "Hellas Sat 3 / Hellas Sat 4 (39°E) -  - Frekanslar - KingOfSat",
-      "bytes": 915420,
-      "frequency_rows": 140,
+      "bytes": 916086,
+      "frequency_rows": 141,
       "channel_rows": 605,
-      "advertised_records": 714,
+      "advertised_records": 715,
       "block_markers": [],
       "raw_file": "raw/kingofsat/hellas_39.html",
       "errors": []
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-22T10:47:04.447106+00:00",
+  "generated_utc": "2026-11-22T20:57:13.771217+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-22T10:47:05.878707+00:00",
+  "run_utc": "2026-11-22T20:57:15.140560+00:00",
   "ok": true,
-  "should_publish": true,
+  "should_publish": false,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -125,12 +125,12 @@
       "missing_core_fields": 0,
       "duplicate_identities": 0,
       "candidate_hash": "2dc3205e91ed00528fa26892cc4c4f2d04a79a886aa584ff4501c58990759dbc",
-      "current_hash": "070977afdbe1886b46b6ea92f8eb43be0ce8f282c9bcc911144f2c8f76588cdc",
-      "changed": true,
-      "added": 25,
-      "removed": 27,
-      "updated": 433
+      "current_hash": "2dc3205e91ed00528fa26892cc4c4f2d04a79a886aa584ff4501c58990759dbc",
+      "changed": false,
+      "added": 0,
+      "removed": 0,
+      "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=true
+SHOULD_PUBLISH=false
