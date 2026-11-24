@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-11-24T13:20:08.564321+00:00",
+  "olusturma_zamani_utc": "2026-11-24T23:46:59.892793+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 950,
     "yeni_kanal": 950,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 2,
     "tur_degisen_kanal": 0,
     "onceki_tp": 91,
     "yeni_tp": 91,
@@ -19,7 +19,28 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30202",
+      "kanal_adi": "M+ VAMOS 3",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "FUT VAMOS3",
+          "yeni": "M+ VAMOS 3"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30208",
+      "kanal_adi": "ARAGON TV INT",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "FUT ARAG",
+          "yeni": "ARAGON TV INT"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-24T02:01:07.690780+00:00",
+  "generated_utc": "2026-11-24T23:46:59.718341+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=19E",
-    "last_updated": "2026-11-23"
+    "last_updated": "2026-11-24"
   },
   "satellite": {
     "id": "astra_19_2",
@@ -14832,7 +14832,7 @@
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "FUT VAMOS3",
+      "name": "M+ VAMOS 3",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -14859,7 +14859,7 @@
       "tid": null,
       "source_channel_id": 177491,
       "source_transponder_id": 15225,
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
@@ -14925,7 +14925,7 @@
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "FUT ARAG",
+      "name": "ARAGON TV INT",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -14943,8 +14943,8 @@
       "beam": "PE2",
       "provider": "MoviStar+",
       "package": "",
-      "encryption": "Nagravision 3",
-      "free_to_air": false,
+      "encryption": "",
+      "free_to_air": true,
       "compression": "MPEG-2",
       "vpid": 172,
       "audio": "128 / spa",
@@ -14952,7 +14952,7 @@
       "tid": null,
       "source_channel_id": 177494,
       "source_transponder_id": 15225,
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
