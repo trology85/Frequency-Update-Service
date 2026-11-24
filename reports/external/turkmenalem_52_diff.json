@@ -1,26 +1,184 @@
 {
   "uydu_id": "turkmenalem_52",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "olusturma_zamani_utc": "2026-11-23T11:54:15.967264+00:00",
+  "olusturma_zamani_utc": "2026-11-24T02:01:51.377161+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 443,
     "yeni_kanal": 443,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "eklenen_kanal": 1,
+    "silinen_kanal": 1,
+    "degisen_kanal": 8,
     "tur_degisen_kanal": 0,
     "onceki_tp": 26,
     "yeni_tp": 26,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 2
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Payam-e-Doost Radio card",
+      "frekans": 10845,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "3301",
+      "ses_pid": "3302 / per",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "33",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:10845:V:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    }
+  ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "Owaz",
+      "frekans": 12264,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "0",
+      "ses_pid": "131",
+      "uydu": "TurkmenAlem",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "309",
+      "paket": "Turkmenistan",
+      "tp_id": "turkmenalem_52:12264:V:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "West"
+    }
+  ],
+  "degisen_kanallar": [
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:V:27500|sid:41",
+      "kanal_adi": "Honarmandan TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "0",
+          "yeni": "4102"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:V:27500|sid:803",
+      "kanal_adi": "Oxir TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "8032 / fas",
+          "yeni": "8062 / fas"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:V:27500|sid:41",
+      "kanal_adi": "Simaye Azadi Iran National TV",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4103 / per",
+          "yeni": "4103 / per / 4102"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:12341:V:28000|sid:626",
+      "kanal_adi": "Box TV",
+      "degisiklikler": {
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "4K"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:12380:V:28000|sid:716",
+      "kanal_adi": "Amedia Hit",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "203",
+          "yeni": "1815"
+        },
+        "ses_pid": {
+          "onceki": "433 / rus",
+          "yeni": "2815 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:12380:V:28000|sid:734",
+      "kanal_adi": "FON MUSIC",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2761 / rus",
+          "yeni": "2761 / rus / 2762"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:12380:V:28000|sid:735",
+      "kanal_adi": "Telekanal Zvezda (0h)",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "216",
+          "yeni": "1612"
+        },
+        "ses_pid": {
+          "onceki": "316 / rus",
+          "yeni": "2612 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:12380:V:28000|sid:739",
+      "kanal_adi": "Viju+ Planet",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "305",
+          "yeni": "1311"
+        },
+        "ses_pid": {
+          "onceki": "405 / rus / 425 / eng",
+          "yeni": "2311 / rus"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "turkmenalem_52:10845:V:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 28,
+          "yeni": 29
+        },
+        "tv_sayisi": {
+          "onceki": 28,
+          "yeni": 29
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52:12264:V:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 8,
+          "yeni": 7
+        },
+        "radyo_sayisi": {
+          "onceki": 4,
+          "yeni": 3
+        }
+      }
+    }
+  ]
 }

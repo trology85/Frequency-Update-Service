@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-19T22:36:47.205605+00:00",
+  "generated_utc": "2026-11-24T02:01:51.293119+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=52E",
-    "last_updated": "2026-11-19"
+    "last_updated": "2026-11-23"
   },
   "satellite": {
     "id": "turkmenalem_52",
@@ -14,11 +14,11 @@
   "counts": {
     "transponders": 26,
     "channels": 449,
-    "tv": 431,
-    "radio": 18,
+    "tv": 432,
+    "radio": 17,
     "sd": 185,
     "hd": 245,
-    "uhd_4k": 1,
+    "uhd_4k": 2,
     "unknown_quality": 0
   },
   "transponders": [
@@ -122,8 +122,8 @@
       "network": "Wide Network Solutions",
       "nid": 6478,
       "tid": 6478,
-      "channel_count": 28,
-      "tv_count": 28,
+      "channel_count": 29,
+      "tv_count": 29,
       "radio_count": 0,
       "source_transponder_id": 12120
     },
@@ -416,9 +416,9 @@
       "network": "TÃ¼rkmen Hemrasy",
       "nid": 1,
       "tid": 1,
-      "channel_count": 8,
+      "channel_count": 7,
       "tv_count": 4,
-      "radio_count": 4,
+      "radio_count": 3,
       "source_transponder_id": 12138
     },
     {
@@ -3078,7 +3078,7 @@
       "tid": 6478,
       "source_channel_id": 139753,
       "source_transponder_id": 12120,
-      "updated": "2026-03-06",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3140,7 +3140,7 @@
       "tid": 6478,
       "source_channel_id": 124357,
       "source_transponder_id": 12120,
-      "updated": "2026-05-31",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3202,7 +3202,7 @@
       "tid": 6478,
       "source_channel_id": 159465,
       "source_transponder_id": 12120,
-      "updated": "2026-07-24",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3233,7 +3233,7 @@
       "tid": 6478,
       "source_channel_id": 137464,
       "source_transponder_id": 12120,
-      "updated": "2026-07-24",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3326,7 +3326,7 @@
       "tid": 6478,
       "source_channel_id": 168198,
       "source_transponder_id": 12120,
-      "updated": "2026-07-24",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3357,7 +3357,7 @@
       "tid": 6478,
       "source_channel_id": 130833,
       "source_transponder_id": 12120,
-      "updated": "2025-06-06",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3388,7 +3388,7 @@
       "tid": 6478,
       "source_channel_id": 124160,
       "source_transponder_id": 12120,
-      "updated": "2020-01-19",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3419,7 +3419,38 @@
       "tid": 6478,
       "source_channel_id": 164641,
       "source_transponder_id": 12120,
-      "updated": "2026-01-19",
+      "updated": "2026-11-23",
+      "tp_id": "turkmenalem_52:10845:V:27500"
+    },
+    {
+      "name": "Payam-e-Doost Radio card",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "TurkmenÄlem / MonacoSat 52.0°E",
+      "spacecraft": "TurkmenAlem",
+      "position": "52.0E",
+      "frequency": 10845,
+      "polarization": "V",
+      "symbol_rate": 27500,
+      "fec": "2/3",
+      "system": "DVB-S",
+      "modulation": "QPSK",
+      "sid": 33,
+      "country": "",
+      "country_code": "",
+      "beam": "East",
+      "provider": "Wide Network Solutions",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4",
+      "vpid": 3301,
+      "audio": "3302 / per",
+      "nid": 6478,
+      "tid": 6478,
+      "source_channel_id": 128910,
+      "source_transponder_id": 12120,
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3450,7 +3481,7 @@
       "tid": 6478,
       "source_channel_id": 133263,
       "source_transponder_id": 12120,
-      "updated": "2021-03-29",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3512,7 +3543,7 @@
       "tid": 6478,
       "source_channel_id": 142007,
       "source_transponder_id": 12120,
-      "updated": "2022-06-09",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3538,12 +3569,12 @@
       "free_to_air": true,
       "compression": "MPEG-4",
       "vpid": 4001,
-      "audio": "0",
+      "audio": "4002",
       "nid": 6478,
       "tid": 6478,
       "source_channel_id": 141875,
       "source_transponder_id": 12120,
-      "updated": "2022-06-01",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3600,12 +3631,12 @@
       "free_to_air": true,
       "compression": "MPEG-4",
       "vpid": 4101,
-      "audio": "0",
+      "audio": "4102",
       "nid": 6478,
       "tid": 6478,
       "source_channel_id": 162730,
       "source_transponder_id": 12120,
-      "updated": "2026-03-06",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3698,7 +3729,7 @@
       "tid": 6478,
       "source_channel_id": 126411,
       "source_transponder_id": 12120,
-      "updated": "2026-03-06",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3760,7 +3791,7 @@
       "tid": 6478,
       "source_channel_id": 161011,
       "source_transponder_id": 12120,
-      "updated": "2025-06-27",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3786,12 +3817,12 @@
       "free_to_air": true,
       "compression": "MPEG-4 AVC (H.264)",
       "vpid": 8031,
-      "audio": "8032 / fas",
+      "audio": "8062 / fas",
       "nid": 6478,
       "tid": 6478,
       "source_channel_id": 114854,
       "source_transponder_id": 12120,
-      "updated": "2026-04-05",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3822,7 +3853,7 @@
       "tid": 6478,
       "source_channel_id": 114722,
       "source_transponder_id": 12120,
-      "updated": "2018-09-15",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3853,7 +3884,7 @@
       "tid": 6478,
       "source_channel_id": 133260,
       "source_transponder_id": 12120,
-      "updated": "2026-04-05",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3884,7 +3915,7 @@
       "tid": 6478,
       "source_channel_id": 129437,
       "source_transponder_id": 12120,
-      "updated": "2020-10-24",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -3915,7 +3946,7 @@
       "tid": 6478,
       "source_channel_id": 114717,
       "source_transponder_id": 12120,
-      "updated": "2018-09-15",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10845:V:27500"
     },
     {
@@ -5303,14 +5334,14 @@
       "package": "",
       "encryption": "",
       "free_to_air": true,
-      "compression": "MPEG-2",
+      "compression": "MPEG-4 AVC (H.264)",
       "vpid": 901,
       "audio": "902 / per",
       "nid": 8478,
       "tid": 8478,
       "source_channel_id": 160427,
       "source_transponder_id": 12417,
-      "updated": "2025-05-24",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10887:V:27500"
     },
     {
@@ -5677,12 +5708,12 @@
       "free_to_air": true,
       "compression": "MPEG-4",
       "vpid": 4101,
-      "audio": "4103 / per",
+      "audio": "4103 / per / 4102",
       "nid": 8478,
       "tid": 8478,
       "source_channel_id": 160429,
       "source_transponder_id": 12417,
-      "updated": "2025-05-24",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:10887:V:27500"
     },
     {
@@ -10491,37 +10522,6 @@
       "tp_id": "turkmenalem_52:12264:V:27500"
     },
     {
-      "name": "Owaz",
-      "type": "RADIO",
-      "quality": "RADIO",
-      "satellite_group": "TurkmenÄlem / MonacoSat 52.0°E",
-      "spacecraft": "TurkmenAlem",
-      "position": "52.0E",
-      "frequency": 12264,
-      "polarization": "V",
-      "symbol_rate": 27500,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "QPSK",
-      "sid": 309,
-      "country": "",
-      "country_code": "",
-      "beam": "West",
-      "provider": "TÃ¼rkmen Hemrasy",
-      "package": "Turkmenistan",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG",
-      "vpid": 0,
-      "audio": "131",
-      "nid": 1,
-      "tid": 1,
-      "source_channel_id": 109489,
-      "source_transponder_id": 12138,
-      "updated": "2026-11-19",
-      "tp_id": "turkmenalem_52:12264:V:27500"
-    },
-    {
       "name": "Turkmen Radio",
       "type": "RADIO",
       "quality": "RADIO",
@@ -11330,7 +11330,7 @@
     {
       "name": "Box TV",
       "type": "TV",
-      "quality": "SD",
+      "quality": "4K",
       "satellite_group": "TurkmenÄlem / MonacoSat 52.0°E",
       "spacecraft": "TurkmenAlem",
       "position": "52.0E",
@@ -11355,7 +11355,7 @@
       "tid": 522,
       "source_channel_id": 138921,
       "source_transponder_id": 13536,
-      "updated": "2026-11-19",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:12341:V:28000"
     },
     {
@@ -12248,13 +12248,13 @@
       "encryption": "Conax",
       "free_to_air": false,
       "compression": "HEVC (H.265)",
-      "vpid": 203,
-      "audio": "433 / rus",
+      "vpid": 1815,
+      "audio": "2815 / rus",
       "nid": 115,
       "tid": 523,
       "source_channel_id": 141496,
       "source_transponder_id": 13619,
-      "updated": "2026-11-19",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:12380:V:28000"
     },
     {
@@ -12404,7 +12404,7 @@
       "free_to_air": false,
       "compression": "HEVC (H.265)",
       "vpid": 2760,
-      "audio": "2761 / rus",
+      "audio": "2761 / rus / 2762",
       "nid": 115,
       "tid": 523,
       "source_channel_id": 176231,
@@ -12434,13 +12434,13 @@
       "encryption": "Conax",
       "free_to_air": false,
       "compression": "HEVC (H.265)",
-      "vpid": 216,
-      "audio": "316 / rus",
+      "vpid": 1612,
+      "audio": "2612 / rus",
       "nid": 115,
       "tid": 523,
       "source_channel_id": 141498,
       "source_transponder_id": 13619,
-      "updated": "2026-11-19",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:12380:V:28000"
     },
     {
@@ -12527,13 +12527,13 @@
       "encryption": "Conax",
       "free_to_air": false,
       "compression": "HEVC (H.265)",
-      "vpid": 305,
-      "audio": "405 / rus / 425 / eng",
+      "vpid": 1311,
+      "audio": "2311 / rus",
       "nid": 115,
       "tid": 523,
       "source_channel_id": 157350,
       "source_transponder_id": 13619,
-      "updated": "2026-11-19",
+      "updated": "2026-11-23",
       "tp_id": "turkmenalem_52:12380:V:28000"
     },
     {
