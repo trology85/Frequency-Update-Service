@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-25T12:11:52.292143+00:00",
+  "run_utc": "2026-11-25T23:29:42.843608+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -11,9 +11,9 @@
       "ok": true,
       "errors": [],
       "pages": 2,
-      "transponders": 92,
-      "channels": 1380,
-      "raw_channel_rows": 1380,
+      "transponders": 91,
+      "channels": 1357,
+      "raw_channel_rows": 1357,
       "raw_file": "raw/satbeams/hotbird_13.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-25T12:11:53.963646+00:00",
+  "run_utc": "2026-11-25T23:29:44.999941+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-13E",
       "title": "Hot Bird 13F / Hot Bird 13G (13°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1824942,
+      "bytes": 1821705,
       "frequency_rows": 173,
       "channel_rows": 1479,
       "advertised_records": 1574,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-25T12:11:58.585610+00:00",
+  "generated_utc": "2026-11-25T23:29:49.746064+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -67,12 +67,12 @@
     {
       "id": "hotbird_13",
       "ok": true,
-      "transponders": 91,
-      "channels": 1371,
-      "tv": 1134,
+      "transponders": 90,
+      "channels": 1348,
+      "tv": 1111,
       "radio": 237,
-      "sd": 584,
-      "hd": 536,
+      "sd": 567,
+      "hd": 530,
       "uhd_4k": 8,
       "unknown_quality": 6,
       "candidate": "candidate/satbeams/hotbird_13.json"
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-25T12:12:01.936939+00:00",
+  "run_utc": "2026-11-25T23:29:52.993688+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -113,24 +113,24 @@
       "ok": true,
       "errors": [],
       "warnings": [],
-      "transponders": 91,
-      "channels": 1371,
-      "tv": 1134,
+      "transponders": 90,
+      "channels": 1348,
+      "tv": 1111,
       "radio": 237,
-      "sd": 584,
-      "hd": 536,
+      "sd": 567,
+      "hd": 530,
       "uhd_4k": 8,
       "unknown_quality": 6,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "6604059951e23c8a94745b9a5a4a62fc8259c5c68e8d2582d268518bed83ade2",
+      "candidate_hash": "cb6641efcd7977ce26ef44728a802db7e41a923c2ff5a4e7edb44defc4e2142b",
       "current_hash": "6604059951e23c8a94745b9a5a4a62fc8259c5c68e8d2582d268518bed83ade2",
-      "changed": false,
-      "added": 0,
-      "removed": 0,
-      "updated": 0
+      "changed": true,
+      "added": 1,
+      "removed": 24,
+      "updated": 6
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true

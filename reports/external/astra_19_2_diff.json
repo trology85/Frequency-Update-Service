@@ -1,51 +1,579 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-11-25T12:11:52.144764+00:00",
+  "olusturma_zamani_utc": "2026-11-25T23:29:42.724249+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 950,
-    "yeni_kanal": 950,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
-    "degisen_kanal": 2,
+    "yeni_kanal": 951,
+    "eklenen_kanal": 4,
+    "silinen_kanal": 3,
+    "degisen_kanal": 36,
     "tur_degisen_kanal": 0,
     "onceki_tp": 91,
     "yeni_tp": 91,
-    "eklenen_tp": 0,
-    "silinen_tp": 0,
-    "degisen_tp": 0
+    "eklenen_tp": 1,
+    "silinen_tp": 1,
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "TEST DZ5.",
+      "frekans": 10758,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "2/3",
+      "video_pid": "167",
+      "ses_pid": "108 / spa / 109 / cat / 110",
+      "uydu": "Astra 1P",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "29856",
+      "paket": "Movistar+ Astra",
+      "tp_id": "astra_19_2:10758:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    },
+    {
+      "kanal_adi": "TEST GOLF HD",
+      "frekans": 11436,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "2/3",
+      "video_pid": "163",
+      "ses_pid": "92 / spa / 93 / 000,qaa,qad",
+      "uydu": "Astra 1P",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "30803",
+      "paket": "MoviStar+",
+      "tp_id": "astra_19_2:11436:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    },
+    {
+      "kanal_adi": "DLFBLN2",
+      "frekans": 11686,
+      "polarizasyon": "V",
+      "sembol_orani": 940,
+      "fec": "1/2",
+      "video_pid": "0",
+      "ses_pid": "101 / ger",
+      "uydu": "Astra 1KR",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "1000",
+      "paket": "Movistar+ Astra",
+      "tp_id": "astra_19_2:11686:V:940",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "1KR"
+    },
+    {
+      "kanal_adi": "DLFKBLN2",
+      "frekans": 11686,
+      "polarizasyon": "V",
+      "sembol_orani": 940,
+      "fec": "1/2",
+      "video_pid": "0",
+      "ses_pid": "201 / ger",
+      "uydu": "Astra 1KR",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "2000",
+      "paket": "Movistar+ Astra",
+      "tp_id": "astra_19_2:11686:V:940",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "1KR"
+    }
+  ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "FUT M+GOLF HD",
+      "frekans": 11436,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "2/3",
+      "video_pid": "163",
+      "ses_pid": "92 / spa",
+      "uydu": "Astra 1P",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "29901",
+      "paket": "MoviStar+",
+      "tp_id": "astra_19_2:11436:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    },
+    {
+      "kanal_adi": "DLF USI2",
+      "frekans": 11686,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "101 / ger",
+      "uydu": "Astra 1KR",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "1000",
+      "paket": "Movistar+ Astra",
+      "tp_id": "astra_19_2:11686:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "1KR"
+    },
+    {
+      "kanal_adi": "DLFK USI2",
+      "frekans": 11686,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "201 / ger",
+      "uydu": "Astra 1KR",
+      "kalite": "",
+      "tur": "RADYO",
+      "sid": "2000",
+      "paket": "Movistar+ Astra",
+      "tp_id": "astra_19_2:11686:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "1KR"
+    }
+  ],
   "degisen_kanallar": [
     {
-      "anahtar": "astra_19_2|astra_19_2:10788:V:22000|sid:30358",
-      "kanal_adi": "M+THRILLER",
+      "anahtar": "astra_19_2|astra_19_2:10936:V:22000|sid:30762",
+      "kanal_adi": "Liga Hypermotion 3",
       "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "M+ORGULLO",
-          "yeni": "M+THRILLER"
-        },
         "ses_pid": {
-          "onceki": "84 / spa / 85",
+          "onceki": "124 / spa / 125",
+          "yeni": "124 / spa / 125 / 126"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:10936:V:22000|sid:30769",
+      "kanal_adi": "Liga Hypermotion 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "144 / spa / 145 / 146",
+          "yeni": "144 / spa / 145"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:10979:V:22000|sid:30659",
+      "kanal_adi": "M+LCAMPEON 2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "100 / spa / 101 / 102 / 103 / 106 / 107",
+          "yeni": "100 / spa / 101 / 102 / 103 / und / 106 / 107"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11127:V:22000|sid:30861",
+      "kanal_adi": "DAZN Mundial 5",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "114 / spa / 115 / cat / 148 / baq / 149 / glg / 150",
+          "yeni": "114 / spa / 115 / cat"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11259:V:22000|sid:30900",
+      "kanal_adi": "M+. LCAMPEONES",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "80 / spa / 81 / 82 / 83 / 110 / 111 / 888",
+          "yeni": "80 / spa / 81 / 82 / 83 / 110 / 111"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11259:V:22000|sid:30901",
+      "kanal_adi": "M+ELLAS V HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "84 / spa / 85 / 888",
           "yeni": "84 / spa / 85 / 000,qaa,qad"
         }
       }
     },
     {
-      "anahtar": "astra_19_2|astra_19_2:11127:V:22000|sid:30853",
-      "kanal_adi": "M+ NAVIDAD",
+      "anahtar": "astra_19_2|astra_19_2:11259:V:22000|sid:30902",
+      "kanal_adi": "M+.HITS HD",
       "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "M+ VACACIONES",
-          "yeni": "M+ NAVIDAD"
+        "ses_pid": {
+          "onceki": "88 / spa / 89 / 000,qaa,qad / 90 / 888",
+          "yeni": "88 / spa / 89 / 000,qaa,qad / 90"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11259:V:22000|sid:30903",
+      "kanal_adi": "M+ Golf HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "92 / spa / 93 / 000,qaa,qad / 888",
+          "yeni": "92 / spa / 93 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11259:V:22000|sid:30904",
+      "kanal_adi": "CAZAyPESCA HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "96 / spa / 97 / 000,qaa,qad / 888",
+          "yeni": "96 / spa / 97 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11259:V:22000|sid:30910",
+      "kanal_adi": "M+DOCUMENTALES HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "104 / spa / 105 / 000,qaa,qad / 106 / 888",
+          "yeni": "104 / spa / 105 / 000,qaa,qad / 106"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11259:V:22000|sid:30911",
+      "kanal_adi": "M+. CLASICOS HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "108 / spa / 109 / 000,qaa,qad / 888",
+          "yeni": "108 / spa / 109 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11259:V:22000|sid:30912",
+      "kanal_adi": "M+DEPORTES HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "100 / spa / 101 / 000,qaa,qad / 102 / 103 / 888",
+          "yeni": "102 / 103 / 100 / spa / 101 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30201",
+      "kanal_adi": "FUT NOVA",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "84 / spa",
+          "yeni": "84 / spa / 85"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30202",
+      "kanal_adi": "M+ VAMOS 3",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "80 / spa",
+          "yeni": "80 / spa / 81"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30206",
+      "kanal_adi": "FUT ORIG",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "112 / spa",
+          "yeni": "112 / spa / 113"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30207",
+      "kanal_adi": "FUT AX",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "124 / spa",
+          "yeni": "124 / spa / 125"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30209",
+      "kanal_adi": "FUT LA2",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "114 / spa",
+          "yeni": "114 / spa / 115 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30210",
+      "kanal_adi": "FUT STAR",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "116 / spa",
+          "yeni": "116 / spa / 117"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30212",
+      "kanal_adi": "FUT DRAM",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "120 / spa",
+          "yeni": "120 / spa / 121"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30214",
+      "kanal_adi": "FUT DSN",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "100 / spa",
+          "yeni": "100 / spa / 101"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30215",
+      "kanal_adi": "FUT ACC",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "88 / spa",
+          "yeni": "88 / spa / 89"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30216",
+      "kanal_adi": "FUT NGW",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "104 / spa",
+          "yeni": "104 / spa / 105"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30219",
+      "kanal_adi": "FUT COMED",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "92 / spa",
+          "yeni": "92 / spa / 93"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30222",
+      "kanal_adi": "FUT DOCU",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "108 / spa",
+          "yeni": "108 / spa / 109 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11436:V:22000|sid:30804",
+      "kanal_adi": "FUT CASAyPESCA HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "96 / spa",
+          "yeni": "96 / spa / 97 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11436:V:22000|sid:30805",
+      "kanal_adi": "FUT DEP",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "100 / spa",
+          "yeni": "100 / spa / 101 / 000,qaa,qad / 102 / 103"
+        },
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "HD"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11436:V:22000|sid:30806",
+      "kanal_adi": "FUT M+ LCAMPEONES",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "80 / spa",
+          "yeni": "80 / spa / 81 / 82 / 83 / 110 / 111"
+        },
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "HD"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11436:V:22000|sid:30807",
+      "kanal_adi": "FUT M+ VAMOS 3",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "84 / spa",
+          "yeni": "84 / spa / 85 / 000,qaa,qad"
+        },
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "HD"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11436:V:22000|sid:30809",
+      "kanal_adi": "FUT M+ HITS HD",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "88 / spa",
+          "yeni": "88 / spa / 89 / 000,qaa,qad / 90"
+        },
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "HD"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11436:V:22000|sid:30814",
+      "kanal_adi": "FUT CLASIC",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "108 / spa",
+          "yeni": "108 / spa / 109 / 000,qaa,qad"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11436:V:22000|sid:30815",
+      "kanal_adi": "FUT DOCU",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "104 / spa",
+          "yeni": "104 / spa / 105 / 000,qaa,qad / 106"
+        },
+        "kalite": {
+          "onceki": "SD",
+          "yeni": "HD"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11759:H:27500|sid:139",
+      "kanal_adi": "Sky Cinema Feelgood",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "771 / deu / 772 / eng",
+          "yeni": "771 / deu"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11759:H:27500|sid:141",
+      "kanal_adi": "Sky Sport Mix",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "258",
+          "yeni": "258 / 260"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11915:H:27500|sid:13",
+      "kanal_adi": "Sky Crime Deutschland",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1539 / deu / 1540 / eng",
+          "yeni": "1539 / deu"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11915:H:27500|sid:17",
+      "kanal_adi": "Sky Sport F1 Deutschland",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1794",
+          "yeni": "1794 / 1796"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:12305:H:27500|sid:107",
+      "kanal_adi": "Sky Cinema Classics",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "771 / deu",
+          "yeni": "771 / deu / 772 / eng"
         }
       }
     }
   ],
-  "eklenen_transponderler": [],
-  "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "eklenen_transponderler": [
+    {
+      "tp_id": "astra_19_2:11686:V:940",
+      "frekans": 11686,
+      "polarizasyon": "V",
+      "sembol_orani": 940,
+      "fec": "1/2",
+      "uydu": "Astra 1KR",
+      "kapsama": "1KR",
+      "kanal_sayisi": 2,
+      "tv_sayisi": 0,
+      "radyo_sayisi": 2,
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E"
+    }
+  ],
+  "silinen_transponderler": [
+    {
+      "tp_id": "astra_19_2:11686:V:22000",
+      "frekans": 11686,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "3/4",
+      "uydu": "Astra 1KR",
+      "kapsama": "1KR",
+      "kanal_sayisi": 2,
+      "tv_sayisi": 0,
+      "radyo_sayisi": 2,
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E"
+    }
+  ],
+  "degisen_transponderler": [
+    {
+      "anahtar": "astra_19_2:10758:V:22000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 8,
+          "yeni": 9
+        },
+        "tv_sayisi": {
+          "onceki": 8,
+          "yeni": 9
+        }
+      }
+    }
+  ]
 }

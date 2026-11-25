@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-25T12:12:33.365273+00:00",
+  "generated_utc": "2026-11-25T23:30:29.969049+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=359E",
-    "last_updated": "2026-11-24"
+    "last_updated": "2026-11-25"
   },
   "satellite": {
     "id": "thor_1w",
@@ -13,10 +13,10 @@
   },
   "counts": {
     "transponders": 69,
-    "channels": 880,
-    "tv": 776,
+    "channels": 882,
+    "tv": 778,
     "radio": 104,
-    "sd": 400,
+    "sd": 402,
     "hd": 373,
     "uhd_4k": 0,
     "unknown_quality": 3
@@ -149,7 +149,7 @@
       "source_transponder_id": 7212
     },
     {
-      "tp_id": "thor_1w:10809:H:5632",
+      "tp_id": "thor_1w:10809:H:25000",
       "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "spacecraft": "Thor 6",
       "position": "0.8W",
@@ -159,7 +159,7 @@
       "beam": "K1",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 5632,
+      "symbol_rate": 25000,
       "fec": "3/4",
       "network": "Allente",
       "nid": 70,
@@ -296,7 +296,7 @@
       "source_transponder_id": 15217
     },
     {
-      "tp_id": "thor_1w:11049:V:30000",
+      "tp_id": "thor_1w:11049:V:4099",
       "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "spacecraft": "Intelsat 10-02 + MEV2",
       "position": "0.8W",
@@ -306,7 +306,7 @@
       "beam": "Spot2",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 30000,
+      "symbol_rate": 4099,
       "fec": "5/6",
       "network": "",
       "nid": 65535,
@@ -689,8 +689,8 @@
       "network": "DIGI HU",
       "nid": 1,
       "tid": 5,
-      "channel_count": 19,
-      "tv_count": 16,
+      "channel_count": 18,
+      "tv_count": 15,
       "radio_count": 3,
       "source_transponder_id": 4005
     },
@@ -962,8 +962,8 @@
       "network": "M7 Group",
       "nid": 1536,
       "tid": 715,
-      "channel_count": 24,
-      "tv_count": 24,
+      "channel_count": 27,
+      "tv_count": 27,
       "radio_count": 0,
       "source_transponder_id": 9428
     },
@@ -4086,7 +4086,7 @@
       "position": "0.8W",
       "frequency": 10809,
       "polarization": "H",
-      "symbol_rate": 5632,
+      "symbol_rate": 25000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4106,7 +4106,7 @@
       "source_channel_id": 153750,
       "source_transponder_id": 4004,
       "updated": "2026-11-12",
-      "tp_id": "thor_1w:10809:H:5632"
+      "tp_id": "thor_1w:10809:H:25000"
     },
     {
       "name": "V Sport Premier League",
@@ -4117,7 +4117,7 @@
       "position": "0.8W",
       "frequency": 10809,
       "polarization": "H",
-      "symbol_rate": 5632,
+      "symbol_rate": 25000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4137,7 +4137,7 @@
       "source_channel_id": 142680,
       "source_transponder_id": 4004,
       "updated": "2026-11-12",
-      "tp_id": "thor_1w:10809:H:5632"
+      "tp_id": "thor_1w:10809:H:25000"
     },
     {
       "name": "V Sport Premier League 1",
@@ -4148,7 +4148,7 @@
       "position": "0.8W",
       "frequency": 10809,
       "polarization": "H",
-      "symbol_rate": 5632,
+      "symbol_rate": 25000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4168,7 +4168,7 @@
       "source_channel_id": 142685,
       "source_transponder_id": 4004,
       "updated": "2026-11-12",
-      "tp_id": "thor_1w:10809:H:5632"
+      "tp_id": "thor_1w:10809:H:25000"
     },
     {
       "name": "V Sport Premier League 2",
@@ -4179,7 +4179,7 @@
       "position": "0.8W",
       "frequency": 10809,
       "polarization": "H",
-      "symbol_rate": 5632,
+      "symbol_rate": 25000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4199,7 +4199,7 @@
       "source_channel_id": 142684,
       "source_transponder_id": 4004,
       "updated": "2026-11-12",
-      "tp_id": "thor_1w:10809:H:5632"
+      "tp_id": "thor_1w:10809:H:25000"
     },
     {
       "name": "V Sport Premier League 3",
@@ -4210,7 +4210,7 @@
       "position": "0.8W",
       "frequency": 10809,
       "polarization": "H",
-      "symbol_rate": 5632,
+      "symbol_rate": 25000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4230,7 +4230,7 @@
       "source_channel_id": 142682,
       "source_transponder_id": 4004,
       "updated": "2026-11-12",
-      "tp_id": "thor_1w:10809:H:5632"
+      "tp_id": "thor_1w:10809:H:25000"
     },
     {
       "name": "V Sport Premier League 4",
@@ -4241,7 +4241,7 @@
       "position": "0.8W",
       "frequency": 10809,
       "polarization": "H",
-      "symbol_rate": 5632,
+      "symbol_rate": 25000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4261,7 +4261,7 @@
       "source_channel_id": 142681,
       "source_transponder_id": 4004,
       "updated": "2026-11-12",
-      "tp_id": "thor_1w:10809:H:5632"
+      "tp_id": "thor_1w:10809:H:25000"
     },
     {
       "name": "V Sport 1",
@@ -4272,7 +4272,7 @@
       "position": "0.8W",
       "frequency": 10809,
       "polarization": "H",
-      "symbol_rate": 5632,
+      "symbol_rate": 25000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4292,7 +4292,7 @@
       "source_channel_id": 153751,
       "source_transponder_id": 4004,
       "updated": "2026-11-12",
-      "tp_id": "thor_1w:10809:H:5632"
+      "tp_id": "thor_1w:10809:H:25000"
     },
     {
       "name": "V Sport Vinter",
@@ -4303,7 +4303,7 @@
       "position": "0.8W",
       "frequency": 10809,
       "polarization": "H",
-      "symbol_rate": 5632,
+      "symbol_rate": 25000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4323,7 +4323,7 @@
       "source_channel_id": 153752,
       "source_transponder_id": 4004,
       "updated": "2026-11-12",
-      "tp_id": "thor_1w:10809:H:5632"
+      "tp_id": "thor_1w:10809:H:25000"
     },
     {
       "name": "V Sport 1 HD",
@@ -4334,7 +4334,7 @@
       "position": "0.8W",
       "frequency": 10809,
       "polarization": "H",
-      "symbol_rate": 5632,
+      "symbol_rate": 25000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4354,7 +4354,7 @@
       "source_channel_id": 142683,
       "source_transponder_id": 4004,
       "updated": "2026-11-12",
-      "tp_id": "thor_1w:10809:H:5632"
+      "tp_id": "thor_1w:10809:H:25000"
     },
     {
       "name": "TV 2 / Midt-Vest",
@@ -5946,7 +5946,7 @@
       "position": "0.8W",
       "frequency": 11049,
       "polarization": "V",
-      "symbol_rate": 30000,
+      "symbol_rate": 4099,
       "fec": "5/6",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5960,13 +5960,13 @@
       "free_to_air": true,
       "compression": "MPEG-4 AVC (H.264)",
       "vpid": 101,
-      "audio": "201 / rum,ron / 202 / eng",
+      "audio": "201 / rum,ron",
       "nid": 65535,
       "tid": 1,
       "source_channel_id": 177303,
       "source_transponder_id": 11307,
       "updated": "2026-11-23",
-      "tp_id": "thor_1w:11049:V:30000"
+      "tp_id": "thor_1w:11049:V:4099"
     },
     {
       "name": "New Life",
@@ -11039,8 +11039,8 @@
       "country_code": "",
       "beam": "T2",
       "provider": "DIGI HU",
-      "package": "Digi TV",
-      "encryption": "Nagravision 3",
+      "package": "Digi TV / DIGI RO",
+      "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 582,
@@ -11049,7 +11049,7 @@
       "tid": 5,
       "source_channel_id": 111757,
       "source_transponder_id": 4005,
-      "updated": "2026-11-10",
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:11785:H:28000"
     },
     {
@@ -11070,8 +11070,8 @@
       "country_code": "",
       "beam": "T2",
       "provider": "DIGI HU",
-      "package": "",
-      "encryption": "Conax / Nagravision 3",
+      "package": "Digi TV / DIGI RO",
+      "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 557,
@@ -11080,7 +11080,7 @@
       "tid": 5,
       "source_channel_id": 111770,
       "source_transponder_id": 4005,
-      "updated": "2026-11-10",
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:11785:H:28000"
     },
     {
@@ -11102,7 +11102,7 @@
       "beam": "T2",
       "provider": "DIGI HU",
       "package": "Digi TV / Direct One",
-      "encryption": "Conax / Irdeto / Nagravision 3",
+      "encryption": "Conax / Cryptoworks / Irdeto / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 588,
@@ -11111,7 +11111,7 @@
       "tid": 5,
       "source_channel_id": 111768,
       "source_transponder_id": 4005,
-      "updated": "2026-11-10",
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:11785:H:28000"
     },
     {
@@ -11195,7 +11195,7 @@
       "beam": "T2",
       "provider": "DIGI HU",
       "package": "Digi TV / Direct One",
-      "encryption": "Conax / Irdeto / Nagravision 3",
+      "encryption": "Conax / Cryptoworks / Irdeto / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 591,
@@ -11204,7 +11204,7 @@
       "tid": 5,
       "source_channel_id": 111762,
       "source_transponder_id": 4005,
-      "updated": "2026-11-10",
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:11785:H:28000"
     },
     {
@@ -11225,8 +11225,8 @@
       "country_code": "",
       "beam": "T2",
       "provider": "DIGI HU",
-      "package": "",
-      "encryption": "Nagravision 3",
+      "package": "Digi TV",
+      "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 592,
@@ -11235,7 +11235,7 @@
       "tid": 5,
       "source_channel_id": 111765,
       "source_transponder_id": 4005,
-      "updated": "2026-11-10",
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:11785:H:28000"
     },
     {
@@ -11256,17 +11256,17 @@
       "country_code": "",
       "beam": "T2",
       "provider": "DIGI HU",
-      "package": "",
-      "encryption": "Nagravision 3",
+      "package": "Digi TV / DIGI RO",
+      "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 593,
-      "audio": "826 / hun / 3005 / cze",
+      "audio": "826 / eng / 3005 / hun",
       "nid": 1,
       "tid": 5,
       "source_channel_id": 111763,
       "source_transponder_id": 4005,
-      "updated": "2026-11-10",
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:11785:H:28000"
     },
     {
@@ -11287,8 +11287,8 @@
       "country_code": "",
       "beam": "T2",
       "provider": "DIGI HU",
-      "package": "",
-      "encryption": "Nagravision 3",
+      "package": "Digi TV",
+      "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 596,
@@ -11297,7 +11297,7 @@
       "tid": 5,
       "source_channel_id": 111761,
       "source_transponder_id": 4005,
-      "updated": "2026-11-10",
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:11785:H:28000"
     },
     {
@@ -11332,37 +11332,6 @@
       "tp_id": "thor_1w:11785:H:28000"
     },
     {
-      "name": "M2/Petofi TV",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "spacecraft": "Thor 5",
-      "position": "0.8W",
-      "frequency": 11785,
-      "polarization": "H",
-      "symbol_rate": 28000,
-      "fec": "7/8",
-      "system": "DVB-S",
-      "modulation": "QPSK",
-      "sid": 2700,
-      "country": "",
-      "country_code": "",
-      "beam": "T2",
-      "provider": "DIGI HU",
-      "package": "",
-      "encryption": "Conax / Nagravision",
-      "free_to_air": false,
-      "compression": "MPEG-2",
-      "vpid": 600,
-      "audio": "833 / hun",
-      "nid": 1,
-      "tid": 5,
-      "source_channel_id": 172340,
-      "source_transponder_id": 4005,
-      "updated": "2026-11-10",
-      "tp_id": "thor_1w:11785:H:28000"
-    },
-    {
       "name": "M2/Petőfi TV",
       "type": "TV",
       "quality": "SD",
@@ -11380,8 +11349,8 @@
       "country_code": "",
       "beam": "T2",
       "provider": "DIGI HU",
-      "package": "",
-      "encryption": "Conax / Nagravision 3",
+      "package": "Digi TV / DIGI RO",
+      "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 600,
@@ -11390,7 +11359,7 @@
       "tid": 5,
       "source_channel_id": 111759,
       "source_transponder_id": 4005,
-      "updated": "2026-11-12",
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:11785:H:28000"
     },
     {
@@ -11412,7 +11381,7 @@
       "beam": "T2",
       "provider": "DIGI HU",
       "package": "Digi TV / Direct One",
-      "encryption": "Conax / Cryptoworks / Nagravision 3",
+      "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 629,
@@ -11421,7 +11390,7 @@
       "tid": 5,
       "source_channel_id": 111760,
       "source_transponder_id": 4005,
-      "updated": "2026-11-10",
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:11785:H:28000"
     },
     {
@@ -11442,8 +11411,8 @@
       "country_code": "",
       "beam": "T2",
       "provider": "DIGI HU",
-      "package": "Digi TV / Direct One",
-      "encryption": "Conax / Irdeto / Nagravision 3",
+      "package": "Digi TV / DIGI RO / Direct One",
+      "encryption": "Conax / Cryptoworks / Irdeto / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 648,
@@ -11452,7 +11421,7 @@
       "tid": 5,
       "source_channel_id": 169051,
       "source_transponder_id": 4005,
-      "updated": "2026-11-10",
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:11785:H:28000"
     },
     {
@@ -11473,8 +11442,8 @@
       "country_code": "",
       "beam": "T2",
       "provider": "DIGI HU",
-      "package": "",
-      "encryption": "Conax / Nagravision 3",
+      "package": "Digi TV / DIGI RO",
+      "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
       "free_to_air": false,
       "compression": "MPEG-2",
       "vpid": 4020,
@@ -11483,7 +11452,7 @@
       "tid": 5,
       "source_channel_id": 111758,
       "source_transponder_id": 4005,
-      "updated": "2026-11-10",
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:11785:H:28000"
     },
     {
@@ -11504,7 +11473,7 @@
       "country_code": "",
       "beam": "T2",
       "provider": "DIGI HU",
-      "package": "Digi TV / Direct One",
+      "package": "Digi TV / DIGI RO / Direct One",
       "encryption": "",
       "free_to_air": true,
       "compression": "",
@@ -11514,7 +11483,7 @@
       "tid": 5,
       "source_channel_id": 169055,
       "source_transponder_id": 4005,
-      "updated": "2026-11-10",
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:11785:H:28000"
     },
     {
@@ -11535,7 +11504,7 @@
       "country_code": "",
       "beam": "T2",
       "provider": "DIGI HU",
-      "package": "Digi TV / Direct One",
+      "package": "Digi TV / DIGI RO / Direct One",
       "encryption": "",
       "free_to_air": true,
       "compression": "",
@@ -11545,7 +11514,7 @@
       "tid": 5,
       "source_channel_id": 169052,
       "source_transponder_id": 4005,
-      "updated": "2026-11-10",
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:11785:H:28000"
     },
     {
@@ -11566,7 +11535,7 @@
       "country_code": "",
       "beam": "T2",
       "provider": "DIGI HU",
-      "package": "Digi TV",
+      "package": "Digi TV / DIGI RO",
       "encryption": "",
       "free_to_air": true,
       "compression": "MPEG-1",
@@ -11576,7 +11545,7 @@
       "tid": 5,
       "source_channel_id": 4355,
       "source_transponder_id": 4005,
-      "updated": "2026-11-10",
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:11785:H:28000"
     },
     {
@@ -11757,12 +11726,12 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 802,
-      "audio": "803 / rum,ron",
+      "audio": "803 / rum,ron / 804 / eng",
       "nid": 1,
       "tid": 13,
       "source_channel_id": 84306,
       "source_transponder_id": 9523,
-      "updated": "2022-08-07",
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:11824:H:30000"
     },
     {
@@ -18028,6 +17997,68 @@
       "tp_id": "thor_1w:12111:V:30000"
     },
     {
+      "name": "Šláger Original",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "spacecraft": "Thor 7",
+      "position": "0.8W",
+      "frequency": 12111,
+      "polarization": "V",
+      "symbol_rate": 30000,
+      "fec": "3/4",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 31315,
+      "country": "",
+      "country_code": "",
+      "beam": "CEE",
+      "provider": "M7 Group",
+      "package": "freeSAT",
+      "encryption": "Compel / Cryptoworks / Irdeto / Nagravision",
+      "free_to_air": false,
+      "compression": "MPEG-4",
+      "vpid": 2401,
+      "audio": "2411 / cze",
+      "nid": 1536,
+      "tid": 715,
+      "source_channel_id": 152142,
+      "source_transponder_id": 9428,
+      "updated": "2026-11-25",
+      "tp_id": "thor_1w:12111:V:30000"
+    },
+    {
+      "name": "TV Lux",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "spacecraft": "Thor 7",
+      "position": "0.8W",
+      "frequency": 12111,
+      "polarization": "V",
+      "symbol_rate": 30000,
+      "fec": "3/4",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 31316,
+      "country": "",
+      "country_code": "",
+      "beam": "CEE",
+      "provider": "M7 Group",
+      "package": "freeSAT",
+      "encryption": "Compel / Cryptoworks / Irdeto / Nagravision",
+      "free_to_air": false,
+      "compression": "MPEG-4",
+      "vpid": 2501,
+      "audio": "2511 / slo,slk",
+      "nid": 1536,
+      "tid": 715,
+      "source_channel_id": 152138,
+      "source_transponder_id": 9428,
+      "updated": "2026-11-25",
+      "tp_id": "thor_1w:12111:V:30000"
+    },
+    {
       "name": "FilmBox+ Love & Crime Czechia",
       "type": "TV",
       "quality": "SD",
@@ -18304,6 +18335,37 @@
       "source_channel_id": 169689,
       "source_transponder_id": 9428,
       "updated": "2026-11-10",
+      "tp_id": "thor_1w:12111:V:30000"
+    },
+    {
+      "name": "Mezzo",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "spacecraft": "Thor 7",
+      "position": "0.8W",
+      "frequency": 12111,
+      "polarization": "V",
+      "symbol_rate": 30000,
+      "fec": "3/4",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 31329,
+      "country": "",
+      "country_code": "",
+      "beam": "CEE",
+      "provider": "M7 Group",
+      "package": "Focus Sat / freeSAT",
+      "encryption": "Conax / Cryptoworks / Irdeto / Nagravision",
+      "free_to_air": false,
+      "compression": "MPEG-4",
+      "vpid": 3801,
+      "audio": "3811 / fre",
+      "nid": 1536,
+      "tid": 715,
+      "source_channel_id": 153208,
+      "source_transponder_id": 9428,
+      "updated": "2026-11-25",
       "tp_id": "thor_1w:12111:V:30000"
     },
     {

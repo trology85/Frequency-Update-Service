@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-24T23:46:59.718341+00:00",
+  "guncelleme_tarihi": "2026-11-25T12:11:51.923880+00:00",
   "uydu_adi": "Astra 19.2°E",
   "toplam_kanal": 959,
   "toplam_tp": 91,
@@ -9544,6 +9544,24 @@
       "kapsama": "PE2"
     },
     {
+      "kanal_adi": "M+ NAVIDAD",
+      "frekans": 11127,
+      "polarizasyon": "V",
+      "sembol_orani": 22000,
+      "fec": "5/6",
+      "video_pid": "163",
+      "ses_pid": "98 / spa / 99 / 000,qaa,qad",
+      "uydu": "Astra 1P",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30853",
+      "paket": "Movistar+",
+      "tp_id": "astra_19_2:11127:V:22000",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    },
+    {
       "kanal_adi": "M+ Origináles",
       "frekans": 11318,
       "polarizasyon": "V",
@@ -9557,24 +9575,6 @@
       "sid": "29816",
       "paket": "Movistar+",
       "tp_id": "astra_19_2:11318:V:22000",
-      "konum_id": "astra_19_2",
-      "konum_adi": "Astra 19.2°E",
-      "kapsama": "PE2"
-    },
-    {
-      "kanal_adi": "M+ VACACIONES",
-      "frekans": 11127,
-      "polarizasyon": "V",
-      "sembol_orani": 22000,
-      "fec": "5/6",
-      "video_pid": "163",
-      "ses_pid": "98 / spa / 99 / 000,qaa,qad",
-      "uydu": "Astra 1P",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "30853",
-      "paket": "Movistar+",
-      "tp_id": "astra_19_2:11127:V:22000",
       "konum_id": "astra_19_2",
       "konum_adi": "Astra 19.2°E",
       "kapsama": "PE2"
@@ -10444,13 +10444,13 @@
       "kapsama": "PE2"
     },
     {
-      "kanal_adi": "M+ORGULLO",
+      "kanal_adi": "M+THRILLER",
       "frekans": 10788,
       "polarizasyon": "V",
       "sembol_orani": 22000,
       "fec": "5/6",
       "video_pid": "161",
-      "ses_pid": "84 / spa / 85",
+      "ses_pid": "84 / spa / 85 / 000,qaa,qad",
       "uydu": "Astra 1P",
       "kalite": "SD",
       "tur": "TV",

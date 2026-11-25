@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-25T12:12:02.149704+00:00",
+  "run_utc": "2026-11-25T23:29:53.203835+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -11,9 +11,9 @@
       "ok": true,
       "errors": [],
       "pages": 2,
-      "transponders": 37,
-      "channels": 615,
-      "raw_channel_rows": 615,
+      "transponders": 36,
+      "channels": 609,
+      "raw_channel_rows": 609,
       "raw_file": "raw/satbeams/hellas_39.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-25T12:12:03.627861+00:00",
+  "run_utc": "2026-11-25T23:29:55.137457+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-39E",
       "title": "Hellas Sat 3 / Hellas Sat 4 (39°E) -  - Frekanslar - KingOfSat",
-      "bytes": 917580,
+      "bytes": 917533,
       "frequency_rows": 142,
       "channel_rows": 605,
       "advertised_records": 716,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-25T12:12:05.822049+00:00",
+  "generated_utc": "2026-11-25T23:29:57.665980+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -67,13 +67,13 @@
     {
       "id": "hellas_39",
       "ok": true,
-      "transponders": 36,
-      "channels": 614,
-      "tv": 576,
+      "transponders": 35,
+      "channels": 608,
+      "tv": 570,
       "radio": 38,
-      "sd": 311,
-      "hd": 117,
-      "uhd_4k": 148,
+      "sd": 313,
+      "hd": 110,
+      "uhd_4k": 147,
       "unknown_quality": 0,
       "candidate": "candidate/satbeams/hellas_39.json"
     }
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-25T12:12:07.064022+00:00",
+  "run_utc": "2026-11-25T23:29:58.838884+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -113,24 +113,24 @@
       "ok": true,
       "errors": [],
       "warnings": [],
-      "transponders": 36,
-      "channels": 614,
-      "tv": 576,
+      "transponders": 35,
+      "channels": 608,
+      "tv": 570,
       "radio": 38,
-      "sd": 311,
-      "hd": 117,
-      "uhd_4k": 148,
+      "sd": 313,
+      "hd": 110,
+      "uhd_4k": 147,
       "unknown_quality": 0,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "2dc3205e91ed00528fa26892cc4c4f2d04a79a886aa584ff4501c58990759dbc",
+      "candidate_hash": "b87e0ca338c95cf79956ef56a48891cd08172daed9ec2b9a0a10e9a9d12eb529",
       "current_hash": "2dc3205e91ed00528fa26892cc4c4f2d04a79a886aa584ff4501c58990759dbc",
-      "changed": false,
-      "added": 0,
-      "removed": 0,
-      "updated": 0
+      "changed": true,
+      "added": 5,
+      "removed": 11,
+      "updated": 2
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true

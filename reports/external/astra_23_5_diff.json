@@ -1,26 +1,1005 @@
 {
   "uydu_id": "astra_23_5",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "olusturma_zamani_utc": "2026-11-25T12:12:21.548380+00:00",
+  "olusturma_zamani_utc": "2026-11-25T23:30:15.912440+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 659,
-    "yeni_kanal": 659,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 660,
+    "eklenen_kanal": 1,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 81,
     "tur_degisen_kanal": 0,
     "onceki_tp": 34,
     "yeni_tp": 34,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 4
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "DSNS Informed",
+      "frekans": 12285,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "112",
+      "ses_pid": "113",
+      "uydu": "Astra 3C",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "Ukrainian mux",
+      "tp_id": "astra_23_5:12285:V:30000",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "East"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15600",
+      "kanal_adi": "Viasat History HD",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15601",
+      "kanal_adi": "Viasat Nature HD",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Viasat Nature East",
+          "yeni": "Viasat Nature HD"
+        },
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "SkyLink"
+        },
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15602",
+      "kanal_adi": "Film+ HD",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Film+ Czechia",
+          "yeni": "Film+ HD"
+        },
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "SkyLink"
+        },
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15603",
+      "kanal_adi": "HBO2 HD",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "HBO 2 Central Europe",
+          "yeni": "HBO2 HD"
+        },
+        "ses_pid": {
+          "onceki": "1311 / cze / 1312 / hun / 1313 / eng",
+          "yeni": "1311 / cze / 1312 / eng / 1313 / hun"
+        },
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "SkyLink"
+        },
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15604",
+      "kanal_adi": "HBO3 HD",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "HBO 3 Central Europe",
+          "yeni": "HBO3 HD"
+        },
+        "ses_pid": {
+          "onceki": "1411 / cze / 1412 / hun / 1413 / eng",
+          "yeni": "1411 / cze / 1412 / eng / 1413 / hun"
+        },
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "SkyLink"
+        },
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15605",
+      "kanal_adi": "FilmBox+ Hits HD Czechia",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15606",
+      "kanal_adi": "Cinemax2 HD",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Cinemax 2 Central Europe",
+          "yeni": "Cinemax2 HD"
+        },
+        "ses_pid": {
+          "onceki": "1611 / cze / 1612 / hun / 1613 / eng",
+          "yeni": "1611 / cze / 1612 / eng / 1613 / hun"
+        },
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "SkyLink"
+        },
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15607",
+      "kanal_adi": "Film Europe+ HD",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "Film Europe+",
+          "yeni": "Film Europe+ HD"
+        },
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "SkyLink"
+        },
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15608",
+      "kanal_adi": "Test3",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "15608",
+          "yeni": "Test3"
+        },
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "SkyLink"
+        },
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15609",
+      "kanal_adi": "FilmBox+ Love and Crime Czechia",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15610",
+      "kanal_adi": "Canál+ Drama",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15611",
+      "kanal_adi": "Minimax Czechia",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15612",
+      "kanal_adi": "Leo TV (22-6)",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15615",
+      "kanal_adi": "History HD",
+      "degisiklikler": {
+        "kanal_adi": {
+          "onceki": "History Europe",
+          "yeni": "History HD"
+        },
+        "paket": {
+          "onceki": "M7 Group",
+          "yeni": "SkyLink"
+        },
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15616",
+      "kanal_adi": "AXN Black Czechia",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15617",
+      "kanal_adi": "AXN White Czechia",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15618",
+      "kanal_adi": "Prima Sport",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:20910",
+      "kanal_adi": "Film1 Family",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:20915",
+      "kanal_adi": "Film1 Drama",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:20920",
+      "kanal_adi": "Film1 Action",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:20925",
+      "kanal_adi": "Ziggo Sport 2",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:20930",
+      "kanal_adi": "Ziggo Sport 6",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:20945",
+      "kanal_adi": "SBS 9",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:20949",
+      "kanal_adi": "MENT TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:20954",
+      "kanal_adi": "Eclips TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:20955",
+      "kanal_adi": "Film1 Premiere",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        },
+        "ses_pid": {
+          "onceki": "98 / eng / 111 / dut",
+          "yeni": "111 / dut"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:20960",
+      "kanal_adi": "Ziggo Sport Select",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        },
+        "ses_pid": {
+          "onceki": "100 / dut / 112 / dut",
+          "yeni": "100 / dut"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:20965",
+      "kanal_adi": "National Geographic Nederland",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21107",
+      "kanal_adi": "History Benelux",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21110",
+      "kanal_adi": "VTM Gold",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21112",
+      "kanal_adi": "Ketnet",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21116",
+      "kanal_adi": "VTM XMAS",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21120",
+      "kanal_adi": "VTM 3",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21122",
+      "kanal_adi": "VTM 4",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21124",
+      "kanal_adi": "Mán-X",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        },
+        "ses_pid": {
+          "onceki": "0",
+          "yeni": "134 / dut"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21126",
+      "kanal_adi": "Play Fictie",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21127",
+      "kanal_adi": "Play Reality",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21210",
+      "kanal_adi": "MNM",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21211",
+      "kanal_adi": "Studio Brussel",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21212",
+      "kanal_adi": "Klara",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21227",
+      "kanal_adi": "Sky Radio",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21229",
+      "kanal_adi": "Sport 10",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21235",
+      "kanal_adi": "Muzsika TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        },
+        "ses_pid": {
+          "onceki": "0",
+          "yeni": "135 / hun"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21237",
+      "kanal_adi": "Slager TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21268",
+      "kanal_adi": "RTL Gold",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21269",
+      "kanal_adi": "TV 2 Séf",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21270",
+      "kanal_adi": "Nova Sport 5",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        },
+        "ses_pid": {
+          "onceki": "171 / cze / 0 / 370 / cze",
+          "yeni": "171 / cze / 270 / slo,slk / 370 / cze"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21271",
+      "kanal_adi": "Docubox",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        },
+        "ses_pid": {
+          "onceki": "0",
+          "yeni": "172 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12129:V:29900|sid:21272",
+      "kanal_adi": "TV8",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12148:H:29999|sid:6301",
+      "kanal_adi": "Test 1",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12148:H:29999|sid:6302",
+      "kanal_adi": "Test 2",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12148:H:29999|sid:6303",
+      "kanal_adi": "Test 3",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12148:H:29999|sid:6304",
+      "kanal_adi": "Test 4",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12148:H:29999|sid:6306",
+      "kanal_adi": "Test 6",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12148:H:29999|sid:6307",
+      "kanal_adi": "Test 7",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12148:H:29999|sid:6308",
+      "kanal_adi": "Test 8",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12148:H:29999|sid:6309",
+      "kanal_adi": "Test 9",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12148:H:29999|sid:6310",
+      "kanal_adi": "Test 10",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12148:H:29999|sid:6311",
+      "kanal_adi": "Test 11",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12148:H:29999|sid:6312",
+      "kanal_adi": "Test 12",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12148:H:29999|sid:6313",
+      "kanal_adi": "Test 13",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12148:H:29999|sid:6314",
+      "kanal_adi": "Test 14",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12148:H:29999|sid:6315",
+      "kanal_adi": "Test 15",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12148:H:29999|sid:6316",
+      "kanal_adi": "Test 16",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7710",
+      "kanal_adi": "Ukrayinske Radio",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7712",
+      "kanal_adi": "Radio Promin",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7714",
+      "kanal_adi": "Radio Culture",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7716",
+      "kanal_adi": "RadioTochka",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7718",
+      "kanal_adi": "Voice",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7722",
+      "kanal_adi": "ARMY FM",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7724",
+      "kanal_adi": "radio nv",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7731",
+      "kanal_adi": "Pershiy",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7733",
+      "kanal_adi": "Suspilne Kultura",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7750",
+      "kanal_adi": "Espreso TV",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7760",
+      "kanal_adi": "Inter",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7770",
+      "kanal_adi": "1+1 International",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7771",
+      "kanal_adi": "1+1 Ukraine",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7775",
+      "kanal_adi": "WE-UKRAINE",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7780",
+      "kanal_adi": "ICTV Ukraine",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7781",
+      "kanal_adi": "Telekanal STB",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7782",
+      "kanal_adi": "Novy Kanal",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "astra_23_5:12110:H:29900",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "PanEuropean"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5:12129:V:29900",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "2/3",
+          "yeni": "3/4"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5:12148:H:29999",
+      "degisiklikler": {
+        "kapsama": {
+          "onceki": "CEE",
+          "yeni": "East"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_23_5:12285:V:30000",
+      "degisiklikler": {
+        "uydu": {
+          "onceki": "Astra 3B",
+          "yeni": "Astra 3C"
+        },
+        "kapsama": {
+          "onceki": "SpotME",
+          "yeni": "East"
+        },
+        "kanal_sayisi": {
+          "onceki": 17,
+          "yeni": 18
+        },
+        "tv_sayisi": {
+          "onceki": 10,
+          "yeni": 11
+        }
+      }
+    }
+  ]
 }
