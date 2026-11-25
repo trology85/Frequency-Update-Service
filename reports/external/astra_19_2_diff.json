@@ -1,7 +1,7 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-11-24T23:46:59.892793+00:00",
+  "olusturma_zamani_utc": "2026-11-25T12:11:52.144764+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
@@ -21,22 +21,26 @@
   "silinen_kanallar": [],
   "degisen_kanallar": [
     {
-      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30202",
-      "kanal_adi": "M+ VAMOS 3",
+      "anahtar": "astra_19_2|astra_19_2:10788:V:22000|sid:30358",
+      "kanal_adi": "M+THRILLER",
       "degisiklikler": {
         "kanal_adi": {
-          "onceki": "FUT VAMOS3",
-          "yeni": "M+ VAMOS 3"
+          "onceki": "M+ORGULLO",
+          "yeni": "M+THRILLER"
+        },
+        "ses_pid": {
+          "onceki": "84 / spa / 85",
+          "yeni": "84 / spa / 85 / 000,qaa,qad"
         }
       }
     },
     {
-      "anahtar": "astra_19_2|astra_19_2:11406:V:22000|sid:30208",
-      "kanal_adi": "ARAGON TV INT",
+      "anahtar": "astra_19_2|astra_19_2:11127:V:22000|sid:30853",
+      "kanal_adi": "M+ NAVIDAD",
       "degisiklikler": {
         "kanal_adi": {
-          "onceki": "FUT ARAG",
-          "yeni": "ARAGON TV INT"
+          "onceki": "M+ VACACIONES",
+          "yeni": "M+ NAVIDAD"
         }
       }
     }

@@ -1,465 +1,93 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-11-24T23:47:50.163428+00:00",
+  "olusturma_zamani_utc": "2026-11-25T12:12:33.571830+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
-    "onceki_kanal": 896,
-    "yeni_kanal": 882,
-    "eklenen_kanal": 2,
-    "silinen_kanal": 16,
-    "degisen_kanal": 7,
+    "onceki_kanal": 882,
+    "yeni_kanal": 879,
+    "eklenen_kanal": 0,
+    "silinen_kanal": 3,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 69,
     "yeni_tp": 69,
-    "eklenen_tp": 1,
-    "silinen_tp": 1,
+    "eklenen_tp": 0,
+    "silinen_tp": 0,
     "degisen_tp": 1
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "New Life",
-      "frekans": 11118,
-      "polarizasyon": "H",
-      "sembol_orani": 1000,
-      "fec": "1/2",
-      "video_pid": "258",
-      "ses_pid": "259",
-      "uydu": "Thor 6",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "261",
-      "paket": "",
-      "tp_id": "thor_1w:11118:H:1000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K2"
-    },
-    {
-      "kanal_adi": "[Empty TP]",
-      "frekans": 12643,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "7/8",
-      "video_pid": "0",
-      "ses_pid": "",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "Bilinmeyen",
-      "tur": "TV",
-      "sid": "0",
-      "paket": "",
-      "tp_id": "thor_1w:12643:H:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    }
-  ],
+  "eklenen_kanallar": [],
   "silinen_kanallar": [
     {
-      "kanal_adi": "Film + Hungary",
-      "frekans": 11766,
+      "kanal_adi": "Šláger Original",
+      "frekans": 12111,
       "polarizasyon": "V",
-      "sembol_orani": 28000,
-      "fec": "7/8",
-      "video_pid": "201",
-      "ses_pid": "210 / hun",
-      "uydu": "Thor 6",
-      "kalite": "Bilinmeyen",
-      "tur": "TV",
-      "sid": "30203",
-      "paket": "Focus Sat / Digi TV / Direct One",
-      "tp_id": "thor_1w:11766:V:28000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K2"
-    },
-    {
-      "kanal_adi": "Nat Geo Wild",
-      "frekans": 11766,
-      "polarizasyon": "V",
-      "sembol_orani": 28000,
-      "fec": "7/8",
-      "video_pid": "1651",
-      "ses_pid": "1660 / eng / 1661 / cze / 1662 / hun",
-      "uydu": "Thor 6",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "30218",
-      "paket": "M7 Group",
-      "tp_id": "thor_1w:11766:V:28000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "K2"
-    },
-    {
-      "kanal_adi": "Rodnoe Kino",
-      "frekans": 12643,
-      "polarizasyon": "H",
       "sembol_orani": 30000,
-      "fec": "7/8",
+      "fec": "3/4",
+      "video_pid": "2401",
+      "ses_pid": "2411 / cze",
+      "uydu": "Thor 7",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "31315",
+      "paket": "freeSAT",
+      "tp_id": "thor_1w:12111:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
+      "kanal_adi": "TV Lux",
+      "frekans": 12111,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
       "video_pid": "2501",
-      "ses_pid": "2502 / rus",
-      "uydu": "Intelsat 10-02 + MEV2",
+      "ses_pid": "2511 / slo,slk",
+      "uydu": "Thor 7",
       "kalite": "SD",
       "tur": "TV",
-      "sid": "25",
-      "paket": "",
-      "tp_id": "thor_1w:12643:H:30000",
+      "sid": "31316",
+      "paket": "freeSAT",
+      "tp_id": "thor_1w:12111:V:30000",
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
+      "kapsama": "CEE"
     },
     {
-      "kanal_adi": "Dom Kino",
-      "frekans": 12643,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "7/8",
-      "video_pid": "2701",
-      "ses_pid": "2702 / rus",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "27",
-      "paket": "",
-      "tp_id": "thor_1w:12643:H:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    },
-    {
-      "kanal_adi": "Kinohit",
-      "frekans": 12643,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "7/8",
-      "video_pid": "2801",
-      "ses_pid": "2802 / rus",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "28",
-      "paket": "",
-      "tp_id": "thor_1w:12643:H:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    },
-    {
-      "kanal_adi": "Telekanal Che! (0h)",
-      "frekans": 12643,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "7/8",
-      "video_pid": "2901",
-      "ses_pid": "2902 / rus",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "29",
-      "paket": "",
-      "tp_id": "thor_1w:12643:H:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    },
-    {
-      "kanal_adi": "BT Sport 1 HD",
-      "frekans": 12643,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "7/8",
-      "video_pid": "3001",
-      "ses_pid": "3002 / eng",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "30",
-      "paket": "",
-      "tp_id": "thor_1w:12643:H:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    },
-    {
-      "kanal_adi": "Match! Strana",
-      "frekans": 12643,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "7/8",
-      "video_pid": "3101",
-      "ses_pid": "3102 / rus",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "31",
-      "paket": "",
-      "tp_id": "thor_1w:12643:H:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    },
-    {
-      "kanal_adi": "Ozbekiston Telekanali",
-      "frekans": 12643,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "7/8",
-      "video_pid": "3201",
-      "ses_pid": "3202 / uzb",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "32",
-      "paket": "",
-      "tp_id": "thor_1w:12643:H:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    },
-    {
-      "kanal_adi": "beIN Sports HD 1",
-      "frekans": 12643,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "7/8",
-      "video_pid": "3301",
-      "ses_pid": "3302 / eng",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "33",
-      "paket": "",
-      "tp_id": "thor_1w:12643:H:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    },
-    {
-      "kanal_adi": "Kinosvidanie",
-      "frekans": 12643,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "7/8",
-      "video_pid": "3401",
-      "ses_pid": "3402 / rus",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "34",
-      "paket": "",
-      "tp_id": "thor_1w:12643:H:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    },
-    {
-      "kanal_adi": "EuroNews Russkiy",
-      "frekans": 12643,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "7/8",
-      "video_pid": "3501",
-      "ses_pid": "3502 / rus",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "35",
-      "paket": "",
-      "tp_id": "thor_1w:12643:H:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    },
-    {
-      "kanal_adi": "RBC TV",
-      "frekans": 12643,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "7/8",
-      "video_pid": "3601",
-      "ses_pid": "3602 / rus",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "36",
-      "paket": "",
-      "tp_id": "thor_1w:12643:H:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    },
-    {
-      "kanal_adi": "MW Music",
-      "frekans": 12643,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "7/8",
-      "video_pid": "3701",
-      "ses_pid": "3702 / rus",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "37",
-      "paket": "",
-      "tp_id": "thor_1w:12643:H:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    },
-    {
-      "kanal_adi": "Nash Kinoroman",
-      "frekans": 12643,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "7/8",
-      "video_pid": "3801",
-      "ses_pid": "3802 / rus",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "38",
-      "paket": "",
-      "tp_id": "thor_1w:12643:H:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    },
-    {
-      "kanal_adi": "Match! Premier",
-      "frekans": 12643,
-      "polarizasyon": "H",
-      "sembol_orani": 30000,
-      "fec": "7/8",
-      "video_pid": "3901",
-      "ses_pid": "3902 / rus",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "39",
-      "paket": "",
-      "tp_id": "thor_1w:12643:H:30000",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot3"
-    }
-  ],
-  "degisen_kanallar": [
-    {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31312",
-      "kanal_adi": "*",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "Magenta TV Sat / Slovak Telekom / Telly",
-          "yeni": "Focus Sat / Magenta TV Sat / Slovak Telekom / Telly"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31321",
-      "kanal_adi": "*",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "freeSAT",
-          "yeni": "Focus Sat / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31329",
       "kanal_adi": "Mezzo",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "freeSAT",
-          "yeni": "Focus Sat / freeSAT"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12111:V:30000|sid:31334",
-      "kanal_adi": "Antena 1",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "Focus Sat"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12476:H:30000|sid:17052",
-      "kanal_adi": "Yle Teema & Fem HD",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "4549 / fin",
-          "yeni": "4549 / fin / 4551 / dut"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12476:H:30000|sid:7499",
-      "kanal_adi": "YLE TV 2",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "3028 / fin / 4251 / dut",
-          "yeni": "3028 / fin / 4264 / dut"
-        }
-      }
-    },
-    {
-      "anahtar": "thor_1w|thor_1w:12476:H:30000|sid:7503",
-      "kanal_adi": "Yle Teema & Fem",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "3534 / fin",
-          "yeni": "3534 / fin / 4547 / dut"
-        }
-      }
-    }
-  ],
-  "eklenen_transponderler": [
-    {
-      "tp_id": "thor_1w:11118:H:1000",
-      "frekans": 11118,
-      "polarizasyon": "H",
-      "sembol_orani": 1000,
-      "fec": "1/2",
-      "uydu": "Thor 6",
-      "kapsama": "K2",
-      "kanal_sayisi": 1,
-      "tv_sayisi": 1,
-      "radyo_sayisi": 0,
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
-    }
-  ],
-  "silinen_transponderler": [
-    {
-      "tp_id": "thor_1w:11766:V:28000",
-      "frekans": 11766,
+      "frekans": 12111,
       "polarizasyon": "V",
-      "sembol_orani": 28000,
-      "fec": "7/8",
-      "uydu": "Thor 6",
-      "kapsama": "K2",
-      "kanal_sayisi": 2,
-      "tv_sayisi": 2,
-      "radyo_sayisi": 0,
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "3801",
+      "ses_pid": "3811 / fre",
+      "uydu": "Thor 7",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "31329",
+      "paket": "Focus Sat / freeSAT",
+      "tp_id": "thor_1w:12111:V:30000",
       "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
     }
   ],
+  "degisen_kanallar": [],
+  "eklenen_transponderler": [],
+  "silinen_transponderler": [],
   "degisen_transponderler": [
     {
-      "anahtar": "thor_1w:12643:H:30000",
+      "anahtar": "thor_1w:12111:V:30000",
       "degisiklikler": {
         "kanal_sayisi": {
-          "onceki": 14,
-          "yeni": 1
+          "onceki": 27,
+          "yeni": 24
         },
         "tv_sayisi": {
-          "onceki": 14,
-          "yeni": 1
+          "onceki": 27,
+          "yeni": 24
         }
       }
     }

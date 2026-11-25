@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-18T22:29:56.895624+00:00",
+  "generated_utc": "2026-11-25T12:12:26.600145+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=28E",
-    "last_updated": "2026-11-18"
+    "last_updated": "2026-11-25"
   },
   "satellite": {
     "id": "astra_28_2",
@@ -13,11 +13,11 @@
   },
   "counts": {
     "transponders": 61,
-    "channels": 837,
-    "tv": 782,
+    "channels": 843,
+    "tv": 788,
     "radio": 55,
-    "sd": 550,
-    "hd": 228,
+    "sd": 562,
+    "hd": 222,
     "uhd_4k": 4,
     "unknown_quality": 0
   },
@@ -44,7 +44,7 @@
       "source_transponder_id": 1393
     },
     {
-      "tp_id": "astra_28_2:10788:V:22000",
+      "tp_id": "astra_28_2:10788:V:23000",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
       "spacecraft": "Astra 2E",
       "position": "28.2E",
@@ -54,7 +54,7 @@
       "beam": "Spot",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "network": "Freesat",
       "nid": 2,
@@ -65,7 +65,7 @@
       "source_transponder_id": 1420
     },
     {
-      "tp_id": "astra_28_2:10803:H:22000",
+      "tp_id": "astra_28_2:10803:H:23000",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
       "spacecraft": "Astra 2E",
       "position": "28.2E",
@@ -75,7 +75,7 @@
       "beam": "Spot",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "network": "Freesat",
       "nid": 2,
@@ -86,7 +86,7 @@
       "source_transponder_id": 1421
     },
     {
-      "tp_id": "astra_28_2:10818:V:22000",
+      "tp_id": "astra_28_2:10818:V:23000",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
       "spacecraft": "Astra 2E",
       "position": "28.2E",
@@ -96,7 +96,7 @@
       "beam": "Spot",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "network": "Freesat",
       "nid": 2,
@@ -121,7 +121,7 @@
       "fec": "3/4",
       "network": "Sky UK",
       "nid": 2,
-      "tid": 2049,
+      "tid": 2050,
       "channel_count": 9,
       "tv_count": 6,
       "radio_count": 3,
@@ -149,7 +149,7 @@
       "source_transponder_id": 1424
     },
     {
-      "tp_id": "astra_28_2:10921:H:22000",
+      "tp_id": "astra_28_2:10921:H:23000",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
       "spacecraft": "Astra 2E",
       "position": "28.2E",
@@ -159,7 +159,7 @@
       "beam": "Spot",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "network": "Sky UK",
       "nid": 2,
@@ -212,7 +212,7 @@
       "source_transponder_id": 9412
     },
     {
-      "tp_id": "astra_28_2:11038:V:22000",
+      "tp_id": "astra_28_2:11038:V:23000",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
       "spacecraft": "Astra 2G",
       "position": "28.2E",
@@ -222,7 +222,7 @@
       "beam": "Europe",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "network": "Sky UK",
       "nid": 2,
@@ -233,7 +233,28 @@
       "source_transponder_id": 12121
     },
     {
-      "tp_id": "astra_28_2:11082:H:22000",
+      "tp_id": "astra_28_2:11068:V:23000",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "transponder": "10098",
+      "beam": "Spot",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "network": "Sky UK",
+      "nid": 2,
+      "tid": 2065,
+      "channel_count": 24,
+      "tv_count": 24,
+      "radio_count": 0,
+      "source_transponder_id": 10098
+    },
+    {
+      "tp_id": "astra_28_2:11082:H:23000",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
       "spacecraft": "Astra 2G",
       "position": "28.2E",
@@ -243,7 +264,7 @@
       "beam": "Europe",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "network": "Sky UK",
       "nid": 2,
@@ -275,7 +296,7 @@
       "source_transponder_id": 10684
     },
     {
-      "tp_id": "astra_28_2:11112:H:22000",
+      "tp_id": "astra_28_2:11112:H:23000",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
       "spacecraft": "Astra 2G",
       "position": "28.2E",
@@ -285,7 +306,7 @@
       "beam": "Europe",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "network": "Sky UK",
       "nid": 2,
@@ -317,7 +338,7 @@
       "source_transponder_id": 8875
     },
     {
-      "tp_id": "astra_28_2:11141:H:22000",
+      "tp_id": "astra_28_2:11141:H:23000",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
       "spacecraft": "Astra 2G",
       "position": "28.2E",
@@ -327,7 +348,7 @@
       "beam": "Europe",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "network": "Sky UK",
       "nid": 2,
@@ -336,27 +357,6 @@
       "tv_count": 10,
       "radio_count": 0,
       "source_transponder_id": 10976
-    },
-    {
-      "tp_id": "astra_28_2:11224:V:23000",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2G",
-      "position": "28.2E",
-      "frequency": 11224,
-      "polarization": "V",
-      "transponder": "13612",
-      "beam": "Europe",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "network": "Sky UK",
-      "nid": null,
-      "tid": null,
-      "channel_count": 9,
-      "tv_count": 9,
-      "radio_count": 0,
-      "source_transponder_id": 13612
     },
     {
       "tp_id": "astra_28_2:11225:H:27500",
@@ -393,10 +393,10 @@
       "symbol_rate": 23000,
       "fec": "2/3",
       "network": "Sky UK",
-      "nid": null,
-      "tid": null,
-      "channel_count": 11,
-      "tv_count": 11,
+      "nid": 2,
+      "tid": 2106,
+      "channel_count": 7,
+      "tv_count": 7,
       "radio_count": 0,
       "source_transponder_id": 11415
     },
@@ -479,8 +479,8 @@
       "network": "Sky UK",
       "nid": 2,
       "tid": 2112,
-      "channel_count": 27,
-      "tv_count": 27,
+      "channel_count": 23,
+      "tv_count": 23,
       "radio_count": 0,
       "source_transponder_id": 1988
     },
@@ -506,7 +506,7 @@
       "source_transponder_id": 14359
     },
     {
-      "tp_id": "astra_28_2:11385:H:29500",
+      "tp_id": "astra_28_2:11385:H:27500",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
       "spacecraft": "Astra 2E",
       "position": "28.2E",
@@ -516,7 +516,7 @@
       "beam": "Spot",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "network": "Sky UK",
       "nid": 2,
@@ -527,7 +527,7 @@
       "source_transponder_id": 10949
     },
     {
-      "tp_id": "astra_28_2:11386:V:29500",
+      "tp_id": "astra_28_2:11386:V:27500",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
       "spacecraft": "Astra 2G",
       "position": "28.2E",
@@ -537,7 +537,7 @@
       "beam": "Europe",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "network": "Sky UK",
       "nid": 2,
@@ -546,27 +546,6 @@
       "tv_count": 8,
       "radio_count": 0,
       "source_transponder_id": 11938
-    },
-    {
-      "tp_id": "astra_28_2:11387:V:29500",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2E",
-      "position": "28.2E",
-      "frequency": 11387,
-      "polarization": "V",
-      "transponder": "11028",
-      "beam": "Spot",
-      "system": "DVB-S2",
-      "modulation": "QPSK",
-      "symbol_rate": 29500,
-      "fec": "8/9",
-      "network": "Sky UK",
-      "nid": 2,
-      "tid": 2408,
-      "channel_count": 8,
-      "tv_count": 8,
-      "radio_count": 0,
-      "source_transponder_id": 11028
     },
     {
       "tp_id": "astra_28_2:11426:H:27500",
@@ -695,7 +674,7 @@
       "source_transponder_id": 10981
     },
     {
-      "tp_id": "astra_28_2:11553:H:22000",
+      "tp_id": "astra_28_2:11553:H:23000",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
       "spacecraft": "Astra 2G",
       "position": "28.2E",
@@ -705,7 +684,7 @@
       "beam": "Europe",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "network": "Sky UK",
       "nid": 2,
@@ -716,7 +695,7 @@
       "source_transponder_id": 10992
     },
     {
-      "tp_id": "astra_28_2:11582:H:22000",
+      "tp_id": "astra_28_2:11582:H:23000",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
       "spacecraft": "Astra 2G",
       "position": "28.2E",
@@ -726,7 +705,7 @@
       "beam": "Europe",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "network": "Sky UK",
       "nid": 2,
@@ -758,7 +737,7 @@
       "source_transponder_id": 12736
     },
     {
-      "tp_id": "astra_28_2:11597:V:22000",
+      "tp_id": "astra_28_2:11597:V:23000",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
       "spacecraft": "Astra 2G",
       "position": "28.2E",
@@ -768,7 +747,7 @@
       "beam": "Europe",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "network": "Sky UK",
       "nid": 2,
@@ -989,7 +968,7 @@
       "source_transponder_id": 13363
     },
     {
-      "tp_id": "astra_28_2:12090:V:27500",
+      "tp_id": "astra_28_2:12090:V:29500",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
       "spacecraft": "Astra 2E",
       "position": "28.2E",
@@ -999,7 +978,7 @@
       "beam": "Europe",
       "system": "DVB-S2",
       "modulation": "QPSK",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "network": "Sky UK",
       "nid": 2,
@@ -1071,6 +1050,27 @@
       "tv_count": 28,
       "radio_count": 6,
       "source_transponder_id": 14470
+    },
+    {
+      "tp_id": "astra_28_2:12168:V:27500",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2F",
+      "position": "28.2E",
+      "frequency": 12168,
+      "polarization": "V",
+      "transponder": "1391",
+      "beam": "Europe",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "symbol_rate": 27500,
+      "fec": "2/3",
+      "network": "Sky UK",
+      "nid": 2,
+      "tid": 2024,
+      "channel_count": 7,
+      "tv_count": 7,
+      "radio_count": 0,
+      "source_transponder_id": 1391
     },
     {
       "tp_id": "astra_28_2:12188:H:27500",
@@ -1199,7 +1199,7 @@
       "source_transponder_id": 13547
     },
     {
-      "tp_id": "astra_28_2:12382:H:27500",
+      "tp_id": "astra_28_2:12382:H:29500",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
       "spacecraft": "Astra 2F",
       "position": "28.2E",
@@ -1209,7 +1209,7 @@
       "beam": "Spot",
       "system": "DVB-S2",
       "modulation": "8PSK",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "network": "Sky UK",
       "nid": 2,
@@ -1593,7 +1593,7 @@
       "position": "28.2E",
       "frequency": 10788,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -1613,7 +1613,7 @@
       "source_channel_id": 146237,
       "source_transponder_id": 1420,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10788:V:22000"
+      "tp_id": "astra_28_2:10788:V:23000"
     },
     {
       "name": "BBC Red Button",
@@ -1624,7 +1624,7 @@
       "position": "28.2E",
       "frequency": 10788,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -1644,7 +1644,7 @@
       "source_channel_id": 146238,
       "source_transponder_id": 1420,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10788:V:22000"
+      "tp_id": "astra_28_2:10788:V:23000"
     },
     {
       "name": "BBC One West",
@@ -1655,7 +1655,7 @@
       "position": "28.2E",
       "frequency": 10788,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -1675,7 +1675,7 @@
       "source_channel_id": 146239,
       "source_transponder_id": 1420,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10788:V:22000"
+      "tp_id": "astra_28_2:10788:V:23000"
     },
     {
       "name": "BBC R Cymru",
@@ -1686,7 +1686,7 @@
       "position": "28.2E",
       "frequency": 10788,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -1706,7 +1706,7 @@
       "source_channel_id": 175562,
       "source_transponder_id": 1420,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10788:V:22000"
+      "tp_id": "astra_28_2:10788:V:23000"
     },
     {
       "name": "BBC Scotland",
@@ -1717,7 +1717,7 @@
       "position": "28.2E",
       "frequency": 10788,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -1737,7 +1737,7 @@
       "source_channel_id": 146240,
       "source_transponder_id": 1420,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10788:V:22000"
+      "tp_id": "astra_28_2:10788:V:23000"
     },
     {
       "name": "BBC R6 Music",
@@ -1748,7 +1748,7 @@
       "position": "28.2E",
       "frequency": 10788,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -1768,7 +1768,7 @@
       "source_channel_id": 175563,
       "source_transponder_id": 1420,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10788:V:22000"
+      "tp_id": "astra_28_2:10788:V:23000"
     },
     {
       "name": "BBC R4 Extra",
@@ -1779,7 +1779,7 @@
       "position": "28.2E",
       "frequency": 10788,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -1799,7 +1799,7 @@
       "source_channel_id": 175564,
       "source_transponder_id": 1420,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10788:V:22000"
+      "tp_id": "astra_28_2:10788:V:23000"
     },
     {
       "name": "BBC World Sv",
@@ -1810,7 +1810,7 @@
       "position": "28.2E",
       "frequency": 10788,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -1830,7 +1830,7 @@
       "source_channel_id": 175565,
       "source_transponder_id": 1420,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10788:V:22000"
+      "tp_id": "astra_28_2:10788:V:23000"
     },
     {
       "name": "BBC One South West",
@@ -1841,7 +1841,7 @@
       "position": "28.2E",
       "frequency": 10788,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -1861,7 +1861,7 @@
       "source_channel_id": 146241,
       "source_transponder_id": 1420,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10788:V:22000"
+      "tp_id": "astra_28_2:10788:V:23000"
     },
     {
       "name": "BBC One Lon HD",
@@ -1872,7 +1872,7 @@
       "position": "28.2E",
       "frequency": 10803,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -1892,7 +1892,7 @@
       "source_channel_id": 175454,
       "source_transponder_id": 1421,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10803:H:22000"
+      "tp_id": "astra_28_2:10803:H:23000"
     },
     {
       "name": "BBC Two Wal HD",
@@ -1903,7 +1903,7 @@
       "position": "28.2E",
       "frequency": 10803,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -1923,7 +1923,7 @@
       "source_channel_id": 175455,
       "source_transponder_id": 1421,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10803:H:22000"
+      "tp_id": "astra_28_2:10803:H:23000"
     },
     {
       "name": "CBeebies HD",
@@ -1934,7 +1934,7 @@
       "position": "28.2E",
       "frequency": 10803,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -1954,7 +1954,7 @@
       "source_channel_id": 175456,
       "source_transponder_id": 1421,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10803:H:22000"
+      "tp_id": "astra_28_2:10803:H:23000"
     },
     {
       "name": "BBC R Ulster",
@@ -1965,7 +1965,7 @@
       "position": "28.2E",
       "frequency": 10803,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -1985,7 +1985,7 @@
       "source_channel_id": 175457,
       "source_transponder_id": 1421,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10803:H:22000"
+      "tp_id": "astra_28_2:10803:H:23000"
     },
     {
       "name": "BBC R Foyle",
@@ -1996,7 +1996,7 @@
       "position": "28.2E",
       "frequency": 10803,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -2016,7 +2016,7 @@
       "source_channel_id": 175458,
       "source_transponder_id": 1421,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10803:H:22000"
+      "tp_id": "astra_28_2:10803:H:23000"
     },
     {
       "name": "BBC One EastHD",
@@ -2027,7 +2027,7 @@
       "position": "28.2E",
       "frequency": 10803,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -2047,7 +2047,7 @@
       "source_channel_id": 175459,
       "source_transponder_id": 1421,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10803:H:22000"
+      "tp_id": "astra_28_2:10803:H:23000"
     },
     {
       "name": "BBC One EMidHD",
@@ -2058,7 +2058,7 @@
       "position": "28.2E",
       "frequency": 10803,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -2078,7 +2078,7 @@
       "source_channel_id": 175460,
       "source_transponder_id": 1421,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10803:H:22000"
+      "tp_id": "astra_28_2:10803:H:23000"
     },
     {
       "name": "BBC One Lon HD",
@@ -2089,7 +2089,7 @@
       "position": "28.2E",
       "frequency": 10818,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -2109,7 +2109,7 @@
       "source_channel_id": 175566,
       "source_transponder_id": 14201,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10818:V:22000"
+      "tp_id": "astra_28_2:10818:V:23000"
     },
     {
       "name": "BBC Two Wales",
@@ -2120,7 +2120,7 @@
       "position": "28.2E",
       "frequency": 10818,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -2140,7 +2140,7 @@
       "source_channel_id": 145988,
       "source_transponder_id": 14201,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10818:V:22000"
+      "tp_id": "astra_28_2:10818:V:23000"
     },
     {
       "name": "BBC Four",
@@ -2151,7 +2151,7 @@
       "position": "28.2E",
       "frequency": 10818,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -2171,7 +2171,7 @@
       "source_channel_id": 146269,
       "source_transponder_id": 14201,
       "updated": "2023-02-14",
-      "tp_id": "astra_28_2:10818:V:22000"
+      "tp_id": "astra_28_2:10818:V:23000"
     },
     {
       "name": "CBeebies UK",
@@ -2182,7 +2182,7 @@
       "position": "28.2E",
       "frequency": 10818,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -2202,7 +2202,7 @@
       "source_channel_id": 146270,
       "source_transponder_id": 14201,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10818:V:22000"
+      "tp_id": "astra_28_2:10818:V:23000"
     },
     {
       "name": "BBC R Ulster",
@@ -2213,7 +2213,7 @@
       "position": "28.2E",
       "frequency": 10818,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -2233,7 +2233,7 @@
       "source_channel_id": 175567,
       "source_transponder_id": 14201,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10818:V:22000"
+      "tp_id": "astra_28_2:10818:V:23000"
     },
     {
       "name": "BBC R Foyle",
@@ -2244,7 +2244,7 @@
       "position": "28.2E",
       "frequency": 10818,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -2264,7 +2264,7 @@
       "source_channel_id": 175568,
       "source_transponder_id": 14201,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10818:V:22000"
+      "tp_id": "astra_28_2:10818:V:23000"
     },
     {
       "name": "BBC One",
@@ -2275,7 +2275,7 @@
       "position": "28.2E",
       "frequency": 10818,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -2295,7 +2295,7 @@
       "source_channel_id": 145991,
       "source_transponder_id": 14201,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10818:V:22000"
+      "tp_id": "astra_28_2:10818:V:23000"
     },
     {
       "name": "BBC One East Midlands",
@@ -2306,7 +2306,7 @@
       "position": "28.2E",
       "frequency": 10818,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -2326,7 +2326,7 @@
       "source_channel_id": 145992,
       "source_transponder_id": 14201,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:10818:V:22000"
+      "tp_id": "astra_28_2:10818:V:23000"
     },
     {
       "name": "BBC One Y&L HD",
@@ -2353,10 +2353,10 @@
       "vpid": 5800,
       "audio": "5802 / nar / 5801 / eng",
       "nid": 2,
-      "tid": 2049,
-      "source_channel_id": 175652,
+      "tid": 2050,
+      "source_channel_id": 177652,
       "source_transponder_id": 1423,
-      "updated": "2026-11-18",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2384,10 +2384,10 @@
       "vpid": 5400,
       "audio": "5402 / nar / 5401 / eng",
       "nid": 2,
-      "tid": 2049,
-      "source_channel_id": 175653,
+      "tid": 2050,
+      "source_channel_id": 177653,
       "source_transponder_id": 1423,
-      "updated": "2026-11-18",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2415,10 +2415,10 @@
       "vpid": 5500,
       "audio": "5502 / nar / 5501 / eng",
       "nid": 2,
-      "tid": 2049,
-      "source_channel_id": 175654,
+      "tid": 2050,
+      "source_channel_id": 177654,
       "source_transponder_id": 1423,
-      "updated": "2026-11-18",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2446,10 +2446,10 @@
       "vpid": 5300,
       "audio": "5305 / nar / 5301 / eng",
       "nid": 2,
-      "tid": 2049,
-      "source_channel_id": 175655,
+      "tid": 2050,
+      "source_channel_id": 177655,
       "source_transponder_id": 1423,
-      "updated": "2026-11-18",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2477,10 +2477,10 @@
       "vpid": 5500,
       "audio": "5502 / nar / 5501 / eng",
       "nid": 2,
-      "tid": 2049,
-      "source_channel_id": 175656,
+      "tid": 2050,
+      "source_channel_id": 177656,
       "source_transponder_id": 1423,
-      "updated": "2026-11-18",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2508,10 +2508,10 @@
       "vpid": 5600,
       "audio": "5602 / nar / 5601 / eng",
       "nid": 2,
-      "tid": 2049,
-      "source_channel_id": 175657,
+      "tid": 2050,
+      "source_channel_id": 177657,
       "source_transponder_id": 1423,
-      "updated": "2026-11-18",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2539,10 +2539,10 @@
       "vpid": 0,
       "audio": "6007 / eng",
       "nid": 2,
-      "tid": 2049,
-      "source_channel_id": 175658,
+      "tid": 2050,
+      "source_channel_id": 177658,
       "source_transponder_id": 1423,
-      "updated": "2026-11-18",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2570,10 +2570,10 @@
       "vpid": 0,
       "audio": "6008 / gla",
       "nid": 2,
-      "tid": 2049,
-      "source_channel_id": 175659,
+      "tid": 2050,
+      "source_channel_id": 177659,
       "source_transponder_id": 1423,
-      "updated": "2026-11-18",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2601,10 +2601,10 @@
       "vpid": 0,
       "audio": "6009 / eng",
       "nid": 2,
-      "tid": 2049,
-      "source_channel_id": 175660,
+      "tid": 2050,
+      "source_channel_id": 177660,
       "source_transponder_id": 1423,
-      "updated": "2026-11-18",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2895,7 +2895,7 @@
       "position": "28.2E",
       "frequency": 10921,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -2915,7 +2915,7 @@
       "source_channel_id": 175661,
       "source_transponder_id": 10305,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:10921:H:22000"
+      "tp_id": "astra_28_2:10921:H:23000"
     },
     {
       "name": "E4+1",
@@ -2926,7 +2926,7 @@
       "position": "28.2E",
       "frequency": 10921,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -2946,7 +2946,7 @@
       "source_channel_id": 175662,
       "source_transponder_id": 10305,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:10921:H:22000"
+      "tp_id": "astra_28_2:10921:H:23000"
     },
     {
       "name": "Channel 4+1",
@@ -2957,7 +2957,7 @@
       "position": "28.2E",
       "frequency": 10921,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -2977,7 +2977,7 @@
       "source_channel_id": 175663,
       "source_transponder_id": 10305,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:10921:H:22000"
+      "tp_id": "astra_28_2:10921:H:23000"
     },
     {
       "name": "Channel 4+1",
@@ -2988,7 +2988,7 @@
       "position": "28.2E",
       "frequency": 10921,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -3008,7 +3008,7 @@
       "source_channel_id": 175664,
       "source_transponder_id": 10305,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:10921:H:22000"
+      "tp_id": "astra_28_2:10921:H:23000"
     },
     {
       "name": "Channel 4+1",
@@ -3019,7 +3019,7 @@
       "position": "28.2E",
       "frequency": 10921,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -3039,7 +3039,7 @@
       "source_channel_id": 175665,
       "source_transponder_id": 10305,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:10921:H:22000"
+      "tp_id": "astra_28_2:10921:H:23000"
     },
     {
       "name": "More4+1",
@@ -3050,7 +3050,7 @@
       "position": "28.2E",
       "frequency": 10921,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -3070,7 +3070,7 @@
       "source_channel_id": 175666,
       "source_transponder_id": 10305,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:10921:H:22000"
+      "tp_id": "astra_28_2:10921:H:23000"
     },
     {
       "name": "E4 Extra",
@@ -3081,7 +3081,7 @@
       "position": "28.2E",
       "frequency": 10921,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -3101,7 +3101,7 @@
       "source_channel_id": 175667,
       "source_transponder_id": 10305,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:10921:H:22000"
+      "tp_id": "astra_28_2:10921:H:23000"
     },
     {
       "name": "4seven",
@@ -3112,7 +3112,7 @@
       "position": "28.2E",
       "frequency": 10921,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -3132,7 +3132,7 @@
       "source_channel_id": 175668,
       "source_transponder_id": 10305,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:10921:H:22000"
+      "tp_id": "astra_28_2:10921:H:23000"
     },
     {
       "name": "Channel 4+1",
@@ -3143,7 +3143,7 @@
       "position": "28.2E",
       "frequency": 10921,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -3163,7 +3163,7 @@
       "source_channel_id": 175669,
       "source_transponder_id": 10305,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:10921:H:22000"
+      "tp_id": "astra_28_2:10921:H:23000"
     },
     {
       "name": "E4",
@@ -3174,7 +3174,7 @@
       "position": "28.2E",
       "frequency": 10921,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -3194,7 +3194,7 @@
       "source_channel_id": 175670,
       "source_transponder_id": 10305,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:10921:H:22000"
+      "tp_id": "astra_28_2:10921:H:23000"
     },
     {
       "name": "Film4+1",
@@ -3205,7 +3205,7 @@
       "position": "28.2E",
       "frequency": 10921,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -3225,7 +3225,7 @@
       "source_channel_id": 175671,
       "source_transponder_id": 10305,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:10921:H:22000"
+      "tp_id": "astra_28_2:10921:H:23000"
     },
     {
       "name": "Film4",
@@ -3236,7 +3236,7 @@
       "position": "28.2E",
       "frequency": 10921,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -3256,7 +3256,7 @@
       "source_channel_id": 175672,
       "source_transponder_id": 10305,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:10921:H:22000"
+      "tp_id": "astra_28_2:10921:H:23000"
     },
     {
       "name": "More4",
@@ -3267,7 +3267,7 @@
       "position": "28.2E",
       "frequency": 10921,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -3287,7 +3287,7 @@
       "source_channel_id": 175673,
       "source_transponder_id": 10305,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:10921:H:22000"
+      "tp_id": "astra_28_2:10921:H:23000"
     },
     {
       "name": "Channel 4 London",
@@ -4042,7 +4042,7 @@
       "position": "28.2E",
       "frequency": 11038,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4062,7 +4062,7 @@
       "source_channel_id": 175573,
       "source_transponder_id": 12121,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11038:V:22000"
+      "tp_id": "astra_28_2:11038:V:23000"
     },
     {
       "name": "BBC One Wal HD",
@@ -4073,7 +4073,7 @@
       "position": "28.2E",
       "frequency": 11038,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4093,7 +4093,7 @@
       "source_channel_id": 175574,
       "source_transponder_id": 12121,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11038:V:22000"
+      "tp_id": "astra_28_2:11038:V:23000"
     },
     {
       "name": "BBC NEWS HD",
@@ -4104,7 +4104,7 @@
       "position": "28.2E",
       "frequency": 11038,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4124,7 +4124,7 @@
       "source_channel_id": 175575,
       "source_transponder_id": 12121,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11038:V:22000"
+      "tp_id": "astra_28_2:11038:V:23000"
     },
     {
       "name": "BBC ALBA HD",
@@ -4135,7 +4135,7 @@
       "position": "28.2E",
       "frequency": 11038,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4155,7 +4155,7 @@
       "source_channel_id": 175576,
       "source_transponder_id": 12121,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11038:V:22000"
+      "tp_id": "astra_28_2:11038:V:23000"
     },
     {
       "name": "BBC One WM HD",
@@ -4166,7 +4166,7 @@
       "position": "28.2E",
       "frequency": 11038,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4186,7 +4186,7 @@
       "source_channel_id": 175577,
       "source_transponder_id": 12121,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11038:V:22000"
+      "tp_id": "astra_28_2:11038:V:23000"
     },
     {
       "name": "BBC R1",
@@ -4197,7 +4197,7 @@
       "position": "28.2E",
       "frequency": 11038,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4217,7 +4217,7 @@
       "source_channel_id": 175578,
       "source_transponder_id": 12121,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11038:V:22000"
+      "tp_id": "astra_28_2:11038:V:23000"
     },
     {
       "name": "BBC R2",
@@ -4228,7 +4228,7 @@
       "position": "28.2E",
       "frequency": 11038,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4248,7 +4248,7 @@
       "source_channel_id": 175579,
       "source_transponder_id": 12121,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11038:V:22000"
+      "tp_id": "astra_28_2:11038:V:23000"
     },
     {
       "name": "BBC R3",
@@ -4259,7 +4259,7 @@
       "position": "28.2E",
       "frequency": 11038,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4279,7 +4279,7 @@
       "source_channel_id": 175580,
       "source_transponder_id": 12121,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11038:V:22000"
+      "tp_id": "astra_28_2:11038:V:23000"
     },
     {
       "name": "BBC R4",
@@ -4290,7 +4290,7 @@
       "position": "28.2E",
       "frequency": 11038,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4310,7 +4310,7 @@
       "source_channel_id": 175581,
       "source_transponder_id": 12121,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11038:V:22000"
+      "tp_id": "astra_28_2:11038:V:23000"
     },
     {
       "name": "BBC R5L",
@@ -4321,7 +4321,7 @@
       "position": "28.2E",
       "frequency": 11038,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4341,7 +4341,7 @@
       "source_channel_id": 175582,
       "source_transponder_id": 12121,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11038:V:22000"
+      "tp_id": "astra_28_2:11038:V:23000"
     },
     {
       "name": "BBC Asian Net",
@@ -4352,7 +4352,7 @@
       "position": "28.2E",
       "frequency": 11038,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "3/4",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4372,7 +4372,751 @@
       "source_channel_id": 175583,
       "source_transponder_id": 12121,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11038:V:22000"
+      "tp_id": "astra_28_2:11038:V:23000"
+    },
+    {
+      "name": "NOW 80s",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50306,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2360,
+      "audio": "2361 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177628,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "Zee Cinema",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50315,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "Videoguard",
+      "free_to_air": false,
+      "compression": "MPEG-2",
+      "vpid": 2319,
+      "audio": "2320 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177629,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "NOW 70s",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50321,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2317,
+      "audio": "2322 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177630,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "Rewind TV",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50327,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-2",
+      "vpid": 2338,
+      "audio": "2339 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177631,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "Sikh Channel",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50335,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-2",
+      "vpid": 2307,
+      "audio": "2308 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177632,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "BLAZE",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50350,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2310,
+      "audio": "2309 / nar / 2311 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177633,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "NOW XMAS",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50352,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2323,
+      "audio": "2364 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177634,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "NOW ROCK",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50355,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2365,
+      "audio": "2372 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177635,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "NOW 90s & 00s",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50357,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2383,
+      "audio": "2384 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177636,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "Zee TV",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50360,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "Videoguard",
+      "free_to_air": false,
+      "compression": "MPEG-2",
+      "vpid": 2305,
+      "audio": "2306 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177637,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "Zee Punjabi",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50362,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "Videoguard",
+      "free_to_air": false,
+      "compression": "MPEG-2",
+      "vpid": 2342,
+      "audio": "2343 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177638,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "QTV Religious",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50365,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2312,
+      "audio": "2313 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177639,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "Sky History",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50368,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "Videoguard",
+      "free_to_air": false,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2353,
+      "audio": "2356 / nar / 2354 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177640,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "MysteryX",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50374,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "Videoguard",
+      "free_to_air": false,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2296,
+      "audio": "2299 / nar / 2297 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177641,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "Crime+Inv",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50377,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "Videoguard",
+      "free_to_air": false,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2292,
+      "audio": "2295 / nar / 2293 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177642,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "Crime+Inv+1",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50380,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "Videoguard",
+      "free_to_air": false,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2288,
+      "audio": "2291 / nar / 2289 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177643,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "Faith UK",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50384,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-2",
+      "vpid": 2329,
+      "audio": "2328 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177644,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "AAJ TAK",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50388,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2344,
+      "audio": "2345 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177645,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "ARY Digital",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50389,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2326,
+      "audio": "2330 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177646,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "ARY World",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50391,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2335,
+      "audio": "2334 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177647,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "JewelleryMaker",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50393,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2332,
+      "audio": "2333 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177648,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "GEO TV",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50394,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2315,
+      "audio": "2316 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177649,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "GEO News",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50395,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2351,
+      "audio": "2352 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177650,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
+    },
+    {
+      "name": "Noor TV",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2G",
+      "position": "28.2E",
+      "frequency": 11068,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 50396,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2340,
+      "audio": "2341 / eng",
+      "nid": 2,
+      "tid": 2065,
+      "source_channel_id": 177651,
+      "source_transponder_id": 10098,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11068:V:23000"
     },
     {
       "name": "Now 80s",
@@ -4383,7 +5127,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4403,7 +5147,7 @@
       "source_channel_id": 138860,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Zee Cinema UK",
@@ -4414,7 +5158,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4434,7 +5178,7 @@
       "source_channel_id": 134741,
       "source_transponder_id": 10970,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Now 70s",
@@ -4445,7 +5189,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4465,7 +5209,7 @@
       "source_channel_id": 128891,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Rewind TV",
@@ -4476,7 +5220,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4496,7 +5240,7 @@
       "source_channel_id": 154393,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Sikh Channel",
@@ -4507,7 +5251,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4527,7 +5271,7 @@
       "source_channel_id": 97907,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Blaze",
@@ -4538,7 +5282,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4558,7 +5302,7 @@
       "source_channel_id": 98967,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Blaze UK",
@@ -4569,7 +5313,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4589,10 +5333,10 @@
       "source_channel_id": 169030,
       "source_transponder_id": 10970,
       "updated": "2026-07-29",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
-      "name": "Clubland TV",
+      "name": "NOW XMAS",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
@@ -4600,7 +5344,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4619,8 +5363,8 @@
       "tid": 2065,
       "source_channel_id": 160010,
       "source_transponder_id": 10970,
-      "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Now Rock",
@@ -4631,7 +5375,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4651,7 +5395,7 @@
       "source_channel_id": 160011,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Now 90s & 00s",
@@ -4662,7 +5406,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4682,7 +5426,7 @@
       "source_channel_id": 160012,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Zee TV UK",
@@ -4693,7 +5437,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4713,7 +5457,7 @@
       "source_channel_id": 136767,
       "source_transponder_id": 10970,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Zee Punjabi",
@@ -4724,7 +5468,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4744,7 +5488,7 @@
       "source_channel_id": 155492,
       "source_transponder_id": 10970,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "ARY QTV UK",
@@ -4755,7 +5499,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4775,7 +5519,7 @@
       "source_channel_id": 137774,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Sky History",
@@ -4786,7 +5530,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4806,7 +5550,7 @@
       "source_channel_id": 91923,
       "source_transponder_id": 10970,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "MysteryX",
@@ -4817,7 +5561,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4837,7 +5581,7 @@
       "source_channel_id": 175467,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Crime + Investigation UK",
@@ -4848,7 +5592,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4868,7 +5612,7 @@
       "source_channel_id": 91925,
       "source_transponder_id": 10970,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Crime+Inv+1",
@@ -4879,7 +5623,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4899,7 +5643,7 @@
       "source_channel_id": 175468,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Faith UK",
@@ -4910,7 +5654,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4930,7 +5674,7 @@
       "source_channel_id": 160017,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Aaj Tak UK",
@@ -4941,7 +5685,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4961,7 +5705,7 @@
       "source_channel_id": 169029,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "ARY Digital UK",
@@ -4972,7 +5716,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -4992,7 +5736,7 @@
       "source_channel_id": 161841,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "ARY World",
@@ -5003,7 +5747,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5023,7 +5767,7 @@
       "source_channel_id": 161842,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Jewellery Maker",
@@ -5034,7 +5778,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5054,7 +5798,7 @@
       "source_channel_id": 161843,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Geo UK",
@@ -5065,7 +5809,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5085,7 +5829,7 @@
       "source_channel_id": 160015,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Geo News International",
@@ -5096,7 +5840,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5116,7 +5860,7 @@
       "source_channel_id": 160014,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "Noor TV (UK)",
@@ -5127,7 +5871,7 @@
       "position": "28.2E",
       "frequency": 11082,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5147,7 +5891,7 @@
       "source_channel_id": 169028,
       "source_transponder_id": 10970,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11082:H:22000"
+      "tp_id": "astra_28_2:11082:H:23000"
     },
     {
       "name": "SBN International",
@@ -5406,7 +6150,7 @@
       "position": "28.2E",
       "frequency": 11112,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5426,7 +6170,7 @@
       "source_channel_id": 175469,
       "source_transponder_id": 11923,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11112:H:22000"
+      "tp_id": "astra_28_2:11112:H:23000"
     },
     {
       "name": "GB News HD",
@@ -5437,7 +6181,7 @@
       "position": "28.2E",
       "frequency": 11112,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5457,7 +6201,7 @@
       "source_channel_id": 175470,
       "source_transponder_id": 11923,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11112:H:22000"
+      "tp_id": "astra_28_2:11112:H:23000"
     },
     {
       "name": "Sky HistoryHD",
@@ -5468,7 +6212,7 @@
       "position": "28.2E",
       "frequency": 11112,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5488,7 +6232,7 @@
       "source_channel_id": 175471,
       "source_transponder_id": 11923,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11112:H:22000"
+      "tp_id": "astra_28_2:11112:H:23000"
     },
     {
       "name": "ARY Digital UK",
@@ -5499,7 +6243,7 @@
       "position": "28.2E",
       "frequency": 11112,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5519,7 +6263,7 @@
       "source_channel_id": 129923,
       "source_transponder_id": 11923,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11112:H:22000"
+      "tp_id": "astra_28_2:11112:H:23000"
     },
     {
       "name": "SkySp Racing HD",
@@ -5530,7 +6274,7 @@
       "position": "28.2E",
       "frequency": 11112,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5550,7 +6294,7 @@
       "source_channel_id": 175472,
       "source_transponder_id": 11923,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11112:H:22000"
+      "tp_id": "astra_28_2:11112:H:23000"
     },
     {
       "name": "Zee TV HD",
@@ -5561,7 +6305,7 @@
       "position": "28.2E",
       "frequency": 11112,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5581,7 +6325,7 @@
       "source_channel_id": 175473,
       "source_transponder_id": 11923,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11112:H:22000"
+      "tp_id": "astra_28_2:11112:H:23000"
     },
     {
       "name": "4Syte TV",
@@ -5871,7 +6615,7 @@
       "position": "28.2E",
       "frequency": 11141,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5891,7 +6635,7 @@
       "source_channel_id": 161852,
       "source_transponder_id": 10976,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11141:H:22000"
+      "tp_id": "astra_28_2:11141:H:23000"
     },
     {
       "name": "NickToons Ireland",
@@ -5902,7 +6646,7 @@
       "position": "28.2E",
       "frequency": 11141,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5922,7 +6666,7 @@
       "source_channel_id": 92000,
       "source_transponder_id": 10976,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11141:H:22000"
+      "tp_id": "astra_28_2:11141:H:23000"
     },
     {
       "name": "Comedy Central UK +1",
@@ -5933,7 +6677,7 @@
       "position": "28.2E",
       "frequency": 11141,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5953,7 +6697,7 @@
       "source_channel_id": 127266,
       "source_transponder_id": 10976,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11141:H:22000"
+      "tp_id": "astra_28_2:11141:H:23000"
     },
     {
       "name": "Comedy Central Ireland",
@@ -5964,7 +6708,7 @@
       "position": "28.2E",
       "frequency": 11141,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -5984,7 +6728,7 @@
       "source_channel_id": 92010,
       "source_transponder_id": 10976,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11141:H:22000"
+      "tp_id": "astra_28_2:11141:H:23000"
     },
     {
       "name": "Nickelodeon+1",
@@ -5995,7 +6739,7 @@
       "position": "28.2E",
       "frequency": 11141,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -6015,7 +6759,7 @@
       "source_channel_id": 175474,
       "source_transponder_id": 10976,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11141:H:22000"
+      "tp_id": "astra_28_2:11141:H:23000"
     },
     {
       "name": "Comedy Extra Ireland",
@@ -6026,7 +6770,7 @@
       "position": "28.2E",
       "frequency": 11141,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -6046,7 +6790,7 @@
       "source_channel_id": 92008,
       "source_transponder_id": 10976,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11141:H:22000"
+      "tp_id": "astra_28_2:11141:H:23000"
     },
     {
       "name": "Nick Jr Ireland",
@@ -6057,7 +6801,7 @@
       "position": "28.2E",
       "frequency": 11141,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -6077,7 +6821,7 @@
       "source_channel_id": 92006,
       "source_transponder_id": 10976,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11141:H:22000"
+      "tp_id": "astra_28_2:11141:H:23000"
     },
     {
       "name": "Nick Jr+1",
@@ -6088,7 +6832,7 @@
       "position": "28.2E",
       "frequency": 11141,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -6108,7 +6852,7 @@
       "source_channel_id": 175475,
       "source_transponder_id": 10976,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11141:H:22000"
+      "tp_id": "astra_28_2:11141:H:23000"
     },
     {
       "name": "Nickelodeon Ireland",
@@ -6119,7 +6863,7 @@
       "position": "28.2E",
       "frequency": 11141,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -6139,7 +6883,7 @@
       "source_channel_id": 92003,
       "source_transponder_id": 10976,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11141:H:22000"
+      "tp_id": "astra_28_2:11141:H:23000"
     },
     {
       "name": "Nick Jr Too Ireland",
@@ -6150,7 +6894,7 @@
       "position": "28.2E",
       "frequency": 11141,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -6170,286 +6914,7 @@
       "source_channel_id": 127265,
       "source_transponder_id": 10976,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11141:H:22000"
-    },
-    {
-      "name": "NHK World Japan",
-      "type": "TV",
-      "quality": "HD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2G",
-      "position": "28.2E",
-      "frequency": 11224,
-      "polarization": "V",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 3147,
-      "country": "",
-      "country_code": "",
-      "beam": "Europe",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2315,
-      "audio": "2316 / eng / 2317 / eng",
-      "nid": null,
-      "tid": null,
-      "source_channel_id": 150158,
-      "source_transponder_id": 13612,
-      "updated": "2023-08-21",
-      "tp_id": "astra_28_2:11224:V:23000"
-    },
-    {
-      "name": "Takbeer TV",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2G",
-      "position": "28.2E",
-      "frequency": 11224,
-      "polarization": "V",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 53148,
-      "country": "",
-      "country_code": "",
-      "beam": "Europe",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-2",
-      "vpid": 2307,
-      "audio": "2308 / ara",
-      "nid": null,
-      "tid": null,
-      "source_channel_id": 169597,
-      "source_transponder_id": 13612,
-      "updated": "2026-08-26",
-      "tp_id": "astra_28_2:11224:V:23000"
-    },
-    {
-      "name": "Eman Channel",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2G",
-      "position": "28.2E",
-      "frequency": 11224,
-      "polarization": "V",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 53149,
-      "country": "",
-      "country_code": "",
-      "beam": "Europe",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2329,
-      "audio": "2328 / eng",
-      "nid": null,
-      "tid": null,
-      "source_channel_id": 169598,
-      "source_transponder_id": 13612,
-      "updated": "2026-08-26",
-      "tp_id": "astra_28_2:11224:V:23000"
-    },
-    {
-      "name": "Arirang World",
-      "type": "TV",
-      "quality": "HD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2G",
-      "position": "28.2E",
-      "frequency": 11224,
-      "polarization": "V",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 53150,
-      "country": "",
-      "country_code": "",
-      "beam": "Europe",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2309,
-      "audio": "2311 / eng / 2312 / eng",
-      "nid": null,
-      "tid": null,
-      "source_channel_id": 150159,
-      "source_transponder_id": 13612,
-      "updated": "2023-08-21",
-      "tp_id": "astra_28_2:11224:V:23000"
-    },
-    {
-      "name": "MTA 1 World",
-      "type": "TV",
-      "quality": "HD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2G",
-      "position": "28.2E",
-      "frequency": 11224,
-      "polarization": "V",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 53151,
-      "country": "",
-      "country_code": "",
-      "beam": "Europe",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2305,
-      "audio": "2306 / hin / 2313 / urd / 2314 / eng / 2318 / fre / 2319 / ger / 2320 / ara / 2321 / ben",
-      "nid": null,
-      "tid": null,
-      "source_channel_id": 150160,
-      "source_transponder_id": 13612,
-      "updated": "2023-08-21",
-      "tp_id": "astra_28_2:11224:V:23000"
-    },
-    {
-      "name": "Kanshi TV",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2G",
-      "position": "28.2E",
-      "frequency": 11224,
-      "polarization": "V",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 53155,
-      "country": "",
-      "country_code": "",
-      "beam": "Europe",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2334,
-      "audio": "",
-      "nid": null,
-      "tid": null,
-      "source_channel_id": 169599,
-      "source_transponder_id": 13612,
-      "updated": "2026-08-26",
-      "tp_id": "astra_28_2:11224:V:23000"
-    },
-    {
-      "name": "Ion TV",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2G",
-      "position": "28.2E",
-      "frequency": 11224,
-      "polarization": "V",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 53156,
-      "country": "",
-      "country_code": "",
-      "beam": "Europe",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2330,
-      "audio": "2331 / ben",
-      "nid": null,
-      "tid": null,
-      "source_channel_id": 169600,
-      "source_transponder_id": 13612,
-      "updated": "2026-08-26",
-      "tp_id": "astra_28_2:11224:V:23000"
-    },
-    {
-      "name": "ATN Bangla UK",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2G",
-      "position": "28.2E",
-      "frequency": 11224,
-      "polarization": "V",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 53157,
-      "country": "",
-      "country_code": "",
-      "beam": "Europe",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2332,
-      "audio": "2333 / ben",
-      "nid": null,
-      "tid": null,
-      "source_channel_id": 169601,
-      "source_transponder_id": 13612,
-      "updated": "2026-08-26",
-      "tp_id": "astra_28_2:11224:V:23000"
-    },
-    {
-      "name": "Sangat TV",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2G",
-      "position": "28.2E",
-      "frequency": 11224,
-      "polarization": "V",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 53158,
-      "country": "",
-      "country_code": "",
-      "beam": "Europe",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2310,
-      "audio": "",
-      "nid": null,
-      "tid": null,
-      "source_channel_id": 169602,
-      "source_transponder_id": 13612,
-      "updated": "2026-08-26",
-      "tp_id": "astra_28_2:11224:V:23000"
+      "tp_id": "astra_28_2:11141:H:23000"
     },
     {
       "name": "Arise News",
@@ -6878,15 +7343,15 @@
       "compression": "MPEG-4",
       "vpid": 2315,
       "audio": "2316 / eng / 2317 / eng",
-      "nid": null,
-      "tid": null,
+      "nid": 2,
+      "tid": 2106,
       "source_channel_id": 153861,
       "source_transponder_id": 11415,
-      "updated": "2024-03-29",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:11225:V:23000"
     },
     {
-      "name": "Great! Action",
+      "name": "Takbeer TV",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
@@ -6903,17 +7368,17 @@
       "country_code": "",
       "beam": "Spot",
       "provider": "Sky UK",
-      "package": "Sky UK",
+      "package": "",
       "encryption": "",
       "free_to_air": true,
       "compression": "MPEG-2",
       "vpid": 2307,
-      "audio": "2308 / eng",
-      "nid": null,
-      "tid": null,
-      "source_channel_id": 163414,
+      "audio": "2308 / ara",
+      "nid": 2,
+      "tid": 2106,
+      "source_channel_id": 169597,
       "source_transponder_id": 11415,
-      "updated": "2026-01-22",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:11225:V:23000"
     },
     {
@@ -6940,166 +7405,11 @@
       "compression": "MPEG-4",
       "vpid": 2329,
       "audio": "2328 / eng",
-      "nid": null,
-      "tid": null,
+      "nid": 2,
+      "tid": 2106,
       "source_channel_id": 161684,
       "source_transponder_id": 11415,
-      "updated": "2025-07-25",
-      "tp_id": "astra_28_2:11225:V:23000"
-    },
-    {
-      "name": "Arirang World",
-      "type": "TV",
-      "quality": "HD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2E",
-      "position": "28.2E",
-      "frequency": 11225,
-      "polarization": "V",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 53150,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2309,
-      "audio": "2311 / eng / 2312 / eng",
-      "nid": null,
-      "tid": null,
-      "source_channel_id": 158023,
-      "source_transponder_id": 11415,
-      "updated": "2025-01-08",
-      "tp_id": "astra_28_2:11225:V:23000"
-    },
-    {
-      "name": "MTA 1 World",
-      "type": "TV",
-      "quality": "HD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2E",
-      "position": "28.2E",
-      "frequency": 11225,
-      "polarization": "V",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 53151,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2305,
-      "audio": "2306 / hin / 2306 / hin / 2313 / urd / 2314 / eng / 2318 / fre / 2319 / ger / 2320 / ara / 2321 / ben",
-      "nid": null,
-      "tid": null,
-      "source_channel_id": 158024,
-      "source_transponder_id": 11415,
-      "updated": "2025-01-08",
-      "tp_id": "astra_28_2:11225:V:23000"
-    },
-    {
-      "name": "Iqra TV",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2E",
-      "position": "28.2E",
-      "frequency": 11225,
-      "polarization": "V",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 53152,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2322,
-      "audio": "2323 / eng",
-      "nid": null,
-      "tid": null,
-      "source_channel_id": 161685,
-      "source_transponder_id": 11415,
-      "updated": "2025-07-25",
-      "tp_id": "astra_28_2:11225:V:23000"
-    },
-    {
-      "name": "Iqra Bangla",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2E",
-      "position": "28.2E",
-      "frequency": 11225,
-      "polarization": "V",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 53153,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2324,
-      "audio": "2325 / ben",
-      "nid": null,
-      "tid": null,
-      "source_channel_id": 161687,
-      "source_transponder_id": 11415,
-      "updated": "2025-07-25",
-      "tp_id": "astra_28_2:11225:V:23000"
-    },
-    {
-      "name": "Islam TV",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2E",
-      "position": "28.2E",
-      "frequency": 11225,
-      "polarization": "V",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 53154,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2326,
-      "audio": "2327 / eng",
-      "nid": null,
-      "tid": null,
-      "source_channel_id": 161688,
-      "source_transponder_id": 11415,
-      "updated": "2025-07-25",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:11225:V:23000"
     },
     {
@@ -7126,11 +7436,11 @@
       "compression": "MPEG-4",
       "vpid": 2334,
       "audio": "2335 / eng",
-      "nid": null,
-      "tid": null,
+      "nid": 2,
+      "tid": 2106,
       "source_channel_id": 162793,
       "source_transponder_id": 11415,
-      "updated": "2025-09-30",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:11225:V:23000"
     },
     {
@@ -7157,11 +7467,11 @@
       "compression": "MPEG-4",
       "vpid": 2330,
       "audio": "2331 / ben",
-      "nid": null,
-      "tid": null,
+      "nid": 2,
+      "tid": 2106,
       "source_channel_id": 161686,
       "source_transponder_id": 11415,
-      "updated": "2025-07-25",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:11225:V:23000"
     },
     {
@@ -7188,11 +7498,42 @@
       "compression": "MPEG-4",
       "vpid": 2332,
       "audio": "2333 / ben",
-      "nid": null,
-      "tid": null,
+      "nid": 2,
+      "tid": 2106,
       "source_channel_id": 161689,
       "source_transponder_id": 11415,
-      "updated": "2025-07-25",
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:11225:V:23000"
+    },
+    {
+      "name": "Sangat",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2E",
+      "position": "28.2E",
+      "frequency": 11225,
+      "polarization": "V",
+      "symbol_rate": 23000,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 53158,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2310,
+      "audio": "2336 / eng",
+      "nid": 2,
+      "tid": 2106,
+      "source_channel_id": 177626,
+      "source_transponder_id": 11415,
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:11225:V:23000"
     },
     {
@@ -8560,37 +8901,6 @@
       "tp_id": "astra_28_2:11343:V:27500"
     },
     {
-      "name": "Thats TV2",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2F",
-      "position": "28.2E",
-      "frequency": 11343,
-      "polarization": "V",
-      "symbol_rate": 27500,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 55201,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-2",
-      "vpid": 2316,
-      "audio": "2318 / eng",
-      "nid": 2,
-      "tid": 2112,
-      "source_channel_id": 152694,
-      "source_transponder_id": 1988,
-      "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11343:V:27500"
-    },
-    {
       "name": "Legend Xtra",
       "type": "TV",
       "quality": "SD",
@@ -8611,45 +8921,14 @@
       "package": "",
       "encryption": "",
       "free_to_air": true,
-      "compression": "MPEG-2",
+      "compression": "MPEG-4 AVC (H.264)",
       "vpid": 2307,
       "audio": "2308 / eng",
       "nid": 2,
       "tid": 2112,
       "source_channel_id": 152123,
       "source_transponder_id": 1988,
-      "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11343:V:27500"
-    },
-    {
-      "name": "Thas 80s",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2F",
-      "position": "28.2E",
-      "frequency": 11343,
-      "polarization": "V",
-      "symbol_rate": 27500,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 55207,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-2",
-      "vpid": 2352,
-      "audio": "2326 / eng",
-      "nid": 2,
-      "tid": 2112,
-      "source_channel_id": 163781,
-      "source_transponder_id": 1988,
-      "updated": "2026-11-18",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:11343:V:27500"
     },
     {
@@ -8711,7 +8990,7 @@
       "tid": 2112,
       "source_channel_id": 162183,
       "source_transponder_id": 1988,
-      "updated": "2026-11-18",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:11343:V:27500"
     },
     {
@@ -8859,14 +9138,14 @@
       "package": "",
       "encryption": "",
       "free_to_air": true,
-      "compression": "MPEG-2",
+      "compression": "MPEG-4 AVC (H.264)",
       "vpid": 2314,
       "audio": "2315 / eng",
       "nid": 2,
       "tid": 2112,
       "source_channel_id": 152128,
       "source_transponder_id": 1988,
-      "updated": "2026-11-18",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:11343:V:27500"
     },
     {
@@ -8898,68 +9177,6 @@
       "source_channel_id": 175590,
       "source_transponder_id": 1988,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11343:V:27500"
-    },
-    {
-      "name": "Thats TV",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2F",
-      "position": "28.2E",
-      "frequency": 11343,
-      "polarization": "V",
-      "symbol_rate": 27500,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 55230,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-2",
-      "vpid": 2357,
-      "audio": "2356 / eng",
-      "nid": 2,
-      "tid": 2112,
-      "source_channel_id": 153206,
-      "source_transponder_id": 1988,
-      "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11343:V:27500"
-    },
-    {
-      "name": "That s 20th Century",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2F",
-      "position": "28.2E",
-      "frequency": 11343,
-      "polarization": "V",
-      "symbol_rate": 27500,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 55235,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-2",
-      "vpid": 2359,
-      "audio": "2358 / eng",
-      "nid": 2,
-      "tid": 2112,
-      "source_channel_id": 153207,
-      "source_transponder_id": 1988,
-      "updated": "2026-11-18",
       "tp_id": "astra_28_2:11343:V:27500"
     },
     {
@@ -9053,6 +9270,37 @@
       "source_channel_id": 175593,
       "source_transponder_id": 1988,
       "updated": "2026-11-17",
+      "tp_id": "astra_28_2:11343:V:27500"
+    },
+    {
+      "name": "55260",
+      "type": "TV",
+      "quality": "SD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2F",
+      "position": "28.2E",
+      "frequency": 11343,
+      "polarization": "V",
+      "symbol_rate": 27500,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 55260,
+      "country": "",
+      "country_code": "",
+      "beam": "Spot",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4 AVC (H.264)",
+      "vpid": 2318,
+      "audio": "2316 / eng",
+      "nid": 2,
+      "tid": 2112,
+      "source_channel_id": 177627,
+      "source_transponder_id": 1988,
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:11343:V:27500"
     },
     {
@@ -9239,37 +9487,6 @@
       "source_channel_id": 175599,
       "source_transponder_id": 1988,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11343:V:27500"
-    },
-    {
-      "name": "Thats Melody",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2F",
-      "position": "28.2E",
-      "frequency": 11343,
-      "polarization": "V",
-      "symbol_rate": 27500,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 55280,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-2",
-      "vpid": 2322,
-      "audio": "0 / eng",
-      "nid": 2,
-      "tid": 2112,
-      "source_channel_id": 155854,
-      "source_transponder_id": 1988,
-      "updated": "2026-11-18",
       "tp_id": "astra_28_2:11343:V:27500"
     },
     {
@@ -9622,7 +9839,7 @@
       "position": "28.2E",
       "frequency": 11385,
       "polarization": "H",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -9642,7 +9859,7 @@
       "source_channel_id": 175674,
       "source_transponder_id": 10949,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11385:H:29500"
+      "tp_id": "astra_28_2:11385:H:27500"
     },
     {
       "name": "ITV2 HD",
@@ -9653,7 +9870,7 @@
       "position": "28.2E",
       "frequency": 11385,
       "polarization": "H",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -9673,7 +9890,7 @@
       "source_channel_id": 175675,
       "source_transponder_id": 10949,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11385:H:29500"
+      "tp_id": "astra_28_2:11385:H:27500"
     },
     {
       "name": "ITV1 HD",
@@ -9684,7 +9901,7 @@
       "position": "28.2E",
       "frequency": 11385,
       "polarization": "H",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -9704,7 +9921,7 @@
       "source_channel_id": 175676,
       "source_transponder_id": 10949,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11385:H:29500"
+      "tp_id": "astra_28_2:11385:H:27500"
     },
     {
       "name": "ITV1 Wales HD",
@@ -9715,7 +9932,7 @@
       "position": "28.2E",
       "frequency": 11385,
       "polarization": "H",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -9735,7 +9952,7 @@
       "source_channel_id": 175677,
       "source_transponder_id": 10949,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11385:H:29500"
+      "tp_id": "astra_28_2:11385:H:27500"
     },
     {
       "name": "ITV1 HD",
@@ -9746,7 +9963,7 @@
       "position": "28.2E",
       "frequency": 11385,
       "polarization": "H",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -9766,7 +9983,7 @@
       "source_channel_id": 175678,
       "source_transponder_id": 10949,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11385:H:29500"
+      "tp_id": "astra_28_2:11385:H:27500"
     },
     {
       "name": "ITV1 HD",
@@ -9777,7 +9994,7 @@
       "position": "28.2E",
       "frequency": 11385,
       "polarization": "H",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -9797,7 +10014,7 @@
       "source_channel_id": 175679,
       "source_transponder_id": 10949,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11385:H:29500"
+      "tp_id": "astra_28_2:11385:H:27500"
     },
     {
       "name": "ITV1 HD",
@@ -9808,7 +10025,7 @@
       "position": "28.2E",
       "frequency": 11385,
       "polarization": "H",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -9828,7 +10045,7 @@
       "source_channel_id": 175680,
       "source_transponder_id": 10949,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11385:H:29500"
+      "tp_id": "astra_28_2:11385:H:27500"
     },
     {
       "name": "ITV1 HD",
@@ -9839,7 +10056,7 @@
       "position": "28.2E",
       "frequency": 11385,
       "polarization": "H",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -9859,7 +10076,7 @@
       "source_channel_id": 175681,
       "source_transponder_id": 10949,
       "updated": "2026-11-18",
-      "tp_id": "astra_28_2:11385:H:29500"
+      "tp_id": "astra_28_2:11385:H:27500"
     },
     {
       "name": "STV HD",
@@ -9870,7 +10087,7 @@
       "position": "28.2E",
       "frequency": 11386,
       "polarization": "V",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -9890,7 +10107,7 @@
       "source_channel_id": 175603,
       "source_transponder_id": 11938,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11386:V:29500"
+      "tp_id": "astra_28_2:11386:V:27500"
     },
     {
       "name": "UTV HD",
@@ -9901,7 +10118,7 @@
       "position": "28.2E",
       "frequency": 11386,
       "polarization": "V",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -9921,7 +10138,7 @@
       "source_channel_id": 175604,
       "source_transponder_id": 11938,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11386:V:29500"
+      "tp_id": "astra_28_2:11386:V:27500"
     },
     {
       "name": "ITV1 HD",
@@ -9932,7 +10149,7 @@
       "position": "28.2E",
       "frequency": 11386,
       "polarization": "V",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -9952,7 +10169,7 @@
       "source_channel_id": 175605,
       "source_transponder_id": 11938,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11386:V:29500"
+      "tp_id": "astra_28_2:11386:V:27500"
     },
     {
       "name": "ITV4 HD",
@@ -9963,7 +10180,7 @@
       "position": "28.2E",
       "frequency": 11386,
       "polarization": "V",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -9983,7 +10200,7 @@
       "source_channel_id": 175606,
       "source_transponder_id": 11938,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11386:V:29500"
+      "tp_id": "astra_28_2:11386:V:27500"
     },
     {
       "name": "ITV1 HD",
@@ -9994,7 +10211,7 @@
       "position": "28.2E",
       "frequency": 11386,
       "polarization": "V",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -10014,7 +10231,7 @@
       "source_channel_id": 175607,
       "source_transponder_id": 11938,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11386:V:29500"
+      "tp_id": "astra_28_2:11386:V:27500"
     },
     {
       "name": "ITV Quiz HD",
@@ -10025,7 +10242,7 @@
       "position": "28.2E",
       "frequency": 11386,
       "polarization": "V",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -10045,7 +10262,7 @@
       "source_channel_id": 175608,
       "source_transponder_id": 11938,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11386:V:29500"
+      "tp_id": "astra_28_2:11386:V:27500"
     },
     {
       "name": "ITV1 HD",
@@ -10056,7 +10273,7 @@
       "position": "28.2E",
       "frequency": 11386,
       "polarization": "V",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -10076,7 +10293,7 @@
       "source_channel_id": 175609,
       "source_transponder_id": 11938,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11386:V:29500"
+      "tp_id": "astra_28_2:11386:V:27500"
     },
     {
       "name": "ITV1 HD",
@@ -10087,7 +10304,7 @@
       "position": "28.2E",
       "frequency": 11386,
       "polarization": "V",
-      "symbol_rate": 29500,
+      "symbol_rate": 27500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -10107,255 +10324,7 @@
       "source_channel_id": 175610,
       "source_transponder_id": 11938,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11386:V:29500"
-    },
-    {
-      "name": "STV West",
-      "type": "TV",
-      "quality": "HD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2E",
-      "position": "28.2E",
-      "frequency": 11387,
-      "polarization": "V",
-      "symbol_rate": 29500,
-      "fec": "8/9",
-      "system": "DVB-S2",
-      "modulation": "QPSK",
-      "sid": 20800,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2305,
-      "audio": "0 / eng / 2307 / eng",
-      "nid": 2,
-      "tid": 2408,
-      "source_channel_id": 155799,
-      "source_transponder_id": 11028,
-      "updated": "2024-08-17",
-      "tp_id": "astra_28_2:11387:V:29500"
-    },
-    {
-      "name": "Ulster TV",
-      "type": "TV",
-      "quality": "HD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2E",
-      "position": "28.2E",
-      "frequency": 11387,
-      "polarization": "V",
-      "symbol_rate": 29500,
-      "fec": "8/9",
-      "system": "DVB-S2",
-      "modulation": "QPSK",
-      "sid": 20810,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2312,
-      "audio": "0 / eng / 0",
-      "nid": 2,
-      "tid": 2408,
-      "source_channel_id": 155801,
-      "source_transponder_id": 11028,
-      "updated": "2024-08-17",
-      "tp_id": "astra_28_2:11387:V:29500"
-    },
-    {
-      "name": "ITV 1 Yorkshire East",
-      "type": "TV",
-      "quality": "HD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2E",
-      "position": "28.2E",
-      "frequency": 11387,
-      "polarization": "V",
-      "symbol_rate": 29500,
-      "fec": "8/9",
-      "system": "DVB-S2",
-      "modulation": "QPSK",
-      "sid": 20820,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2320,
-      "audio": "0 / eng / 0",
-      "nid": 2,
-      "tid": 2408,
-      "source_channel_id": 155804,
-      "source_transponder_id": 11028,
-      "updated": "2024-08-17",
-      "tp_id": "astra_28_2:11387:V:29500"
-    },
-    {
-      "name": "ITV 4",
-      "type": "TV",
-      "quality": "HD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2E",
-      "position": "28.2E",
-      "frequency": 11387,
-      "polarization": "V",
-      "symbol_rate": 29500,
-      "fec": "8/9",
-      "system": "DVB-S2",
-      "modulation": "QPSK",
-      "sid": 20825,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2320,
-      "audio": "0 / 0 / eng",
-      "nid": 2,
-      "tid": 2408,
-      "source_channel_id": 155802,
-      "source_transponder_id": 11028,
-      "updated": "2024-08-17",
-      "tp_id": "astra_28_2:11387:V:29500"
-    },
-    {
-      "name": "ITV 1 London",
-      "type": "TV",
-      "quality": "HD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2E",
-      "position": "28.2E",
-      "frequency": 11387,
-      "polarization": "V",
-      "symbol_rate": 29500,
-      "fec": "8/9",
-      "system": "DVB-S2",
-      "modulation": "QPSK",
-      "sid": 20830,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2339,
-      "audio": "2340 / eng / 0",
-      "nid": 2,
-      "tid": 2408,
-      "source_channel_id": 160703,
-      "source_transponder_id": 11028,
-      "updated": "2025-06-11",
-      "tp_id": "astra_28_2:11387:V:29500"
-    },
-    {
-      "name": "ITV Quiz",
-      "type": "TV",
-      "quality": "HD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2E",
-      "position": "28.2E",
-      "frequency": 11387,
-      "polarization": "V",
-      "symbol_rate": 29500,
-      "fec": "8/9",
-      "system": "DVB-S2",
-      "modulation": "QPSK",
-      "sid": 20835,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2335,
-      "audio": "0 / eng",
-      "nid": 2,
-      "tid": 2408,
-      "source_channel_id": 160702,
-      "source_transponder_id": 11028,
-      "updated": "2025-06-11",
-      "tp_id": "astra_28_2:11387:V:29500"
-    },
-    {
-      "name": "ITV 1 Anglia East",
-      "type": "TV",
-      "quality": "HD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2E",
-      "position": "28.2E",
-      "frequency": 11387,
-      "polarization": "V",
-      "symbol_rate": 29500,
-      "fec": "8/9",
-      "system": "DVB-S2",
-      "modulation": "QPSK",
-      "sid": 20840,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2325,
-      "audio": "0 / 0 / eng",
-      "nid": 2,
-      "tid": 2408,
-      "source_channel_id": 155805,
-      "source_transponder_id": 11028,
-      "updated": "2024-08-17",
-      "tp_id": "astra_28_2:11387:V:29500"
-    },
-    {
-      "name": "ITV 1 Border UK",
-      "type": "TV",
-      "quality": "HD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2E",
-      "position": "28.2E",
-      "frequency": 11387,
-      "polarization": "V",
-      "symbol_rate": 29500,
-      "fec": "8/9",
-      "system": "DVB-S2",
-      "modulation": "QPSK",
-      "sid": 20850,
-      "country": "",
-      "country_code": "",
-      "beam": "Spot",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-4",
-      "vpid": 2310,
-      "audio": "0 / eng",
-      "nid": 2,
-      "tid": 2408,
-      "source_channel_id": 155800,
-      "source_transponder_id": 11028,
-      "updated": "2024-08-17",
-      "tp_id": "astra_28_2:11387:V:29500"
+      "tp_id": "astra_28_2:11386:V:27500"
     },
     {
       "name": "The Racing Partnership",
@@ -11854,7 +11823,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -11874,7 +11843,7 @@
       "source_channel_id": 175499,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Radio X",
@@ -11885,7 +11854,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -11905,7 +11874,7 @@
       "source_channel_id": 175500,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Capital",
@@ -11916,7 +11885,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -11936,7 +11905,7 @@
       "source_channel_id": 175501,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Gold Radio",
@@ -11947,7 +11916,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -11967,7 +11936,7 @@
       "source_channel_id": 175502,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Classic FM",
@@ -11978,7 +11947,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -11998,7 +11967,7 @@
       "source_channel_id": 175503,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "SONY TV",
@@ -12009,7 +11978,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12029,7 +11998,7 @@
       "source_channel_id": 175504,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "High Street TV 2",
@@ -12040,7 +12009,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12060,7 +12029,7 @@
       "source_channel_id": 169768,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Sony Max 2",
@@ -12071,7 +12040,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12091,7 +12060,7 @@
       "source_channel_id": 163419,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "High Street TV 3",
@@ -12102,7 +12071,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12122,7 +12091,7 @@
       "source_channel_id": 169767,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "SONY SAB",
@@ -12133,7 +12102,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12153,7 +12122,7 @@
       "source_channel_id": 175505,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "SONY MAX",
@@ -12164,7 +12133,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12184,7 +12153,7 @@
       "source_channel_id": 175506,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "TV Warehouse",
@@ -12195,7 +12164,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12215,7 +12184,7 @@
       "source_channel_id": 163415,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Best Direct UK",
@@ -12226,7 +12195,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12246,7 +12215,7 @@
       "source_channel_id": 163878,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "NDTV 24x7",
@@ -12257,7 +12226,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12277,7 +12246,7 @@
       "source_channel_id": 92155,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Faith World TV",
@@ -12288,7 +12257,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12308,7 +12277,7 @@
       "source_channel_id": 163958,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "SonLife",
@@ -12319,7 +12288,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12339,7 +12308,7 @@
       "source_channel_id": 175507,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "MATV National",
@@ -12350,7 +12319,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12370,7 +12339,7 @@
       "source_channel_id": 163959,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Gemporia",
@@ -12381,7 +12350,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12401,7 +12370,7 @@
       "source_channel_id": 163956,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "LBC News",
@@ -12412,7 +12381,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12432,7 +12401,7 @@
       "source_channel_id": 175508,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Smooth",
@@ -12443,7 +12412,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12463,7 +12432,7 @@
       "source_channel_id": 175509,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Heart Dance",
@@ -12474,7 +12443,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12494,7 +12463,7 @@
       "source_channel_id": 175510,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Virgin Radio",
@@ -12505,7 +12474,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12525,7 +12494,7 @@
       "source_channel_id": 175511,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Heart 90s",
@@ -12536,7 +12505,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12556,7 +12525,7 @@
       "source_channel_id": 175512,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Channel S UK",
@@ -12567,7 +12536,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12587,7 +12556,7 @@
       "source_channel_id": 153150,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Hum News",
@@ -12598,7 +12567,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12618,7 +12587,7 @@
       "source_channel_id": 163960,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Hum TV Europe",
@@ -12629,7 +12598,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12649,7 +12618,7 @@
       "source_channel_id": 163961,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Deen TV",
@@ -12660,7 +12629,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12680,7 +12649,7 @@
       "source_channel_id": 163962,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Panjab Radio",
@@ -12691,7 +12660,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12711,7 +12680,7 @@
       "source_channel_id": 175513,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "BFBS Radio",
@@ -12722,7 +12691,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12742,7 +12711,7 @@
       "source_channel_id": 175514,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "LBC",
@@ -12753,7 +12722,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12773,7 +12742,7 @@
       "source_channel_id": 175515,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Heart",
@@ -12784,7 +12753,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12804,7 +12773,7 @@
       "source_channel_id": 175516,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Heart 80s",
@@ -12815,7 +12784,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12835,7 +12804,7 @@
       "source_channel_id": 175517,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "Times Radio",
@@ -12846,7 +12815,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12866,7 +12835,7 @@
       "source_channel_id": 175518,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "talkSPORT",
@@ -12877,7 +12846,7 @@
       "position": "28.2E",
       "frequency": 11553,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12897,7 +12866,7 @@
       "source_channel_id": 175519,
       "source_transponder_id": 10992,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11553:H:22000"
+      "tp_id": "astra_28_2:11553:H:23000"
     },
     {
       "name": "TNTSports2 HD",
@@ -12908,7 +12877,7 @@
       "position": "28.2E",
       "frequency": 11582,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12928,7 +12897,7 @@
       "source_channel_id": 175520,
       "source_transponder_id": 12180,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11582:H:22000"
+      "tp_id": "astra_28_2:11582:H:23000"
     },
     {
       "name": "TNTSports4 HD",
@@ -12939,7 +12908,7 @@
       "position": "28.2E",
       "frequency": 11582,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12959,7 +12928,7 @@
       "source_channel_id": 175521,
       "source_transponder_id": 12180,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11582:H:22000"
+      "tp_id": "astra_28_2:11582:H:23000"
     },
     {
       "name": "TNTSBoxOffHD",
@@ -12970,7 +12939,7 @@
       "position": "28.2E",
       "frequency": 11582,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -12990,7 +12959,7 @@
       "source_channel_id": 175522,
       "source_transponder_id": 12180,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11582:H:22000"
+      "tp_id": "astra_28_2:11582:H:23000"
     },
     {
       "name": "TNTSports1 HD",
@@ -13001,7 +12970,7 @@
       "position": "28.2E",
       "frequency": 11582,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -13021,7 +12990,7 @@
       "source_channel_id": 175523,
       "source_transponder_id": 12180,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11582:H:22000"
+      "tp_id": "astra_28_2:11582:H:23000"
     },
     {
       "name": "50662",
@@ -13032,7 +13001,7 @@
       "position": "28.2E",
       "frequency": 11582,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -13052,7 +13021,7 @@
       "source_channel_id": 175524,
       "source_transponder_id": 12180,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11582:H:22000"
+      "tp_id": "astra_28_2:11582:H:23000"
     },
     {
       "name": "50663",
@@ -13063,7 +13032,7 @@
       "position": "28.2E",
       "frequency": 11582,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -13083,7 +13052,7 @@
       "source_channel_id": 175525,
       "source_transponder_id": 12180,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11582:H:22000"
+      "tp_id": "astra_28_2:11582:H:23000"
     },
     {
       "name": "TNTSports3 HD",
@@ -13094,7 +13063,7 @@
       "position": "28.2E",
       "frequency": 11582,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -13114,7 +13083,7 @@
       "source_channel_id": 175527,
       "source_transponder_id": 12180,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11582:H:22000"
+      "tp_id": "astra_28_2:11582:H:23000"
     },
     {
       "name": "50682",
@@ -13125,7 +13094,7 @@
       "position": "28.2E",
       "frequency": 11582,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -13145,7 +13114,7 @@
       "source_channel_id": 175528,
       "source_transponder_id": 12180,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11582:H:22000"
+      "tp_id": "astra_28_2:11582:H:23000"
     },
     {
       "name": "50683",
@@ -13156,7 +13125,7 @@
       "position": "28.2E",
       "frequency": 11582,
       "polarization": "H",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -13176,7 +13145,7 @@
       "source_channel_id": 175529,
       "source_transponder_id": 12180,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11582:H:22000"
+      "tp_id": "astra_28_2:11582:H:23000"
     },
     {
       "name": "Lucky TV",
@@ -14210,7 +14179,7 @@
       "position": "28.2E",
       "frequency": 11597,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -14230,7 +14199,7 @@
       "source_channel_id": 155221,
       "source_transponder_id": 11022,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11597:V:22000"
+      "tp_id": "astra_28_2:11597:V:23000"
     },
     {
       "name": "TNT Sports 7",
@@ -14241,7 +14210,7 @@
       "position": "28.2E",
       "frequency": 11597,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -14261,7 +14230,7 @@
       "source_channel_id": 155225,
       "source_transponder_id": 11022,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11597:V:22000"
+      "tp_id": "astra_28_2:11597:V:23000"
     },
     {
       "name": "TNT Sports 8",
@@ -14272,7 +14241,7 @@
       "position": "28.2E",
       "frequency": 11597,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -14292,7 +14261,7 @@
       "source_channel_id": 155224,
       "source_transponder_id": 11022,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11597:V:22000"
+      "tp_id": "astra_28_2:11597:V:23000"
     },
     {
       "name": "TNT Sports 9",
@@ -14303,7 +14272,7 @@
       "position": "28.2E",
       "frequency": 11597,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -14323,7 +14292,7 @@
       "source_channel_id": 155223,
       "source_transponder_id": 11022,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11597:V:22000"
+      "tp_id": "astra_28_2:11597:V:23000"
     },
     {
       "name": "TNT Sports 10",
@@ -14334,7 +14303,7 @@
       "position": "28.2E",
       "frequency": 11597,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -14354,7 +14323,7 @@
       "source_channel_id": 155227,
       "source_transponder_id": 11022,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11597:V:22000"
+      "tp_id": "astra_28_2:11597:V:23000"
     },
     {
       "name": "TNT Sports Mosaic",
@@ -14365,7 +14334,7 @@
       "position": "28.2E",
       "frequency": 11597,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -14385,7 +14354,7 @@
       "source_channel_id": 155226,
       "source_transponder_id": 11022,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11597:V:22000"
+      "tp_id": "astra_28_2:11597:V:23000"
     },
     {
       "name": "TNT Sports 1",
@@ -14396,7 +14365,7 @@
       "position": "28.2E",
       "frequency": 11597,
       "polarization": "V",
-      "symbol_rate": 22000,
+      "symbol_rate": 23000,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -14416,7 +14385,7 @@
       "source_channel_id": 162631,
       "source_transponder_id": 11022,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11597:V:22000"
+      "tp_id": "astra_28_2:11597:V:23000"
     },
     {
       "name": "Racing UK HD",
@@ -18519,7 +18488,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -18539,7 +18508,7 @@
       "source_channel_id": 175621,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "SkySp News",
@@ -18550,7 +18519,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -18570,7 +18539,7 @@
       "source_channel_id": 175622,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "SkySp NFL",
@@ -18581,7 +18550,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -18601,7 +18570,7 @@
       "source_channel_id": 175623,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Sky Crime UK",
@@ -18612,7 +18581,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -18632,7 +18601,7 @@
       "source_channel_id": 155230,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Sky Sports News Ireland",
@@ -18643,7 +18612,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -18663,7 +18632,7 @@
       "source_channel_id": 154956,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Sky Sports Golf Ireland",
@@ -18674,7 +18643,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -18694,7 +18663,7 @@
       "source_channel_id": 154957,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Nat Geo",
@@ -18705,7 +18674,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -18725,7 +18694,7 @@
       "source_channel_id": 175624,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Sky Comedy Ireland",
@@ -18736,7 +18705,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -18756,7 +18725,7 @@
       "source_channel_id": 154960,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Challenge Ireland",
@@ -18767,7 +18736,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -18787,7 +18756,7 @@
       "source_channel_id": 154823,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Sky Sports Tennis",
@@ -18798,7 +18767,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -18818,7 +18787,7 @@
       "source_channel_id": 154825,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Sky Sports Main Event Ireland",
@@ -18829,7 +18798,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -18849,7 +18818,7 @@
       "source_channel_id": 154764,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Sky Witness",
@@ -18860,7 +18829,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -18880,7 +18849,7 @@
       "source_channel_id": 175625,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Sky One",
@@ -18891,7 +18860,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -18911,7 +18880,7 @@
       "source_channel_id": 175626,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Sky News UK",
@@ -18922,7 +18891,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -18942,7 +18911,7 @@
       "source_channel_id": 154766,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Sky Sports Premier League Ireland",
@@ -18953,7 +18922,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -18973,7 +18942,7 @@
       "source_channel_id": 155044,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Sky Atlantic UK",
@@ -18984,7 +18953,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -19004,7 +18973,7 @@
       "source_channel_id": 154765,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Sky Atlantic Ireland",
@@ -19015,7 +18984,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -19035,7 +19004,7 @@
       "source_channel_id": 154824,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "SkyNewsArabia",
@@ -19046,7 +19015,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -19066,7 +19035,7 @@
       "source_channel_id": 175627,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Sky Sports Football UK",
@@ -19077,7 +19046,7 @@
       "position": "28.2E",
       "frequency": 12090,
       "polarization": "V",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "8/9",
       "system": "DVB-S2",
       "modulation": "QPSK",
@@ -19097,7 +19066,7 @@
       "source_channel_id": 155045,
       "source_transponder_id": 13900,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12090:V:27500"
+      "tp_id": "astra_28_2:12090:V:29500"
     },
     {
       "name": "Sky RB",
@@ -21301,6 +21270,223 @@
       "tp_id": "astra_28_2:12148:H:27500"
     },
     {
+      "name": "BBC One South",
+      "type": "TV",
+      "quality": "HD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2F",
+      "position": "28.2E",
+      "frequency": 12168,
+      "polarization": "V",
+      "symbol_rate": 27500,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 1204,
+      "country": "",
+      "country_code": "",
+      "beam": "Europe",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4",
+      "vpid": 515,
+      "audio": "644 / eng / 652 / eng",
+      "nid": 2,
+      "tid": 2024,
+      "source_channel_id": 169116,
+      "source_transponder_id": 1391,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:12168:V:27500"
+    },
+    {
+      "name": "Sky Witness Ireland",
+      "type": "TV",
+      "quality": "HD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2F",
+      "position": "28.2E",
+      "frequency": 12168,
+      "polarization": "V",
+      "symbol_rate": 27500,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 4010,
+      "country": "",
+      "country_code": "",
+      "beam": "Europe",
+      "provider": "Sky UK",
+      "package": "Sky UK",
+      "encryption": "Videoguard",
+      "free_to_air": false,
+      "compression": "MPEG-4",
+      "vpid": 520,
+      "audio": "643 / nar / 656 / eng",
+      "nid": 2,
+      "tid": 2024,
+      "source_channel_id": 151414,
+      "source_transponder_id": 1391,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:12168:V:27500"
+    },
+    {
+      "name": "CNBC UK",
+      "type": "TV",
+      "quality": "HD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2F",
+      "position": "28.2E",
+      "frequency": 12168,
+      "polarization": "V",
+      "symbol_rate": 27500,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 5088,
+      "country": "",
+      "country_code": "",
+      "beam": "Europe",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4",
+      "vpid": 513,
+      "audio": "641 / eng",
+      "nid": 2,
+      "tid": 2024,
+      "source_channel_id": 169118,
+      "source_transponder_id": 1391,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:12168:V:27500"
+    },
+    {
+      "name": "STV North",
+      "type": "TV",
+      "quality": "HD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2F",
+      "position": "28.2E",
+      "frequency": 12168,
+      "polarization": "V",
+      "symbol_rate": 27500,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 5168,
+      "country": "",
+      "country_code": "",
+      "beam": "Europe",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4",
+      "vpid": 517,
+      "audio": "645 / nar / 642 / eng",
+      "nid": 2,
+      "tid": 2024,
+      "source_channel_id": 169119,
+      "source_transponder_id": 1391,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:12168:V:27500"
+    },
+    {
+      "name": "Channel 4 Midlands",
+      "type": "TV",
+      "quality": "HD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2F",
+      "position": "28.2E",
+      "frequency": 12168,
+      "polarization": "V",
+      "symbol_rate": 27500,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 5213,
+      "country": "",
+      "country_code": "",
+      "beam": "Europe",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4",
+      "vpid": 518,
+      "audio": "655 / nar / 647 / eng",
+      "nid": 2,
+      "tid": 2024,
+      "source_channel_id": 169120,
+      "source_transponder_id": 1391,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:12168:V:27500"
+    },
+    {
+      "name": "Channel 4 North",
+      "type": "TV",
+      "quality": "HD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2F",
+      "position": "28.2E",
+      "frequency": 12168,
+      "polarization": "V",
+      "symbol_rate": 27500,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 5249,
+      "country": "",
+      "country_code": "",
+      "beam": "Europe",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4",
+      "vpid": 512,
+      "audio": "646 / nar / 640 / eng",
+      "nid": 2,
+      "tid": 2024,
+      "source_channel_id": 169121,
+      "source_transponder_id": 1391,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:12168:V:27500"
+    },
+    {
+      "name": "Sky Mix UK",
+      "type": "TV",
+      "quality": "HD",
+      "satellite_group": "Astra 2E/2F/2G 28.2°E",
+      "spacecraft": "Astra 2F",
+      "position": "28.2E",
+      "frequency": 12168,
+      "polarization": "V",
+      "symbol_rate": 27500,
+      "fec": "2/3",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 6831,
+      "country": "",
+      "country_code": "",
+      "beam": "Europe",
+      "provider": "Sky UK",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "MPEG-4",
+      "vpid": 519,
+      "audio": "651 / nar / 650 / eng",
+      "nid": 2,
+      "tid": 2024,
+      "source_channel_id": 169122,
+      "source_transponder_id": 1391,
+      "updated": "2026-11-25",
+      "tp_id": "astra_28_2:12168:V:27500"
+    },
+    {
       "name": "Sky Atlantic HD UK",
       "type": "TV",
       "quality": "HD",
@@ -22262,7 +22448,7 @@
       "tp_id": "astra_28_2:12285:V:27500"
     },
     {
-      "name": "Sky xXx HD",
+      "name": "Chipmunks HD",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
@@ -22289,7 +22475,7 @@
       "tid": 2030,
       "source_channel_id": 175638,
       "source_transponder_id": 11724,
-      "updated": "2026-11-17",
+      "updated": "2026-11-25",
       "tp_id": "astra_28_2:12285:V:27500"
     },
     {
@@ -22735,7 +22921,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -22755,7 +22941,7 @@
       "source_channel_id": 158069,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "DMAX UK +1",
@@ -22766,7 +22952,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -22786,7 +22972,7 @@
       "source_channel_id": 117089,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "Quest Red UK",
@@ -22797,7 +22983,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -22817,7 +23003,7 @@
       "source_channel_id": 171995,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "DMAX UK",
@@ -22828,7 +23014,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -22848,7 +23034,7 @@
       "source_channel_id": 117091,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "QUEST HD",
@@ -22859,7 +23045,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -22879,7 +23065,7 @@
       "source_channel_id": 175559,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "Quest Ireland",
@@ -22890,7 +23076,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -22910,7 +23096,7 @@
       "source_channel_id": 158068,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "DMAX Ireland",
@@ -22921,7 +23107,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -22941,7 +23127,7 @@
       "source_channel_id": 162699,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "TLC UK",
@@ -22952,7 +23138,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -22972,7 +23158,7 @@
       "source_channel_id": 162700,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "TLC UK +1",
@@ -22983,7 +23169,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -23003,7 +23189,7 @@
       "source_channel_id": 162701,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "Food Network UK",
@@ -23014,7 +23200,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -23034,7 +23220,7 @@
       "source_channel_id": 171996,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "Really Ireland",
@@ -23045,7 +23231,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -23065,7 +23251,7 @@
       "source_channel_id": 165290,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "Really UK +1",
@@ -23076,7 +23262,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -23096,7 +23282,7 @@
       "source_channel_id": 163621,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "Cartoon Net HD",
@@ -23107,7 +23293,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -23127,7 +23313,7 @@
       "source_channel_id": 175560,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "TLC HD",
@@ -23138,7 +23324,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -23158,7 +23344,7 @@
       "source_channel_id": 175561,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "Quest UK +1",
@@ -23169,7 +23355,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -23189,7 +23375,7 @@
       "source_channel_id": 160507,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "TLC UK",
@@ -23200,7 +23386,7 @@
       "position": "28.2E",
       "frequency": 12382,
       "polarization": "H",
-      "symbol_rate": 27500,
+      "symbol_rate": 29500,
       "fec": "2/3",
       "system": "DVB-S2",
       "modulation": "8PSK",
@@ -23220,7 +23406,7 @@
       "source_channel_id": 165291,
       "source_transponder_id": 12894,
       "updated": "2026-11-17",
-      "tp_id": "astra_28_2:12382:H:27500"
+      "tp_id": "astra_28_2:12382:H:29500"
     },
     {
       "name": "Joy Prime",
