@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-25T23:29:42.555274+00:00",
+  "generated_utc": "2026-11-26T11:57:36.214309+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=19E",
-    "last_updated": "2026-11-25"
+    "last_updated": "2026-11-26"
   },
   "satellite": {
     "id": "astra_19_2",
@@ -12,10 +12,10 @@
     "position": "19.2E"
   },
   "counts": {
-    "transponders": 91,
-    "channels": 960,
+    "transponders": 92,
+    "channels": 962,
     "tv": 826,
-    "radio": 134,
+    "radio": 136,
     "sd": 360,
     "hd": 417,
     "uhd_4k": 49,
@@ -1008,6 +1008,27 @@
       "tv_count": 0,
       "radio_count": 2,
       "source_transponder_id": 1326
+    },
+    {
+      "tp_id": "astra_19_2:11694:V:940",
+      "satellite_group": "Astra 19.2°E",
+      "spacecraft": "Astra 1P",
+      "position": "19.2E",
+      "frequency": 11694,
+      "polarization": "V",
+      "transponder": "15247",
+      "beam": "PE2",
+      "system": "DVB-S",
+      "modulation": "QPSK",
+      "symbol_rate": 940,
+      "fec": "1/2",
+      "network": "",
+      "nid": 1,
+      "tid": 1,
+      "channel_count": 2,
+      "tv_count": 0,
+      "radio_count": 2,
+      "source_transponder_id": 15247
     },
     {
       "tp_id": "astra_19_2:11739:V:27500",
@@ -14832,7 +14853,7 @@
       "tp_id": "astra_19_2:11377:V:22000"
     },
     {
-      "name": "FUT NOVA",
+      "name": "NOVA.",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -14859,11 +14880,11 @@
       "tid": 1014,
       "source_channel_id": 177490,
       "source_transponder_id": 15225,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "M+ VAMOS 3",
+      "name": "M+ VAMOS 3.",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -14890,11 +14911,11 @@
       "tid": 1014,
       "source_channel_id": 177491,
       "source_transponder_id": 15225,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "FUT ORIG",
+      "name": "M+ Originales.",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -14921,11 +14942,11 @@
       "tid": 1014,
       "source_channel_id": 177492,
       "source_transponder_id": 15225,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "FUT AX",
+      "name": "AXN.",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -14952,11 +14973,11 @@
       "tid": 1014,
       "source_channel_id": 177493,
       "source_transponder_id": 15225,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "ARAGON TV INT",
+      "name": "ARAGON TV INT.",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -14983,11 +15004,11 @@
       "tid": 1014,
       "source_channel_id": 177494,
       "source_transponder_id": 15225,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "FUT LA2",
+      "name": "LA 2.",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -15014,11 +15035,11 @@
       "tid": 1014,
       "source_channel_id": 177495,
       "source_transponder_id": 15225,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "FUT STAR",
+      "name": "STAR Channel.",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -15045,11 +15066,11 @@
       "tid": 1014,
       "source_channel_id": 177496,
       "source_transponder_id": 15225,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "FUT DRAM",
+      "name": "M+ DRAMA.",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -15076,11 +15097,11 @@
       "tid": 1014,
       "source_channel_id": 177497,
       "source_transponder_id": 15225,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "FUT DSN",
+      "name": "Disney Channel.",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -15107,11 +15128,11 @@
       "tid": 1014,
       "source_channel_id": 177498,
       "source_transponder_id": 15225,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "FUT ACC",
+      "name": "M+ ACCIÓN.",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -15138,11 +15159,11 @@
       "tid": 1014,
       "source_channel_id": 177488,
       "source_transponder_id": 15225,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "FUT NGW",
+      "name": "NAT GEO WILD.",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -15169,11 +15190,11 @@
       "tid": 1014,
       "source_channel_id": 177499,
       "source_transponder_id": 15225,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "FUT IBER",
+      "name": "IBERALIA TV.",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -15200,11 +15221,11 @@
       "tid": 1014,
       "source_channel_id": 177500,
       "source_transponder_id": 15225,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "FUT COMED",
+      "name": "M+ COMEDIA.",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -15231,11 +15252,11 @@
       "tid": 1014,
       "source_channel_id": 177502,
       "source_transponder_id": 15225,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "FUT DOCU",
+      "name": "M+ Documentales.",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -15262,11 +15283,11 @@
       "tid": 1014,
       "source_channel_id": 177508,
       "source_transponder_id": 15225,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11406:V:22000"
     },
     {
-      "name": "TEST GOLF HD",
+      "name": "M+ GOLF HD.",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -15293,11 +15314,11 @@
       "tid": 1016,
       "source_channel_id": 177841,
       "source_transponder_id": 15226,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11436:V:22000"
     },
     {
-      "name": "FUT CASAyPESCA HD",
+      "name": "CAZAyPESCA HD.",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -15324,11 +15345,11 @@
       "tid": 1016,
       "source_channel_id": 177509,
       "source_transponder_id": 15226,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11436:V:22000"
     },
     {
-      "name": "FUT DEP",
+      "name": "M+DEPORTESHD.",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -15355,11 +15376,11 @@
       "tid": 1016,
       "source_channel_id": 177511,
       "source_transponder_id": 15226,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11436:V:22000"
     },
     {
-      "name": "FUT M+ LCAMPEONES",
+      "name": "M+LCAMPEONES.",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -15386,11 +15407,11 @@
       "tid": 1016,
       "source_channel_id": 177515,
       "source_transponder_id": 15226,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11436:V:22000"
     },
     {
-      "name": "FUT M+ VAMOS 3",
+      "name": "M+ VAMOS 3 HD.",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -15417,11 +15438,11 @@
       "tid": 1016,
       "source_channel_id": 177514,
       "source_transponder_id": 15226,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11436:V:22000"
     },
     {
-      "name": "FUT M+ HITS HD",
+      "name": "M+ HITS HD.",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -15448,11 +15469,11 @@
       "tid": 1016,
       "source_channel_id": 177513,
       "source_transponder_id": 15226,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11436:V:22000"
     },
     {
-      "name": "FUT CLASIC",
+      "name": "M+ CLÁSICOS HD.",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -15479,11 +15500,11 @@
       "tid": 1016,
       "source_channel_id": 177510,
       "source_transponder_id": 15226,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11436:V:22000"
     },
     {
-      "name": "FUT DOCU",
+      "name": "M+Documentales HD.",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -15510,7 +15531,7 @@
       "tid": 1016,
       "source_channel_id": 177512,
       "source_transponder_id": 15226,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11436:V:22000"
     },
     {
@@ -17436,6 +17457,68 @@
       "tp_id": "astra_19_2:11686:V:940"
     },
     {
+      "name": "DLF USI2",
+      "type": "RADIO",
+      "quality": "RADIO",
+      "satellite_group": "Astra 19.2°E",
+      "spacecraft": "Astra 1P",
+      "position": "19.2E",
+      "frequency": 11694,
+      "polarization": "V",
+      "symbol_rate": 940,
+      "fec": "1/2",
+      "system": "DVB-S",
+      "modulation": "QPSK",
+      "sid": 1000,
+      "country": "",
+      "country_code": "",
+      "beam": "PE2",
+      "provider": "",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "",
+      "vpid": 0,
+      "audio": "101 / ger",
+      "nid": 1,
+      "tid": 1,
+      "source_channel_id": 177971,
+      "source_transponder_id": 15247,
+      "updated": "2026-11-26",
+      "tp_id": "astra_19_2:11694:V:940"
+    },
+    {
+      "name": "DLFK USI2",
+      "type": "RADIO",
+      "quality": "RADIO",
+      "satellite_group": "Astra 19.2°E",
+      "spacecraft": "Astra 1P",
+      "position": "19.2E",
+      "frequency": 11694,
+      "polarization": "V",
+      "symbol_rate": 940,
+      "fec": "1/2",
+      "system": "DVB-S",
+      "modulation": "QPSK",
+      "sid": 2000,
+      "country": "",
+      "country_code": "",
+      "beam": "PE2",
+      "provider": "",
+      "package": "",
+      "encryption": "",
+      "free_to_air": true,
+      "compression": "",
+      "vpid": 0,
+      "audio": "201 / ger",
+      "nid": 1,
+      "tid": 1,
+      "source_channel_id": 177972,
+      "source_transponder_id": 15247,
+      "updated": "2026-11-26",
+      "tp_id": "astra_19_2:11694:V:940"
+    },
+    {
       "name": "CCN INT",
       "type": "TV",
       "quality": "SD",
@@ -17494,11 +17577,11 @@
       "tid": 2,
       "source_channel_id": 162234,
       "source_transponder_id": 1357,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11759:H:27500"
     },
     {
-      "name": "Beate uhse",
+      "name": "Beate Uhse",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -17525,7 +17608,7 @@
       "tid": 2,
       "source_channel_id": 161279,
       "source_transponder_id": 1357,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11759:H:27500"
     },
     {
@@ -17556,7 +17639,7 @@
       "tid": 2,
       "source_channel_id": 159224,
       "source_transponder_id": 1357,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11759:H:27500"
     },
     {
@@ -17591,7 +17674,7 @@
       "tp_id": "astra_19_2:11759:H:27500"
     },
     {
-      "name": "Sky One Deutschland",
+      "name": "Sky One",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -17618,7 +17701,7 @@
       "tid": 2,
       "source_channel_id": 162276,
       "source_transponder_id": 1357,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11759:H:27500"
     },
     {
@@ -17742,7 +17825,7 @@
       "tid": 2,
       "source_channel_id": 162277,
       "source_transponder_id": 1357,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11759:H:27500"
     },
     {
@@ -17773,7 +17856,7 @@
       "tid": 2,
       "source_channel_id": 106229,
       "source_transponder_id": 1357,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11759:H:27500"
     },
     {
@@ -17994,7 +18077,7 @@
       "tp_id": "astra_19_2:11778:V:29500"
     },
     {
-      "name": "UNIVERSAL TV",
+      "name": "Universal TV",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -18021,11 +18104,11 @@
       "tid": 16,
       "source_channel_id": 159240,
       "source_transponder_id": 11358,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11798:H:27500"
     },
     {
-      "name": "WARNER TV SERIE",
+      "name": "Warner TV Serie",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -18052,7 +18135,7 @@
       "tid": 16,
       "source_channel_id": 159239,
       "source_transponder_id": 11358,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11798:H:27500"
     },
     {
@@ -18207,11 +18290,11 @@
       "tid": 16,
       "source_channel_id": 99036,
       "source_transponder_id": 11358,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11798:H:27500"
     },
     {
-      "name": "STEST1",
+      "name": "STEST1",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -18238,7 +18321,7 @@
       "tid": 16,
       "source_channel_id": 176120,
       "source_transponder_id": 11358,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11798:H:27500"
     },
     {
@@ -19172,7 +19255,7 @@
       "tp_id": "astra_19_2:11895:V:29700"
     },
     {
-      "name": "Sky Crime Deutschland",
+      "name": "Sky Crime",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -19194,16 +19277,16 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1535,
-      "audio": "1539 / deu",
+      "audio": "1539 / deu / 1540 / eng",
       "nid": 133,
       "tid": 6,
       "source_channel_id": 154044,
       "source_transponder_id": 1364,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11915:H:27500"
     },
     {
-      "name": "Sky Sport F1 Deutschland",
+      "name": "Sky Sport F1",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -19230,11 +19313,11 @@
       "tid": 6,
       "source_channel_id": 161106,
       "source_transponder_id": 1364,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11915:H:27500"
     },
     {
-      "name": "Sky Nature Deutschland",
+      "name": "Sky Nature",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -19261,7 +19344,7 @@
       "tid": 6,
       "source_channel_id": 154045,
       "source_transponder_id": 1364,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11915:H:27500"
     },
     {
@@ -19292,11 +19375,11 @@
       "tid": 6,
       "source_channel_id": 154046,
       "source_transponder_id": 1364,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11915:H:27500"
     },
     {
-      "name": "National Geographic Germany",
+      "name": "NatGeo",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -19323,11 +19406,11 @@
       "tid": 6,
       "source_channel_id": 162319,
       "source_transponder_id": 1364,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11915:H:27500"
     },
     {
-      "name": "Sky Cinema Premiére",
+      "name": "Sky Cinema Premiere",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -19354,7 +19437,7 @@
       "tid": 6,
       "source_channel_id": 79304,
       "source_transponder_id": 1364,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11915:H:27500"
     },
     {
@@ -20722,7 +20805,7 @@
       "tp_id": "astra_19_2:11973:V:27500"
     },
     {
-      "name": "Nicktoons Deutschland",
+      "name": "Nicktoons",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -20749,7 +20832,7 @@
       "tid": 13,
       "source_channel_id": 136458,
       "source_transponder_id": 1367,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11993:H:27500"
     },
     {
@@ -20780,11 +20863,11 @@
       "tid": 13,
       "source_channel_id": 72998,
       "source_transponder_id": 1367,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11993:H:27500"
     },
     {
-      "name": "Sky Cinema Jurassic HD",
+      "name": "Sky Cinema Blockbuster",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -20811,7 +20894,7 @@
       "tid": 13,
       "source_channel_id": 154056,
       "source_transponder_id": 1367,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11993:H:27500"
     },
     {
@@ -20842,7 +20925,7 @@
       "tid": 13,
       "source_channel_id": 159241,
       "source_transponder_id": 1367,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11993:H:27500"
     },
     {
@@ -20868,16 +20951,16 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1023,
-      "audio": "1026 / 1028",
+      "audio": "1026",
       "nid": 133,
       "tid": 13,
       "source_channel_id": 159242,
       "source_transponder_id": 1367,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11993:H:27500"
     },
     {
-      "name": "13th. Street",
+      "name": "13th Street",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -20904,7 +20987,7 @@
       "tid": 13,
       "source_channel_id": 162289,
       "source_transponder_id": 1367,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11993:H:27500"
     },
     {
@@ -20935,7 +21018,7 @@
       "tid": 13,
       "source_channel_id": 154057,
       "source_transponder_id": 1367,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:11993:H:27500"
     },
     {
@@ -21311,7 +21394,7 @@
       "tp_id": "astra_19_2:12032:H:27500"
     },
     {
-      "name": "Sky cinema action",
+      "name": "Sky Cinema Action",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -21338,7 +21421,7 @@
       "tid": 4,
       "source_channel_id": 161105,
       "source_transponder_id": 1369,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12032:H:27500"
     },
     {
@@ -21369,7 +21452,7 @@
       "tid": 4,
       "source_channel_id": 159287,
       "source_transponder_id": 1369,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12032:H:27500"
     },
     {
@@ -21426,12 +21509,12 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 3327,
-      "audio": "3330 / 3332",
+      "audio": "3330",
       "nid": 133,
       "tid": 4,
       "source_channel_id": 152418,
       "source_transponder_id": 1369,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12032:H:27500"
     },
     {
@@ -21462,7 +21545,7 @@
       "tid": 4,
       "source_channel_id": 152417,
       "source_transponder_id": 1369,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12032:H:27500"
     },
     {
@@ -22737,7 +22820,7 @@
       "tp_id": "astra_19_2:12148:H:27500"
     },
     {
-      "name": "Deluxe Music",
+      "name": "DELUXE MUSIC",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -22764,7 +22847,7 @@
       "tid": 7,
       "source_channel_id": 69154,
       "source_transponder_id": 1276,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12148:H:27500"
     },
     {
@@ -22830,7 +22913,7 @@
       "tp_id": "astra_19_2:12148:H:27500"
     },
     {
-      "name": "Rock Antenne",
+      "name": "ROCK ANTENNE",
       "type": "RADIO",
       "quality": "RADIO",
       "satellite_group": "Astra 19.2°E",
@@ -22857,11 +22940,11 @@
       "tid": 7,
       "source_channel_id": 5802,
       "source_transponder_id": 1276,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12148:H:27500"
     },
     {
-      "name": "Sunshine Live",
+      "name": "sunshine live",
       "type": "RADIO",
       "quality": "RADIO",
       "satellite_group": "Astra 19.2°E",
@@ -22888,11 +22971,11 @@
       "tid": 7,
       "source_channel_id": 5804,
       "source_transponder_id": 1276,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12148:H:27500"
     },
     {
-      "name": "Antenne Bayern",
+      "name": "ANTENNE BAYERN",
       "type": "RADIO",
       "quality": "RADIO",
       "satellite_group": "Astra 19.2°E",
@@ -22919,7 +23002,7 @@
       "tid": 7,
       "source_channel_id": 5805,
       "source_transponder_id": 1276,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12148:H:27500"
     },
     {
@@ -25828,7 +25911,7 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1279,
-      "audio": "1280 / deu / 1281 / eng",
+      "audio": "1280 / deu",
       "nid": 133,
       "tid": 12,
       "source_channel_id": 162019,
@@ -25837,7 +25920,7 @@
       "tp_id": "astra_19_2:12305:H:27500"
     },
     {
-      "name": "Sky šport bundesliga",
+      "name": "Sky Sport Bundesliga",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -25864,7 +25947,7 @@
       "tid": 12,
       "source_channel_id": 162021,
       "source_transponder_id": 1372,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12305:H:27500"
     },
     {
@@ -25890,12 +25973,12 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 767,
-      "audio": "771 / deu / 772 / eng",
+      "audio": "771 / deu",
       "nid": 133,
       "tid": 12,
       "source_channel_id": 162018,
       "source_transponder_id": 1372,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12305:H:27500"
     },
     {
@@ -25926,11 +26009,11 @@
       "tid": 12,
       "source_channel_id": 45031,
       "source_transponder_id": 1372,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12305:H:27500"
     },
     {
-      "name": "Sky Sci-Fi Deutschland",
+      "name": "Sky Sci-Fi",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -25957,7 +26040,7 @@
       "tid": 12,
       "source_channel_id": 164722,
       "source_transponder_id": 1372,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12305:H:27500"
     },
     {
@@ -26116,7 +26199,7 @@
       "tp_id": "astra_19_2:12305:H:27500"
     },
     {
-      "name": "STEST2",
+      "name": "STEST2",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -26143,7 +26226,7 @@
       "tid": 12,
       "source_channel_id": 176125,
       "source_transponder_id": 1372,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12305:H:27500"
     },
     {
@@ -27046,7 +27129,7 @@
       "tp_id": "astra_19_2:12363:V:27500"
     },
     {
-      "name": "History HD Deutschland",
+      "name": "HISTORY Channel",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -27073,11 +27156,11 @@
       "tid": 11,
       "source_channel_id": 37973,
       "source_transponder_id": 1373,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12383:H:27500"
     },
     {
-      "name": "DAZN 2 Deutschland",
+      "name": "DAZN 2",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -27104,11 +27187,11 @@
       "tid": 11,
       "source_channel_id": 161109,
       "source_transponder_id": 1373,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12383:H:27500"
     },
     {
-      "name": "DAZN 1 Deutschland",
+      "name": "DAZN 1",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -27135,7 +27218,7 @@
       "tid": 11,
       "source_channel_id": 161110,
       "source_transponder_id": 1373,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12383:H:27500"
     },
     {
@@ -27170,7 +27253,7 @@
       "tp_id": "astra_19_2:12383:H:27500"
     },
     {
-      "name": "SKY SHOWCASE",
+      "name": "Sky Showcase",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 19.2°E",
@@ -27197,11 +27280,11 @@
       "tid": 11,
       "source_channel_id": 159280,
       "source_transponder_id": 1373,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12383:H:27500"
     },
     {
-      "name": "Motorvision TV",
+      "name": "Motorvision+",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -27228,7 +27311,7 @@
       "tid": 11,
       "source_channel_id": 116165,
       "source_transponder_id": 1373,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12383:H:27500"
     },
     {
@@ -27294,7 +27377,7 @@
       "tp_id": "astra_19_2:12383:H:27500"
     },
     {
-      "name": "Cartoon Network Deutschland",
+      "name": "Cartoon Network",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -27321,7 +27404,7 @@
       "tid": 11,
       "source_channel_id": 116164,
       "source_transponder_id": 1373,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12383:H:27500"
     },
     {
@@ -27941,7 +28024,7 @@
       "tid": 5,
       "source_channel_id": 5882,
       "source_transponder_id": 1287,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12460:H:27500"
     },
     {
@@ -28189,7 +28272,7 @@
       "tid": 33,
       "source_channel_id": 23134,
       "source_transponder_id": 1288,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12480:V:27500"
     },
     {
@@ -28255,7 +28338,7 @@
       "tp_id": "astra_19_2:12480:V:27500"
     },
     {
-      "name": "Regio TV",
+      "name": "REGIO TV",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -28282,7 +28365,7 @@
       "tid": 33,
       "source_channel_id": 32053,
       "source_transponder_id": 1288,
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "tp_id": "astra_19_2:12480:V:27500"
     },
     {

@@ -1,254 +1,26 @@
 {
   "uydu_id": "hellas_39",
   "uydu_adi": "Hellas Sat 39.0°E",
-  "olusturma_zamani_utc": "2026-11-25T23:29:58.875258+00:00",
+  "olusturma_zamani_utc": "2026-11-26T11:57:48.844654+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 600,
+    "onceki_kanal": 594,
     "yeni_kanal": 594,
-    "eklenen_kanal": 1,
-    "silinen_kanal": 7,
-    "degisen_kanal": 4,
+    "eklenen_kanal": 0,
+    "silinen_kanal": 0,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
-    "onceki_tp": 36,
+    "onceki_tp": 35,
     "yeni_tp": 35,
     "eklenen_tp": 0,
-    "silinen_tp": 1,
-    "degisen_tp": 1
+    "silinen_tp": 0,
+    "degisen_tp": 0
   },
-  "eklenen_kanallar": [
-    {
-      "kanal_adi": "Kanali 6",
-      "frekans": 11778,
-      "polarizasyon": "H",
-      "sembol_orani": 16515,
-      "fec": "5/6",
-      "video_pid": "0",
-      "ses_pid": "1011 / gre,ell",
-      "uydu": "HellasSat 4",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "8",
-      "paket": "",
-      "tp_id": "hellas_39:11778:H:16515",
-      "konum_id": "hellas_39",
-      "konum_adi": "Hellas Sat 39.0°E",
-      "kapsama": "EuropeBSS"
-    }
-  ],
-  "silinen_kanallar": [
-    {
-      "kanal_adi": "Alpha Kyprou",
-      "frekans": 11761,
-      "polarizasyon": "H",
-      "sembol_orani": 16515,
-      "fec": "5/6",
-      "video_pid": "1000",
-      "ses_pid": "2000 / gre,ell",
-      "uydu": "HellasSat 4",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "1",
-      "paket": "",
-      "tp_id": "hellas_39:11761:H:16515",
-      "konum_id": "hellas_39",
-      "konum_adi": "Hellas Sat 39.0°E",
-      "kapsama": "EuropeBSS"
-    },
-    {
-      "kanal_adi": "Extra",
-      "frekans": 11761,
-      "polarizasyon": "H",
-      "sembol_orani": 16515,
-      "fec": "5/6",
-      "video_pid": "1004",
-      "ses_pid": "2004 / gre,ell",
-      "uydu": "HellasSat 4",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "11",
-      "paket": "",
-      "tp_id": "hellas_39:11761:H:16515",
-      "konum_id": "hellas_39",
-      "konum_adi": "Hellas Sat 39.0°E",
-      "kapsama": "EuropeBSS"
-    },
-    {
-      "kanal_adi": "Ant1 Cyprus",
-      "frekans": 11761,
-      "polarizasyon": "H",
-      "sembol_orani": 16515,
-      "fec": "5/6",
-      "video_pid": "1001",
-      "ses_pid": "2001 / gre,ell",
-      "uydu": "HellasSat 4",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "2",
-      "paket": "",
-      "tp_id": "hellas_39:11761:H:16515",
-      "konum_id": "hellas_39",
-      "konum_adi": "Hellas Sat 39.0°E",
-      "kapsama": "EuropeBSS"
-    },
-    {
-      "kanal_adi": "Omega Channel",
-      "frekans": 11761,
-      "polarizasyon": "H",
-      "sembol_orani": 16515,
-      "fec": "5/6",
-      "video_pid": "1003",
-      "ses_pid": "2003 / gre,ell",
-      "uydu": "HellasSat 4",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "3",
-      "paket": "",
-      "tp_id": "hellas_39:11761:H:16515",
-      "konum_id": "hellas_39",
-      "konum_adi": "Hellas Sat 39.0°E",
-      "kapsama": "EuropeBSS"
-    },
-    {
-      "kanal_adi": "Sigma TV",
-      "frekans": 11761,
-      "polarizasyon": "H",
-      "sembol_orani": 16515,
-      "fec": "5/6",
-      "video_pid": "1006",
-      "ses_pid": "2006 / gre,ell",
-      "uydu": "HellasSat 4",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "4",
-      "paket": "",
-      "tp_id": "hellas_39:11761:H:16515",
-      "konum_id": "hellas_39",
-      "konum_adi": "Hellas Sat 39.0°E",
-      "kapsama": "EuropeBSS"
-    },
-    {
-      "kanal_adi": "Capital TV (Cyprus)",
-      "frekans": 11761,
-      "polarizasyon": "H",
-      "sembol_orani": 16515,
-      "fec": "5/6",
-      "video_pid": "1002",
-      "ses_pid": "2002 / gre,ell",
-      "uydu": "HellasSat 4",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "5",
-      "paket": "",
-      "tp_id": "hellas_39:11761:H:16515",
-      "konum_id": "hellas_39",
-      "konum_adi": "Hellas Sat 39.0°E",
-      "kapsama": "EuropeBSS"
-    },
-    {
-      "kanal_adi": "Kanali 6",
-      "frekans": 11761,
-      "polarizasyon": "H",
-      "sembol_orani": 16515,
-      "fec": "5/6",
-      "video_pid": "0",
-      "ses_pid": "1011 / grc",
-      "uydu": "HellasSat 4",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "8",
-      "paket": "",
-      "tp_id": "hellas_39:11761:H:16515",
-      "konum_id": "hellas_39",
-      "konum_adi": "Hellas Sat 39.0°E",
-      "kapsama": "EuropeBSS"
-    }
-  ],
-  "degisen_kanallar": [
-    {
-      "anahtar": "hellas_39|hellas_39:11778:H:16515|sid:13",
-      "kanal_adi": "HS6",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Smile TV (Greece)",
-          "yeni": "HS6"
-        },
-        "kalite": {
-          "onceki": "HD",
-          "yeni": "SD"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:11778:H:16515|sid:14",
-      "kanal_adi": "ΒΕΡΓΙΝΑ ΚΥΠΡΟΥ HD",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Vergina TV",
-          "yeni": "ΒΕΡΓΙΝΑ ΚΥΠΡΟΥ HD"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:11778:H:16515|sid:15",
-      "kanal_adi": "HTV 4K",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "HTV",
-          "yeni": "HTV 4K"
-        },
-        "ses_pid": {
-          "onceki": "2009 / grc",
-          "yeni": "2009 / gre,ell"
-        },
-        "kalite": {
-          "onceki": "4K",
-          "yeni": "SD"
-        }
-      }
-    },
-    {
-      "anahtar": "hellas_39|hellas_39:11778:H:16515|sid:21",
-      "kanal_adi": "HTV HD",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Hellas TV",
-          "yeni": "HTV HD"
-        }
-      }
-    }
-  ],
+  "eklenen_kanallar": [],
+  "silinen_kanallar": [],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
-  "silinen_transponderler": [
-    {
-      "tp_id": "hellas_39:11761:H:16515",
-      "frekans": 11761,
-      "polarizasyon": "H",
-      "sembol_orani": 16515,
-      "fec": "5/6",
-      "uydu": "HellasSat 4",
-      "kapsama": "EuropeBSS",
-      "kanal_sayisi": 7,
-      "tv_sayisi": 6,
-      "radyo_sayisi": 1,
-      "konum_id": "hellas_39",
-      "konum_adi": "Hellas Sat 39.0°E"
-    }
-  ],
-  "degisen_transponderler": [
-    {
-      "anahtar": "hellas_39:11778:H:16515",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 5,
-          "yeni": 6
-        },
-        "radyo_sayisi": {
-          "onceki": 0,
-          "yeni": 1
-        }
-      }
-    }
-  ]
+  "silinen_transponderler": [],
+  "degisen_transponderler": []
 }

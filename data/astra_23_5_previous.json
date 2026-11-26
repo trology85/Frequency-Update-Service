@@ -1,9 +1,9 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-24T13:20:39.853386+00:00",
+  "guncelleme_tarihi": "2026-11-25T23:30:15.777100+00:00",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "toplam_kanal": 665,
-  "toplam_tp": 34,
+  "toplam_kanal": 683,
+  "toplam_tp": 35,
   "transponderler": [
     {
       "tp_id": "astra_23_5:11479:V:7200",
@@ -180,7 +180,21 @@
       "sembol_orani": 29900,
       "fec": "3/4",
       "uydu": "Astra 3B",
-      "kapsama": "SpotME",
+      "kapsama": "PanEuropean",
+      "kanal_sayisi": 17,
+      "tv_sayisi": 17,
+      "radyo_sayisi": 0,
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E"
+    },
+    {
+      "tp_id": "astra_23_5:12110:H:29900",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "uydu": "Astra 3B",
+      "kapsama": "PanEuropean",
       "kanal_sayisi": 17,
       "tv_sayisi": 17,
       "radyo_sayisi": 0,
@@ -192,7 +206,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "uydu": "Astra 3B",
       "kapsama": "PanEuropean",
       "kanal_sayisi": 32,
@@ -208,7 +222,7 @@
       "sembol_orani": 29999,
       "fec": "2/3",
       "uydu": "Astra 3C",
-      "kapsama": "CEE",
+      "kapsama": "East",
       "kanal_sayisi": 15,
       "tv_sayisi": 15,
       "radyo_sayisi": 0,
@@ -277,10 +291,10 @@
       "polarizasyon": "V",
       "sembol_orani": 30000,
       "fec": "2/3",
-      "uydu": "Astra 3B",
-      "kapsama": "SpotME",
-      "kanal_sayisi": 17,
-      "tv_sayisi": 10,
+      "uydu": "Astra 3C",
+      "kapsama": "East",
+      "kanal_sayisi": 18,
+      "tv_sayisi": 11,
       "radyo_sayisi": 7,
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E"
@@ -491,7 +505,7 @@
       "fec": "2/3",
       "video_pid": "1251",
       "ses_pid": "1252 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "SD",
       "tur": "TV",
       "sid": "7770",
@@ -499,7 +513,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "1+1 Ukraine",
@@ -509,7 +523,7 @@
       "fec": "2/3",
       "video_pid": "1001",
       "ses_pid": "1002 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "SD",
       "tur": "TV",
       "sid": "7771",
@@ -517,7 +531,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "100% NL",
@@ -553,7 +567,7 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "24 Kitchen",
@@ -1391,7 +1405,7 @@
       "fec": "2/3",
       "video_pid": "0",
       "ses_pid": "6901 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "",
       "tur": "RADYO",
       "sid": "7722",
@@ -1399,7 +1413,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Arrow Classic Rock",
@@ -1474,6 +1488,24 @@
       "kapsama": "PanEuropean"
     },
     {
+      "kanal_adi": "AXN Black Central Europe",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "2601",
+      "ses_pid": "2611 / cze / 2612 / eng",
+      "uydu": "Astra 3B",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "15616",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
       "kanal_adi": "AXN Black Czechia",
       "frekans": 12110,
       "polarizasyon": "H",
@@ -1489,7 +1521,7 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "AXN Czech",
@@ -1510,6 +1542,24 @@
       "kapsama": "PanEuropean"
     },
     {
+      "kanal_adi": "AXN White Central Europe",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "2701",
+      "ses_pid": "2711 / cze / 2712 / eng",
+      "uydu": "Astra 3B",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "15617",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
       "kanal_adi": "AXN White Czechia",
       "frekans": 12110,
       "polarizasyon": "H",
@@ -1525,7 +1575,7 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "B92",
@@ -2032,6 +2082,24 @@
       "kapsama": "PanEuropean"
     },
     {
+      "kanal_adi": "CANAL+ Drama",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "2001",
+      "ses_pid": "2011 / cze / 2012 / 000,qaa,qad / 2013 / cze",
+      "uydu": "Astra 3B",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "15610",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
       "kanal_adi": "Canal+ Sport 2 Slovakia",
       "frekans": 12012,
       "polarizasyon": "V",
@@ -2191,7 +2259,7 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "Cartoon Network",
@@ -2299,7 +2367,7 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "Cinemax 2 Central Europe HD",
@@ -2351,6 +2419,24 @@
       "sid": "20073",
       "paket": "MTS (Telekom Srbija)",
       "tp_id": "astra_23_5:12480:V:30000",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "Cinemax2 HD",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "1601",
+      "ses_pid": "1611 / cze / 1612 / eng / 1613 / hun",
+      "uydu": "Astra 3B",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "15606",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "PanEuropean"
@@ -3440,9 +3526,9 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "571",
-      "ses_pid": "0",
+      "ses_pid": "172 / eng",
       "uydu": "Astra 3B",
       "kalite": "SD",
       "tur": "TV",
@@ -3524,6 +3610,24 @@
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "European"
+    },
+    {
+      "kanal_adi": "DSNS Informed",
+      "frekans": 12285,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "112",
+      "ses_pid": "113",
+      "uydu": "Astra 3C",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "Ukrainian mux",
+      "tp_id": "astra_23_5:12285:V:30000",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "East"
     },
     {
       "kanal_adi": "DTV",
@@ -3674,7 +3778,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "554",
       "ses_pid": "154 / dut",
       "uydu": "Astra 3B",
@@ -3857,7 +3961,7 @@
       "fec": "2/3",
       "video_pid": "7581",
       "ses_pid": "7582 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "HD",
       "tur": "TV",
       "sid": "7750",
@@ -3865,7 +3969,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Etno TV",
@@ -4369,7 +4473,25 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "Film Europe+ HD",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "1701",
+      "ses_pid": "1711 / cze",
+      "uydu": "Astra 3B",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "15607",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "Film+ Czechia",
@@ -4387,7 +4509,25 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "Film+ HD",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "1201",
+      "ses_pid": "1211 / cze / 1212 / cze",
+      "uydu": "Astra 3B",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "15602",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "Film+ Hungary",
@@ -4430,7 +4570,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "514",
       "ses_pid": "84 / eng",
       "uydu": "Astra 3B",
@@ -4448,7 +4588,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "513",
       "ses_pid": "82 / eng",
       "uydu": "Astra 3B",
@@ -4466,7 +4606,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "512",
       "ses_pid": "80 / dut",
       "uydu": "Astra 3B",
@@ -4484,9 +4624,9 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "521",
-      "ses_pid": "98 / eng / 111 / dut",
+      "ses_pid": "111 / dut",
       "uydu": "Astra 3B",
       "kalite": "HD",
       "tur": "TV",
@@ -4552,6 +4692,24 @@
       "kapsama": "PanEuropean"
     },
     {
+      "kanal_adi": "FILMBOX+ Hits HD",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "1501",
+      "ses_pid": "1511 / cze",
+      "uydu": "Astra 3B",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "15605",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
       "kanal_adi": "FilmBox+ Hits HD Czechia",
       "frekans": 12110,
       "polarizasyon": "H",
@@ -4567,7 +4725,25 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "FILMBOX+ Love and Crime",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "1901",
+      "ses_pid": "1911 / cze",
+      "uydu": "Astra 3B",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "15609",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "FilmBox+ Love and Crime Czechia",
@@ -4585,7 +4761,7 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "Filmbox+ One CZ",
@@ -4855,7 +5031,7 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "HBO 2 HD Central Europe",
@@ -4891,7 +5067,7 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "HBO 3 Central Europe",
@@ -4948,6 +5124,42 @@
       "kapsama": "PanEuropean"
     },
     {
+      "kanal_adi": "HBO2 HD",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "1301",
+      "ses_pid": "1311 / cze / 1312 / eng / 1313 / hun",
+      "uydu": "Astra 3B",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "15603",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "HBO3 HD",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "1401",
+      "ses_pid": "1411 / cze / 1412 / eng / 1413 / hun",
+      "uydu": "Astra 3B",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "15604",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
       "kanal_adi": "HGTV",
       "frekans": 12441,
       "polarizasyon": "V",
@@ -4988,7 +5200,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "507",
       "ses_pid": "107 / dut",
       "uydu": "Astra 3B",
@@ -5017,7 +5229,25 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "History HD",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "2501",
+      "ses_pid": "2511 / cze / 2512 / eng / 2513 / hun",
+      "uydu": "Astra 3B",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "15615",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "HRT 1",
@@ -5153,7 +5383,7 @@
       "fec": "2/3",
       "video_pid": "801",
       "ses_pid": "802 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "SD",
       "tur": "TV",
       "sid": "7780",
@@ -5161,7 +5391,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Informer TV",
@@ -5207,7 +5437,7 @@
       "fec": "2/3",
       "video_pid": "7111",
       "ses_pid": "7112 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "HD",
       "tur": "TV",
       "sid": "7760",
@@ -5215,7 +5445,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Investigation Discovery HD",
@@ -5654,7 +5884,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "552",
       "ses_pid": "122 / dut",
       "uydu": "Astra 3B",
@@ -5690,7 +5920,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "0",
       "ses_pid": "142 / dut",
       "uydu": "Astra 3B",
@@ -5920,6 +6150,24 @@
       "kapsama": "PanEuropean"
     },
     {
+      "kanal_adi": "Leo TV (22-06)",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "2201",
+      "ses_pid": "2211 / cze",
+      "uydu": "Astra 3B",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "15612",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
       "kanal_adi": "Leo TV (22-6)",
       "frekans": 12110,
       "polarizasyon": "H",
@@ -5935,7 +6183,7 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "LFCTV",
@@ -6320,7 +6568,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "524",
       "ses_pid": "103 / dut",
       "uydu": "Astra 3B",
@@ -6345,11 +6593,29 @@
       "kalite": "SD",
       "tur": "TV",
       "sid": "15611",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "Minimax Czechia",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "2101",
+      "ses_pid": "2111 / cze / 2112 / hun / 2113 / cze",
+      "uydu": "Astra 3B",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "15611",
       "paket": "M7 Group",
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "Minimax Srbija",
@@ -6374,7 +6640,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "0",
       "ses_pid": "140 / dut",
       "uydu": "Astra 3B",
@@ -6518,9 +6784,9 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "535",
-      "ses_pid": "0",
+      "ses_pid": "135 / hun",
       "uydu": "Astra 3B",
       "kalite": "SD",
       "tur": "TV",
@@ -6554,9 +6820,9 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "564",
-      "ses_pid": "0",
+      "ses_pid": "134 / dut",
       "uydu": "Astra 3B",
       "kalite": "SD",
       "tur": "TV",
@@ -6716,7 +6982,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "525",
       "ses_pid": "105 / dut",
       "uydu": "Astra 3B",
@@ -7166,9 +7432,9 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "570",
-      "ses_pid": "171 / cze / 0 / 370 / cze",
+      "ses_pid": "171 / cze / 270 / slo,slk / 370 / cze",
       "uydu": "Astra 3B",
       "kalite": "HD",
       "tur": "TV",
@@ -7241,7 +7507,7 @@
       "fec": "2/3",
       "video_pid": "821",
       "ses_pid": "822 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "SD",
       "tur": "TV",
       "sid": "7782",
@@ -7249,7 +7515,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Noví Pazar",
@@ -7673,7 +7939,7 @@
       "fec": "2/3",
       "video_pid": "7311",
       "ses_pid": "7312 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "SD",
       "tur": "TV",
       "sid": "7731",
@@ -7681,7 +7947,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Pink Action",
@@ -8102,7 +8368,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "566",
       "ses_pid": "166 / dut",
       "uydu": "Astra 3B",
@@ -8156,7 +8422,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "527",
       "ses_pid": "127 / dut",
       "uydu": "Astra 3B",
@@ -8401,7 +8667,25 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "Prima Sport",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "2801",
+      "ses_pid": "2811 / cze / 2812 / cze / 2813 / cze",
+      "uydu": "Astra 3B",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "15618",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "Prima Star",
@@ -8645,7 +8929,7 @@
       "fec": "2/3",
       "video_pid": "0",
       "ses_pid": "6605 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "",
       "tur": "RADYO",
       "sid": "7714",
@@ -8653,7 +8937,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Radio Deutchlandfunk",
@@ -8717,7 +9001,7 @@
       "fec": "2/3",
       "video_pid": "0",
       "ses_pid": "6616 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "",
       "tur": "RADYO",
       "sid": "7724",
@@ -8725,7 +9009,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Radio Oost",
@@ -8807,7 +9091,7 @@
       "fec": "2/3",
       "video_pid": "0",
       "ses_pid": "6603 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "",
       "tur": "RADYO",
       "sid": "7712",
@@ -8815,7 +9099,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Radio Veronica",
@@ -8861,7 +9145,7 @@
       "fec": "2/3",
       "video_pid": "0",
       "ses_pid": "6607 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "",
       "tur": "RADYO",
       "sid": "7716",
@@ -8869,7 +9153,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "RAI 1",
@@ -9128,7 +9412,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "568",
       "ses_pid": "168 / hun",
       "uydu": "Astra 3B",
@@ -9884,7 +10168,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "519",
       "ses_pid": "94 / eng",
       "uydu": "Astra 3B",
@@ -9956,7 +10240,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "0",
       "ses_pid": "147 / dut",
       "uydu": "Astra 3B",
@@ -9992,7 +10276,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "537",
       "ses_pid": "137 / hun",
       "uydu": "Astra 3B",
@@ -10190,7 +10474,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "529",
       "ses_pid": "129 / dut",
       "uydu": "Astra 3B",
@@ -10424,7 +10708,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "0",
       "ses_pid": "141 / dut",
       "uydu": "Astra 3B",
@@ -10553,7 +10837,7 @@
       "fec": "2/3",
       "video_pid": "7331",
       "ses_pid": "7332 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "SD",
       "tur": "TV",
       "sid": "7733",
@@ -10561,7 +10845,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "TA 3",
@@ -10625,7 +10909,7 @@
       "fec": "2/3",
       "video_pid": "811",
       "ses_pid": "812 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "SD",
       "tur": "TV",
       "sid": "7781",
@@ -10633,7 +10917,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Televizija K3 Prnjavor",
@@ -10687,7 +10971,7 @@
       "tp_id": "astra_23_5:12148:H:29999",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "CEE"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Test 10",
@@ -10705,7 +10989,7 @@
       "tp_id": "astra_23_5:12148:H:29999",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "CEE"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Test 11",
@@ -10723,7 +11007,7 @@
       "tp_id": "astra_23_5:12148:H:29999",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "CEE"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Test 12",
@@ -10741,7 +11025,7 @@
       "tp_id": "astra_23_5:12148:H:29999",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "CEE"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Test 13",
@@ -10759,7 +11043,7 @@
       "tp_id": "astra_23_5:12148:H:29999",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "CEE"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Test 14",
@@ -10777,7 +11061,7 @@
       "tp_id": "astra_23_5:12148:H:29999",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "CEE"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Test 15",
@@ -10795,7 +11079,7 @@
       "tp_id": "astra_23_5:12148:H:29999",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "CEE"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Test 16",
@@ -10813,7 +11097,7 @@
       "tp_id": "astra_23_5:12148:H:29999",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "CEE"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Test 2",
@@ -10831,7 +11115,7 @@
       "tp_id": "astra_23_5:12148:H:29999",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "CEE"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Test 3",
@@ -10849,7 +11133,7 @@
       "tp_id": "astra_23_5:12148:H:29999",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "CEE"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Test 4",
@@ -10867,7 +11151,7 @@
       "tp_id": "astra_23_5:12148:H:29999",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "CEE"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Test 6",
@@ -10885,7 +11169,7 @@
       "tp_id": "astra_23_5:12148:H:29999",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "CEE"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Test 7",
@@ -10903,7 +11187,7 @@
       "tp_id": "astra_23_5:12148:H:29999",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "CEE"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Test 8",
@@ -10921,7 +11205,7 @@
       "tp_id": "astra_23_5:12148:H:29999",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "CEE"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Test 9",
@@ -10939,7 +11223,25 @@
       "tp_id": "astra_23_5:12148:H:29999",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "CEE"
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Test3",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "1801",
+      "ses_pid": "",
+      "uydu": "Astra 3B",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "15608",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "TimlessDiziChannel",
@@ -11180,7 +11482,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "569",
       "ses_pid": "169 / hun",
       "uydu": "Astra 3B",
@@ -11756,7 +12058,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "572",
       "ses_pid": "173 / slo,slk",
       "uydu": "Astra 3B",
@@ -11867,7 +12169,7 @@
       "fec": "2/3",
       "video_pid": "0",
       "ses_pid": "6601 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "",
       "tur": "RADYO",
       "sid": "7710",
@@ -11875,7 +12177,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "UNA TV",
@@ -12010,6 +12312,24 @@
       "sembol_orani": 29900,
       "fec": "3/4",
       "video_pid": "1001",
+      "ses_pid": "1011 / cze / 1012 / hun / 1013 / eng",
+      "uydu": "Astra 3B",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "15600",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "Viasat History HD",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "1001",
       "ses_pid": "1011 / cze / 1012 / hun / 1013 / 000,qaa,qad",
       "uydu": "Astra 3B",
       "kalite": "HD",
@@ -12019,7 +12339,7 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "Viasat Kino",
@@ -12073,7 +12393,25 @@
       "tp_id": "astra_23_5:12110:H:29900",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "Viasat Nature HD",
+      "frekans": 12110,
+      "polarizasyon": "H",
+      "sembol_orani": 29900,
+      "fec": "3/4",
+      "video_pid": "1101",
+      "ses_pid": "1111 / cze / 1112 / hun / 1113 / 000,qaa,qad",
+      "uydu": "Astra 3B",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "15601",
+      "paket": "SkyLink",
+      "tp_id": "astra_23_5:12110:H:29900",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "PanEuropean"
     },
     {
       "kanal_adi": "Viasat True Crime",
@@ -12173,7 +12511,7 @@
       "fec": "2/3",
       "video_pid": "0",
       "ses_pid": "6609 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "",
       "tur": "RADYO",
       "sid": "7718",
@@ -12181,7 +12519,7 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "VRT 1",
@@ -12224,7 +12562,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "560",
       "ses_pid": "130 / dut",
       "uydu": "Astra 3B",
@@ -12242,7 +12580,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "562",
       "ses_pid": "132 / dut",
       "uydu": "Astra 3B",
@@ -12260,7 +12598,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "550",
       "ses_pid": "120 / dut",
       "uydu": "Astra 3B",
@@ -12296,7 +12634,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "556",
       "ses_pid": "126 / dut",
       "uydu": "Astra 3B",
@@ -12317,7 +12655,7 @@
       "fec": "2/3",
       "video_pid": "7576",
       "ses_pid": "7577 / ukr",
-      "uydu": "Astra 3B",
+      "uydu": "Astra 3C",
       "kalite": "SD",
       "tur": "TV",
       "sid": "7775",
@@ -12325,14 +12663,14 @@
       "tp_id": "astra_23_5:12285:V:30000",
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "SpotME"
+      "kapsama": "East"
     },
     {
       "kanal_adi": "Ziggo Sport 2",
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "515",
       "ses_pid": "86 / dut",
       "uydu": "Astra 3B",
@@ -12350,7 +12688,7 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "516",
       "ses_pid": "88 / dut",
       "uydu": "Astra 3B",
@@ -12368,9 +12706,9 @@
       "frekans": 12129,
       "polarizasyon": "V",
       "sembol_orani": 29900,
-      "fec": "2/3",
+      "fec": "3/4",
       "video_pid": "522",
-      "ses_pid": "100 / dut / 112 / dut",
+      "ses_pid": "100 / dut",
       "uydu": "Astra 3B",
       "kalite": "HD",
       "tur": "TV",

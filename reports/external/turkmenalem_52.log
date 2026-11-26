@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-25T23:30:30.265287+00:00",
+  "run_utc": "2026-11-26T11:58:13.112648+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -11,9 +11,9 @@
       "ok": true,
       "errors": [],
       "pages": 2,
-      "transponders": 26,
-      "channels": 485,
-      "raw_channel_rows": 485,
+      "transponders": 27,
+      "channels": 505,
+      "raw_channel_rows": 505,
       "raw_file": "raw/satbeams/turkmenalem_52.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-25T23:30:32.009302+00:00",
+  "run_utc": "2026-11-26T11:58:14.660625+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-52E",
       "title": "TurkmenÄlem / MonacoSat (52°E) -  - Frekanslar - KingOfSat",
-      "bytes": 478896,
-      "frequency_rows": 61,
+      "bytes": 479162,
+      "frequency_rows": 62,
       "channel_rows": 369,
-      "advertised_records": 412,
+      "advertised_records": 413,
       "block_markers": [],
       "raw_file": "raw/kingofsat/turkmenalem_52.html",
       "errors": []
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-25T23:30:33.851253+00:00",
+  "generated_utc": "2026-11-26T11:58:16.157620+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 0,
       "tv": 0,
       "radio": 0,
-      "source_updated": "2026-11-16"
+      "source_updated": "2026-11-26"
     }
   ]
 }
@@ -67,11 +67,11 @@
     {
       "id": "turkmenalem_52",
       "ok": true,
-      "transponders": 26,
-      "channels": 485,
-      "tv": 467,
+      "transponders": 27,
+      "channels": 505,
+      "tv": 487,
       "radio": 18,
-      "sd": 220,
+      "sd": 240,
       "hd": 245,
       "uhd_4k": 2,
       "unknown_quality": 0,
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-25T23:30:34.519179+00:00",
+  "run_utc": "2026-11-26T11:58:16.652445+00:00",
   "ok": true,
   "should_publish": true,
   "source": "Satbeams API",
@@ -113,23 +113,23 @@
       "ok": true,
       "errors": [],
       "warnings": [],
-      "transponders": 26,
-      "channels": 485,
-      "tv": 467,
+      "transponders": 27,
+      "channels": 505,
+      "tv": 487,
       "radio": 18,
-      "sd": 220,
+      "sd": 240,
       "hd": 245,
       "uhd_4k": 2,
       "unknown_quality": 0,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "9c19bf8ad475a301a5910260e769d193651c725d9b0d8b741d305e2b3c53bd94",
-      "current_hash": "c35b58c2b0e24e907d653668e3d21387d1a698ff76c788391f940ba4caeafd00",
+      "candidate_hash": "cdf2c7415c5375f8d42692081f9ae2177898a482c4402d841c6f1fae9c42b754",
+      "current_hash": "9c19bf8ad475a301a5910260e769d193651c725d9b0d8b741d305e2b3c53bd94",
       "changed": true,
-      "added": 37,
-      "removed": 1,
-      "updated": 0
+      "added": 20,
+      "removed": 0,
+      "updated": 6
     }
   ]
 }

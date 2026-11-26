@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-25T23:29:42.843608+00:00",
+  "run_utc": "2026-11-26T11:57:36.430216+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -12,8 +12,8 @@
       "errors": [],
       "pages": 2,
       "transponders": 91,
-      "channels": 1357,
-      "raw_channel_rows": 1357,
+      "channels": 1367,
+      "raw_channel_rows": 1367,
       "raw_file": "raw/satbeams/hotbird_13.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-25T23:29:44.999941+00:00",
+  "run_utc": "2026-11-26T11:57:38.364228+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-13E",
       "title": "Hot Bird 13F / Hot Bird 13G (13°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1821705,
-      "frequency_rows": 173,
+      "bytes": 1825900,
+      "frequency_rows": 174,
       "channel_rows": 1479,
-      "advertised_records": 1574,
+      "advertised_records": 1575,
       "block_markers": [],
       "raw_file": "raw/kingofsat/hotbird_13.html",
       "errors": []
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-25T23:29:49.746064+00:00",
+  "generated_utc": "2026-11-26T11:57:42.067265+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 0,
       "tv": 0,
       "radio": 0,
-      "source_updated": "2026-11-22"
+      "source_updated": "2026-11-26"
     }
   ]
 }
@@ -68,11 +68,11 @@
       "id": "hotbird_13",
       "ok": true,
       "transponders": 90,
-      "channels": 1348,
-      "tv": 1111,
+      "channels": 1355,
+      "tv": 1118,
       "radio": 237,
-      "sd": 567,
-      "hd": 530,
+      "sd": 569,
+      "hd": 535,
       "uhd_4k": 8,
       "unknown_quality": 6,
       "candidate": "candidate/satbeams/hotbird_13.json"
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-25T23:29:52.993688+00:00",
+  "run_utc": "2026-11-26T11:57:44.309584+00:00",
   "ok": true,
   "should_publish": true,
   "source": "Satbeams API",
@@ -114,22 +114,22 @@
       "errors": [],
       "warnings": [],
       "transponders": 90,
-      "channels": 1348,
-      "tv": 1111,
+      "channels": 1355,
+      "tv": 1118,
       "radio": 237,
-      "sd": 567,
-      "hd": 530,
+      "sd": 569,
+      "hd": 535,
       "uhd_4k": 8,
       "unknown_quality": 6,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "cb6641efcd7977ce26ef44728a802db7e41a923c2ff5a4e7edb44defc4e2142b",
-      "current_hash": "6604059951e23c8a94745b9a5a4a62fc8259c5c68e8d2582d268518bed83ade2",
+      "candidate_hash": "9001e770e8ba444abf050a1842b13303292a75697e6c0c6eb1dd3280a3ca2eb0",
+      "current_hash": "cb6641efcd7977ce26ef44728a802db7e41a923c2ff5a4e7edb44defc4e2142b",
       "changed": true,
-      "added": 1,
-      "removed": 24,
-      "updated": 6
+      "added": 18,
+      "removed": 11,
+      "updated": 9
     }
   ]
 }

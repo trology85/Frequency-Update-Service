@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-25T23:29:58.984300+00:00",
+  "run_utc": "2026-11-26T11:57:48.912529+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-25T23:30:00.663601+00:00",
+  "run_utc": "2026-11-26T11:57:50.364774+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-46E",
       "title": "Azerspace-1 (46°E) -  - Frekanslar - KingOfSat",
-      "bytes": 331801,
+      "bytes": 331940,
       "frequency_rows": 103,
       "channel_rows": 177,
       "advertised_records": 248,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-25T23:30:02.883922+00:00",
+  "generated_utc": "2026-11-26T11:57:51.956111+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-25T23:30:03.375168+00:00",
+  "run_utc": "2026-11-26T11:57:52.297762+00:00",
   "ok": true,
   "should_publish": true,
   "source": "Satbeams API",
@@ -124,12 +124,12 @@
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "792386bdb3310ea2f9113a461fbcf4a727424372325fafca1db37db2ff12277d",
-      "current_hash": "7bf5c4db0717e751388d3ffb1b7edaf37f64cc3a4985ed6cac55da1224070983",
+      "candidate_hash": "12d8c397c2142a07dbe7b9379c8394a7d340a275cc23bdbd7ba702bf0ee78787",
+      "current_hash": "792386bdb3310ea2f9113a461fbcf4a727424372325fafca1db37db2ff12277d",
       "changed": true,
       "added": 0,
       "removed": 0,
-      "updated": 2
+      "updated": 1
     }
   ]
 }

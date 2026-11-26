@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-25T23:29:58.749033+00:00",
+  "generated_utc": "2026-11-26T11:57:48.751593+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=39E",
-    "last_updated": "2026-11-25"
+    "last_updated": "2026-11-26"
   },
   "satellite": {
     "id": "hellas_39",
@@ -4073,7 +4073,7 @@
       "tid": 2,
       "source_channel_id": 177752,
       "source_transponder_id": 12124,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "hellas_39:11778:H:16515"
     },
     {
@@ -4104,7 +4104,7 @@
       "tid": 2,
       "source_channel_id": 165627,
       "source_transponder_id": 12124,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "hellas_39:11778:H:16515"
     },
     {
@@ -4135,7 +4135,7 @@
       "tid": 2,
       "source_channel_id": 177753,
       "source_transponder_id": 12124,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "hellas_39:11778:H:16515"
     },
     {
@@ -4166,7 +4166,7 @@
       "tid": 2,
       "source_channel_id": 177754,
       "source_transponder_id": 12124,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "hellas_39:11778:H:16515"
     },
     {
@@ -4197,7 +4197,7 @@
       "tid": 2,
       "source_channel_id": 177755,
       "source_transponder_id": 12124,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "hellas_39:11778:H:16515"
     },
     {
@@ -4228,7 +4228,7 @@
       "tid": 2,
       "source_channel_id": 177756,
       "source_transponder_id": 12124,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "hellas_39:11778:H:16515"
     },
     {

@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-25T23:30:22.188846+00:00",
+  "generated_utc": "2026-11-26T11:58:06.777565+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=28E",
-    "last_updated": "2026-11-25"
+    "last_updated": "2026-11-26"
   },
   "satellite": {
     "id": "astra_28_2",
@@ -12,12 +12,12 @@
     "position": "28.2E"
   },
   "counts": {
-    "transponders": 60,
-    "channels": 836,
-    "tv": 783,
+    "transponders": 59,
+    "channels": 835,
+    "tv": 782,
     "radio": 53,
     "sd": 562,
-    "hd": 217,
+    "hd": 216,
     "uhd_4k": 4,
     "unknown_quality": 0
   },
@@ -840,27 +840,6 @@
       "tv_count": 11,
       "radio_count": 0,
       "source_transponder_id": 1384
-    },
-    {
-      "tp_id": "astra_28_2:11671:H:23000",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2G",
-      "position": "28.2E",
-      "frequency": 11671,
-      "polarization": "H",
-      "transponder": "14453",
-      "beam": "Europe",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "network": "Sky UK",
-      "nid": 2,
-      "tid": 2103,
-      "channel_count": 1,
-      "tv_count": 1,
-      "radio_count": 0,
-      "source_transponder_id": 14453
     },
     {
       "tp_id": "astra_28_2:11675:V:30000",
@@ -2118,7 +2097,7 @@
       "tid": 2050,
       "source_channel_id": 177652,
       "source_transponder_id": 1423,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2149,7 +2128,7 @@
       "tid": 2050,
       "source_channel_id": 177653,
       "source_transponder_id": 1423,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2180,7 +2159,7 @@
       "tid": 2050,
       "source_channel_id": 177654,
       "source_transponder_id": 1423,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2211,7 +2190,7 @@
       "tid": 2050,
       "source_channel_id": 177655,
       "source_transponder_id": 1423,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2242,7 +2221,7 @@
       "tid": 2050,
       "source_channel_id": 177656,
       "source_transponder_id": 1423,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2273,7 +2252,7 @@
       "tid": 2050,
       "source_channel_id": 177657,
       "source_transponder_id": 1423,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2304,7 +2283,7 @@
       "tid": 2050,
       "source_channel_id": 177658,
       "source_transponder_id": 1423,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2335,7 +2314,7 @@
       "tid": 2050,
       "source_channel_id": 177659,
       "source_transponder_id": 1423,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2366,7 +2345,7 @@
       "tid": 2050,
       "source_channel_id": 177660,
       "source_transponder_id": 1423,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -16599,37 +16578,6 @@
       "tp_id": "astra_28_2:11656:V:22000"
     },
     {
-      "name": "CNN International Europe",
-      "type": "TV",
-      "quality": "HD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2G",
-      "position": "28.2E",
-      "frequency": 11671,
-      "polarization": "H",
-      "symbol_rate": 23000,
-      "fec": "2/3",
-      "system": "DVB-S2",
-      "modulation": "8PSK",
-      "sid": 50290,
-      "country": "",
-      "country_code": "",
-      "beam": "Europe",
-      "provider": "Sky UK",
-      "package": "Sky UK",
-      "encryption": "Videoguard",
-      "free_to_air": false,
-      "compression": "MPEG-4",
-      "vpid": 2324,
-      "audio": "2325 / eng / 2326 / eng",
-      "nid": 2,
-      "tid": 2103,
-      "source_channel_id": 153380,
-      "source_transponder_id": 14453,
-      "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11671:H:23000"
-    },
-    {
       "name": "HSM TV",
       "type": "TV",
       "quality": "SD",
@@ -17808,7 +17756,7 @@
       "tp_id": "astra_28_2:12032:H:29500"
     },
     {
-      "name": "52473",
+      "name": "CNN HD",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
@@ -17835,7 +17783,7 @@
       "tid": 2017,
       "source_channel_id": 175531,
       "source_transponder_id": 13363,
-      "updated": "2026-11-17",
+      "updated": "2026-11-26",
       "tp_id": "astra_28_2:12032:H:29500"
     },
     {
@@ -22210,7 +22158,7 @@
       "tp_id": "astra_28_2:12285:V:27500"
     },
     {
-      "name": "Chipmunks HD",
+      "name": "Spider-Man HD",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
@@ -22237,7 +22185,7 @@
       "tid": 2030,
       "source_channel_id": 175638,
       "source_transponder_id": 11724,
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "tp_id": "astra_28_2:12285:V:27500"
     },
     {
