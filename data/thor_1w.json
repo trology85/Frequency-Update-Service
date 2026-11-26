@@ -1,9 +1,9 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-25T23:30:29.969049+00:00",
+  "guncelleme_tarihi": "2026-11-26T23:32:22.468007+00:00",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "toplam_kanal": 882,
-  "toplam_tp": 69,
+  "toplam_kanal": 884,
+  "toplam_tp": 70,
   "transponderler": [
     {
       "tp_id": "thor_1w:3977:L:17777",
@@ -179,6 +179,20 @@
       "polarizasyon": "V",
       "sembol_orani": 7499,
       "fec": "3/4",
+      "uydu": "Intelsat 10-02 + MEV2",
+      "kapsama": "Spot1",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
+    },
+    {
+      "tp_id": "thor_1w:11042:V:4100",
+      "frekans": 11042,
+      "polarizasyon": "V",
+      "sembol_orani": 4100,
+      "fec": "5/6",
       "uydu": "Intelsat 10-02 + MEV2",
       "kapsama": "Spot1",
       "kanal_sayisi": 1,
@@ -629,8 +643,8 @@
       "fec": "3/4",
       "uydu": "Thor 7",
       "kapsama": "CEE",
-      "kanal_sayisi": 27,
-      "tv_sayisi": 27,
+      "kanal_sayisi": 28,
+      "tv_sayisi": 28,
       "radyo_sayisi": 0,
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
@@ -7472,6 +7486,24 @@
       "kapsama": "T2"
     },
     {
+      "kanal_adi": "Max4 HD",
+      "frekans": 12111,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1001",
+      "ses_pid": "1011 / hun",
+      "uydu": "Thor 7",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "31301",
+      "paket": "M7 Group",
+      "tp_id": "thor_1w:12111:V:30000",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "CEE"
+    },
+    {
       "kanal_adi": "MEN TV",
       "frekans": 11747,
       "polarizasyon": "H",
@@ -11646,6 +11678,24 @@
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "K2"
+    },
+    {
+      "kanal_adi": "RomaniaTV HD",
+      "frekans": 11042,
+      "polarizasyon": "V",
+      "sembol_orani": 4100,
+      "fec": "5/6",
+      "video_pid": "101",
+      "ses_pid": "201 / rum,ron",
+      "uydu": "Intelsat 10-02 + MEV2",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "",
+      "tp_id": "thor_1w:11042:V:4100",
+      "konum_id": "thor_1w",
+      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
+      "kapsama": "Spot1"
     },
     {
       "kanal_adi": "RomaniaTV HD",
@@ -16694,7 +16744,7 @@
       "sembol_orani": 30000,
       "fec": "3/4",
       "video_pid": "1450",
-      "ses_pid": "3000 / dut / 3550 / fin",
+      "ses_pid": "3550 / fin",
       "uydu": "Thor 7",
       "kalite": "HD",
       "tur": "TV",

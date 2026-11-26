@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-26T11:57:36.430216+00:00",
+  "run_utc": "2026-11-26T23:31:32.134276+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -11,9 +11,9 @@
       "ok": true,
       "errors": [],
       "pages": 2,
-      "transponders": 91,
-      "channels": 1367,
-      "raw_channel_rows": 1367,
+      "transponders": 96,
+      "channels": 1372,
+      "raw_channel_rows": 1372,
       "raw_file": "raw/satbeams/hotbird_13.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-26T11:57:38.364228+00:00",
+  "run_utc": "2026-11-26T23:31:34.205011+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-13E",
       "title": "Hot Bird 13F / Hot Bird 13G (13°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1825900,
+      "bytes": 1824876,
       "frequency_rows": 174,
       "channel_rows": 1479,
       "advertised_records": 1575,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-26T11:57:42.067265+00:00",
+  "generated_utc": "2026-11-26T23:31:39.863337+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-26T11:57:44.309584+00:00",
+  "run_utc": "2026-11-26T23:31:43.623577+00:00",
   "ok": true,
   "should_publish": true,
   "source": "Satbeams API",
@@ -124,12 +124,12 @@
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "9001e770e8ba444abf050a1842b13303292a75697e6c0c6eb1dd3280a3ca2eb0",
-      "current_hash": "cb6641efcd7977ce26ef44728a802db7e41a923c2ff5a4e7edb44defc4e2142b",
+      "candidate_hash": "c22dc261d19d0f7b6858657136573d5ab174ff7242f7c804b11ad25985a17b4f",
+      "current_hash": "9001e770e8ba444abf050a1842b13303292a75697e6c0c6eb1dd3280a3ca2eb0",
       "changed": true,
-      "added": 18,
-      "removed": 11,
-      "updated": 9
+      "added": 0,
+      "removed": 0,
+      "updated": 2
     }
   ]
 }

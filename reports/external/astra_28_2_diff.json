@@ -1,81 +1,26 @@
 {
   "uydu_id": "astra_28_2",
   "uydu_adi": "Astra 2E/2F/2G 28.2°E",
-  "olusturma_zamani_utc": "2026-11-26T11:58:06.893753+00:00",
+  "olusturma_zamani_utc": "2026-11-26T23:32:14.424532+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 824,
+    "onceki_kanal": 823,
     "yeni_kanal": 823,
     "eklenen_kanal": 0,
-    "silinen_kanal": 1,
-    "degisen_kanal": 2,
+    "silinen_kanal": 0,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
-    "onceki_tp": 60,
+    "onceki_tp": 59,
     "yeni_tp": 59,
     "eklenen_tp": 0,
-    "silinen_tp": 1,
+    "silinen_tp": 0,
     "degisen_tp": 0
   },
   "eklenen_kanallar": [],
-  "silinen_kanallar": [
-    {
-      "kanal_adi": "CNN International Europe",
-      "frekans": 11671,
-      "polarizasyon": "H",
-      "sembol_orani": 23000,
-      "fec": "2/3",
-      "video_pid": "2324",
-      "ses_pid": "2325 / eng / 2326 / eng",
-      "uydu": "Astra 2G",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "50290",
-      "paket": "Sky UK",
-      "tp_id": "astra_28_2:11671:H:23000",
-      "konum_id": "astra_28_2",
-      "konum_adi": "Astra 2E/2F/2G 28.2°E",
-      "kapsama": "Europe"
-    }
-  ],
-  "degisen_kanallar": [
-    {
-      "anahtar": "astra_28_2|astra_28_2:12032:H:29500|sid:52473",
-      "kanal_adi": "CNN HD",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "52473",
-          "yeni": "CNN HD"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_28_2|astra_28_2:12285:V:27500|sid:6033",
-      "kanal_adi": "Spider-Man HD",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Chipmunks HD",
-          "yeni": "Spider-Man HD"
-        }
-      }
-    }
-  ],
+  "silinen_kanallar": [],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
-  "silinen_transponderler": [
-    {
-      "tp_id": "astra_28_2:11671:H:23000",
-      "frekans": 11671,
-      "polarizasyon": "H",
-      "sembol_orani": 23000,
-      "fec": "2/3",
-      "uydu": "Astra 2G",
-      "kapsama": "Europe",
-      "kanal_sayisi": 1,
-      "tv_sayisi": 1,
-      "radyo_sayisi": 0,
-      "konum_id": "astra_28_2",
-      "konum_adi": "Astra 2E/2F/2G 28.2°E"
-    }
-  ],
+  "silinen_transponderler": [],
   "degisen_transponderler": []
 }

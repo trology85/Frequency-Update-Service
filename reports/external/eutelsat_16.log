@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-26T11:57:52.411047+00:00",
+  "run_utc": "2026-11-26T23:31:54.392500+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -11,9 +11,9 @@
       "ok": true,
       "errors": [],
       "pages": 2,
-      "transponders": 69,
-      "channels": 1033,
-      "raw_channel_rows": 1033,
+      "transponders": 74,
+      "channels": 1041,
+      "raw_channel_rows": 1041,
       "raw_file": "raw/satbeams/eutelsat_16.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-26T11:57:54.050944+00:00",
+  "run_utc": "2026-11-26T23:31:56.397095+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-16E",
       "title": "Eutelsat 16D (16°E) -  - Frekanslar - KingOfSat",
-      "bytes": 1137432,
+      "bytes": 1138494,
       "frequency_rows": 205,
       "channel_rows": 837,
       "advertised_records": 992,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-26T11:57:56.335673+00:00",
+  "generated_utc": "2026-11-26T23:31:59.660702+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -67,12 +67,12 @@
     {
       "id": "eutelsat_16",
       "ok": true,
-      "transponders": 65,
-      "channels": 993,
-      "tv": 827,
+      "transponders": 63,
+      "channels": 991,
+      "tv": 825,
       "radio": 166,
       "sd": 554,
-      "hd": 215,
+      "hd": 213,
       "uhd_4k": 58,
       "unknown_quality": 0,
       "candidate": "candidate/satbeams/eutelsat_16.json"
@@ -103,7 +103,7 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-26T11:57:57.409372+00:00",
+  "run_utc": "2026-11-26T23:32:01.336780+00:00",
   "ok": true,
   "should_publish": true,
   "source": "Satbeams API",
@@ -113,23 +113,23 @@
       "ok": true,
       "errors": [],
       "warnings": [],
-      "transponders": 65,
-      "channels": 993,
-      "tv": 827,
+      "transponders": 63,
+      "channels": 991,
+      "tv": 825,
       "radio": 166,
       "sd": 554,
-      "hd": 215,
+      "hd": 213,
       "uhd_4k": 58,
       "unknown_quality": 0,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "371d09e982bcd37a47d117187abaaafb73e4ec5af5b50fbe431063e8d82e19bc",
-      "current_hash": "0f911b46b9731d937fb540490f525ec484bc7ede0f0e79c5f8e6ed66a769deb1",
+      "candidate_hash": "afd134372d7893ce968b135a02ed20de0c132044fdc057779cf0b810ded6b909",
+      "current_hash": "371d09e982bcd37a47d117187abaaafb73e4ec5af5b50fbe431063e8d82e19bc",
       "changed": true,
-      "added": 11,
-      "removed": 7,
-      "updated": 2
+      "added": 0,
+      "removed": 2,
+      "updated": 3
     }
   ]
 }

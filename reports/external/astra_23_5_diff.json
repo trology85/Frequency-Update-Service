@@ -1,178 +1,26 @@
 {
   "uydu_id": "astra_23_5",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "olusturma_zamani_utc": "2026-11-26T11:58:02.105646+00:00",
+  "olusturma_zamani_utc": "2026-11-26T23:32:07.961254+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 660,
+    "onceki_kanal": 659,
     "yeni_kanal": 659,
     "eklenen_kanal": 0,
-    "silinen_kanal": 1,
-    "degisen_kanal": 9,
+    "silinen_kanal": 0,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 34,
     "yeni_tp": 34,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
   "eklenen_kanallar": [],
-  "silinen_kanallar": [
-    {
-      "kanal_adi": "DSNS Informed",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "112",
-      "ses_pid": "113",
-      "uydu": "Astra 3C",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "1",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
-    }
-  ],
-  "degisen_kanallar": [
-    {
-      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15600",
-      "kanal_adi": "Viasat History HD",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "1011 / cze / 1012 / hun / 1013 / 000,qaa,qad",
-          "yeni": "1011 / cze / 1012 / hun / 1013 / eng"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15605",
-      "kanal_adi": "FILMBOX+ Hits HD",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "FilmBox+ Hits HD Czechia",
-          "yeni": "FILMBOX+ Hits HD"
-        },
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "SkyLink"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15609",
-      "kanal_adi": "FILMBOX+ Love and Crime",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "FilmBox+ Love and Crime Czechia",
-          "yeni": "FILMBOX+ Love and Crime"
-        },
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "SkyLink"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15610",
-      "kanal_adi": "CANAL+ Drama",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Canál+ Drama",
-          "yeni": "CANAL+ Drama"
-        },
-        "ses_pid": {
-          "onceki": "2011 / ces / 2012 / 000,qaa,qad / 2013 / cze",
-          "yeni": "2011 / cze / 2012 / 000,qaa,qad / 2013 / cze"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15611",
-      "kanal_adi": "Minimax Czechia",
-      "degisiklikler": {
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "SkyLink"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15612",
-      "kanal_adi": "Leo TV (22-06)",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Leo TV (22-6)",
-          "yeni": "Leo TV (22-06)"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15616",
-      "kanal_adi": "AXN Black Central Europe",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "AXN Black Czechia",
-          "yeni": "AXN Black Central Europe"
-        },
-        "ses_pid": {
-          "onceki": "2611 / cze / 2612 / hun",
-          "yeni": "2611 / cze / 2612 / eng"
-        },
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "SkyLink"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12110:H:29900|sid:15617",
-      "kanal_adi": "AXN White Central Europe",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "AXN White Czechia",
-          "yeni": "AXN White Central Europe"
-        },
-        "ses_pid": {
-          "onceki": "2711 / cze / 2712 / hun",
-          "yeni": "2711 / cze / 2712 / eng"
-        },
-        "paket": {
-          "onceki": "M7 Group",
-          "yeni": "SkyLink"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_23_5|astra_23_5:12285:V:30000|sid:7733",
-      "kanal_adi": "Suspilne Kultura",
-      "degisiklikler": {
-        "kalite": {
-          "onceki": "SD",
-          "yeni": "HD"
-        }
-      }
-    }
-  ],
+  "silinen_kanallar": [],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "astra_23_5:12285:V:30000",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 18,
-          "yeni": 17
-        },
-        "tv_sayisi": {
-          "onceki": 11,
-          "yeni": 10
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }

@@ -1,23 +1,79 @@
 {
   "uydu_id": "eutelsat_16",
   "uydu_adi": "Eutelsat 16A 16.0°E",
-  "olusturma_zamani_utc": "2026-11-26T11:57:57.449345+00:00",
+  "olusturma_zamani_utc": "2026-11-26T23:32:01.392039+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
-    "onceki_kanal": 921,
-    "yeni_kanal": 925,
-    "eklenen_kanal": 5,
-    "silinen_kanal": 1,
-    "degisen_kanal": 3,
+    "onceki_kanal": 925,
+    "yeni_kanal": 923,
+    "eklenen_kanal": 3,
+    "silinen_kanal": 5,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
-    "onceki_tp": 59,
-    "yeni_tp": 63,
-    "eklenen_tp": 5,
-    "silinen_tp": 1,
-    "degisen_tp": 1
+    "onceki_tp": 63,
+    "yeni_tp": 61,
+    "eklenen_tp": 3,
+    "silinen_tp": 5,
+    "degisen_tp": 0
   },
   "eklenen_kanallar": [
+    {
+      "kanal_adi": "BEL-095 M13 MAIN",
+      "frekans": 12507,
+      "polarizasyon": "H",
+      "sembol_orani": 8022,
+      "fec": "None",
+      "video_pid": "512",
+      "ses_pid": "4112 / 000,qaa,qad / 4128 / mul / 4160 / mul",
+      "uydu": "Eutelsat 16D",
+      "kalite": "4K",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "",
+      "tp_id": "eutelsat_16:12507:H:8022",
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E",
+      "kapsama": "EUROPEA"
+    },
+    {
+      "kanal_adi": "CZE-041-M14-MAIN",
+      "frekans": 12521,
+      "polarizasyon": "H",
+      "sembol_orani": 8022,
+      "fec": "5/6",
+      "video_pid": "512",
+      "ses_pid": "4112 / eng / 4128 / eng / 4160 / eng",
+      "uydu": "Eutelsat 16D",
+      "kalite": "4K",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "",
+      "tp_id": "eutelsat_16:12521:H:8022",
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E",
+      "kapsama": "SEAfrica"
+    },
+    {
+      "kanal_adi": "KAZ-010M M21",
+      "frekans": 12598,
+      "polarizasyon": "H",
+      "sembol_orani": 9875,
+      "fec": "5/6",
+      "video_pid": "512",
+      "ses_pid": "4112 / 4128 / 4160",
+      "uydu": "Eutelsat 16D",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "",
+      "tp_id": "eutelsat_16:12598:H:9875",
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E",
+      "kapsama": "EUROPEB"
+    }
+  ],
+  "silinen_kanallar": [
     {
       "kanal_adi": "BEL-095 M13 MAIN",
       "frekans": 12507,
@@ -109,59 +165,52 @@
       "kapsama": "EUROPEB"
     }
   ],
-  "silinen_kanallar": [
-    {
-      "kanal_adi": "O Kanal",
-      "frekans": 11401,
-      "polarizasyon": "V",
-      "sembol_orani": 17500,
-      "fec": "3/4",
-      "video_pid": "4113",
-      "ses_pid": "4115 / bos",
-      "uydu": "Eutelsat 16D",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "4001",
-      "paket": "Vidi TV",
-      "tp_id": "eutelsat_16:11401:V:17500",
-      "konum_id": "eutelsat_16",
-      "konum_adi": "Eutelsat 16A 16.0°E",
-      "kapsama": "EUROPEA"
-    }
-  ],
-  "degisen_kanallar": [
-    {
-      "anahtar": "eutelsat_16|eutelsat_16:11402:V:17500|sid:4001",
-      "kanal_adi": "O Kanal",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "4115",
-          "yeni": "4115 / bos"
-        }
-      }
-    },
-    {
-      "anahtar": "eutelsat_16|eutelsat_16:11402:V:17500|sid:4003",
-      "kanal_adi": "Nova BH",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "NOVA BH",
-          "yeni": "Nova BH"
-        }
-      }
-    },
-    {
-      "anahtar": "eutelsat_16|eutelsat_16:11471:H:30000|sid:868",
-      "kanal_adi": "Discovery Channel Srbija",
-      "degisiklikler": {
-        "video_pid": {
-          "onceki": "102",
-          "yeni": "51"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [
+    {
+      "tp_id": "eutelsat_16:12507:H:8022",
+      "frekans": 12507,
+      "polarizasyon": "H",
+      "sembol_orani": 8022,
+      "fec": "None",
+      "uydu": "Eutelsat 16D",
+      "kapsama": "EUROPEA",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E"
+    },
+    {
+      "tp_id": "eutelsat_16:12521:H:8022",
+      "frekans": 12521,
+      "polarizasyon": "H",
+      "sembol_orani": 8022,
+      "fec": "5/6",
+      "uydu": "Eutelsat 16D",
+      "kapsama": "SEAfrica",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E"
+    },
+    {
+      "tp_id": "eutelsat_16:12598:H:9875",
+      "frekans": 12598,
+      "polarizasyon": "H",
+      "sembol_orani": 9875,
+      "fec": "5/6",
+      "uydu": "Eutelsat 16D",
+      "kapsama": "EUROPEB",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E"
+    }
+  ],
+  "silinen_transponderler": [
     {
       "tp_id": "eutelsat_16:12507:H:1586",
       "frekans": 12507,
@@ -233,43 +282,5 @@
       "konum_adi": "Eutelsat 16A 16.0°E"
     }
   ],
-  "silinen_transponderler": [
-    {
-      "tp_id": "eutelsat_16:11401:V:17500",
-      "frekans": 11401,
-      "polarizasyon": "V",
-      "sembol_orani": 17500,
-      "fec": "3/4",
-      "uydu": "Eutelsat 16D",
-      "kapsama": "EUROPEA",
-      "kanal_sayisi": 1,
-      "tv_sayisi": 1,
-      "radyo_sayisi": 0,
-      "konum_id": "eutelsat_16",
-      "konum_adi": "Eutelsat 16A 16.0°E"
-    }
-  ],
-  "degisen_transponderler": [
-    {
-      "anahtar": "eutelsat_16:11512:H:30000",
-      "degisiklikler": {
-        "fec": {
-          "onceki": "2/3",
-          "yeni": "3/4"
-        },
-        "kapsama": {
-          "onceki": "SEAfrica",
-          "yeni": "EUROPEB"
-        },
-        "kanal_sayisi": {
-          "onceki": 23,
-          "yeni": 21
-        },
-        "tv_sayisi": {
-          "onceki": 23,
-          "yeni": 21
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }

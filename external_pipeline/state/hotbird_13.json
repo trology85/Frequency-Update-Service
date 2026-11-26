@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-26T11:57:44.206849+00:00",
+  "generated_utc": "2026-11-26T23:31:43.483804+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=13E",
@@ -18841,7 +18841,7 @@
       "tp_id": "hotbird_13:11642:H:9875"
     },
     {
-      "name": "GVA_Fi01",
+      "name": "LEUK_Fi02_M33A",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Hot Bird 13.0°E",
@@ -33380,7 +33380,7 @@
       "tp_id": "hotbird_13:12466:V:29900"
     },
     {
-      "name": "Guardie & Ladri Collection",
+      "name": "Twilight Collection",
       "type": "TV",
       "quality": "HD",
       "satellite_group": "Hot Bird 13.0°E",
