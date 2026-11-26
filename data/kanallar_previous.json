@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "25.11.2026 12:11:30",
+  "guncelleme_tarihi": "25.11.2026 23:29:17",
   "uydu_adi": "Türksat 42.0°E",
-  "toplam_kanal": 733,
+  "toplam_kanal": 735,
   "toplam_tp": 52,
   "transponderler": [
     {
@@ -55,8 +55,8 @@
       "fec": "3/4",
       "uydu": "T5B",
       "kapsama": "Batı",
-      "kanal_sayisi": 39,
-      "tv_sayisi": 7,
+      "kanal_sayisi": 40,
+      "tv_sayisi": 8,
       "radyo_sayisi": 32,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -125,8 +125,8 @@
       "fec": "3/4",
       "uydu": "T6A",
       "kapsama": "Batı",
-      "kanal_sayisi": 20,
-      "tv_sayisi": 20,
+      "kanal_sayisi": 17,
+      "tv_sayisi": 17,
       "radyo_sayisi": 0,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -433,8 +433,8 @@
       "fec": "5/6",
       "uydu": "T4A",
       "kapsama": "Batı",
-      "kanal_sayisi": 63,
-      "tv_sayisi": 14,
+      "kanal_sayisi": 67,
+      "tv_sayisi": 18,
       "radyo_sayisi": 49,
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -1579,6 +1579,22 @@
       "uydu": "T5B",
       "kalite": "Bilinmeyen",
       "tur": "RADYO",
+      "tp_id": "11305_V_30000",
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
+      "kanal_adi": "DA VINCI HD",
+      "frekans": 11305,
+      "polarizasyon": "V",
+      "kapsama": "Batı",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "2703",
+      "ses_pid": "2803",
+      "uydu": "T5B",
+      "kalite": "HD",
+      "tur": "TV",
       "tp_id": "11305_V_30000",
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -2864,22 +2880,6 @@
       "konum_adi": "Türksat 42.0°E"
     },
     {
-      "kanal_adi": "PERETS INTERNATIONAL",
-      "frekans": 11727,
-      "polarizasyon": "V",
-      "kapsama": "Batı",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "1210",
-      "ses_pid": "1310",
-      "uydu": "T6A",
-      "kalite": "SD",
-      "tur": "TV",
-      "tp_id": "11727_V_27500",
-      "konum_id": "turksat_42",
-      "konum_adi": "Türksat 42.0°E"
-    },
-    {
       "kanal_adi": "REN INTERNATIONAL",
       "frekans": 11727,
       "polarizasyon": "V",
@@ -2928,22 +2928,6 @@
       "konum_adi": "Türksat 42.0°E"
     },
     {
-      "kanal_adi": "RUSSIA 24",
-      "frekans": 11727,
-      "polarizasyon": "V",
-      "kapsama": "Batı",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "1201",
-      "ses_pid": "1301",
-      "uydu": "T6A",
-      "kalite": "SD",
-      "tur": "TV",
-      "tp_id": "11727_V_27500",
-      "konum_id": "turksat_42",
-      "konum_adi": "Türksat 42.0°E"
-    },
-    {
       "kanal_adi": "START AIR",
       "frekans": 11727,
       "polarizasyon": "V",
@@ -2968,22 +2952,6 @@
       "fec": "3/4",
       "video_pid": "1215",
       "ses_pid": "1315",
-      "uydu": "T6A",
-      "kalite": "SD",
-      "tur": "TV",
-      "tp_id": "11727_V_27500",
-      "konum_id": "turksat_42",
-      "konum_adi": "Türksat 42.0°E"
-    },
-    {
-      "kanal_adi": "START WORLD",
-      "frekans": 11727,
-      "polarizasyon": "V",
-      "kapsama": "Batı",
-      "sembol_orani": 27500,
-      "fec": "3/4",
-      "video_pid": "1217",
-      "ses_pid": "1317",
       "uydu": "T6A",
       "kalite": "SD",
       "tur": "TV",
@@ -7024,6 +6992,22 @@
       "konum_adi": "Türksat 42.0°E"
     },
     {
+      "kanal_adi": "CARTOONITO",
+      "frekans": 12188,
+      "polarizasyon": "V",
+      "kapsama": "Batı",
+      "sembol_orani": 27500,
+      "fec": "5/6",
+      "video_pid": "116",
+      "ses_pid": "216",
+      "uydu": "T4A",
+      "kalite": "HD",
+      "tur": "TV",
+      "tp_id": "12188_V_27500",
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
       "kanal_adi": "CHANSONS",
       "frekans": 12188,
       "polarizasyon": "V",
@@ -7280,6 +7264,22 @@
       "konum_adi": "Türksat 42.0°E"
     },
     {
+      "kanal_adi": "DİZİ SMART MAX",
+      "frekans": 12188,
+      "polarizasyon": "V",
+      "kapsama": "Batı",
+      "sembol_orani": 27500,
+      "fec": "5/6",
+      "video_pid": "114",
+      "ses_pid": "214",
+      "uydu": "T4A",
+      "kalite": "HD",
+      "tur": "TV",
+      "tp_id": "12188_V_27500",
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
       "kanal_adi": "EASY LISTENING",
       "frekans": 12188,
       "polarizasyon": "V",
@@ -7291,6 +7291,22 @@
       "uydu": "T4A",
       "kalite": "Bilinmeyen",
       "tur": "RADYO",
+      "tp_id": "12188_V_27500",
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
+      "kanal_adi": "FASHION TV",
+      "frekans": 12188,
+      "polarizasyon": "V",
+      "kapsama": "Batı",
+      "sembol_orani": 27500,
+      "fec": "5/6",
+      "video_pid": "107",
+      "ses_pid": "207",
+      "uydu": "T4A",
+      "kalite": "HD",
+      "tur": "TV",
       "tp_id": "12188_V_27500",
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
@@ -7531,6 +7547,22 @@
       "uydu": "T4A",
       "kalite": "Bilinmeyen",
       "tur": "RADYO",
+      "tp_id": "12188_V_27500",
+      "konum_id": "turksat_42",
+      "konum_adi": "Türksat 42.0°E"
+    },
+    {
+      "kanal_adi": "MOVIE CLASSIC",
+      "frekans": 12188,
+      "polarizasyon": "V",
+      "kapsama": "Batı",
+      "sembol_orani": 27500,
+      "fec": "5/6",
+      "video_pid": "110",
+      "ses_pid": "210",
+      "uydu": "T4A",
+      "kalite": "HD",
+      "tur": "TV",
       "tp_id": "12188_V_27500",
       "konum_id": "turksat_42",
       "konum_adi": "Türksat 42.0°E"
