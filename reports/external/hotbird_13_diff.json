@@ -1,47 +1,208 @@
 {
   "uydu_id": "hotbird_13",
   "uydu_adi": "Hot Bird 13.0°E",
-  "olusturma_zamani_utc": "2026-11-26T23:31:43.700079+00:00",
+  "olusturma_zamani_utc": "2026-11-27T11:50:16.741298+00:00",
   "ilk_yayin": false,
   "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 1266,
-    "yeni_kanal": 1266,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
-    "degisen_kanal": 2,
+    "yeni_kanal": 1264,
+    "eklenen_kanal": 2,
+    "silinen_kanal": 4,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 90,
-    "yeni_tp": 90,
-    "eklenen_tp": 0,
-    "silinen_tp": 0,
+    "yeni_tp": 87,
+    "eklenen_tp": 1,
+    "silinen_tp": 4,
     "degisen_tp": 0
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
-  "degisen_kanallar": [
+  "eklenen_kanallar": [
     {
-      "anahtar": "hotbird_13|hotbird_13:11642:H:9875|sid:1",
-      "kanal_adi": "LEUK_Fi02_M33A",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "GVA_Fi01",
-          "yeni": "LEUK_Fi02_M33A"
-        }
-      }
+      "kanal_adi": "ISU FS GP6 Tokyo",
+      "frekans": 10815,
+      "polarizasyon": "H",
+      "sembol_orani": 7199,
+      "fec": "3/4",
+      "video_pid": "3020",
+      "ses_pid": "3021 / eng / 3022 / eng / 3023 / eng / 3024 / eng",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "30002",
+      "paket": "RRSat",
+      "tp_id": "hotbird_13:10815:H:7199",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
     },
     {
-      "anahtar": "hotbird_13|hotbird_13:12466:V:29900|sid:4204",
-      "kanal_adi": "Twilight Collection",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "Guardie & Ladri Collection",
-          "yeni": "Twilight Collection"
-        }
-      }
+      "kanal_adi": "Adhoc Enc 2.2",
+      "frekans": 10815,
+      "polarizasyon": "H",
+      "sembol_orani": 7199,
+      "fec": "3/4",
+      "video_pid": "5220",
+      "ses_pid": "5221 / und / 5222 / und",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "52002",
+      "paket": "RRSat",
+      "tp_id": "hotbird_13:10815:H:7199",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
     }
   ],
-  "eklenen_transponderler": [],
-  "silinen_transponderler": [],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "Adhoc Enc 2.2",
+      "frekans": 10815,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "5/6",
+      "video_pid": "5220",
+      "ses_pid": "5221 / und / 5222 / und",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "52002",
+      "paket": "RRSat",
+      "tp_id": "hotbird_13:10815:H:27500",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "EBU 1 ENC",
+      "frekans": 11040,
+      "polarizasyon": "H",
+      "sembol_orani": 4936,
+      "fec": "3/4",
+      "video_pid": "512",
+      "ses_pid": "4112 / 4128 / 4144 / 4160",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "",
+      "tp_id": "hotbird_13:11040:H:4936",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "EBU 3 ENC",
+      "frekans": 11046,
+      "polarizasyon": "H",
+      "sembol_orani": 4936,
+      "fec": "3/4",
+      "video_pid": "512",
+      "ses_pid": "4112 / 4128 / 4144 / 4160",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "",
+      "tp_id": "hotbird_13:11046:H:4936",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    },
+    {
+      "kanal_adi": "TUR-057 M2 MAIN",
+      "frekans": 11075,
+      "polarizasyon": "V",
+      "sembol_orani": 14400,
+      "fec": "3/4",
+      "video_pid": "512",
+      "ses_pid": "4112 / 4128 / 4160",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "",
+      "tp_id": "hotbird_13:11075:V:14400",
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E",
+      "kapsama": "Wide"
+    }
+  ],
+  "degisen_kanallar": [],
+  "eklenen_transponderler": [
+    {
+      "tp_id": "hotbird_13:10815:H:7199",
+      "frekans": 10815,
+      "polarizasyon": "H",
+      "sembol_orani": 7199,
+      "fec": "3/4",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kapsama": "Wide",
+      "kanal_sayisi": 2,
+      "tv_sayisi": 2,
+      "radyo_sayisi": 0,
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E"
+    }
+  ],
+  "silinen_transponderler": [
+    {
+      "tp_id": "hotbird_13:10815:H:27500",
+      "frekans": 10815,
+      "polarizasyon": "H",
+      "sembol_orani": 27500,
+      "fec": "5/6",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kapsama": "Wide",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E"
+    },
+    {
+      "tp_id": "hotbird_13:11040:H:4936",
+      "frekans": 11040,
+      "polarizasyon": "H",
+      "sembol_orani": 4936,
+      "fec": "3/4",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kapsama": "Wide",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E"
+    },
+    {
+      "tp_id": "hotbird_13:11046:H:4936",
+      "frekans": 11046,
+      "polarizasyon": "H",
+      "sembol_orani": 4936,
+      "fec": "3/4",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kapsama": "Wide",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E"
+    },
+    {
+      "tp_id": "hotbird_13:11075:V:14400",
+      "frekans": 11075,
+      "polarizasyon": "V",
+      "sembol_orani": 14400,
+      "fec": "3/4",
+      "uydu": "Eutelsat Hot Bird 13G",
+      "kapsama": "Wide",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "hotbird_13",
+      "konum_adi": "Hot Bird 13.0°E"
+    }
+  ],
   "degisen_transponderler": []
 }

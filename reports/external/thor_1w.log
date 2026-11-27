@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-26T23:32:14.526706+00:00",
+  "run_utc": "2026-11-27T11:50:38.023952+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-26T23:32:16.467517+00:00",
+  "run_utc": "2026-11-27T11:50:39.480004+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,10 +32,10 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-0.8W",
       "title": "Intelsat 10-02 / Thor 5 / Thor 6 / Thor 7 (0.8°W) -  - Frekanslar - KingOfSat",
-      "bytes": 1343914,
-      "frequency_rows": 152,
-      "channel_rows": 1038,
-      "advertised_records": 1127,
+      "bytes": 1361796,
+      "frequency_rows": 153,
+      "channel_rows": 1025,
+      "advertised_records": 1117,
       "block_markers": [],
       "raw_file": "raw/kingofsat/thor_1w.html",
       "errors": []
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-26T23:32:20.307394+00:00",
+  "generated_utc": "2026-11-27T11:50:42.009247+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 0,
       "tv": 0,
       "radio": 0,
-      "source_updated": "2026-11-24"
+      "source_updated": "2026-11-27"
     }
   ]
 }
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-26T23:32:22.584801+00:00",
+  "run_utc": "2026-11-27T11:50:43.526327+00:00",
   "ok": true,
-  "should_publish": true,
+  "should_publish": false,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -125,12 +125,12 @@
       "missing_core_fields": 0,
       "duplicate_identities": 0,
       "candidate_hash": "0cc6fbd21dd1df7c0abcdb0ac99c7181c4f1da9f2a38c119ededebfe5a0fb5ff",
-      "current_hash": "749b5274d29ac76bedf4330a2589bb7705ac7f74514b5bff0b8fb86e4037d1cd",
-      "changed": true,
-      "added": 2,
+      "current_hash": "0cc6fbd21dd1df7c0abcdb0ac99c7181c4f1da9f2a38c119ededebfe5a0fb5ff",
+      "changed": false,
+      "added": 0,
       "removed": 0,
-      "updated": 1
+      "updated": 0
     }
   ]
 }
-SHOULD_PUBLISH=true
+SHOULD_PUBLISH=false

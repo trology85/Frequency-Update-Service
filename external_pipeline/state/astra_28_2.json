@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-26T11:58:06.777565+00:00",
+  "generated_utc": "2026-11-27T11:50:37.788850+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=28E",
-    "last_updated": "2026-11-26"
+    "last_updated": "2026-11-27"
   },
   "satellite": {
     "id": "astra_28_2",
@@ -13,10 +13,10 @@
   },
   "counts": {
     "transponders": 59,
-    "channels": 835,
-    "tv": 782,
+    "channels": 833,
+    "tv": 780,
     "radio": 53,
-    "sd": 562,
+    "sd": 560,
     "hd": 216,
     "uhd_4k": 4,
     "unknown_quality": 0
@@ -353,8 +353,8 @@
       "network": "Sky UK",
       "nid": 2,
       "tid": 2105,
-      "channel_count": 13,
-      "tv_count": 13,
+      "channel_count": 11,
+      "tv_count": 11,
       "radio_count": 0,
       "source_transponder_id": 10986
     },
@@ -2097,7 +2097,7 @@
       "tid": 2050,
       "source_channel_id": 177652,
       "source_transponder_id": 1423,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2128,7 +2128,7 @@
       "tid": 2050,
       "source_channel_id": 177653,
       "source_transponder_id": 1423,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2159,7 +2159,7 @@
       "tid": 2050,
       "source_channel_id": 177654,
       "source_transponder_id": 1423,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2190,7 +2190,7 @@
       "tid": 2050,
       "source_channel_id": 177655,
       "source_transponder_id": 1423,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2221,7 +2221,7 @@
       "tid": 2050,
       "source_channel_id": 177656,
       "source_transponder_id": 1423,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2252,7 +2252,7 @@
       "tid": 2050,
       "source_channel_id": 177657,
       "source_transponder_id": 1423,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2283,7 +2283,7 @@
       "tid": 2050,
       "source_channel_id": 177658,
       "source_transponder_id": 1423,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2314,7 +2314,7 @@
       "tid": 2050,
       "source_channel_id": 177659,
       "source_transponder_id": 1423,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -2345,7 +2345,7 @@
       "tid": 2050,
       "source_channel_id": 177660,
       "source_transponder_id": 1423,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "astra_28_2:10832:H:23000"
     },
     {
@@ -6906,37 +6906,6 @@
       "tp_id": "astra_28_2:11225:H:27500"
     },
     {
-      "name": "Sanskar TV",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2G",
-      "position": "28.2E",
-      "frequency": 11225,
-      "polarization": "H",
-      "symbol_rate": 27500,
-      "fec": "2/3",
-      "system": "DVB-S",
-      "modulation": "QPSK",
-      "sid": 54223,
-      "country": "",
-      "country_code": "",
-      "beam": "Europe",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-2",
-      "vpid": 2309,
-      "audio": "2318 / sad",
-      "nid": 2,
-      "tid": 2105,
-      "source_channel_id": 149258,
-      "source_transponder_id": 10986,
-      "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11225:H:27500"
-    },
-    {
       "name": "EuroNews UK",
       "type": "TV",
       "quality": "SD",
@@ -7025,37 +6994,6 @@
       "nid": 2,
       "tid": 2105,
       "source_channel_id": 149263,
-      "source_transponder_id": 10986,
-      "updated": "2026-11-17",
-      "tp_id": "astra_28_2:11225:H:27500"
-    },
-    {
-      "name": "Aastha TV UK",
-      "type": "TV",
-      "quality": "SD",
-      "satellite_group": "Astra 2E/2F/2G 28.2°E",
-      "spacecraft": "Astra 2G",
-      "position": "28.2E",
-      "frequency": 11225,
-      "polarization": "H",
-      "symbol_rate": 27500,
-      "fec": "2/3",
-      "system": "DVB-S",
-      "modulation": "QPSK",
-      "sid": 54229,
-      "country": "",
-      "country_code": "",
-      "beam": "Europe",
-      "provider": "Sky UK",
-      "package": "",
-      "encryption": "",
-      "free_to_air": true,
-      "compression": "MPEG-2",
-      "vpid": 2331,
-      "audio": "2332 / eng",
-      "nid": 2,
-      "tid": 2105,
-      "source_channel_id": 149264,
       "source_transponder_id": 10986,
       "updated": "2026-11-17",
       "tp_id": "astra_28_2:11225:H:27500"
@@ -11060,7 +10998,7 @@
       "tp_id": "astra_28_2:11523:H:23000"
     },
     {
-      "name": "7621",
+      "name": "Aastha",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
@@ -11087,11 +11025,11 @@
       "tid": 2093,
       "source_channel_id": 175497,
       "source_transponder_id": 12896,
-      "updated": "2026-11-17",
+      "updated": "2026-11-27",
       "tp_id": "astra_28_2:11523:H:23000"
     },
     {
-      "name": "7622",
+      "name": "Sanskar",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 2E/2F/2G 28.2°E",
@@ -11118,7 +11056,7 @@
       "tid": 2093,
       "source_channel_id": 175498,
       "source_transponder_id": 12896,
-      "updated": "2026-11-17",
+      "updated": "2026-11-27",
       "tp_id": "astra_28_2:11523:H:23000"
     },
     {

@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-25T23:29:58.749033+00:00",
+  "guncelleme_tarihi": "2026-11-27T11:50:21.124528+00:00",
   "uydu_adi": "Hellas Sat 39.0°E",
-  "toplam_kanal": 608,
+  "toplam_kanal": 609,
   "toplam_tp": 35,
   "transponderler": [
     {
@@ -153,8 +153,8 @@
       "fec": "3/4",
       "uydu": "HellasSat 3",
       "kapsama": "EuropeBSS",
-      "kanal_sayisi": 48,
-      "tv_sayisi": 48,
+      "kanal_sayisi": 49,
+      "tv_sayisi": 49,
       "radyo_sayisi": 0,
       "konum_id": "hellas_39",
       "konum_adi": "Hellas Sat 39.0°E"
@@ -1303,6 +1303,24 @@
       "sid": "225",
       "paket": "Bulsatcom",
       "tp_id": "hellas_39:12194:H:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    },
+    {
+      "kanal_adi": "Arena Plus",
+      "frekans": 12137,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "2001",
+      "ses_pid": "2002 / bul",
+      "uydu": "HellasSat 3",
+      "kalite": "4K",
+      "tur": "TV",
+      "sid": "210",
+      "paket": "A1 Bulgaria",
+      "tp_id": "hellas_39:12137:V:30000",
       "konum_id": "hellas_39",
       "konum_adi": "Hellas Sat 39.0°E",
       "kapsama": "EuropeBSS"

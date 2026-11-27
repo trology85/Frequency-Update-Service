@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-26T23:32:01.521264+00:00",
+  "run_utc": "2026-11-27T11:50:29.161077+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -12,8 +12,8 @@
       "errors": [],
       "pages": 2,
       "transponders": 44,
-      "channels": 677,
-      "raw_channel_rows": 677,
+      "channels": 661,
+      "raw_channel_rows": 661,
       "raw_file": "raw/satbeams/astra_23_5.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-26T23:32:03.492800+00:00",
+  "run_utc": "2026-11-27T11:50:30.649904+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-23.5E",
       "title": "Astra 3B / Astra 3C (23.5°E) -  - Frekanslar - KingOfSat",
-      "bytes": 856011,
+      "bytes": 855422,
       "frequency_rows": 85,
       "channel_rows": 659,
       "advertised_records": 719,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-26T23:32:06.564619+00:00",
+  "generated_utc": "2026-11-27T11:50:32.471772+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -54,7 +54,7 @@
       "channels": 0,
       "tv": 0,
       "radio": 0,
-      "source_updated": "2026-11-22"
+      "source_updated": "2026-11-27"
     }
   ]
 }
@@ -68,11 +68,11 @@
       "id": "astra_23_5",
       "ok": true,
       "transponders": 34,
-      "channels": 665,
-      "tv": 548,
-      "radio": 117,
-      "sd": 357,
-      "hd": 191,
+      "channels": 649,
+      "tv": 539,
+      "radio": 110,
+      "sd": 351,
+      "hd": 188,
       "uhd_4k": 0,
       "unknown_quality": 0,
       "candidate": "candidate/satbeams/astra_23_5.json"
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-26T23:32:07.922657+00:00",
+  "run_utc": "2026-11-27T11:50:33.406330+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -114,23 +114,23 @@
       "errors": [],
       "warnings": [],
       "transponders": 34,
-      "channels": 665,
-      "tv": 548,
-      "radio": 117,
-      "sd": 357,
-      "hd": 191,
+      "channels": 649,
+      "tv": 539,
+      "radio": 110,
+      "sd": 351,
+      "hd": 188,
       "uhd_4k": 0,
       "unknown_quality": 0,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "26b7f9a43c4880ac53406c8534de8807383b039d272744eac272fed8bbed994e",
+      "candidate_hash": "c2fa9471a1199b6a224fef55a615e743763214baca52326a2cff0b91f2b16bab",
       "current_hash": "26b7f9a43c4880ac53406c8534de8807383b039d272744eac272fed8bbed994e",
-      "changed": false,
-      "added": 0,
-      "removed": 0,
-      "updated": 0
+      "changed": true,
+      "added": 1,
+      "removed": 17,
+      "updated": 1
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true

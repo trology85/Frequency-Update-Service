@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-26T11:57:48.751593+00:00",
+  "generated_utc": "2026-11-27T11:50:21.124528+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=39E",
-    "last_updated": "2026-11-26"
+    "last_updated": "2026-11-27"
   },
   "satellite": {
     "id": "hellas_39",
@@ -13,12 +13,12 @@
   },
   "counts": {
     "transponders": 35,
-    "channels": 608,
-    "tv": 570,
+    "channels": 609,
+    "tv": 571,
     "radio": 38,
     "sd": 313,
     "hd": 110,
-    "uhd_4k": 147,
+    "uhd_4k": 148,
     "unknown_quality": 0
   },
   "transponders": [
@@ -248,8 +248,8 @@
       "network": "A1 Bulgaria",
       "nid": 926,
       "tid": 178,
-      "channel_count": 48,
-      "tv_count": 48,
+      "channel_count": 49,
+      "tv_count": 49,
       "radio_count": 0,
       "source_transponder_id": 3524
     },
@@ -4073,7 +4073,7 @@
       "tid": 2,
       "source_channel_id": 177752,
       "source_transponder_id": 12124,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "hellas_39:11778:H:16515"
     },
     {
@@ -4104,7 +4104,7 @@
       "tid": 2,
       "source_channel_id": 165627,
       "source_transponder_id": 12124,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "hellas_39:11778:H:16515"
     },
     {
@@ -4135,7 +4135,7 @@
       "tid": 2,
       "source_channel_id": 177753,
       "source_transponder_id": 12124,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "hellas_39:11778:H:16515"
     },
     {
@@ -4166,7 +4166,7 @@
       "tid": 2,
       "source_channel_id": 177754,
       "source_transponder_id": 12124,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "hellas_39:11778:H:16515"
     },
     {
@@ -4197,7 +4197,7 @@
       "tid": 2,
       "source_channel_id": 177755,
       "source_transponder_id": 12124,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "hellas_39:11778:H:16515"
     },
     {
@@ -4228,7 +4228,7 @@
       "tid": 2,
       "source_channel_id": 177756,
       "source_transponder_id": 12124,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "hellas_39:11778:H:16515"
     },
     {
@@ -5996,6 +5996,37 @@
       "source_channel_id": 113482,
       "source_transponder_id": 3524,
       "updated": "2026-11-06",
+      "tp_id": "hellas_39:12137:V:30000"
+    },
+    {
+      "name": "Arena Plus",
+      "type": "TV",
+      "quality": "4K",
+      "satellite_group": "Hellas Sat 39.0°E",
+      "spacecraft": "HellasSat 3",
+      "position": "39.0E",
+      "frequency": 12137,
+      "polarization": "V",
+      "symbol_rate": 30000,
+      "fec": "3/4",
+      "system": "DVB-S2",
+      "modulation": "8PSK",
+      "sid": 210,
+      "country": "",
+      "country_code": "",
+      "beam": "EuropeBSS",
+      "provider": "A1 Bulgaria",
+      "package": "",
+      "encryption": "Conax",
+      "free_to_air": false,
+      "compression": "HEVC (H.265)",
+      "vpid": 2001,
+      "audio": "2002 / bul",
+      "nid": 926,
+      "tid": 178,
+      "source_channel_id": 178247,
+      "source_transponder_id": 3524,
+      "updated": "2026-11-27",
       "tp_id": "hellas_39:12137:V:30000"
     },
     {

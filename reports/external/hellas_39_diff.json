@@ -1,13 +1,13 @@
 {
   "uydu_id": "hellas_39",
   "uydu_adi": "Hellas Sat 39.0°E",
-  "olusturma_zamani_utc": "2026-11-26T23:31:50.029230+00:00",
+  "olusturma_zamani_utc": "2026-11-27T11:50:21.241473+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 594,
-    "yeni_kanal": 594,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 595,
+    "eklenen_kanal": 1,
     "silinen_kanal": 0,
     "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
@@ -15,12 +15,45 @@
     "yeni_tp": 35,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Arena Plus",
+      "frekans": 12137,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "2001",
+      "ses_pid": "2002 / bul",
+      "uydu": "HellasSat 3",
+      "kalite": "4K",
+      "tur": "TV",
+      "sid": "210",
+      "paket": "A1 Bulgaria",
+      "tp_id": "hellas_39:12137:V:30000",
+      "konum_id": "hellas_39",
+      "konum_adi": "Hellas Sat 39.0°E",
+      "kapsama": "EuropeBSS"
+    }
+  ],
   "silinen_kanallar": [],
   "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "hellas_39:12137:V:30000",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 48,
+          "yeni": 49
+        },
+        "tv_sayisi": {
+          "onceki": 48,
+          "yeni": 49
+        }
+      }
+    }
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-26T11:57:52.241510+00:00",
+  "generated_utc": "2026-11-27T11:50:24.288711+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=46E",
-    "last_updated": "2026-11-26"
+    "last_updated": "2026-11-27"
   },
   "satellite": {
     "id": "azerspace_46",
@@ -2965,8 +2965,8 @@
       "beam": "Europe",
       "provider": "Vector A.G",
       "package": "",
-      "encryption": "",
-      "free_to_air": true,
+      "encryption": "BISS",
+      "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1010,
       "audio": "1011 / geo",
@@ -3160,7 +3160,7 @@
       "tid": null,
       "source_channel_id": 123730,
       "source_transponder_id": 11895,
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "tp_id": "azerspace_46:11094:H:30000"
     },
     {

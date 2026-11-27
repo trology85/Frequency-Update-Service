@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-11-26T11:57:36.214309+00:00",
+  "generated_utc": "2026-11-27T11:50:08.669575+00:00",
   "source": {
     "name": "Satbeams API",
     "url": "https://www.satbeams.com/channels?position=19E",
-    "last_updated": "2026-11-26"
+    "last_updated": "2026-11-27"
   },
   "satellite": {
     "id": "astra_19_2",
@@ -8147,13 +8147,13 @@
       "encryption": "",
       "free_to_air": true,
       "compression": "MPEG-4 AVC (H.264)",
-      "vpid": 5411,
-      "audio": "5412 / deu",
+      "vpid": 5401,
+      "audio": "5402 / deu",
       "nid": 1,
       "tid": 1039,
       "source_channel_id": 176113,
       "source_transponder_id": 1330,
-      "updated": "2026-11-19",
+      "updated": "2026-11-27",
       "tp_id": "astra_19_2:11053:H:22000"
     },
     {
@@ -17634,7 +17634,7 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 767,
-      "audio": "771 / deu",
+      "audio": "771 / deu / 772 / eng",
       "nid": 133,
       "tid": 2,
       "source_channel_id": 159224,
@@ -18259,7 +18259,7 @@
       "tid": 16,
       "source_channel_id": 101068,
       "source_transponder_id": 11358,
-      "updated": "2026-11-20",
+      "updated": "2026-11-27",
       "tp_id": "astra_19_2:11798:H:27500"
     },
     {
@@ -20951,7 +20951,7 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1023,
-      "audio": "1026",
+      "audio": "1026 / 1028",
       "nid": 133,
       "tid": 13,
       "source_channel_id": 159242,
@@ -21013,7 +21013,7 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 2047,
-      "audio": "2050 / 2052",
+      "audio": "2050",
       "nid": 133,
       "tid": 13,
       "source_channel_id": 154057,
@@ -25911,7 +25911,7 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 1279,
-      "audio": "1280 / deu",
+      "audio": "1280 / deu / 1281 / eng",
       "nid": 133,
       "tid": 12,
       "source_channel_id": 162019,
@@ -25973,7 +25973,7 @@
       "free_to_air": false,
       "compression": "MPEG-4",
       "vpid": 767,
-      "audio": "771 / deu",
+      "audio": "771 / deu / 772 / eng",
       "nid": 133,
       "tid": 12,
       "source_channel_id": 162018,
@@ -31500,7 +31500,7 @@
       "tp_id": "astra_19_2:12663:H:22000"
     },
     {
-      "name": "JOYN MEDIATHEK",
+      "name": "JOYN Mediathek Austria",
       "type": "TV",
       "quality": "SD",
       "satellite_group": "Astra 19.2°E",
@@ -31527,7 +31527,7 @@
       "tid": 1115,
       "source_channel_id": 161805,
       "source_transponder_id": 1294,
-      "updated": "2026-11-19",
+      "updated": "2026-11-27",
       "tp_id": "astra_19_2:12663:H:22000"
     },
     {
