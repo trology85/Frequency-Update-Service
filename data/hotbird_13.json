@@ -1,9 +1,9 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-27T11:50:16.547079+00:00",
+  "guncelleme_tarihi": "2026-11-27T23:15:58.377555+00:00",
   "uydu_adi": "Hot Bird 13.0°E",
-  "toplam_kanal": 1353,
-  "toplam_tp": 87,
+  "toplam_kanal": 1351,
+  "toplam_tp": 86,
   "transponderler": [
     {
       "tp_id": "hotbird_13:10719:V:27500",
@@ -71,20 +71,6 @@
       "kapsama": "Wide",
       "kanal_sayisi": 18,
       "tv_sayisi": 18,
-      "radyo_sayisi": 0,
-      "konum_id": "hotbird_13",
-      "konum_adi": "Hot Bird 13.0°E"
-    },
-    {
-      "tp_id": "hotbird_13:10815:H:7199",
-      "frekans": 10815,
-      "polarizasyon": "H",
-      "sembol_orani": 7199,
-      "fec": "3/4",
-      "uydu": "Eutelsat Hot Bird 13G",
-      "kapsama": "Wide",
-      "kanal_sayisi": 2,
-      "tv_sayisi": 2,
       "radyo_sayisi": 0,
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E"
@@ -1689,24 +1675,6 @@
       "sid": "5119",
       "paket": "Canal+ Polska",
       "tp_id": "hotbird_13:11488:H:27500",
-      "konum_id": "hotbird_13",
-      "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
-    },
-    {
-      "kanal_adi": "Adhoc Enc 2.2",
-      "frekans": 10815,
-      "polarizasyon": "H",
-      "sembol_orani": 7199,
-      "fec": "3/4",
-      "video_pid": "5220",
-      "ses_pid": "5221 / und / 5222 / und",
-      "uydu": "Eutelsat Hot Bird 13G",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "52002",
-      "paket": "RRSat",
-      "tp_id": "hotbird_13:10815:H:7199",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
       "kapsama": "Wide"
@@ -10689,24 +10657,6 @@
       "sid": "124",
       "paket": "Mediaset",
       "tp_id": "hotbird_13:11432:V:29900",
-      "konum_id": "hotbird_13",
-      "konum_adi": "Hot Bird 13.0°E",
-      "kapsama": "Wide"
-    },
-    {
-      "kanal_adi": "ISU FS GP6 Tokyo",
-      "frekans": 10815,
-      "polarizasyon": "H",
-      "sembol_orani": 7199,
-      "fec": "3/4",
-      "video_pid": "3020",
-      "ses_pid": "3021 / eng / 3022 / eng / 3023 / eng / 3024 / eng",
-      "uydu": "Eutelsat Hot Bird 13G",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "30002",
-      "paket": "RRSat",
-      "tp_id": "hotbird_13:10815:H:7199",
       "konum_id": "hotbird_13",
       "konum_adi": "Hot Bird 13.0°E",
       "kapsama": "Wide"

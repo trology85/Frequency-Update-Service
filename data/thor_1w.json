@@ -1,9 +1,9 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-26T23:32:22.468007+00:00",
+  "guncelleme_tarihi": "2026-11-27T23:16:30.195890+00:00",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "toplam_kanal": 884,
-  "toplam_tp": 70,
+  "toplam_kanal": 883,
+  "toplam_tp": 69,
   "transponderler": [
     {
       "tp_id": "thor_1w:3977:L:17777",
@@ -169,20 +169,6 @@
       "kapsama": "K1",
       "kanal_sayisi": 12,
       "tv_sayisi": 12,
-      "radyo_sayisi": 0,
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
-    },
-    {
-      "tp_id": "thor_1w:10966:V:7499",
-      "frekans": 10966,
-      "polarizasyon": "V",
-      "sembol_orani": 7499,
-      "fec": "3/4",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kapsama": "Spot1",
-      "kanal_sayisi": 1,
-      "tv_sayisi": 1,
       "radyo_sayisi": 0,
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
@@ -5684,24 +5670,6 @@
       "konum_id": "thor_1w",
       "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
       "kapsama": "Spot3"
-    },
-    {
-      "kanal_adi": "HOL322 TX1",
-      "frekans": 10966,
-      "polarizasyon": "V",
-      "sembol_orani": 7499,
-      "fec": "3/4",
-      "video_pid": "512",
-      "ses_pid": "4112 / eng / 4128 / eng / 4144 / eng / 4160 / eng",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "1",
-      "paket": "",
-      "tp_id": "thor_1w:10966:V:7499",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot1"
     },
     {
       "kanal_adi": "Hona Baghdad",
@@ -16762,7 +16730,7 @@
       "sembol_orani": 30000,
       "fec": "3/4",
       "video_pid": "1108",
-      "ses_pid": "3028 / fin / 4264 / dut",
+      "ses_pid": "3028 / fin / 4251 / swe / 4265 / eng",
       "uydu": "Thor 7",
       "kalite": "HD",
       "tur": "TV",

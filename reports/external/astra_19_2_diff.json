@@ -1,15 +1,15 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-11-27T11:50:08.821712+00:00",
+  "olusturma_zamani_utc": "2026-11-27T23:15:50.153459+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
     "onceki_kanal": 953,
     "yeni_kanal": 953,
     "eklenen_kanal": 0,
     "silinen_kanal": 0,
-    "degisen_kanal": 7,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 92,
     "yeni_tp": 92,
@@ -19,82 +19,7 @@
   },
   "eklenen_kanallar": [],
   "silinen_kanallar": [],
-  "degisen_kanallar": [
-    {
-      "anahtar": "astra_19_2|astra_19_2:11053:H:22000|sid:10390",
-      "kanal_adi": "ARD-Test-R",
-      "degisiklikler": {
-        "video_pid": {
-          "onceki": "5411",
-          "yeni": "5401"
-        },
-        "ses_pid": {
-          "onceki": "5412 / deu",
-          "yeni": "5402 / deu"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:11759:H:27500|sid:139",
-      "kanal_adi": "Sky Cinema Feelgood",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "771 / deu",
-          "yeni": "771 / deu / 772 / eng"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:11993:H:27500|sid:114",
-      "kanal_adi": "Sky Sport Tennis",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "1026",
-          "yeni": "1026 / 1028"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:11993:H:27500|sid:144",
-      "kanal_adi": "Sky Sport Golf",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "2050 / 2052",
-          "yeni": "2050"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:12305:H:27500|sid:107",
-      "kanal_adi": "Sky Cinema Classics",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "771 / deu",
-          "yeni": "771 / deu / 772 / eng"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:12305:H:27500|sid:28",
-      "kanal_adi": "Cartoonito Deutschland",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "1280 / deu",
-          "yeni": "1280 / deu / 1281 / eng"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_19_2|astra_19_2:12663:H:22000|sid:13112",
-      "kanal_adi": "JOYN Mediathek Austria",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "JOYN MEDIATHEK",
-          "yeni": "JOYN Mediathek Austria"
-        }
-      }
-    }
-  ],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
   "degisen_transponderler": []

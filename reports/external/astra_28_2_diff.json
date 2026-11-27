@@ -1,98 +1,26 @@
 {
   "uydu_id": "astra_28_2",
   "uydu_adi": "Astra 2E/2F/2G 28.2°E",
-  "olusturma_zamani_utc": "2026-11-27T11:50:37.921362+00:00",
+  "olusturma_zamani_utc": "2026-11-27T23:16:23.802775+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 823,
+    "onceki_kanal": 821,
     "yeni_kanal": 821,
     "eklenen_kanal": 0,
-    "silinen_kanal": 2,
-    "degisen_kanal": 2,
+    "silinen_kanal": 0,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
     "onceki_tp": 59,
     "yeni_tp": 59,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 1
+    "degisen_tp": 0
   },
   "eklenen_kanallar": [],
-  "silinen_kanallar": [
-    {
-      "kanal_adi": "Sanskar TV",
-      "frekans": 11225,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2309",
-      "ses_pid": "2318 / sad",
-      "uydu": "Astra 2G",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "54223",
-      "paket": "Sky UK",
-      "tp_id": "astra_28_2:11225:H:27500",
-      "konum_id": "astra_28_2",
-      "konum_adi": "Astra 2E/2F/2G 28.2°E",
-      "kapsama": "Europe"
-    },
-    {
-      "kanal_adi": "Aastha TV UK",
-      "frekans": 11225,
-      "polarizasyon": "H",
-      "sembol_orani": 27500,
-      "fec": "2/3",
-      "video_pid": "2331",
-      "ses_pid": "2332 / eng",
-      "uydu": "Astra 2G",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "54229",
-      "paket": "Sky UK",
-      "tp_id": "astra_28_2:11225:H:27500",
-      "konum_id": "astra_28_2",
-      "konum_adi": "Astra 2E/2F/2G 28.2°E",
-      "kapsama": "Europe"
-    }
-  ],
-  "degisen_kanallar": [
-    {
-      "anahtar": "astra_28_2|astra_28_2:11523:H:23000|sid:7621",
-      "kanal_adi": "Aastha",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "7621",
-          "yeni": "Aastha"
-        }
-      }
-    },
-    {
-      "anahtar": "astra_28_2|astra_28_2:11523:H:23000|sid:7622",
-      "kanal_adi": "Sanskar",
-      "degisiklikler": {
-        "kanal_adi": {
-          "onceki": "7622",
-          "yeni": "Sanskar"
-        }
-      }
-    }
-  ],
+  "silinen_kanallar": [],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": [
-    {
-      "anahtar": "astra_28_2:11225:H:27500",
-      "degisiklikler": {
-        "kanal_sayisi": {
-          "onceki": 13,
-          "yeni": 11
-        },
-        "tv_sayisi": {
-          "onceki": 13,
-          "yeni": 11
-        }
-      }
-    }
-  ]
+  "degisen_transponderler": []
 }
