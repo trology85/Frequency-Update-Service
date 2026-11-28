@@ -1,26 +1,227 @@
 {
   "uydu_id": "eutelsat_16",
   "uydu_adi": "Eutelsat 16A 16.0°E",
-  "olusturma_zamani_utc": "2026-11-27T23:16:13.462671+00:00",
+  "olusturma_zamani_utc": "2026-11-28T11:26:05.447110+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 926,
-    "yeni_kanal": 926,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "yeni_kanal": 920,
+    "eklenen_kanal": 1,
+    "silinen_kanal": 7,
+    "degisen_kanal": 1,
     "tur_degisen_kanal": 0,
     "onceki_tp": 61,
     "yeni_tp": 61,
-    "eklenen_tp": 0,
-    "silinen_tp": 0,
-    "degisen_tp": 0
+    "eklenen_tp": 1,
+    "silinen_tp": 1,
+    "degisen_tp": 1
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
-  "degisen_kanallar": [],
-  "eklenen_transponderler": [],
-  "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "TRWAM Cz-wa",
+      "frekans": 12739,
+      "polarizasyon": "H",
+      "sembol_orani": 2667,
+      "fec": "3/5",
+      "video_pid": "33",
+      "ses_pid": "36 / pol",
+      "uydu": "Eutelsat 16D",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "",
+      "tp_id": "eutelsat_16:12739:H:2667",
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E",
+      "kapsama": "EUROPEB"
+    }
+  ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "ATV",
+      "frekans": 11401,
+      "polarizasyon": "V",
+      "sembol_orani": 17500,
+      "fec": "3/4",
+      "video_pid": "4193",
+      "ses_pid": "4195 / srp",
+      "uydu": "Eutelsat 16D",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4002",
+      "paket": "Vidi TV",
+      "tp_id": "eutelsat_16:11401:V:17500",
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E",
+      "kapsama": "EUROPEA"
+    },
+    {
+      "kanal_adi": "NOVA BH",
+      "frekans": 11401,
+      "polarizasyon": "V",
+      "sembol_orani": 17500,
+      "fec": "3/4",
+      "video_pid": "4273",
+      "ses_pid": "4275 / bos",
+      "uydu": "Eutelsat 16D",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4003",
+      "paket": "Vidi TV",
+      "tp_id": "eutelsat_16:11401:V:17500",
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E",
+      "kapsama": "EUROPEA"
+    },
+    {
+      "kanal_adi": "BN TV",
+      "frekans": 11401,
+      "polarizasyon": "V",
+      "sembol_orani": 17500,
+      "fec": "3/4",
+      "video_pid": "4145",
+      "ses_pid": "4147 / srp",
+      "uydu": "Eutelsat 16D",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4004",
+      "paket": "Vidi TV",
+      "tp_id": "eutelsat_16:11401:V:17500",
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E",
+      "kapsama": "EUROPEA"
+    },
+    {
+      "kanal_adi": "O Music",
+      "frekans": 11401,
+      "polarizasyon": "V",
+      "sembol_orani": 17500,
+      "fec": "3/4",
+      "video_pid": "4257",
+      "ses_pid": "4259 / bos",
+      "uydu": "Eutelsat 16D",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "4005",
+      "paket": "Vidi TV",
+      "tp_id": "eutelsat_16:11401:V:17500",
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E",
+      "kapsama": "EUROPEA"
+    },
+    {
+      "kanal_adi": "OBN",
+      "frekans": 11401,
+      "polarizasyon": "V",
+      "sembol_orani": 17500,
+      "fec": "3/4",
+      "video_pid": "4209",
+      "ses_pid": "4211 / bos",
+      "uydu": "Eutelsat 16D",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "4006",
+      "paket": "Vidi TV",
+      "tp_id": "eutelsat_16:11401:V:17500",
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E",
+      "kapsama": "EUROPEA"
+    },
+    {
+      "kanal_adi": "N1",
+      "frekans": 11401,
+      "polarizasyon": "V",
+      "sembol_orani": 17500,
+      "fec": "3/4",
+      "video_pid": "4097",
+      "ses_pid": "4099 / bos",
+      "uydu": "Eutelsat 16D",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "4007",
+      "paket": "Vidi TV",
+      "tp_id": "eutelsat_16:11401:V:17500",
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E",
+      "kapsama": "EUROPEA"
+    },
+    {
+      "kanal_adi": "O Kanal",
+      "frekans": 11402,
+      "polarizasyon": "V",
+      "sembol_orani": 17500,
+      "fec": "3/4",
+      "video_pid": "4113",
+      "ses_pid": "4115 / bos",
+      "uydu": "Eutelsat 16D",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "4001",
+      "paket": "Vidi TV",
+      "tp_id": "eutelsat_16:11402:V:17500",
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E",
+      "kapsama": "EUROPEA"
+    }
+  ],
+  "degisen_kanallar": [
+    {
+      "anahtar": "eutelsat_16|eutelsat_16:11401:V:17500|sid:4001",
+      "kanal_adi": "O Kanal",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "4115",
+          "yeni": "4115 / bos"
+        }
+      }
+    }
+  ],
+  "eklenen_transponderler": [
+    {
+      "tp_id": "eutelsat_16:12739:H:2667",
+      "frekans": 12739,
+      "polarizasyon": "H",
+      "sembol_orani": 2667,
+      "fec": "3/5",
+      "uydu": "Eutelsat 16D",
+      "kapsama": "EUROPEB",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E"
+    }
+  ],
+  "silinen_transponderler": [
+    {
+      "tp_id": "eutelsat_16:11402:V:17500",
+      "frekans": 11402,
+      "polarizasyon": "V",
+      "sembol_orani": 17500,
+      "fec": "3/4",
+      "uydu": "Eutelsat 16D",
+      "kapsama": "EUROPEA",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "eutelsat_16",
+      "konum_adi": "Eutelsat 16A 16.0°E"
+    }
+  ],
+  "degisen_transponderler": [
+    {
+      "anahtar": "eutelsat_16:11401:V:17500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 7,
+          "yeni": 1
+        },
+        "tv_sayisi": {
+          "onceki": 7,
+          "yeni": 1
+        }
+      }
+    }
+  ]
 }

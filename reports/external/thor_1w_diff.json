@@ -1,71 +1,26 @@
 {
   "uydu_id": "thor_1w",
   "uydu_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-  "olusturma_zamani_utc": "2026-11-27T23:16:30.343404+00:00",
+  "olusturma_zamani_utc": "2026-11-28T11:26:23.430898+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": true,
+  "degisiklik_var": false,
   "ozet": {
-    "onceki_kanal": 884,
+    "onceki_kanal": 883,
     "yeni_kanal": 883,
     "eklenen_kanal": 0,
-    "silinen_kanal": 1,
-    "degisen_kanal": 1,
+    "silinen_kanal": 0,
+    "degisen_kanal": 0,
     "tur_degisen_kanal": 0,
-    "onceki_tp": 70,
+    "onceki_tp": 69,
     "yeni_tp": 69,
     "eklenen_tp": 0,
-    "silinen_tp": 1,
+    "silinen_tp": 0,
     "degisen_tp": 0
   },
   "eklenen_kanallar": [],
-  "silinen_kanallar": [
-    {
-      "kanal_adi": "HOL322 TX1",
-      "frekans": 10966,
-      "polarizasyon": "V",
-      "sembol_orani": 7499,
-      "fec": "3/4",
-      "video_pid": "512",
-      "ses_pid": "4112 / eng / 4128 / eng / 4144 / eng / 4160 / eng",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "1",
-      "paket": "",
-      "tp_id": "thor_1w:10966:V:7499",
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W",
-      "kapsama": "Spot1"
-    }
-  ],
-  "degisen_kanallar": [
-    {
-      "anahtar": "thor_1w|thor_1w:12476:H:30000|sid:7499",
-      "kanal_adi": "YLE TV 2",
-      "degisiklikler": {
-        "ses_pid": {
-          "onceki": "3028 / fin / 4264 / dut",
-          "yeni": "3028 / fin / 4251 / swe / 4265 / eng"
-        }
-      }
-    }
-  ],
+  "silinen_kanallar": [],
+  "degisen_kanallar": [],
   "eklenen_transponderler": [],
-  "silinen_transponderler": [
-    {
-      "tp_id": "thor_1w:10966:V:7499",
-      "frekans": 10966,
-      "polarizasyon": "V",
-      "sembol_orani": 7499,
-      "fec": "3/4",
-      "uydu": "Intelsat 10-02 + MEV2",
-      "kapsama": "Spot1",
-      "kanal_sayisi": 1,
-      "tv_sayisi": 1,
-      "radyo_sayisi": 0,
-      "konum_id": "thor_1w",
-      "konum_adi": "Thor 5/6/7 / Intelsat 10-02 0.8°W"
-    }
-  ],
+  "silinen_transponderler": [],
   "degisen_transponderler": []
 }

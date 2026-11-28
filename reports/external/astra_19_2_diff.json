@@ -1,26 +1,135 @@
 {
   "uydu_id": "astra_19_2",
   "uydu_adi": "Astra 19.2°E",
-  "olusturma_zamani_utc": "2026-11-27T23:15:50.153459+00:00",
+  "olusturma_zamani_utc": "2026-11-28T11:25:39.787236+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 953,
-    "yeni_kanal": 953,
-    "eklenen_kanal": 0,
+    "yeni_kanal": 954,
+    "eklenen_kanal": 1,
     "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "degisen_kanal": 7,
     "tur_degisen_kanal": 0,
     "onceki_tp": 92,
-    "yeni_tp": 92,
-    "eklenen_tp": 0,
+    "yeni_tp": 93,
+    "eklenen_tp": 1,
     "silinen_tp": 0,
     "degisen_tp": 0
   },
-  "eklenen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "MP One",
+      "frekans": 11589,
+      "polarizasyon": "V",
+      "sembol_orani": 7200,
+      "fec": "3/4",
+      "video_pid": "512",
+      "ses_pid": "4112 / eng / 4128 / eng / 4144 / eng / 4160 / eng",
+      "uydu": "Astra 1P",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "",
+      "tp_id": "astra_19_2:11589:V:7200",
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E",
+      "kapsama": "PE2"
+    }
+  ],
   "silinen_kanallar": [],
-  "degisen_kanallar": [],
-  "eklenen_transponderler": [],
+  "degisen_kanallar": [
+    {
+      "anahtar": "astra_19_2|astra_19_2:11053:H:22000|sid:10390",
+      "kanal_adi": "ARD-Test-R",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "5401",
+          "yeni": "5411"
+        },
+        "ses_pid": {
+          "onceki": "5402 / deu",
+          "yeni": "5412 / deu"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11915:H:27500|sid:118",
+      "kanal_adi": "Sky Nature",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "515 / deu / 516 / eng",
+          "yeni": "515 / deu"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11993:H:27500|sid:114",
+      "kanal_adi": "Sky Sport Tennis",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "1026 / 1028",
+          "yeni": "1026"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:11993:H:27500|sid:144",
+      "kanal_adi": "Sky Sport Golf",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2050",
+          "yeni": "2050 / 2052"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:12032:H:27500|sid:145",
+      "kanal_adi": "Sky Sport Premier League",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "3842",
+          "yeni": "3842 / 3844"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:12305:H:27500|sid:105",
+      "kanal_adi": "Sky Sport Bundesliga",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "258 / 260",
+          "yeni": "258"
+        }
+      }
+    },
+    {
+      "anahtar": "astra_19_2|astra_19_2:12305:H:27500|sid:107",
+      "kanal_adi": "Sky Cinema Classics",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "771 / deu / 772 / eng",
+          "yeni": "771 / deu"
+        }
+      }
+    }
+  ],
+  "eklenen_transponderler": [
+    {
+      "tp_id": "astra_19_2:11589:V:7200",
+      "frekans": 11589,
+      "polarizasyon": "V",
+      "sembol_orani": 7200,
+      "fec": "3/4",
+      "uydu": "Astra 1P",
+      "kapsama": "PE2",
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
+      "konum_id": "astra_19_2",
+      "konum_adi": "Astra 19.2°E"
+    }
+  ],
   "silinen_transponderler": [],
   "degisen_transponderler": []
 }

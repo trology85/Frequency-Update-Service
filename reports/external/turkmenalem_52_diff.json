@@ -1,26 +1,1425 @@
 {
   "uydu_id": "turkmenalem_52",
   "uydu_adi": "TurkmenÄlem / MonacoSat 52.0°E",
-  "olusturma_zamani_utc": "2026-11-27T23:16:34.754417+00:00",
+  "olusturma_zamani_utc": "2026-11-28T11:26:27.462646+00:00",
   "ilk_yayin": false,
-  "degisiklik_var": false,
+  "degisiklik_var": true,
   "ozet": {
     "onceki_kanal": 499,
-    "yeni_kanal": 499,
-    "eklenen_kanal": 0,
-    "silinen_kanal": 0,
-    "degisen_kanal": 0,
+    "yeni_kanal": 502,
+    "eklenen_kanal": 12,
+    "silinen_kanal": 9,
+    "degisen_kanal": 55,
     "tur_degisen_kanal": 0,
     "onceki_tp": 27,
     "yeni_tp": 27,
     "eklenen_tp": 0,
     "silinen_tp": 0,
-    "degisen_tp": 0
+    "degisen_tp": 3
   },
-  "eklenen_kanallar": [],
-  "silinen_kanallar": [],
-  "degisen_kanallar": [],
+  "eklenen_kanallar": [
+    {
+      "kanal_adi": "Grand Cinema",
+      "frekans": 10762,
+      "polarizasyon": "V",
+      "sembol_orani": 27500,
+      "fec": "2/3",
+      "video_pid": "3201",
+      "ses_pid": "3202",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "32",
+      "paket": "Wide Network Solutions",
+      "tp_id": "turkmenalem_52:10762:V:27500",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "FX Life HD",
+      "frekans": 10845,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "8/9",
+      "video_pid": "3052",
+      "ses_pid": "3053 / rus / 3055 / eng / 3056 / kaz",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "808",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10845:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Service-811",
+      "frekans": 10845,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "8/9",
+      "video_pid": "3221",
+      "ses_pid": "3222 / rus",
+      "uydu": "TurkmenAlem",
+      "kalite": "4K",
+      "tur": "TV",
+      "sid": "811",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10845:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "History HD",
+      "frekans": 10845,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "8/9",
+      "video_pid": "3231",
+      "ses_pid": "3234 / rus",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "814",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10845:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "RED MUSIC MIX HD",
+      "frekans": 10845,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "8/9",
+      "video_pid": "2580",
+      "ses_pid": "2581",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "831",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10845:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "RED COMEDY HD",
+      "frekans": 10845,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "8/9",
+      "video_pid": "2600",
+      "ses_pid": "2601",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "832",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10845:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "RED INDIA HD",
+      "frekans": 10845,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "8/9",
+      "video_pid": "2300",
+      "ses_pid": "2301",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "833",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10845:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Service-906",
+      "frekans": 10887,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "8/9",
+      "video_pid": "2140",
+      "ses_pid": "2141 / tur",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "906",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10887:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Service-907",
+      "frekans": 10887,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "8/9",
+      "video_pid": "2160",
+      "ses_pid": "2161 / tur",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "907",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10887:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Service-908",
+      "frekans": 10887,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "8/9",
+      "video_pid": "2180",
+      "ses_pid": "2181 / tur",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "908",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10887:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Service-911",
+      "frekans": 10887,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "8/9",
+      "video_pid": "3054",
+      "ses_pid": "3154 / tur",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "911",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10887:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Service-912",
+      "frekans": 10887,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "8/9",
+      "video_pid": "4300",
+      "ses_pid": "4400 / tur",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "912",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10887:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    }
+  ],
+  "silinen_kanallar": [
+    {
+      "kanal_adi": "Konniy Mir",
+      "frekans": 10845,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1901",
+      "ses_pid": "1902 / rus",
+      "uydu": "TurkmenAlem",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "820",
+      "paket": "Big Bang TV",
+      "tp_id": "turkmenalem_52:10845:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Biz Music",
+      "frekans": 10845,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1897",
+      "ses_pid": "0 / uzb",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "897",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10845:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Biz Music",
+      "frekans": 10887,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "0 / uzb",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "897",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10887:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Biz Cinema",
+      "frekans": 10887,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "0 / uzb",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "898",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10887:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "MY 5",
+      "frekans": 10887,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "0 / uzb",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "899",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10887:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Q Sport Arena",
+      "frekans": 10887,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "151",
+      "ses_pid": "0 / rus",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "934",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10887:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Dorama",
+      "frekans": 10887,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "219",
+      "ses_pid": "0 / rus",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "935",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10887:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Saga TV",
+      "frekans": 10887,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "0 / rus",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "936",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10887:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    },
+    {
+      "kanal_adi": "Kinoliving",
+      "frekans": 10887,
+      "polarizasyon": "H",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "0",
+      "ses_pid": "0 / rus",
+      "uydu": "TurkmenAlem",
+      "kalite": "HD",
+      "tur": "TV",
+      "sid": "937",
+      "paket": "Alem TV",
+      "tp_id": "turkmenalem_52:10887:H:30000",
+      "konum_id": "turkmenalem_52",
+      "konum_adi": "TurkmenÄlem / MonacoSat 52.0°E",
+      "kapsama": "East"
+    }
+  ],
+  "degisen_kanallar": [
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:801",
+      "kanal_adi": "Sport-1",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "200",
+          "yeni": "2620"
+        },
+        "ses_pid": {
+          "onceki": "201 / rus",
+          "yeni": "2621 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:802",
+      "kanal_adi": "Sport-2",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "250",
+          "yeni": "2640"
+        },
+        "ses_pid": {
+          "onceki": "251 / rus",
+          "yeni": "2641 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:803",
+      "kanal_adi": "Sport-3",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "300",
+          "yeni": "2660"
+        },
+        "ses_pid": {
+          "onceki": "301 / rus",
+          "yeni": "2661 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:804",
+      "kanal_adi": "Sport-4",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "350",
+          "yeni": "2680"
+        },
+        "ses_pid": {
+          "onceki": "351 / rus",
+          "yeni": "2681 / rus / 2684 / und"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:805",
+      "kanal_adi": "Fox CIS",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "501",
+          "yeni": "3042"
+        },
+        "ses_pid": {
+          "onceki": "502 / rus / 503 / eng",
+          "yeni": "3043 / rus / 3045 / eng / 3046 / kaz"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:806",
+      "kanal_adi": "National Geographic CIS",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "602",
+          "yeni": "3102"
+        },
+        "ses_pid": {
+          "onceki": "0 / rus / 0 / eng",
+          "yeni": "3103 / rus / 3105 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:807",
+      "kanal_adi": "Nat Geo Wild CIS",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "701",
+          "yeni": "3092"
+        },
+        "ses_pid": {
+          "onceki": "703 / rus",
+          "yeni": "3093 / rus / 3095 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:810",
+      "kanal_adi": "Perviy Kosmicheskij",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "1201",
+          "yeni": "216"
+        },
+        "ses_pid": {
+          "onceki": "0 / rus",
+          "yeni": "316 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:812",
+      "kanal_adi": "Setanta Sports Kazakhstan 1",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "750",
+          "yeni": "3011"
+        },
+        "ses_pid": {
+          "onceki": "751 / rus / 752 / eng",
+          "yeni": "3012 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:813",
+      "kanal_adi": "Setanta Sports Kazakhstan 2",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "800",
+          "yeni": "3021"
+        },
+        "ses_pid": {
+          "onceki": "812 / rus / 813 / eng",
+          "yeni": "3023 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:815",
+      "kanal_adi": "Kinoman",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "1301",
+          "yeni": "871"
+        },
+        "ses_pid": {
+          "onceki": "1302 / rus",
+          "yeni": "872 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:816",
+      "kanal_adi": "Mir Seriala",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "1401",
+          "yeni": "1824"
+        },
+        "ses_pid": {
+          "onceki": "1402 / rus",
+          "yeni": "2824 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:817",
+      "kanal_adi": "Lyubimoe Kino",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "1501",
+          "yeni": "1710"
+        },
+        "ses_pid": {
+          "onceki": "1502 / rus",
+          "yeni": "2710 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:818",
+      "kanal_adi": "TV XXI",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "1601",
+          "yeni": "1603"
+        },
+        "ses_pid": {
+          "onceki": "1602 / rus / 1603 / 000,qaa,qad",
+          "yeni": "2603 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:819",
+      "kanal_adi": "Tainy Galaktiki",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "1701",
+          "yeni": "3181"
+        },
+        "ses_pid": {
+          "onceki": "1702 / rus",
+          "yeni": "3182 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:821",
+      "kanal_adi": "Match! Boets",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "1821",
+          "yeni": "207"
+        },
+        "ses_pid": {
+          "onceki": "0 / rus",
+          "yeni": "307 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:822",
+      "kanal_adi": "Russkiy Roman",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "2001",
+          "yeni": "1119"
+        },
+        "ses_pid": {
+          "onceki": "2002 / rus",
+          "yeni": "1120 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:823",
+      "kanal_adi": "Russkiy Detektiv",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "2101",
+          "yeni": "1121"
+        },
+        "ses_pid": {
+          "onceki": "2102 / rus",
+          "yeni": "1122 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:824",
+      "kanal_adi": "Russkiy Bestseller",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "2201",
+          "yeni": "1123"
+        },
+        "ses_pid": {
+          "onceki": "2202 / rus",
+          "yeni": "1124 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:825",
+      "kanal_adi": "Red Music",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "200",
+          "yeni": "2460"
+        },
+        "ses_pid": {
+          "onceki": "0",
+          "yeni": "2461"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:826",
+      "kanal_adi": "Red Music Retro",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "202",
+          "yeni": "2480"
+        },
+        "ses_pid": {
+          "onceki": "0",
+          "yeni": "2481"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:827",
+      "kanal_adi": "Red Premium",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "204",
+          "yeni": "2500"
+        },
+        "ses_pid": {
+          "onceki": "0",
+          "yeni": "2501"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:828",
+      "kanal_adi": "Red Docu",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "206",
+          "yeni": "2520"
+        },
+        "ses_pid": {
+          "onceki": "0",
+          "yeni": "2521"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:829",
+      "kanal_adi": "Red Junior",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "229",
+          "yeni": "2560"
+        },
+        "ses_pid": {
+          "onceki": "0",
+          "yeni": "2561"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10845:H:30000|sid:830",
+      "kanal_adi": "Red Thriller",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "224",
+          "yeni": "2540"
+        },
+        "ses_pid": {
+          "onceki": "0",
+          "yeni": "2541"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:900",
+      "kanal_adi": "Zor TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "0",
+          "yeni": "2850"
+        },
+        "ses_pid": {
+          "onceki": "0 / uzb / 0 / rus",
+          "yeni": "2950 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:901",
+      "kanal_adi": "Milliy TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "201",
+          "yeni": "3050"
+        },
+        "ses_pid": {
+          "onceki": "301 / uzb",
+          "yeni": "3150 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:902",
+      "kanal_adi": "Sevimli TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "202",
+          "yeni": "1801"
+        },
+        "ses_pid": {
+          "onceki": "302 / uzb / 3302 / uzb",
+          "yeni": "1901 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:903",
+      "kanal_adi": "Dasturxon TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "203",
+          "yeni": "1710"
+        },
+        "ses_pid": {
+          "onceki": "303 / uzb / 3303 / rus",
+          "yeni": "1810 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:904",
+      "kanal_adi": "Renessans TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "204",
+          "yeni": "2101"
+        },
+        "ses_pid": {
+          "onceki": "304 / uzb",
+          "yeni": "2102 / tur / 2104 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:905",
+      "kanal_adi": "8TV (Uzbekistan)",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "0",
+          "yeni": "2120"
+        },
+        "ses_pid": {
+          "onceki": "",
+          "yeni": "2121 / tur / 2122 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:913",
+      "kanal_adi": "Dream Türk",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "200",
+          "yeni": "108"
+        },
+        "ses_pid": {
+          "onceki": "212 / tur",
+          "yeni": "205 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:914",
+      "kanal_adi": "Euro D",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "250",
+          "yeni": "107"
+        },
+        "ses_pid": {
+          "onceki": "251 / tur",
+          "yeni": "201 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:915",
+      "kanal_adi": "TV8 Int Türkiye",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "300",
+          "yeni": "4301"
+        },
+        "ses_pid": {
+          "onceki": "312 / tur",
+          "yeni": "4401 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:916",
+      "kanal_adi": "Show TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "350",
+          "yeni": "1800"
+        },
+        "ses_pid": {
+          "onceki": "351 / tur",
+          "yeni": "1900 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:917",
+      "kanal_adi": "Show Max",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "400",
+          "yeni": "1804"
+        },
+        "ses_pid": {
+          "onceki": "401 / tur",
+          "yeni": "1904 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:918",
+      "kanal_adi": "TRT 1",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "800",
+          "yeni": "1500"
+        },
+        "ses_pid": {
+          "onceki": "703 / tur",
+          "yeni": "1600 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:919",
+      "kanal_adi": "TRT Çocuk",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "500",
+          "yeni": "2001"
+        },
+        "ses_pid": {
+          "onceki": "501 / tur",
+          "yeni": "3001 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:920",
+      "kanal_adi": "TRT Belgesel",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "550",
+          "yeni": "1505"
+        },
+        "ses_pid": {
+          "onceki": "551 / tur / 552 / tur",
+          "yeni": "1605 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:921",
+      "kanal_adi": "Kanal 7 Türkiye",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "600",
+          "yeni": "1921"
+        },
+        "ses_pid": {
+          "onceki": "601 / tur",
+          "yeni": "2921 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:922",
+      "kanal_adi": "Perviy kanal Europa",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "850",
+          "yeni": "209"
+        },
+        "ses_pid": {
+          "onceki": "852 / rus / 851 / rus",
+          "yeni": "301 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:923",
+      "kanal_adi": "Rossiya 1",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "223",
+          "yeni": "4777"
+        },
+        "ses_pid": {
+          "onceki": "217 / rus",
+          "yeni": "4778 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:924",
+      "kanal_adi": "NTV Mir",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "800",
+          "yeni": "4793"
+        },
+        "ses_pid": {
+          "onceki": "801 / rus",
+          "yeni": "4794 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:925",
+      "kanal_adi": "Domashniy International",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "750",
+          "yeni": "1856"
+        },
+        "ses_pid": {
+          "onceki": "751 / rus",
+          "yeni": "2856 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:926",
+      "kanal_adi": "TNT (Russia)",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "700",
+          "yeni": "6193"
+        },
+        "ses_pid": {
+          "onceki": "701 / rus",
+          "yeni": "6194 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:927",
+      "kanal_adi": "STS International",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "950",
+          "yeni": "1960"
+        },
+        "ses_pid": {
+          "onceki": "951 / rus",
+          "yeni": "2960 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:928",
+      "kanal_adi": "RBK TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "2801",
+          "yeni": "231"
+        },
+        "ses_pid": {
+          "onceki": "2802 / rus",
+          "yeni": "331 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:930",
+      "kanal_adi": "Wostok TV",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "3514",
+          "yeni": "1922"
+        },
+        "ses_pid": {
+          "onceki": "4514 / rus",
+          "yeni": "2922 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:931",
+      "kanal_adi": "EuroNews Russkiy",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "205",
+          "yeni": "1861"
+        },
+        "ses_pid": {
+          "onceki": "207 / rus",
+          "yeni": "1862 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:932",
+      "kanal_adi": "Kineko",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "1933",
+          "yeni": "1913"
+        },
+        "ses_pid": {
+          "onceki": "0 / rus / 0 / eng",
+          "yeni": "2913 / rus / 3913 / eng"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:10887:H:30000|sid:933",
+      "kanal_adi": "Sapphire",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "video_pid": {
+          "onceki": "1934",
+          "yeni": "1914"
+        },
+        "ses_pid": {
+          "onceki": "2933 / rus / 3933 / tur",
+          "yeni": "2914 / rus / 3914 / tur"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:12380:V:28000|sid:716",
+      "kanal_adi": "Amedia Hit",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "1815",
+          "yeni": "203"
+        },
+        "ses_pid": {
+          "onceki": "2815 / rus",
+          "yeni": "433 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:12380:V:28000|sid:734",
+      "kanal_adi": "FON MUSIC",
+      "degisiklikler": {
+        "ses_pid": {
+          "onceki": "2761 / rus / 2762",
+          "yeni": "2761 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:12380:V:28000|sid:735",
+      "kanal_adi": "Telekanal Zvezda (0h)",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "1612",
+          "yeni": "216"
+        },
+        "ses_pid": {
+          "onceki": "2612 / rus",
+          "yeni": "316 / rus"
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52|turkmenalem_52:12380:V:28000|sid:739",
+      "kanal_adi": "Viju+ Planet",
+      "degisiklikler": {
+        "video_pid": {
+          "onceki": "1311",
+          "yeni": "305"
+        },
+        "ses_pid": {
+          "onceki": "2311 / rus",
+          "yeni": "405 / rus / 425 / eng"
+        }
+      }
+    }
+  ],
   "eklenen_transponderler": [],
   "silinen_transponderler": [],
-  "degisen_transponderler": []
+  "degisen_transponderler": [
+    {
+      "anahtar": "turkmenalem_52:10762:V:27500",
+      "degisiklikler": {
+        "kanal_sayisi": {
+          "onceki": 16,
+          "yeni": 17
+        },
+        "tv_sayisi": {
+          "onceki": 16,
+          "yeni": 17
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52:10845:H:30000",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "kanal_sayisi": {
+          "onceki": 28,
+          "yeni": 32
+        },
+        "tv_sayisi": {
+          "onceki": 28,
+          "yeni": 32
+        }
+      }
+    },
+    {
+      "anahtar": "turkmenalem_52:10887:H:30000",
+      "degisiklikler": {
+        "fec": {
+          "onceki": "3/4",
+          "yeni": "8/9"
+        },
+        "kanal_sayisi": {
+          "onceki": 34,
+          "yeni": 32
+        },
+        "tv_sayisi": {
+          "onceki": 34,
+          "yeni": 32
+        }
+      }
+    }
+  ]
 }

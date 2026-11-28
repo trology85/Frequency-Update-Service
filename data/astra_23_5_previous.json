@@ -1,8 +1,8 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-26T11:58:02.000194+00:00",
+  "guncelleme_tarihi": "2026-11-27T11:50:33.320680+00:00",
   "uydu_adi": "Astra 3B/3C 23.5°E",
-  "toplam_kanal": 665,
+  "toplam_kanal": 649,
   "toplam_tp": 34,
   "transponderler": [
     {
@@ -279,9 +279,9 @@
       "fec": "2/3",
       "uydu": "Astra 3C",
       "kapsama": "East",
-      "kanal_sayisi": 17,
-      "tv_sayisi": 10,
-      "radyo_sayisi": 7,
+      "kanal_sayisi": 1,
+      "tv_sayisi": 1,
+      "radyo_sayisi": 0,
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E"
     },
@@ -483,42 +483,6 @@
     }
   ],
   "kanallar": [
-    {
-      "kanal_adi": "1+1 International",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "1251",
-      "ses_pid": "1252 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "7770",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
-    },
-    {
-      "kanal_adi": "1+1 Ukraine",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "1001",
-      "ses_pid": "1002 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "7771",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
-    },
     {
       "kanal_adi": "100% NL",
       "frekans": 12187,
@@ -1366,24 +1330,6 @@
       "kapsama": "European"
     },
     {
-      "kanal_adi": "ARMY FM",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "0",
-      "ses_pid": "6901 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "7722",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
-    },
-    {
       "kanal_adi": "Arrow Classic Rock",
       "frekans": 11739,
       "polarizasyon": "V",
@@ -1760,6 +1706,24 @@
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "PanEuropean"
+    },
+    {
+      "kanal_adi": "Belle Amie",
+      "frekans": 12246,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "3/4",
+      "video_pid": "1331",
+      "ses_pid": "1332 / eng",
+      "uydu": "Astra 3B",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "20133",
+      "paket": "m:SAT TV",
+      "tp_id": "astra_23_5:12246:V:30000",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "European"
     },
     {
       "kanal_adi": "BHTV",
@@ -3508,6 +3472,24 @@
       "kapsama": "European"
     },
     {
+      "kanal_adi": "DSNS Informed",
+      "frekans": 12285,
+      "polarizasyon": "V",
+      "sembol_orani": 30000,
+      "fec": "2/3",
+      "video_pid": "112",
+      "ses_pid": "113",
+      "uydu": "Astra 3C",
+      "kalite": "SD",
+      "tur": "TV",
+      "sid": "1",
+      "paket": "Ukrainian mux",
+      "tp_id": "astra_23_5:12285:V:30000",
+      "konum_id": "astra_23_5",
+      "konum_adi": "Astra 3B/3C 23.5°E",
+      "kapsama": "East"
+    },
+    {
       "kanal_adi": "DTV",
       "frekans": 12422,
       "polarizasyon": "H",
@@ -3830,24 +3812,6 @@
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "PanEuropean"
-    },
-    {
-      "kanal_adi": "Espreso TV",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "7581",
-      "ses_pid": "7582 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "7750",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
     },
     {
       "kanal_adi": "Etno TV",
@@ -5128,24 +5092,6 @@
       "kapsama": "PanEuropean"
     },
     {
-      "kanal_adi": "ICTV Ukraine",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "801",
-      "ses_pid": "802 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "7780",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
-    },
-    {
       "kanal_adi": "Informer TV",
       "frekans": 12422,
       "polarizasyon": "H",
@@ -5180,24 +5126,6 @@
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "European"
-    },
-    {
-      "kanal_adi": "Inter",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "7111",
-      "ses_pid": "7112 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "7760",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
     },
     {
       "kanal_adi": "Investigation Discovery HD",
@@ -6874,24 +6802,6 @@
       "kapsama": "European"
     },
     {
-      "kanal_adi": "NickToons Adria",
-      "frekans": 12246,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "3/4",
-      "video_pid": "1331",
-      "ses_pid": "1332 / eng / 1333 / hun",
-      "uydu": "Astra 3B",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "20133",
-      "paket": "m:SAT TV",
-      "tp_id": "astra_23_5:12246:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "European"
-    },
-    {
       "kanal_adi": "Nis TV",
       "frekans": 12460,
       "polarizasyon": "H",
@@ -7214,24 +7124,6 @@
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "European"
-    },
-    {
-      "kanal_adi": "Novy Kanal",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "821",
-      "ses_pid": "822 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "7782",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
     },
     {
       "kanal_adi": "Noví Pazar",
@@ -7646,24 +7538,6 @@
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "PanEuropean"
-    },
-    {
-      "kanal_adi": "Pershiy",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "7311",
-      "ses_pid": "7312 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "7731",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
     },
     {
       "kanal_adi": "Pink Action",
@@ -8620,24 +8494,6 @@
       "kapsama": "PanEuropean"
     },
     {
-      "kanal_adi": "Radio Culture",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "0",
-      "ses_pid": "6605 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "7714",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
-    },
-    {
       "kanal_adi": "Radio Deutchlandfunk",
       "frekans": 12640,
       "polarizasyon": "V",
@@ -8690,24 +8546,6 @@
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "PanEuropean"
-    },
-    {
-      "kanal_adi": "radio nv",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "0",
-      "ses_pid": "6616 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "7724",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
     },
     {
       "kanal_adi": "Radio Oost",
@@ -8782,24 +8620,6 @@
       "kapsama": "PanEuropean"
     },
     {
-      "kanal_adi": "Radio Promin",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "0",
-      "ses_pid": "6603 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "7712",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
-    },
-    {
       "kanal_adi": "Radio Veronica",
       "frekans": 11739,
       "polarizasyon": "V",
@@ -8834,24 +8654,6 @@
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "European"
-    },
-    {
-      "kanal_adi": "RadioTochka",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "0",
-      "ses_pid": "6607 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "7716",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
     },
     {
       "kanal_adi": "RAI 1",
@@ -10528,24 +10330,6 @@
       "kapsama": "European"
     },
     {
-      "kanal_adi": "Suspilne Kultura",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "7331",
-      "ses_pid": "7332 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "HD",
-      "tur": "TV",
-      "sid": "7733",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
-    },
-    {
       "kanal_adi": "TA 3",
       "frekans": 12363,
       "polarizasyon": "V",
@@ -10598,24 +10382,6 @@
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "PanEuropean"
-    },
-    {
-      "kanal_adi": "Telekanal STB",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "811",
-      "ses_pid": "812 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "7781",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
     },
     {
       "kanal_adi": "Televizija K3 Prnjavor",
@@ -11860,24 +11626,6 @@
       "kapsama": "PanEuropean"
     },
     {
-      "kanal_adi": "Ukrayinske Radio",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "0",
-      "ses_pid": "6601 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "7710",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
-    },
-    {
       "kanal_adi": "UNA TV",
       "frekans": 12422,
       "polarizasyon": "H",
@@ -12166,24 +11914,6 @@
       "kapsama": "PanEuropean"
     },
     {
-      "kanal_adi": "Voice",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "0",
-      "ses_pid": "6609 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "",
-      "tur": "RADYO",
-      "sid": "7718",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
-    },
-    {
       "kanal_adi": "VRT 1",
       "frekans": 12187,
       "polarizasyon": "H",
@@ -12308,24 +12038,6 @@
       "konum_id": "astra_23_5",
       "konum_adi": "Astra 3B/3C 23.5°E",
       "kapsama": "PanEuropean"
-    },
-    {
-      "kanal_adi": "WE-UKRAINE",
-      "frekans": 12285,
-      "polarizasyon": "V",
-      "sembol_orani": 30000,
-      "fec": "2/3",
-      "video_pid": "7576",
-      "ses_pid": "7577 / ukr",
-      "uydu": "Astra 3C",
-      "kalite": "SD",
-      "tur": "TV",
-      "sid": "7775",
-      "paket": "Ukrainian mux",
-      "tp_id": "astra_23_5:12285:V:30000",
-      "konum_id": "astra_23_5",
-      "konum_adi": "Astra 3B/3C 23.5°E",
-      "kapsama": "East"
     },
     {
       "kanal_adi": "Ziggo Sport 2",

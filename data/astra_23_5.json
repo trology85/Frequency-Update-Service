@@ -1,6 +1,6 @@
 {
   "veri_surumu": 2,
-  "guncelleme_tarihi": "2026-11-27T11:50:33.320680+00:00",
+  "guncelleme_tarihi": "2026-11-28T11:26:10.496838+00:00",
   "uydu_adi": "Astra 3B/3C 23.5°E",
   "toplam_kanal": 649,
   "toplam_tp": 34,
@@ -6820,7 +6820,7 @@
       "kapsama": "European"
     },
     {
-      "kanal_adi": "NIT test",
+      "kanal_adi": "NIT_TEST",
       "frekans": 12304,
       "polarizasyon": "H",
       "sembol_orani": 30000,

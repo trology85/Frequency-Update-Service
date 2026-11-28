@@ -1,7 +1,7 @@
 
 ===== fetch_satbeams.py =====
 {
-  "run_utc": "2026-11-27T23:16:30.444816+00:00",
+  "run_utc": "2026-11-28T11:26:23.535958+00:00",
   "source": "Satbeams API",
   "ok": true,
   "satellites": [
@@ -12,8 +12,8 @@
       "errors": [],
       "pages": 2,
       "transponders": 27,
-      "channels": 505,
-      "raw_channel_rows": 505,
+      "channels": 508,
+      "raw_channel_rows": 508,
       "raw_file": "raw/satbeams/turkmenalem_52.json"
     }
   ]
@@ -21,7 +21,7 @@
 
 ===== fetch_kingofsat.py =====
 {
-  "run_utc": "2026-11-27T23:16:32.357867+00:00",
+  "run_utc": "2026-11-28T11:26:24.874927+00:00",
   "source": "KingOfSat",
   "ok": true,
   "satellites": [
@@ -32,7 +32,7 @@
       "status": 200,
       "final_url": "https://tr.kingofsat.net/pos-52E",
       "title": "TurkmenÄlem / MonacoSat (52°E) -  - Frekanslar - KingOfSat",
-      "bytes": 479468,
+      "bytes": 479256,
       "frequency_rows": 62,
       "channel_rows": 369,
       "advertised_records": 413,
@@ -45,7 +45,7 @@
 
 ===== parse_kingofsat.py =====
 {
-  "generated_utc": "2026-11-27T23:16:34.218252+00:00",
+  "generated_utc": "2026-11-28T11:26:26.662789+00:00",
   "source": "KingOfSat",
   "satellites": [
     {
@@ -68,12 +68,12 @@
       "id": "turkmenalem_52",
       "ok": true,
       "transponders": 27,
-      "channels": 505,
-      "tv": 487,
+      "channels": 508,
+      "tv": 490,
       "radio": 18,
-      "sd": 240,
-      "hd": 245,
-      "uhd_4k": 2,
+      "sd": 250,
+      "hd": 237,
+      "uhd_4k": 3,
       "unknown_quality": 0,
       "candidate": "candidate/satbeams/turkmenalem_52.json"
     }
@@ -103,9 +103,9 @@
 
 ===== validate_satbeams.py =====
 {
-  "run_utc": "2026-11-27T23:16:34.729622+00:00",
+  "run_utc": "2026-11-28T11:26:27.430745+00:00",
   "ok": true,
-  "should_publish": false,
+  "should_publish": true,
   "source": "Satbeams API",
   "satellites": [
     {
@@ -114,23 +114,23 @@
       "errors": [],
       "warnings": [],
       "transponders": 27,
-      "channels": 505,
-      "tv": 487,
+      "channels": 508,
+      "tv": 490,
       "radio": 18,
-      "sd": 240,
-      "hd": 245,
-      "uhd_4k": 2,
+      "sd": 250,
+      "hd": 237,
+      "uhd_4k": 3,
       "unknown_quality": 0,
       "forbidden_records": 0,
       "missing_core_fields": 0,
       "duplicate_identities": 0,
-      "candidate_hash": "cdf2c7415c5375f8d42692081f9ae2177898a482c4402d841c6f1fae9c42b754",
+      "candidate_hash": "cb7a8a359b5ddf6b4b803a28bf94c3dab2e67603107853bd3a31489140666832",
       "current_hash": "cdf2c7415c5375f8d42692081f9ae2177898a482c4402d841c6f1fae9c42b754",
-      "changed": false,
-      "added": 0,
-      "removed": 0,
-      "updated": 0
+      "changed": true,
+      "added": 12,
+      "removed": 9,
+      "updated": 57
     }
   ]
 }
-SHOULD_PUBLISH=false
+SHOULD_PUBLISH=true
